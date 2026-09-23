@@ -1,0 +1,30 @@
+// Gemeinsame Browser-Hilfe für die QA-Skripte (puppeteer-core, vorhandenes Chrome).
+import puppeteer from "puppeteer-core";
+import { existsSync } from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+// Immer aus dem Projektstamm arbeiten, egal von wo das Skript gestartet wird
+process.chdir(path.join(path.dirname(fileURLToPath(import.meta.url)), "..", ".."));
+const KANDIDATEN = [
+  process.env.CHROME_PATH,
+  "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+  "/usr/bin/google-chrome",
+  "/usr/bin/chromium",
+].filter(Boolean);
+export const BASE = process.env.BASE ?? "http://localhost:4321/white-smyle-website";
+export const EIGENE_HOSTS = new Set([new URL(BASE).hostname]);
+export async function browserStarten() {
+  const pfad = KANDIDATEN.find((p) => existsSync(p));
+  if (!pfad) throw new Error("Kein Chrome gefunden. CHROME_PATH setzen.");
+  return puppeteer.launch({ executablePath: pfad, headless: true });
+}
+export function externeAnfragen(page) {
+  const liste = [];
+  page.on("request", (r) => {
+    try { const u = new URL(r.url()); if (!EIGENE_HOSTS.has(u.hostname) && u.protocol.startsWith("http")) liste.push(u.hostname + u.pathname.slice(0, 40)); } catch {}
+  });
+  return liste;
+}
+export const warten = (ms) => new Promise((r) => setTimeout(r, ms));
