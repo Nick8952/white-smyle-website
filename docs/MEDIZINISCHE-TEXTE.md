@@ -22,6 +22,8 @@ Nichts davon ist fachlich geprüft. Die Freigabe durch die Praxis (dipl. Dentalh
 | Termin | «AUCH KURZFRISTIGE TERMINE MÖGLICH» | «Laut Praxis sind auch kurzfristige Termine möglich» | keine Verfügbarkeit erfunden |
 | Dental-Tipps | «Die Einnahme von Nahrungszusätzen welche das Immunsystem unterstützen sind heute unumgängliche geworden.» | **nicht übernommen**, Hinweisbox | pauschale Gesundheitsaussage → fachliche Prüfung |
 | Dental-Tipps | Corona-Abschnitt (2020) | **nicht übernommen** | veraltet |
+| Mundgeruch, Abschnitt Lebensstil | «jährliche Darmreinigung» und «zusätzliche Vitamine» als Empfehlung gegen Mundgeruch | **nicht übernommen**; Sport und Stresspausen bleiben | nicht belegte Gesundheitsempfehlungen ausserhalb der Zahnmedizin → fachliche Prüfung, ggf. Wiederaufnahme nach Freigabe |
+| Zahnpasta-Test | «Aphtenbildung» | «Aphthenbildung» | Orthografie; Allergiefrage wie im Original zweigeteilt (Ja/Nein + Freitext) |
 | Mikrobiom FAQ | «alle 6 - 12 Monate» und «alle 3–6 Monate» (zwei Antworten auf dieselbe Frage) | beide Angaben genannt, Widerspruch benannt | Widerspruch |
 | Schwangerschaft | zwei Präventionspläne (1–3 Monat / 7–9 Monat vs. 1–3 / 4–6 / 7–9) | zusammengeführt mit Hinweis | Widerspruch |
 | Bleaching «seit 2011» (Meta) vs. «seit 2012» (Text) | – | 2012 | Widerspruch |

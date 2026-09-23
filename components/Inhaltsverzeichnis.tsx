@@ -14,7 +14,7 @@ export function Inhaltsverzeichnis({ bausteine, titel }: { bausteine: Baustein[]
         <ol className="mt-2 grid gap-1 border-t border-linie pt-3">
           {eintraege.map((b) => (
             <li key={b._key}>
-              <a href={`#${b.anker}`} className="inline-flex min-h-9 items-center hover:underline">{b.titel}</a>
+              <a href={`#${b.anker}`} className="inline-flex min-h-11 items-center hover:underline">{b.titel}</a>
             </li>
           ))}
         </ol>

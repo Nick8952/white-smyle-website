@@ -3,7 +3,7 @@
  "art": "agb",
  "titel": "Allgemeine Geschäftsbedingungen KOMVITA AG – WHITE SMYLE dental",
  "stand": "2025-05-01",
- "hinweis": "Wörtlich von der bisherigen Website übernommen (Stand 05/2025). Es handelt sich um die Bedingungen der Praxis für ihre Behandlungen, nicht um Bedingungen dieser Demo.",
+ "hinweis": "Von der bisherigen Website übernommen (Stand 05/2025), inhaltlich unverändert, Schreibweise vereinheitlicht. Es handelt sich um die Bedingungen der Praxis für ihre Behandlungen, nicht um Bedingungen dieser Demo.",
  "inhalt": [
   {
    "_type": "block",
@@ -267,12 +267,12 @@
   {
    "_type": "block",
    "_key": "b1mi",
-   "style": "normal",
+   "style": "quelle",
    "children": [
     {
      "_type": "span",
      "_key": "s1mj",
-     "text": "Ergänzend nennt die Preisseite der bisherigen Website: Bitte verlegen oder stornieren Sie Ihren Termin mindestens 48 Stunden im Voraus und innerhalb der Praxis-Arbeitszeiten; andernfalls wird der volle Preis in Rechnung gestellt. Die 48 Stunden zählen nur an Werktagen, da Stornierungen ausserhalb der Arbeitszeiten (Sonn- und Feiertage) nicht berücksichtigt werden können.",
+     "text": "Hinweis der Demo, nicht Teil der AGB: Die Preisseite der bisherigen Website nennt ergänzend: «Bitte verlegen oder stornieren Sie Ihren Termin mindestens 48 Stunden im Voraus und innerhalb der Praxis-Arbeitszeiten; andernfalls wird der volle Preis in Rechnung gestellt. Die 48 Stunden zählen nur an Werktagen, da Stornierungen ausserhalb der Arbeitszeiten (Sonn- und Feiertage) nicht berücksichtigt werden können.»",
      "marks": []
     }
    ],
@@ -286,7 +286,7 @@
     {
      "_type": "span",
      "_key": "s1ml",
-     "text": "Stand 05/2025, KOMVITA AG, Buckhauserstrasse 17, 8048 Zürich. Wörtlich von whitesmyle.ch/agbs.html übernommen (Schreibweise leicht vereinheitlicht, Gesetzeslink auf fedlex.admin.ch aktualisiert). Diese Bedingungen gelten für Behandlungen der Praxis; für Buchungen über den externen Dienst Cituro gelten zusätzlich dessen Nutzungsbedingungen, die hier nicht geprüft wurden.",
+     "text": "Stand 05/2025, KOMVITA AG, Buckhauserstrasse 17, 8048 Zürich. Von whitesmyle.ch/agbs.html übernommen; Inhalt unverändert, Schreibweise und Grammatik vereinheitlicht (Schweizer Schreibweise), Gesetzeslink auf fedlex.admin.ch aktualisiert. Originaltext: docs/original/agbs.md im Repository. Diese Bedingungen gelten für Behandlungen der Praxis; für Buchungen über den externen Dienst Cituro gelten zusätzlich dessen Nutzungsbedingungen, die hier nicht geprüft wurden.",
      "marks": []
     }
    ],

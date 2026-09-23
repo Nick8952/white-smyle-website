@@ -51,9 +51,12 @@ Danach `CONTENT_SOURCE=sanity npm run build:vercel` als Build-Probe.
    `DEPLOY_TARGET=vercel`, `CONTENT_SOURCE=sanity`, `SITE_URL=https://<domain>`, `NEXT_PUBLIC_SANITY_PROJECT_ID`, `NEXT_PUBLIC_SANITY_DATASET`,
    `NEXT_PUBLIC_SANITY_API_VERSION`, `SANITY_API_READ_TOKEN`, `SANITY_REVALIDATE_SECRET` (zufällige Zeichenkette), `INDEXIERUNG=1` erst beim Go-Live.
 3. Deploy auslösen. Prüfen: Startseite, tiefe URL direkt laden, `/studio`, `/api/vorschau/aktivieren` ohne gültigen Aufruf → Fehler (erwartet).
-4. Webhook in Sanity (API → Webhooks): URL `https://<domain>/api/revalidate?secret=<SANITY_REVALIDATE_SECRET>`, Trigger create/update/delete,
-   Projection `{ "_type": _type, "slug": slug.current }`. Danach eine Änderung im Studio speichern und prüfen, ob die Seite ohne Redeploy aktualisiert.
-5. Presentation-Tool: In `sanity.config.ts` ist `previewUrl` auf `SITE_URL` bzw. localhost gesetzt; Draft Mode über `/api/vorschau/aktivieren` (next-sanity prüft das Secret).
+4. Webhook in Sanity (API → Webhooks): URL `https://<domain>/api/revalidate` (ohne Query-Parameter), Trigger create/update/delete,
+   Projection `{ "_type": _type, "slug": slug.current }`, **Feld «Secret» = derselbe Wert wie `SANITY_REVALIDATE_SECRET`** (die Route prüft die
+   Sanity-Signatur im Header, kein Query-Secret; sonst 401). Danach eine Änderung im Studio speichern und prüfen, ob die Seite ohne Redeploy aktualisiert.
+5. Presentation-Tool: `sanity.config.ts` verwendet relative Pfade (`/api/vorschau/aktivieren|beenden`), weil das Studio unter derselben Domain läuft
+   (eingebettet unter `/studio`). Im Draft Mode rendert `app/layout.tsx` die `<VisualEditing />`-Komponente (Click-to-edit-Overlays). **Bewusst ohne**
+   Live Content API/`SanityLive`: Änderungen erscheinen nach Speichern per Navigation/Reload, live per Webhook-Revalidierung.
 
 ## 6. Domain
 Eigene Domain in Vercel hinzufügen, DNS beim Registrar (CNAME `www` → `cname.vercel-dns.com`, A-Record Apex → Vercel-IP gemäss Anleitung).

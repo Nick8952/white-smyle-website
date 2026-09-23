@@ -19,7 +19,13 @@ export const deployZiel: DeployZiel = roh === "vercel" ? "vercel" : "pages";
 export const basePath: string =
   deployZiel === "vercel" ? "" : (process.env.BASE_PATH ?? `/${REPO_NAME}`).trim().replace(/\/$/, "");
 
+if (basePath && !/^\/[A-Za-z0-9._~-]+(\/[A-Za-z0-9._~-]+)*$/.test(basePath)) {
+  throw new Error(`BASE_PATH=«${basePath}» muss mit «/» beginnen, ohne Schluss-Schrägstrich (oder leer sein).`);
+}
 const siteUrlEnv = process.env.SITE_URL?.trim().replace(/\/$/, "");
+if (siteUrlEnv) {
+  try { const u = new URL(siteUrlEnv); if (u.protocol !== "https:" && u.protocol !== "http:") throw new Error(); } catch { throw new Error(`SITE_URL=«${siteUrlEnv}» ist keine gültige http(s)-URL.`); }
+}
 export const siteUrl: string =
   siteUrlEnv && siteUrlEnv.length > 0
     ? siteUrlEnv

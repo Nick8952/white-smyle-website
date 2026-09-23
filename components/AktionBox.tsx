@@ -1,4 +1,5 @@
-import { Tag } from "@phosphor-icons/react/dist/ssr";
+import { Phone, Tag } from "@phosphor-icons/react/dist/ssr";
+import { telefonInternational } from "@/lib/seo";
 import { chf, type AktionBaustein, type Einstellungen, type Texte } from "@/lib/content/types";
 import { BuchenLink } from "./BuchenLink";
 
@@ -9,6 +10,8 @@ import { BuchenLink } from "./BuchenLink";
 export function AktionBox({ baustein: b, texte: t, einstellungen: e }: { baustein: AktionBaustein; texte: Texte; einstellungen: Einstellungen }) {
   const a = b.aktion;
   const ersparnis = a.vergleichspreisChf - a.aktionspreisChf;
+  // Nicht bestätigte Aktion: kein Streichpreis-Charakter, keine Ersparnis, kein Buchungsknopf – nur Nachfrage bei der Praxis.
+  const ungeklaert = a.status !== "aktiv-bestaetigt";
   return (
     <section id={b.anker} className="abschnitt-eng">
       <div className="behaelter">
@@ -33,16 +36,23 @@ export function AktionBox({ baustein: b, texte: t, einstellungen: e }: { baustei
           <div className="rounded-[var(--radius-mittel)] bg-papier p-6">
             {a.leistung ? <p className="font-display font-semibold">{a.leistung.titel}</p> : null}
             <p className="preis mt-2 text-4xl">{chf(a.aktionspreisChf)}</p>
-            <p className="klein text-grau">statt {chf(a.vergleichspreisChf)} ({a.vergleichBasis}){ersparnis > 0 ? ` · ${t.ui.ersparnis} ${chf(ersparnis)}` : ""}</p>
+            <p className="klein text-grau">{ungeklaert ? `Aktionspreis laut bisheriger Website; regulär ${chf(a.vergleichspreisChf)} (${a.vergleichBasis})` : `statt ${chf(a.vergleichspreisChf)} (${a.vergleichBasis})${ersparnis > 0 ? ` · ${t.ui.ersparnis} ${chf(ersparnis)}` : ""}`}</p>
             {a.kombination ? (
               <div className="mt-4 border-t border-linie pt-4">
                 <p className="font-display font-semibold">{a.kombination.kombination.titel}</p>
                 <p className="preis mt-1 text-3xl">{chf(a.kombination.aktionspreisChf)}</p>
-                <p className="klein text-grau">statt {chf(a.kombination.vergleichspreisChf)} · {t.ui.ersparnis} {chf(a.kombination.vergleichspreisChf - a.kombination.aktionspreisChf)}</p>
+                <p className="klein text-grau">{ungeklaert ? `regulär ${chf(a.kombination.vergleichspreisChf)}` : `statt ${chf(a.kombination.vergleichspreisChf)} · ${t.ui.ersparnis} ${chf(a.kombination.vergleichspreisChf - a.kombination.aktionspreisChf)}`}</p>
               </div>
             ) : null}
             <div className="mt-5">
-              <BuchenLink einstellungen={e} texte={t} variante="primaer" />
+              {ungeklaert ? (
+                <a href={`tel:${telefonInternational(e.telefon)}`} className="knopf knopf-sekundaer">
+                  <Phone size={18} weight="bold" aria-hidden="true" />
+                  Gültigkeit anfragen: {e.telefon}
+                </a>
+              ) : (
+                <BuchenLink einstellungen={e} texte={t} variante="primaer" />
+              )}
             </div>
           </div>
         </div>

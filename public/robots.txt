@@ -1,4 +1,5 @@
-# Demo-Website: alle Seiten tragen <meta name="robots" content="noindex, nofollow">.
-# Crawler dürfen die Seiten abrufen, damit sie den Hinweis lesen – deshalb hier kein Disallow.
+# Demo-Website. Auf GitHub Project Pages liegt diese Datei unter /white-smyle-website/robots.txt und ist damit nicht das
+# originweite robots.txt von nick8952.github.io. Massgeblich ist deshalb das Meta-Tag auf jeder Seite:
+# <meta name="robots" content="noindex, nofollow">. Crawler dürfen die Seiten abrufen, damit sie den Hinweis lesen.
 User-agent: *
 Allow: /

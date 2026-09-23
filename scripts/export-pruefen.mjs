@@ -12,6 +12,7 @@ const WURZEL = path.resolve(import.meta.dirname, "..", "out");
 const DATA = path.resolve(import.meta.dirname, "..", "data");
 const basePath = (process.env.BASE_PATH ?? "/white-smyle-website").replace(/\/$/, "");
 const indexierung = process.env.INDEXIERUNG === "1";
+const siteUrl = (process.env.SITE_URL ?? `https://nick8952.github.io${basePath}`).replace(/\/$/, "");
 const fehler = [];
 
 async function htmlDateien(ordner) {
@@ -61,11 +62,15 @@ for (const datei of seiten) {
   const istFehlerseite = /^(404\.html|404\/index\.html|_not-found\/index\.html)$/.test(rel);
   const textLaenge = html.replace(/<script[\s\S]*?<\/script>/g, "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").length;
   if (!istFehlerseite && textLaenge < 600) fehler.push(`${rel}: Seite wirkt leer (${textLaenge} Zeichen Text)`);
-    if (!istFehlerseite) {
+  if (!istFehlerseite) {
     const canonical = html.match(/<link rel="canonical" href="([^"]+)"/)?.[1];
+    const erwartet = `${siteUrl}/${rel.replace(/index\.html$/, "")}`;
     if (!canonical) fehler.push(`${rel}: kein Canonical`);
-    else if (!/^https?:\/\//.test(canonical)) fehler.push(`${rel}: Canonical nicht absolut: ${canonical}`);
+    else if (canonical !== erwartet) fehler.push(`${rel}: Canonical «${canonical}» ≠ erwartet «${erwartet}»`);
   }
+  // Sprungziele (#anker) innerhalb der Seite müssen existieren
+  const ids = new Set([...html.matchAll(/\sid="([^"]+)"/g)].map((m) => m[1]));
+  for (const m of html.matchAll(/href="#([^"]+)"/g)) if (!ids.has(m[1])) fehler.push(`${rel}: Sprungziel #${m[1]} fehlt`);
   if (/<link rel="preconnect" href="(?!\/)/.test(html) || /<link rel="dns-prefetch"/.test(html)) fehler.push(`${rel}: externer preconnect/dns-prefetch`);
   // Next setzt selbst <link rel="preconnect" href="/"> (eigener Ursprung) – für die Pfadprüfung ausblenden.
   html = html.replace(/<link rel="preconnect" href="\/"[^>]*>/g, "");

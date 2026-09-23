@@ -29,7 +29,7 @@ export function Kontakt({ baustein: b, einstellungen: e, texte: t }: { baustein:
                 <a href={`tel:${telefonInternational(e.mobil)}`} className="font-display text-lg font-bold hover:underline">{e.mobil}</a>
                 {e.whatsappUrl ? (
                   <p className="klein">
-                    <a href={e.whatsappUrl} target="_blank" rel="noopener noreferrer" className="textlink inline-flex items-center gap-1">
+                    <a href={e.whatsappUrl} target="_blank" rel="noopener noreferrer" className="textlink inline-flex min-h-11 items-center gap-1">
                       WhatsApp-Chat öffnen <ArrowUpRight size={14} weight="bold" aria-hidden="true" />
                       <span className="nur-sr"> ({t.ui.externerLink})</span>
                     </a>{" "}
@@ -51,7 +51,7 @@ export function Kontakt({ baustein: b, einstellungen: e, texte: t }: { baustein:
                 <p className="klein text-grau">{t.ui.adresse}</p>
                 <p className="font-display text-lg font-bold">{e.marke}</p>
                 <p>{e.adresse.strasse}{e.adresse.zusatz ? `, ${e.adresse.zusatz}` : ""}<br />{e.adresse.plz} {e.adresse.ort}</p>
-                <a href={e.routenlink} target="_blank" rel="noopener noreferrer" className="textlink klein mt-1 inline-flex items-center gap-1">
+                <a href={e.routenlink} target="_blank" rel="noopener noreferrer" className="textlink klein mt-1 inline-flex min-h-11 items-center gap-1">
                   {t.ui.routePlanen} <ArrowUpRight size={14} weight="bold" aria-hidden="true" />
                   <span className="nur-sr"> ({t.ui.externerLink})</span>
                 </a>

@@ -461,6 +461,9 @@ export interface DatenschutzEinstellungenBaustein extends BausteinBasis {
   einleitung?: string;
 }
 
+/** Alle Bausteintypen, die Adapter und Renderer kennen. Neue Typen hier ergänzen (Adapter werfen sonst beim Build). */
+export const BEKANNTE_BAUSTEINE: ReadonlySet<string> = new Set(["textBaustein", "spaltenBaustein", "hinweisBaustein", "leistungenBaustein", "kombinationenBaustein", "preistafelBaustein", "aktionBaustein", "ablaufBaustein", "faqBaustein", "vergleichBaustein", "stufenBaustein", "teamBaustein", "kundenmeinungenBaustein", "galerieBaustein", "bildBaustein", "fallbeispieleBaustein", "aufrufBaustein", "fragebogenBaustein", "fragebogenListeBaustein", "karteBaustein", "videoBaustein", "downloadsBaustein", "kontaktBaustein", "rechtstextBaustein", "zahlungsartenBaustein", "ratgeberListeBaustein", "medienstimmenBaustein", "linkkartenBaustein", "kennzahlenBaustein", "datenschutzEinstellungenBaustein"]);
+
 export type Baustein =
   | TextBaustein
   | SpaltenBaustein

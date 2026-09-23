@@ -5,6 +5,7 @@ import type {
   Aktion, Baustein, Bild, Download, Einstellungen, Fragebogen, Inhaltsquelle, Kombination, Kundenmeinung, Leistung, Medienstimme,
   Rechtstext, Seite, SeitenTeaser, Teammitglied, Texte, Zahlungsart,
 } from "./types";
+import { BEKANNTE_BAUSTEINE } from "./types";
 
 /**
  * Lokale Inhaltsquelle: liest die JSON-Dateien in data/.
@@ -27,8 +28,12 @@ const PUBLIC = path.resolve(process.cwd(), "public");
 interface BildEintrag { id: string; breite: number; hoehe: number; quellen: { breite: number; url: string }[] }
 export interface BildReferenz { bild: string; alt: string; bildunterschrift?: string }
 
-async function json<T>(datei: string): Promise<T> {
-  return JSON.parse(await readFile(path.join(DATA, datei), "utf8")) as T;
+const jsonCache = new Map<string, Promise<unknown>>();
+/** JSON-Datei einmal pro Prozess lesen (Build liest jede Datei sonst pro Seite und Baustein neu). */
+function json<T>(datei: string): Promise<T> {
+  let p = jsonCache.get(datei);
+  if (!p) { p = readFile(path.join(DATA, datei), "utf8").then((s) => JSON.parse(s) as unknown); jsonCache.set(datei, p); }
+  return p as Promise<T>;
 }
 const fehltNur = (err: unknown) => (err as NodeJS.ErrnoException)?.code === "ENOENT";
 
@@ -236,6 +241,7 @@ async function baustein(roh: Record<string, unknown>, seite: string): Promise<Ba
     case "linkkartenBaustein":
       return mk({ karten: await Promise.all(((roh.karten as Record<string, unknown>[]) ?? []).map(async (k) => ({ ...k, bild: await bild(k.bild as BildReferenz | undefined, `${ort} Karte ${k._key}`) }))), spalten: (roh.spalten as 2 | 3) ?? 3 });
     default:
+      if (!BEKANNTE_BAUSTEINE.has(String(roh._type))) throw new Error(`${ort}: unbekannter Bausteintyp «${String(roh._type)}».`);
       return roh as unknown as Baustein;
   }
 }

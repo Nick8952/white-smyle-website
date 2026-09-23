@@ -49,7 +49,7 @@ Schnell und effizient zu weissen Zähnen: Das HEYDENT Power Bleaching plus zum A
 Power Bleaching darf nur in einer Dentalhygiene- oder Zahnarztpraxis durchgeführt werden – nur zahnmedizinisches Fachpersonal darf ein Power Bleaching durchführen. Es werden 20 Zähne (4 Quadranten je 5 Zähne) aufgehellt, keine Backenzähne (AGB).
 
 Melden Sie sich für Ihr Bleaching an: 043 931 78 74 oder 076 460 38 10.`, { bild: bild("aktion-1", "Lachende Frau formt mit den Händen einen Rahmen"), bildPosition: "rechts" }),
-    aufruf({ titel: "Aktion nutzen", text: "Online buchen über Cituro oder telefonisch. Die Aktion hat auf der bisherigen Website kein Enddatum; die Praxis bestätigt Gültigkeit und Bedingungen.", zweiterKnopf: { titel: "Alle Preise", ziel: "/preise/" } }),
+    aufruf({ titel: "Gültigkeit der Aktion anfragen", text: "Die Aktion stammt von der bisherigen Website und hat dort kein Enddatum. Ob sie noch gilt, bestätigt die Praxis telefonisch. Ein regulärer Termin lässt sich jederzeit online buchen.", knopf: { titel: "Praxis anrufen: 043 931 78 74", ziel: "tel:+41439317874" }, zweiterKnopf: { titel: "Alle Preise", ziel: "/preise/" } }),
   ],
 };
 

@@ -6,7 +6,7 @@ import { Logo } from "./Logo";
 import { Farbring } from "./Farbring";
 import { SmartLink } from "./SmartLink";
 
-export function Fusszeile({ einstellungen: e, texte: t }: { einstellungen: Einstellungen; texte: Texte; seiten: SeitenTeaser[] }) {
+export function Fusszeile({ einstellungen: e, texte: t }: { einstellungen: Einstellungen; texte: Texte }) {
   return (
     <footer className="mt-16 border-t border-linie bg-emaille">
       <Farbring className="h-5 w-full" richtung="auf" />
@@ -60,7 +60,7 @@ export function Fusszeile({ einstellungen: e, texte: t }: { einstellungen: Einst
             <ul className="grid gap-1.5">
               {gruppe.links.map((l) => (
                 <li key={l.ziel}>
-                  <SmartLink link={l} externText={t.ui.externerLink} className="inline-flex min-h-8 items-center gap-1 hover:underline" />
+                  <SmartLink link={l} externText={t.ui.externerLink} className="inline-flex min-h-11 items-center gap-1 hover:underline" />
                 </li>
               ))}
             </ul>
@@ -75,7 +75,7 @@ export function Fusszeile({ einstellungen: e, texte: t }: { einstellungen: Einst
           <ul className="flex flex-wrap gap-x-5 gap-y-2">
             {t.rechtslinks.map((l) => (
               <li key={l.ziel}>
-                <SmartLink link={l} externText={t.ui.externerLink} className="klein inline-flex min-h-8 items-center gap-1 hover:underline" />
+                <SmartLink link={l} externText={t.ui.externerLink} className="klein inline-flex min-h-11 items-center gap-1 hover:underline" />
               </li>
             ))}
             <li>

@@ -300,7 +300,13 @@ export const rechtstextTyp = defineType({
   type: "document",
   fields: [
     defineField({ name: "titel", title: "Titel", type: "string", validation: (r) => r.required() }),
-    defineField({ name: "art", title: "Art", type: "string", options: { list: [{ title: "Impressum", value: "impressum" }, { title: "Datenschutzerklärung", value: "datenschutz" }, { title: "AGB", value: "agb" }], layout: "radio" }, validation: (r) => r.required() }),
+    defineField({ name: "art", title: "Art", type: "string", options: { list: [{ title: "Impressum", value: "impressum" }, { title: "Datenschutzerklärung", value: "datenschutz" }, { title: "AGB", value: "agb" }], layout: "radio" }, validation: (r) => r.required().custom(async (art, ctx) => {
+      // Pro Art genau ein Dokument, sonst nimmt die Abfrage willkürlich eines.
+      if (!art || !ctx.document?._id) return true;
+      const id = ctx.document._id.replace(/^drafts\./, "");
+      const n = await ctx.getClient({ apiVersion: "2025-09-01" }).fetch<number>(`count(*[_type == "rechtstext" && art == $art && !(_id in [$id, "drafts." + $id])])`, { art, id });
+      return n > 0 ? "Es gibt bereits einen Rechtstext dieser Art. Bitte den bestehenden bearbeiten." : true;
+    }) }),
     defineField({ name: "stand", title: "Stand (Datum)", type: "date" }),
     defineField({ name: "hinweis", title: "Hinweis oberhalb des Textes", type: "text", rows: 2, description: "z. B. «Demo-Fassung, nicht anwaltlich geprüft». Vor dem Go-Live entfernen oder anpassen." }),
     defineField({ name: "inhalt", title: "Inhalt", type: "richText", validation: (r) => r.required() }),

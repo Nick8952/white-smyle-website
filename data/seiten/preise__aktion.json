@@ -134,12 +134,11 @@
    "_key": "bsnv",
    "variante": "band",
    "knopf": {
-    "titel": "Termin online buchen",
-    "ziel": "https://app.cituro.com/booking/2814276",
-    "extern": true
+    "titel": "Praxis anrufen: 043 931 78 74",
+    "ziel": "tel:+41439317874"
    },
-   "titel": "Aktion nutzen",
-   "text": "Online buchen über Cituro oder telefonisch. Die Aktion hat auf der bisherigen Website kein Enddatum; die Praxis bestätigt Gültigkeit und Bedingungen.",
+   "titel": "Gültigkeit der Aktion anfragen",
+   "text": "Die Aktion stammt von der bisherigen Website und hat dort kein Enddatum. Ob sie noch gilt, bestätigt die Praxis telefonisch. Ein regulärer Termin lässt sich jederzeit online buchen.",
    "zweiterKnopf": {
     "titel": "Alle Preise",
     "ziel": "/preise/"

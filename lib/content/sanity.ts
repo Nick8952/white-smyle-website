@@ -8,6 +8,7 @@ import type {
   Aktion, Baustein, Download, Einstellungen, Fragebogen, Inhaltsquelle, Kombination, Kundenmeinung, Leistung, Medienstimme, Rechtstext, Seite,
   SeitenTeaser, Teammitglied, Texte, Zahlungsart,
 } from "./types";
+import { BEKANNTE_BAUSTEINE } from "./types";
 
 /**
  * Sanity-Inhaltsquelle (für Vercel). Liefert exakt dieselben Typen und dieselben Fallback-Regeln wie lib/content/local.ts
@@ -27,7 +28,8 @@ async function abfrage<T>(query: string, params: Record<string, unknown> = {}): 
 
 type Roh = Record<string, unknown>;
 const bildAus = (o: unknown, alt = "") => sanityBild(o as SanityBildRoh | undefined, alt);
-const liste = <T,>(x: unknown): T[] => (Array.isArray(x) ? (x as T[]) : []);
+// Gelöschte Referenzen kommen aus GROQ als null zurück und werden hier verworfen.
+const liste = <T,>(x: unknown): T[] => (Array.isArray(x) ? (x as T[]).filter((e) => e != null) : []);
 const sortiert = <T extends { reihenfolge: number }>(l: T[]) => [...l].sort((a, b) => a.reihenfolge - b.reihenfolge);
 
 const LINK = `{ titel, ziel, extern }`;
@@ -144,7 +146,9 @@ function bausteinAufbereiten(b: Roh): Baustein {
     case "ratgeberListeBaustein": return mk({ seiten: liste<Roh>(b.seiten).map(teaserAufbereiten) });
     case "medienstimmenBaustein": return mk({ medienstimmen: liste<Roh>(b.medienstimmen).map(medienstimmeAufbereiten) });
     case "linkkartenBaustein": return mk({ karten: liste<Roh>(b.karten).map((k) => ({ ...(k as object), bild: bildAus(k.bild) })), spalten: (b.spalten as 2 | 3) ?? 3 });
-    default: return b as unknown as Baustein;
+    default:
+      if (!BEKANNTE_BAUSTEINE.has(String(b._type))) throw new Error(`Sanity: unbekannter Bausteintyp «${String(b._type)}» (${String(b._key)}).`);
+      return b as unknown as Baustein;
   }
 }
 
@@ -177,5 +181,5 @@ export const sanityQuelle: Inhaltsquelle = {
   async getFragebogen() { return (await abfrage<Roh[]>(`*[_type == "fragebogen"] | order(reihenfolge asc) ${FRAGEBOGEN}`)).map((f) => ({ ...(f as object), fragen: liste(f.fragen) }) as Fragebogen); },
   async getDownloads() { return abfrage<Download[]>(`*[_type == "download"] | order(reihenfolge asc) ${DOWNLOAD}`); },
   async getZahlungsarten() { return (await abfrage<Roh[]>(`*[_type == "zahlungsart"] | order(reihenfolge asc) ${ZAHLUNGSART}`)).map(zahlungsartAufbereiten); },
-  async getRechtstext(art) { return abfrage<Rechtstext | null>(`*[_type == "rechtstext" && art == $art][0] ${RECHTSTEXT}`, { art }); },
+  async getRechtstext(art) { return abfrage<Rechtstext | null>(`*[_type == "rechtstext" && art == $art] | order(_updatedAt desc) [0] ${RECHTSTEXT}`, { art }); },
 };

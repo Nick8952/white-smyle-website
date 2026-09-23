@@ -8,6 +8,8 @@ import { indexierungErlaubt } from "@/lib/seo";
 import { Kopfzeile } from "@/components/Kopfzeile";
 import { Fusszeile } from "@/components/Fusszeile";
 import { Einwilligung } from "@/components/Einwilligung";
+import { VisualEditing } from "next-sanity/visual-editing";
+import { istVorschau } from "@/lib/vorschau/status";
 
 export async function generateMetadata(): Promise<Metadata> {
   const q = await inhaltsquelle();
@@ -24,7 +26,7 @@ export const viewport: Viewport = { width: "device-width", initialScale: 1, them
 
 export default async function RootLayout({ children }: { children: React.ReactNode }) {
   const q = await inhaltsquelle();
-  const [e, t, seiten] = await Promise.all([q.getEinstellungen(), q.getTexte(), q.getAlleSeiten()]);
+  const [e, t, vorschau] = await Promise.all([q.getEinstellungen(), q.getTexte(), istVorschau()]);
   return (
     <html lang="de-CH">
       <body>
@@ -33,8 +35,9 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         </a>
         <Kopfzeile einstellungen={e} texte={t} />
         <main id="inhalt">{children}</main>
-        <Fusszeile einstellungen={e} texte={t} seiten={seiten} />
+        <Fusszeile einstellungen={e} texte={t} />
         <Einwilligung texte={t.einwilligung} datenschutzPfad="/datenschutz/" />
+        {vorschau ? <VisualEditing /> : null}
       </body>
     </html>
   );

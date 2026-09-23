@@ -96,6 +96,8 @@ export function Navigation({ gruppen, knopf, ui, kontakt, knopfIcon }: { gruppen
                   if (ev.key === "ArrowDown" && !istOffen) {
                     setOffen(g._key);
                     ev.preventDefault();
+                    // Untermenü wird erst gerendert; danach den ersten Eintrag fokussieren
+                    requestAnimationFrame(() => document.getElementById(menueId)?.querySelector<HTMLAnchorElement>("a")?.focus());
                   }
                 }}
               >

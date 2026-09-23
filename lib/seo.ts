@@ -26,7 +26,7 @@ export function seitenMetadata(seite: Seite, e: Einstellungen, t: Texte): Metada
       siteName: sauber(e.marke),
       locale: "de_CH",
       type: "website",
-      images: bildUrl ? [{ url: bildUrl.startsWith("http") ? bildUrl : `${siteUrl}${bildUrl}`, width: bild?.breite, height: bild?.hoehe, alt: sauber(bild?.alt) }] : undefined,
+      images: bildUrl ? [{ url: absolut(bildUrl), width: bild?.breite, height: bild?.hoehe, alt: sauber(bild?.alt) }] : undefined,
     },
     robots: indexierungErlaubt ? { index: true, follow: true } : { index: false, follow: false },
   };
@@ -43,6 +43,9 @@ const SCHEMA_WOCHENTAG: Record<string, string> = {
  * Zürich für Tünde Obenauer, kein zahnärztliches Teammitglied. Öffnungszeiten nur, wenn kein Herkunftshinweis mehr gesetzt ist.
  * Keine Bewertungen, keine Aktionspreise, keine erfundenen Fachbezeichnungen.
  */
+/** Lokale Pfade bekommen die Site-URL, Sanity-CDN-URLs bleiben (sonst entstünde «https://domain/https://cdn…»). */
+const absolut = (url: string) => (/^https?:\/\//.test(url) ? url : `${siteUrl}${url}`);
+
 export function praxisJsonLd(e: Einstellungen, team: Teammitglied[] = []): Record<string, unknown> {
   const bestaetigt = !e.oeffnungszeitenHinweis;
   const zeiten = (bestaetigt ? e.oeffnungszeiten : [])
@@ -59,7 +62,7 @@ export function praxisJsonLd(e: Einstellungen, team: Teammitglied[] = []): Recor
     url: `${siteUrl}/`,
     telephone: telefonInternational(e.telefon),
     email: sauber(e.email),
-    image: e.seoBild ? `${siteUrl}${e.seoBild.quellen[e.seoBild.quellen.length - 1].url}` : undefined,
+    image: e.seoBild ? absolut(e.seoBild.quellen[e.seoBild.quellen.length - 1].url) : undefined,
     address: { "@type": "PostalAddress", streetAddress: sauber(e.adresse.strasse), postalCode: sauber(e.adresse.plz), addressLocality: sauber(e.adresse.ort), addressCountry: "CH" },
     geo: e.geo ? { "@type": "GeoCoordinates", latitude: e.geo.breite, longitude: e.geo.laenge } : undefined,
     openingHoursSpecification: zeiten.length ? zeiten : undefined,

@@ -135,7 +135,10 @@ function BausteinAusgabe({ baustein: b, ctx, wechsel }: { baustein: Baustein; ct
       return <Kennzahlen baustein={b} einstellungen={ctx.einstellungen} />;
     case "datenschutzEinstellungenBaustein":
       return <Abschnitt id={b.anker} titel={b.titel} einleitung={b.einleitung} breite="schmal" kinder={<Widerruf texte={t.einwilligung} />} />;
-    default:
-      return null;
+    default: {
+      // Exhaustiv: ein neuer Bausteintyp muss hier gerendert werden, sonst bricht der Build statt Inhalt still zu verschwinden.
+      const unbekannt: never = b;
+      throw new Error(`Unbekannter Baustein: ${JSON.stringify(unbekannt).slice(0, 80)}`);
+    }
   }
 }

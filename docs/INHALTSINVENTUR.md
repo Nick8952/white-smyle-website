@@ -29,7 +29,7 @@ Status: **ü** = vollständig übernommen · **z** = zusammengeführt (Inhalte e
 | `/zahngesundheit--krankheiten.html` | Mund und Körper, 6 Studienverweise | `/ratgeber/zahngesundheit-und-koerper/` | ü | Studien nicht überprüft, als Angaben der Praxis gekennzeichnet |
 | `/gingivitis.html` | Gingivitis, FAQ, Mayo-Clinic-Verweis | `/ratgeber/gingivitis/` | ü | |
 | `/karies.html` | Karies, FAQ, «Nie wieder Karies» | `/ratgeber/karies/` | ü | |
-| `/mundgeruch.html` | Mundgeruch, Zunge, Hilfsmittel, Tagesplan, Checkliste-PDF | `/ratgeber/mundgeruch/` | ü | PDF `mundgeruch_praevention.pdf` |
+| `/mundgeruch.html` | Mundgeruch, Zunge, Hilfsmittel, Tagesplan, Checkliste-PDF | `/ratgeber/mundgeruch/` | t | PDF `mundgeruch_praevention.pdf`; zwei Empfehlungen (jährliche Darmreinigung, Vitaminpräparate) nicht übernommen, siehe `docs/MEDIZINISCHE-TEXTE.md` |
 | `/dentalhygiene-hilfsmittel.html` | Zahnbürsten, Zahnpasta, Mundspülung, Zahnseide (Video about:blank) | `/ratgeber/hilfsmittel/` | ü | defektes Video nicht übernommen |
 | `/parodontose-zuerich.html` | Parodontitis, FAQ | `/dentalhygiene/parodontitis/` | ü | |
 | `/q--a-dentalhygiene.html` | 32 FAQ | `/dentalhygiene/fragen-und-antworten/` | ü | |
@@ -49,8 +49,8 @@ Status: **ü** = vollständig übernommen · **z** = zusammengeführt (Inhalte e
 | `/preise.html` | Preisliste DH/Bleaching/Kombis, Storno | `/preise/` | ü | |
 | `/termin.html`, `/online-termin.html` | Cituro-Link, «auch kurzfristige Termine möglich» | `/termin/` | z | Aussage «kurzfristige Termine» als Angabe der Praxis; keine Verfügbarkeit erfunden |
 | `/kontakt.html` | Formular (mit Datei-Upload), Adresse, Telefon, WhatsApp | `/kontakt/` | t | Upload bewusst weggelassen; mailto-Formular ohne Gesundheitsdaten |
-| `/standort.html` | Google-Maps-iframe (Weebly), Adresse «Buckhauserstrasse 17-19», Anfahrt, 12 Fotos | `/kontakt/` | z | Adresse: Impressum/Footer 17, Standortseite 17-19 → 17 verwendet, offen; Karte nur nach Einwilligung |
-| `/agbs.html` | AGB Stand 05/2025 | `/agb/` | ü | wörtlich |
+| `/standort.html` | Google-Maps-iframe (Weebly), Adresse «Buckhauserstrasse 17-19», Anfahrt, 12 Fotos | `/kontakt/` | t | Adresse: Impressum/Footer 17, Standortseite 17-19 → 17 verwendet, offen; 6 von 12 Standortfotos übernommen (Doppel-Ansichten von Tram/Bus/Luftbild sowie Parkplatz-Detailfotos weggelassen, Originale liegen unter `assets/originale/standort/`); Karte nur nach Einwilligung |
+| `/agbs.html` | AGB Stand 05/2025 | `/agb/` | ü | inhaltlich unverändert, Schreibweise/Grammatik vereinheitlicht; Original in `docs/original/agbs.md`; Storno-Regel der Preisseite als getrennt gekennzeichneter Hinweis |
 | `/datenschutzerklaerung.html` | Generator-Text (Stand 24.07.2024) mit Weebly, Borlabs, Social Media, Beschäftigtendaten, «premiumtext»-Platzhaltern | `/datenschutz/` | – | Für die Demo neu verfasst; Original in `docs/original/datenschutzerklaerung.md` |
 | `/impressum.html` | KOMVITA AG, Andreas Obenauer, Bewilligung Tünde Obenauer, Mini-Datenschutz | `/impressum/` | z | Demo-Betreiber getrennt aufgeführt |
 
