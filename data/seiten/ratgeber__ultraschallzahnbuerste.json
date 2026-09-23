@@ -1,0 +1,263 @@
+{
+ "id": "seite-ratgeber-ultraschallzahnbuerste",
+ "art": "ratgeber",
+ "pruefstatus": "sprachlich-angepasst",
+ "slug": "ratgeber/ultraschallzahnbuerste",
+ "titel": "Ultraschallzahnbürste MEGASONEX M8",
+ "teaser": "Sanfte Tiefenreinigung für Zähne und Zahnfleisch: was die Praxis über die Ultraschallzahnbürste MEGASONEX M8 und M8S sagt.",
+ "einleitung": "Viele Menschen putzen regelmässig ihre Zähne und kämpfen trotzdem mit Zahnfleischbluten, Plaque, empfindlichen Zahnhälsen, Mundgeruch, Entzündungen oder Verfärbungen. Herkömmliche elektrische Zahnbürsten arbeiten oft mit starkem mechanischem Druck; die MEGASONEX M8 und M8S setzen zusätzlich auf Ultraschalltechnologie.",
+ "seoTitel": "Megasonex M8 Ultraschallzahnbürste – Ratgeber",
+ "seoBeschreibung": "Die Megasonex M8 und M8S Ultraschallzahnbürste laut WHITE SMYLE: sanfte Reinigung bei empfindlichem Zahnfleisch, Implantaten, Parodontitis. Herstellerangaben.",
+ "bild": {
+  "bild": "megasonex-interdental",
+  "alt": "Ultraschallzahnbürste MEGASONEX"
+ },
+ "alteUrls": [
+  "/megasonex-ultraschall.html"
+ ],
+ "quelle": "whitesmyle.ch/megasonex-ultraschall.html, /aktuelle-dental-tipps.html",
+ "bausteine": [
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bs1d8",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1d6",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1d7",
+       "text": "Dieser Ratgeber gibt Hersteller- und Praxisangaben zur MEGASONEX-Ultraschallzahnbürste wieder, die im externen Zahnpastashop der Praxisbetreiber verkauft wird. Die Angaben wurden für diese Demo nicht fachlich überprüft. Der Kauf erfolgt ausschliesslich im externen Shop.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "art": "info"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs1dz",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1d9",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1da",
+       "text": "Warum eine Ultraschallzahnbürste?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1db",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1dc",
+       "text": "Die Ultraschallzahnbürste eignet sich nach Angabe der Praxis besonders für Menschen mit empfindlichem Zahnfleisch oder sensiblen Zähnen. Vorteile der Megasonex M8 und M8S laut Praxis: besonders sanfte Reinigung, Ultraschalltechnologie (Millionen Ultraschallimpulse unterstützen die Reduktion von Bakterien und Plaque), weniger Druck beim Putzen, Unterstützung gesunder Zahnfleischpflege (beliebt bei Gingivitis oder Parodontitis), geeignet bei Implantaten und Kronen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1dd",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1de",
+       "text": "Wie funktioniert die MEGASONEX Ultraschallzahnbürste?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1df",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1dg",
+       "text": "MEGASONEX verwendet Ultraschalltechnologie, wie sie bei medizinischen Geräten eingesetzt wird: 96 Millionen Ultraschall-Impulse pro Minute plus bis zu 18 000 Schallbewegungen des Bürstenkopfes. Eine Studie der medizinischen und zahnmedizinischen Universität Tokio (Abteilung Präventive Zahnmedizin) fand laut Praxis heraus, dass Streptococcus mutans, eine Plaque verursachende Bakterienform, durch eine Ultraschallbehandlung von 1,6 MHz harmlos wird; die Bakterienketten werden beschädigt und ihre Anhangsmechanismen durchtrennt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1dh",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1di",
+       "text": "Unterschied Ultraschall und Schall:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1dj",
+       "text": " Ultraschall-Zahnbürste bedeutet bei MEGASONEX, dass 96 Millionen Ultraschall-Impulse zu den 18 000 Bürstenbewegungen pro Minute dazukommen. Schallzahnbürste bedeutet, dass sich die Borsten mit bis zu 42 000 Schwingungen pro Minute bewegen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1dk",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1dl",
+       "text": "Zahnpasta:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1dm",
+       "text": " Mit der MEGASONEX brauchen Sie keine bestimmte Zahnpasta; die Praxis empfiehlt grundsätzlich möglichst natürliche Zahnpasten der neuen Generation, z. B. mit Enzymen oder Hydroxylapatit.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1dn",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1do",
+       "text": "Zungenreinigung:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1dp",
+       "text": " Auf der Zunge sitzen die meisten Bakterien – in den Papillen nisten sich anaerobe Bakterien ein, die Schadstoffe absondern. Mit dem Zungenaufsatz werden laut Hersteller genau diese Bakterien unschädlich gemacht: weniger Mundgeruch, gesündere Zähne, straffes Zahnfleisch.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1dq",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1dr",
+       "text": "Design und Qualität:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1ds",
+       "text": " Eine Kooperation aus Kalifornien und Japan; 2 Jahre Garantie laut Hersteller. Präzisions-Bürstenköpfe und Ultraschall-Zungenreiniger ergänzen den 17-mm-Megacrystal; Twist-Lock-Verschluss für den Wechsel der Bürstenköpfe.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1dt",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1du",
+       "text": "Für wen eignet sich die Megasonex besonders?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1dv",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1dw",
+       "text": "Grundsätzlich für alle, die eine gründliche Mundhygiene bevorzugen. Speziell für Menschen mit empfindlichem Zahnfleisch, Zahnfleischentzündungen, Parodontitis, Implantaten, Brücken oder Kronen, empfindlichen Zahnhälsen, Mundgeruch, sensiblen Zähnen, starker Plaquebildung sowie für Spangenträgerinnen und -träger und für weissere Zähne bei Raucherinnen, Rauchern und Kaffeetrinkenden.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1dx",
+     "style": "quelle",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1dy",
+       "text": "Studie laut Praxis: Shinada K, Hashizume L, Teraoka K, Kurosaki N. Effect of ultrasonic toothbrush on Streptococcus mutans. Japan J. Conserv. Dent. 1999; 42 (2): 410–417. Die Studie wurde mit der Originalversion der Ultima-Zahnbürste ohne zusätzliche Borstenbewegung durchgeführt; laut Praxis wurde keine Abweichung zur MEGASONEX festgestellt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "bild": {
+    "bild": "tipps-megasonex",
+    "alt": "Grafik mit technischen Details der MEGASONEX-Zahnbürste"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "videoBaustein",
+   "_key": "bs1e0",
+   "titel": "Herstellervideo",
+   "youtubeId": "bs4Tqt-Zh54",
+   "videoTitel": "MEGASONEX Ultraschallzahnbürste (YouTube, extern)",
+   "text": "Von der Praxis eingebettetes Video. Es wird erst nach Ihrer Zustimmung von YouTube geladen."
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bs1e1",
+   "variante": "karte",
+   "titel": "Megasonex M8 oder M8S bestellen",
+   "text": "Der Kauf erfolgt im externen Zahnpastashop der Praxisbetreiber. Für eine Beratung können Sie die Praxis kontaktieren: 043 931 78 74.",
+   "knopf": {
+    "titel": "Zum Zahnpastashop",
+    "ziel": "https://www.zahnpastashop.ch/megasonex-ultraschall.html",
+    "extern": true
+   },
+   "zweiterKnopf": {
+    "titel": "Ratgeber Hilfsmittel",
+    "ziel": "/ratgeber/hilfsmittel/"
+   }
+  }
+ ]
+}

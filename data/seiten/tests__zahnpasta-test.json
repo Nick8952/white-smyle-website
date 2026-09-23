@@ -1,0 +1,39 @@
+{
+ "id": "seite-tests-zahnpasta-test",
+ "slug": "tests/zahnpasta-test",
+ "art": "fragebogen",
+ "titel": "Zahnpasta-Test",
+ "teaser": "Welche Zahnpaste passt zu Ihren Zähnen? Die Fragen der Praxis für eine Empfehlung.",
+ "einleitung": "Diese Fragen stellt die Praxis im Fragebogen «Zahnpasta-Test». Hier nur zum Lesen – ohne Eingabe, Auswertung oder Speicherung.",
+ "seoTitel": "Zahnpasta-Test – Fragen zur Vorbereitung",
+ "seoBeschreibung": "Welche Zahnpaste passt zu Ihren Zähnen? Die Fragen der Praxis für eine Empfehlung.",
+ "alteUrls": [
+  "/zahnpasta-test.html"
+ ],
+ "quelle": "whitesmyle.ch/zahnpasta-test.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "fragebogenBaustein",
+   "_key": "bsqa",
+   "fragebogen": "fb-zahnpasta",
+   "titel": "Zahnpasta-Test"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsqb",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Direkt besprechen",
+   "text": "Termin buchen oder anrufen: 043 931 78 74.",
+   "zweiterKnopf": {
+    "titel": "Alle Fragebögen",
+    "ziel": "/tests/"
+   }
+  }
+ ]
+}

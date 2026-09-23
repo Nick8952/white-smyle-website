@@ -1,0 +1,454 @@
+{
+ "id": "seite-bleaching-bleaching-ohne-dentalhygiene",
+ "slug": "bleaching/bleaching-ohne-dentalhygiene",
+ "art": "leistung",
+ "titel": "Bleaching ohne Dentalhygiene",
+ "teaser": "Wann ein Bleaching allein möglich ist, warum saubere Zähne wichtig sind und was bei empfindlichen Zähnen hilft.",
+ "einleitung": "Sie wünschen sich natürlich weisse Zähne und ein frisches, gepflegtes Lächeln? Seit 2012 hat WHITE SMYLE tausende professionelle Bleachings durchgeführt und weiss, worauf es bei einer sicheren, schonenden und sichtbaren Zahnaufhellung ankommt.",
+ "seoTitel": "Bleaching ohne Dentalhygiene – Voraussetzungen, Empfindlichkeit, Haltbarkeit",
+ "seoBeschreibung": "Zahnbleaching Zürich: wann Bleaching ohne Dentalhygiene möglich ist (letzte Dentalhygiene max. 6 Monate), Empfindlichkeit, Haltbarkeit und Kosten einfach erklärt.",
+ "bild": {
+  "bild": "bleaching-only-hero",
+  "alt": "Bleaching-Behandlung mit Lichtaktivierung"
+ },
+ "alteUrls": [
+  "/bleaching-only.html",
+  "/bleaching-aktion.html"
+ ],
+ "quelle": "whitesmyle.ch/bleaching-only.html, /aktion.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bsl5",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bkz",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sl0",
+       "text": "Voraussetzung:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sl1",
+       "text": " Bleaching ohne Dentalhygiene («Bleaching only») ist möglich, wenn die letzte Dentalhygiene nicht länger als 6 Monate zurückliegt – bei Raucherinnen und Rauchern eher 2–3 Monate. Liegt Ihre letzte Dentalhygiene länger zurück, empfiehlt die Praxis das ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "sl3",
+       "text": "Kombipaket Dentalhygiene & Bleaching",
+       "marks": [
+        "ll2"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sl4",
+       "text": " für das sichtbar beste Ergebnis in nur einer Sitzung.",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "ll2",
+       "href": "/kombipaket/",
+       "extern": false
+      }
+     ]
+    }
+   ],
+   "art": "wichtig"
+  },
+  {
+   "_type": "leistungenBaustein",
+   "_key": "bsl6",
+   "titel": "Bleaching-Methoden für Zähne mit aktueller Dentalhygiene",
+   "einleitung": "Wenn Sie noch nie ein Bleaching gemacht haben und die letzte Dentalhygiene nicht länger als ein halbes Jahr zurückliegt, ist eine dieser Optionen die richtige.",
+   "leistungen": [
+    "leistung-power-bleaching",
+    "leistung-power-bleaching-plus",
+    "leistung-home-bleaching"
+   ],
+   "darstellung": "liste"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bsls",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bl7",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sl8",
+       "text": "Viele Kundinnen und Kunden kommen wegen Kaffee- oder Nikotinverfärbungen, gelblichen Zähnen trotz guter Zahnpflege, empfindlichen Zähnen nach früheren Bleachings oder dem Wunsch nach einem natürlichen Weiss ohne künstlichen Hollywood-Look. Das Ziel der Praxis ist nicht «unnatürlich weiss», sondern gesunde, gepflegte und sichtbar frischere Zähne, die zu Ihnen passen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bl9",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sla",
+       "text": "Warum vor dem Bleaching eine Dentalhygiene wichtig ist",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "blb",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "slc",
+       "text": "Für ein schönes und gleichmässiges Bleaching-Ergebnis sollten die Zähne professionell gereinigt sein. Wenn Oberflächenverfärbungen beseitigt werden, kann das Bleaching-Gel die in der Tiefe des Zahnschmelzes liegenden Verfärbungen besser beseitigen. Beläge, Zahnstein und oberflächliche Verfärbungen können das Ergebnis beeinflussen; saubere Zähne nehmen das Bleaching gleichmässiger und schöner an.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bld",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sle",
+       "text": "Hatten Sie schon einmal Schmerzen nach einem Bleaching?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "blf",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "slg",
+       "text": "Das hört die Praxis häufig. Viele Menschen haben nach günstigen Home-Kits oder unsachgemässen Behandlungen empfindliche Zähne bekommen und sind deshalb unsicher. Die gute Nachricht: Heute gibt es Möglichkeiten, Empfindlichkeiten deutlich zu reduzieren oder sogar zu verhindern. WHITE SMYLE arbeitet seit Jahren mit remineralisierenden Produkten und speziellen Schutzsystemen für empfindliche Zähne. Je nach Situation empfiehlt die Praxis:",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "blh",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sli",
+       "text": "remineralisierende Pflegeprodukte",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "blj",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "slk",
+       "text": "spezielle Zahnschmelz-Aufbauprodukte",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bll",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "slm",
+       "text": "Vorbereitung der Zähne 1–2 Wochen vor dem Bleaching",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bln",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "slo",
+       "text": "angepasste Bleaching-Methoden für sensible Zähne",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "blp",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "slq",
+       "text": "Besonders wichtig:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "slr",
+       "text": " Wenn Sie empfindliche Zähne haben oder früher Schmerzen hatten, sagen Sie das unbedingt vor der Behandlung. Dank der Erfahrung seit 2012 kann die Praxis das Bleaching individuell anpassen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "bild": {
+    "bild": "bleaching-geraet",
+    "alt": "Bleaching-Gerät in der Praxis"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bsmk",
+   "titel": "Die wichtigsten Fakten für ein erfolgreiches Bleaching",
+   "fragen": [
+    {
+     "_key": "flt",
+     "frage": "Warum können Zähne nach dem Bleaching weh tun?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "blu",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "slv",
+         "text": "Nach dem Bleaching können die Zähne vorübergehend empfindlicher auf Kälte oder Wärme reagieren. Das ist normal und klingt meist nach kurzer Zeit wieder ab. Mit modernen remineralisierenden Produkten lassen sich diese Empfindlichkeiten oft deutlich reduzieren.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "flw",
+     "frage": "Bleaching bei empfindlichen Zähnen – geht das überhaupt?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "blx",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sly",
+         "text": "Ja, auch bei empfindlichen Zähnen ist ein professionelles Bleaching möglich. Wichtig ist eine individuelle Vorbereitung mit remineralisierenden Produkten und eine schonende Methode. Viele mit sensiblen Zähnen berichten von deutlich angenehmeren Erfahrungen als bei früheren Bleachings.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "flz",
+     "frage": "Ist Zahnbleaching schädlich?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bm0",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sm1",
+         "text": "Professionelles Zahnbleaching gilt bei gesunden Zähnen als sichere Methode zur Zahnaufhellung. Wichtig ist, dass die Behandlung fachgerecht durchgeführt wird und die Zähne vorher kontrolliert und gereinigt werden.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fm2",
+     "frage": "Was hilft gegen Schmerzen nach dem Bleaching?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bm3",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sm4",
+         "text": "Empfindlichkeiten nach dem Bleaching lassen sich nach Angabe der Praxis oft mit remineralisierenden Produkten und speziellen Zahnpasten mit Hydroxylapatit (Zahnschmelz) lindern. Auch die richtige Vorbereitung vor dem Bleaching kann helfen. Das Produkt Tooth Mousse, erhältlich im externen Zahnpastashop, kann bereits 1–2 Wochen vor dem Bleaching abends nach dem Zähneputzen aufgetragen werden, um Sensitivitäten zu reduzieren.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fm5",
+     "frage": "Home Bleaching oder professionelles Bleaching – was ist besser?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bm6",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sm7",
+         "text": "Home-Kits können leichte Verfärbungen verbessern, erreichen aber oft nicht die Resultate eines professionellen Bleachings. Zudem kommt es bei unsachgemässer Anwendung häufiger zu empfindlichen Zähnen oder ungleichmässigen Ergebnissen. Beim ersten Bleaching erreichen Sie mit dem professionellen Bleaching in der Praxis in einer Stunde das gleiche Ergebnis wie mit Home Bleaching in 1–2 Wochen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fm8",
+     "frage": "Warum sollte vor dem Bleaching eine Dentalhygiene gemacht werden?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bm9",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sma",
+         "text": "Saubere Zähne nehmen das Bleaching gleichmässiger auf. Zahnstein, Beläge und Verfärbungen können das Ergebnis beeinträchtigen. Deshalb sollte die Dentalhygiene idealerweise innerhalb der letzten 6 Monate erfolgt sein – bei Raucherinnen und Rauchern eher innerhalb von 2–3 Monaten.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fmb",
+     "frage": "Warum werden Zähne trotz Putzen gelb?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bmc",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "smd",
+         "text": "Auch bei guter Zahnpflege können sich die Zähne mit der Zeit verfärben. Ursachen sind oft Kaffee, Tee, Rotwein, Nikotin oder natürliche Alterungsprozesse. Normales Zähneputzen entfernt diese tieferen Verfärbungen meist nicht vollständig.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fme",
+     "frage": "Ist Bleaching bei Raucherinnen und Rauchern sinnvoll?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bmf",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "smg",
+         "text": "Ja, besonders Nikotinverfärbungen können durch professionelles Bleaching sichtbar aufgehellt werden. Wichtig ist jedoch eine aktuelle Dentalhygiene vor der Behandlung, damit das Ergebnis möglichst gleichmässig wird.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fmh",
+     "frage": "Wie lange hält Zahnbleaching wirklich?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bmi",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "smj",
+         "text": "Je nach Ernährung, Rauchen und Zahnpflege hält ein professionelles Zahnbleaching meistens zwischen 1 und 2 Jahren. Kaffee, Tee, Rotwein und Nikotin können die Zähne schneller wieder verfärben.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsml",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Bereit für ein frischeres und weisseres Lächeln?",
+   "text": "Buchen Sie jetzt Ihren Online-Termin bei WHITE SMYLE Zürich. Preise finden Sie in der Preisübersicht.",
+   "zweiterKnopf": {
+    "titel": "Preise",
+    "ziel": "/preise/"
+   }
+  }
+ ]
+}

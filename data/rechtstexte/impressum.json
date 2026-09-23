@@ -1,0 +1,225 @@
+{
+ "id": "rechtstext-impressum",
+ "art": "impressum",
+ "titel": "Impressum",
+ "stand": "2026-09-23",
+ "hinweis": "Demo-Fassung: Betreiber der Demo und dargestelltes Unternehmen sind getrennt aufgeführt. Vor einem Go-Live durch die Praxis vervollständigen (Rechtsform, UID, Postanschrift).",
+ "inhalt": [
+  {
+   "_type": "block",
+   "_key": "b1hs",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1ht",
+     "text": "Betreiber dieser Demo-Website",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1hu",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1hv",
+     "text": "Nick Holzbecher",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1hw",
+     "text": " E-Mail: holzbechernick@gmail.com",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1hx",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1hy",
+     "text": "Diese Website ist eine unverbindliche Verkaufs-Demonstration (Redesign-Vorschlag) und kein offizieller Auftritt der dargestellten Praxis. Sie wird auf GitHub Pages (GitHub, Inc.) veröffentlicht. Für Inhalt und Betrieb dieser Demo ist ausschliesslich der oben genannte Betreiber verantwortlich. Die Postanschrift wird auf Anfrage mitgeteilt und vor einer allfälligen Übergabe ergänzt.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1hz",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1i0",
+     "text": "Dargestelltes Unternehmen",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1i1",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1i2",
+     "text": "KOMVITA AG",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1i3",
+     "text": " WHITE SMYLE dental – Dentalhygiene & Bleaching Buckhauserstrasse 17 8048 Zürich Telefon 043 931 78 74 E-Mail kontakt@whitesmyle.ch",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1i4",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1i5",
+     "text": "Verantwortlich für den Inhalt der bisherigen Website whitesmyle.ch: Andreas Obenauer",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1i6",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1i7",
+     "text": "Die Angaben zum dargestellten Unternehmen stammen vom Impressum, den AGB und der Datenschutzerklärung der bisherigen Website (Stand 23.09.2026). Handelsregister-Angaben (UID, Sitz, Rechtsform im Detail) und weitere Pflichtangaben sind vor einem Go-Live durch das Unternehmen zu ergänzen und zu bestätigen. Das Unternehmen hat diese Demo nicht in Auftrag gegeben und ist für sie nicht verantwortlich.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1i8",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1i9",
+     "text": "Berufsspezifische Angaben (gemäss bisheriger Website)",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1ia",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1ib",
+     "text": "Bewilligung der Gesundheitsdirektion Zürich zur selbständigen Berufsausübung für Dentalhygiene durch Tünde Obenauer",
+     "marks": []
+    }
+   ],
+   "markDefs": [],
+   "listItem": "bullet",
+   "level": 1
+  },
+  {
+   "_type": "block",
+   "_key": "b1ic",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1id",
+     "text": "Es gelten folgende berufsrechtliche Regelungen: Berufsordnung der Gesundheitsdirektion Zürich, Hygienekonzept Swissmedic",
+     "marks": []
+    }
+   ],
+   "markDefs": [],
+   "listItem": "bullet",
+   "level": 1
+  },
+  {
+   "_type": "block",
+   "_key": "b1ie",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1if",
+     "text": "Inhalte, Bilder, Marken",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1ig",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1ih",
+     "text": "Texte, Preise, Kundenmeinungen und Bilder wurden von der bisherigen Website whitesmyle.ch übernommen (Herkunftsnachweis in der Projektdokumentation). Die Rechte daran liegen beim dargestellten Unternehmen bzw. bei den jeweiligen Urhebern; die Verwendung in dieser Demo dient ausschliesslich der Präsentation eines Gestaltungsvorschlags. Das Logo ist eine SVG-Nachbildung der bestehenden Bildmarke. Marken Dritter (HEYDENT, Philips ZOOM, MEGASONEX, SPLAT, TWINT, Visa, Mastercard, Maestro, V PAY, PostFinance) gehören ihren jeweiligen Inhabern.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1ii",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1ij",
+     "text": "Haftung",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1ik",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1il",
+     "text": "Die Inhalte dieser Demo wurden mit Sorgfalt übernommen; Preise, Aktionen und medizinische Aussagen sind jedoch bis zur Bestätigung durch die Praxis als unverbindlich zu betrachten. Für externe Links (Cituro, zahnpastashop.ch, YouTube, Google Maps, soziale Netzwerke, Medien) sind ausschliesslich deren Betreiber verantwortlich.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  }
+ ]
+}

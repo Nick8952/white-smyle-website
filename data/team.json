@@ -1,0 +1,4 @@
+[
+  { "id": "team-tuende-obenauer", "vorname": "Tünde", "nachname": "Obenauer", "funktion": "Dipl. Dentalhygienikerin HF", "weitereFunktionen": ["Bleaching-Spezialistin", "Leitung Dentalhygiene & Bleaching"], "sprachen": ["Deutsch", "Englisch", "Schwedisch", "Ungarisch"], "bild": { "bild": "team-tuende", "alt": "Portrait von Tünde Obenauer" }, "reihenfolge": 1 },
+  { "id": "team-andreas-obenauer", "vorname": "Andreas", "nachname": "Obenauer", "funktion": "Praxisleitung", "weitereFunktionen": [], "sprachen": ["Deutsch", "Englisch"], "bild": { "bild": "team-andreas", "alt": "Portrait von Andreas Obenauer" }, "reihenfolge": 2 }
+]

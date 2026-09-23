@@ -1,0 +1,59 @@
+{
+ "id": "seite-tests",
+ "slug": "tests",
+ "art": "fragebogen",
+ "titel": "Fragen zur Vorbereitung",
+ "teaser": "Die fünf Fragebögen der Praxis (Dentalhygiene, Bleaching, Knirschen, Mundgeruch, Zahnpasta) – hier nur zum Lesen.",
+ "einleitung": "Auf der bisherigen Website bietet die Praxis fünf «Gratis-Tests» an: Formulare, deren Antworten per E-Mail an die Praxis gehen und dort persönlich ausgewertet werden. Diese Demo zeigt die Fragen zum Lesen – ohne Eingabe, ohne Auswertung und ohne Speicherung.",
+ "seoTitel": "Fragen zur Vorbereitung – Dentalhygiene-, Bleaching-, Mundgeruch-Test",
+ "seoBeschreibung": "Die Fragebögen von WHITE SMYLE zu Dentalhygiene, Bleaching, Zahnknirschen, Mundgeruch und Zahnpasta – was die Praxis vorab klärt. Keine Datenerfassung auf dieser Demo.",
+ "alteUrls": [
+  "/tests.html"
+ ],
+ "quelle": "whitesmyle.ch/tests.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bsp8",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bp6",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sp7",
+       "text": "Die Fragebögen sind keine Diagnose und ersetzen keine persönliche Untersuchung. Wer die Fragen tatsächlich beantworten und von der Praxis auswerten lassen möchte, kann das weiterhin auf whitesmyle.ch tun (externe Übermittlung per E-Mail an die Praxis) – oder die Punkte direkt im Termin besprechen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "art": "medizinisch"
+  },
+  {
+   "_type": "fragebogenListeBaustein",
+   "_key": "bsp9",
+   "titel": "Die fünf Fragebögen"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bspa",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Lieber direkt besprechen?",
+   "text": "Buchen Sie einen Termin oder rufen Sie an: 043 931 78 74.",
+   "zweiterKnopf": {
+    "titel": "Kontakt",
+    "ziel": "/kontakt/"
+   }
+  }
+ ]
+}

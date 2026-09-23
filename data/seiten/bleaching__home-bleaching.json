@@ -1,0 +1,703 @@
+{
+ "id": "seite-bleaching-home-bleaching",
+ "slug": "bleaching/home-bleaching",
+ "art": "leistung",
+ "titel": "Home Bleaching mit Philips ZOOM",
+ "teaser": "Professionelle Zahnaufhellung für zuhause mit individueller Bleaching-Schiene – die Ergänzung zum Power Bleaching.",
+ "einleitung": "Weisse Zähne stehen für Attraktivität, Gesundheit und Selbstbewusstsein. Home Bleaching ist eine professionelle Möglichkeit, die Zahnaufhellung bequem zuhause fortzuführen oder das Ergebnis eines Praxis-Bleachings langfristig zu erhalten.",
+ "seoTitel": "Home Bleaching mit Philips ZOOM – Zahnaufhellung für zuhause",
+ "seoBeschreibung": "Home Bleaching mit Philips ZOOM: individuelle Schiene aus dem Labor, Unterschied Wasserstoff- und Carbamidperoxid, Preise. WHITE SMYLE Zürich.",
+ "bild": {
+  "bild": "home-bleaching",
+  "alt": "Grafik Home Bleaching System mit lachender Frau"
+ },
+ "alteUrls": [
+  "/home-bleaching.html"
+ ],
+ "quelle": "whitesmyle.ch/home-bleaching.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "leistungenBaustein",
+   "_key": "bsid",
+   "titel": "Home Bleaching und Kombipaket",
+   "leistungen": [
+    "leistung-home-bleaching"
+   ],
+   "darstellung": "liste"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bsjc",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bie",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sif",
+       "text": "Wichtig zu wissen:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sig",
+       "text": " Wer zum ersten Mal ein Bleaching macht und möglichst schnell ein deutlich sichtbares Ergebnis möchte, erzielt dieses in der Regel deutlich effizienter mit einem professionellen ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "sii",
+       "text": "Power Bleaching",
+       "marks": [
+        "lih"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sij",
+       "text": " in der Praxis. Während ein In-Office Power Bleaching bereits nach etwa einer Stunde sichtbar hellere Zähne erzeugen kann, benötigt ein Home Bleaching meist rund 10–14 Tage, um ein vergleichbares Ergebnis zu erreichen.",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "lih",
+       "href": "/bleaching/power-bleaching/",
+       "extern": false
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "bik",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sil",
+       "text": "Zu beachten:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sim",
+       "text": " Während eines Home Bleachings, das 1–2 Wochen dauern kann, oder wenn man nur 1–2 Tage kurz aufhellt, sollten keine verfärbenden Substanzen konsumiert werden – gerade für Raucherinnen, Raucher und Kaffeetrinkende oft eine schwierige Situation.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bin",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sio",
+       "text": "Deshalb eignet sich Home Bleaching besonders als Ergänzung zum professionellen Bleaching, zur Auffrischung zwischen Praxisbehandlungen, als flexible Lösung vor wichtigen Events und zur langfristigen Erhaltung eines weissen Lächelns.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bip",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "siq",
+       "text": "Warum zuerst ein Power Bleaching sinnvoll ist",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bir",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sis",
+       "text": "Ein professionelles Power Bleaching in der Praxis bietet sofort sichtbare Ergebnisse, kontrollierte Anwendung, gleichmässige Aufhellung und eine schnelle Behandlung in nur einer Sitzung – ideal vor Hochzeiten, Fotoshootings oder Business-Events. Viele nutzen anschliessend Home Bleaching, um das erreichte Weiss dauerhaft zu erhalten: maximale Sofortwirkung in der Praxis, flexible Nachpflege zuhause.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bit",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "siu",
+       "text": "Die professionelle Bleaching-Schiene",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "biv",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "siw",
+       "text": "Für ein hochwertiges Home Bleaching wird zuerst eine individuelle Bleaching-Schiene hergestellt:",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bix",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "siy",
+       "text": "Abdruck der Zähne:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "siz",
+       "text": " In der Praxis wird ein präziser Abdruck oder digitaler Scan Ihrer Zähne erstellt.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bj0",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sj1",
+       "text": "Herstellung im Dentallabor:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sj2",
+       "text": " Die Bleaching-Schiene wird individuell im Labor angefertigt.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bj3",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sj4",
+       "text": "Fertigstellung nach ca. 7 Tagen:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sj5",
+       "text": " Nach etwa einer Woche erhalten Sie Ihre massgeschneiderte Schiene für zuhause.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bj6",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sj7",
+       "text": "Vorteile einer individuellen Schiene: perfekte Passform, gleichmässige Verteilung des Gels, weniger Gelverbrauch, geringeres Risiko für Zahnfleischreizungen, angenehmer Tragekomfort.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bj8",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sj9",
+       "text": "Für wen eignet sich Home Bleaching?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bja",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sjb",
+       "text": "Besonders für Patientinnen und Patienten nach einem Power Bleaching, für regelmässige Auffrischungen, Menschen mit wenig Zeit, Berufstätige, vor Hochzeiten, Events, Dates und Fotoshootings.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "titel": "Die professionelle Ergänzung zum Power Bleaching",
+   "bild": {
+    "bild": "power-galerie-11",
+    "alt": "Zahnfarbring vor einem lachenden Mund"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bskb",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bjd",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sje",
+       "text": "Was bedeutet der Unterschied zwischen 6 % und 20 % bei einem Home-Bleaching-Gel?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bjf",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sjg",
+       "text": "Der wichtigste Unterschied: ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "sjh",
+       "text": "Wasserstoffperoxid vs. Carbamidperoxid.",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sji",
+       "text": " Viele Menschen glauben: Je höher die Prozentzahl auf dem Gel, desto stärker das Bleaching. Das ist jedoch nicht korrekt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bjj",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sjk",
+       "text": "Carbamidperoxid kann man sich wie eine «gestreckte» Form von Wasserstoffperoxid vorstellen – ähnlich wie eine Apfelschorle im Vergleich zu reinem Apfelsaft. Das bedeutet: Höhere Carbamidperoxid-Prozentzahlen wirken nicht automatisch stärker; der Wirkstoff wird lediglich langsamer freigesetzt, deshalb müssen diese Gele länger getragen werden. Beispiel: 6 % Wasserstoffperoxid wirkt schnell, 16 % Carbamidperoxid setzt langsamer über längere Zeit frei.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bjl",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sjm",
+       "text": "Gesetzliche Grenze in Europa:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sjn",
+       "text": " In Home-Bleaching-Produkten für Privatkundinnen und -kunden dürfen maximal 6 % Wasserstoffperoxid enthalten sein. Deshalb enthalten viele Produkte mit 10 %, 16 % oder 20 % kein reines Wasserstoffperoxid, sondern Carbamidperoxid.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bjo",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sjp",
+       "text": "Warum längere Tragezeiten Nachteile haben können",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bjq",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sjr",
+       "text": "Viele Home-Bleaching-Gele mit Carbamidperoxid werden mehrere Stunden oder über Nacht getragen. Dabei kann ein Teil des Gels geschluckt werden. Mögliche Nebenwirkungen: gereizter Magen, empfindliches Zahnfleisch, erhöhte Zahnempfindlichkeit, trockener Mund. Deshalb bevorzugen viele moderne Systeme mit kürzeren Tragezeiten.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bjs",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sjt",
+       "text": "Warum die Praxis Philips ZOOM empfiehlt – speziell DayWhite mit 6 % Peroxid",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bju",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sjv",
+       "text": "Kürzere Tragezeiten, moderne Formulierungen, schnelle Wirkung, gut für Event-Auffrischungen, weniger Gelkontakt, weniger Risiko des Verschluckens, bessere Alltagstauglichkeit.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bjw",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sjx",
+       "text": "Professionelles Home Bleaching mit Philips ZOOM",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bjy",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sjz",
+       "text": "Für das Home Bleaching kommen professionelle Bleaching-Gele von Philips ZOOM zum Einsatz.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bk0",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sk1",
+       "text": "Philips ZOOM DayWhite",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sk2",
+       "text": " (Anwendung tagsüber): 6 % Wasserstoffperoxid, kurze tägliche Tragezeiten, ideal für den Alltag. Besonders geeignet für Berufstätige, schnelle Auffrischungen vor Events und Anwenderinnen und Anwender mit empfindlichen Zähnen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bk3",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sk4",
+       "text": "Philips ZOOM NiteWhite",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sk5",
+       "text": " (Anwendung über Nacht): 16 % Carbamidperoxid, langsame Wirkstofffreisetzung, längere Tragezeit während der Nacht. Wichtig: 16 % Carbamidperoxid bedeutet nicht, dass das Gel stärker ist als ein 6-%-Wasserstoffperoxid-Gel – Carbamidperoxid zerfällt erst langsam zu Wasserstoffperoxid und wird daher länger in der Schiene getragen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bk6",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sk7",
+       "text": "Produktkauf im externen ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "sk9",
+       "text": "Zahnpastashop (ZOOM-Gel)",
+       "marks": [
+        "lk8"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "ska",
+       "text": " – der Vorteil laut Praxis: Einzelspritzen sind erhältlich, wer nur kurz aufhellen will, muss kein 3er- oder 5er-Pack kaufen.",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "lk8",
+       "href": "https://www.zahnpastashop.ch/zahnaufhellung-zoom-gel.html",
+       "extern": true
+      }
+     ]
+    }
+   ],
+   "titel": "Wasserstoffperoxid oder Carbamidperoxid",
+   "breite": "schmal"
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bskx",
+   "titel": "Häufige Fragen zum Home Bleaching",
+   "fragen": [
+    {
+     "_key": "fkc",
+     "frage": "Wie lange dauert Home Bleaching?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bkd",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "ske",
+         "text": "Je nach Ausgangsfarbe meist 10–14 Tage bis zum gewünschten Ergebnis.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fkf",
+     "frage": "Ist Home Bleaching so stark wie Power Bleaching?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bkg",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "skh",
+         "text": "Nein. Professionelles Power Bleaching erzielt meist deutlich schnellere Ergebnisse in nur einer Sitzung.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fki",
+     "frage": "Warum gibt es Gele mit 16 % oder 20 %?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bkj",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "skk",
+         "text": "Dabei handelt es sich meist um Carbamidperoxid, nicht um reines Wasserstoffperoxid.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fkl",
+     "frage": "Bedeutet mehr Prozent automatisch bessere Wirkung?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bkm",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "skn",
+         "text": "Nein. Höhere Carbamidperoxid-Werte bedeuten meist nur eine langsamere Freisetzung und längere Tragezeit.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fko",
+     "frage": "Wie lange dauert die Herstellung der Schiene?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bkp",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "skq",
+         "text": "In der Regel ca. 7 Tage nach Abdrucknahme.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fkr",
+     "frage": "Kann ich Home Bleaching ohne Schiene machen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bks",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "skt",
+         "text": "Professionelle Ergebnisse werden am besten mit individuell angefertigten Schienen erzielt.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fku",
+     "frage": "Ist Home Bleaching sicher?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bkv",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "skw",
+         "text": "Bei professioneller Anwendung und korrekter Dosierung gilt Home Bleaching als sichere Methode der Zahnaufhellung.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsky",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Home Bleaching anfragen",
+   "text": "Schiene und Beratung: ca. 30 Minuten in der Praxis. Termin online oder telefonisch.",
+   "zweiterKnopf": {
+    "titel": "Alle Bleaching-Arten",
+    "ziel": "/bleaching/"
+   }
+  }
+ ]
+}

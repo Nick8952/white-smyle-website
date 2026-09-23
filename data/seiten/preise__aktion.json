@@ -1,0 +1,149 @@
+{
+ "id": "seite-preise-aktion",
+ "slug": "preise/aktion",
+ "art": "seite",
+ "titel": "Aktion: Power Bleaching plus",
+ "teaser": "Zahn-Upgrade gefällig? Die Aktion der Praxis für das HEYDENT Power Bleaching plus – allein oder im Kombipaket.",
+ "einleitung": "Wählen Sie Ihre Option für gesunde und weisse Zähne: Kombipaket Dentalhygiene & Bleaching oder Bleaching allein.",
+ "seoTitel": "Aktion Power Bleaching Zürich – WHITE SMYLE",
+ "seoBeschreibung": "Aktion bei WHITE SMYLE Zürich: Power Bleaching plus CHF 249.– statt 299.–, im Kombipaket mit Dentalhygiene CHF 399.– statt 474.–. Gültigkeit bestätigt die Praxis.",
+ "bild": {
+  "bild": "aktion-gesund-weiss",
+  "alt": "Zwei lachende Personen; Schriftzug «gesund & weiss»"
+ },
+ "alteUrls": [
+  "/aktion.html",
+  "/power-bleaching-aktion.html",
+  "/bleaching-aktion.html"
+ ],
+ "quelle": "whitesmyle.ch/aktion.html, /power-bleaching-aktion.html, Startseite",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "aktionBaustein",
+   "_key": "bsnk",
+   "aktion": "aktion-power-plus"
+  },
+  {
+   "_type": "linkkartenBaustein",
+   "_key": "bsnl",
+   "titel": "Welche Option passt zu Ihnen?",
+   "spalten": 2,
+   "karten": [
+    {
+     "_key": "o1",
+     "titel": "Kombipaket Dentalhygiene & Bleaching",
+     "preisChf": 399,
+     "preisPraefix": "ab",
+     "text": "Ihre letzte Dentalhygiene liegt länger als ein halbes Jahr zurück und Sie wollen ein vollständiges Bleaching machen? Dann ist diese Option die richtige: Dentalhygiene & Power Bleaching CHF 399.–, & Power Bleaching plus CHF 474.– (Aktion: 399.–), & Home Bleaching CHF 549.–.",
+     "link": {
+      "titel": "Zum Kombipaket",
+      "ziel": "/kombipaket/"
+     },
+     "bild": {
+      "bild": "aktion-kombi",
+      "alt": "Dentalhygienikerin behandelt eine Patientin"
+     }
+    },
+    {
+     "_key": "o2",
+     "titel": "Bleaching allein",
+     "preisChf": 249,
+     "preisPraefix": "ab",
+     "text": "Wenn Sie noch nie ein Bleaching gemacht haben und die letzte Dentalhygiene nicht länger als ein halbes Jahr zurückliegt: Power Bleaching CHF 249.–, Power Bleaching plus CHF 299.– (Aktion: 249.–), Home-Bleaching-Schiene CHF 399.–.",
+     "link": {
+      "titel": "Bleaching ohne Dentalhygiene",
+      "ziel": "/bleaching/bleaching-ohne-dentalhygiene/"
+     },
+     "bild": {
+      "bild": "aktion-bleaching",
+      "alt": "Frau hält einen Zahnfarbring vor ihre Zähne"
+     }
+    }
+   ]
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bsnu",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bnm",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "snn",
+       "text": "Lachen war noch nie einfacher",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bno",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "snp",
+       "text": "Schnell und effizient zu weissen Zähnen: Das HEYDENT Power Bleaching plus zum Aktionspreis von CHF 249.– (statt CHF 299.– gemäss Preisliste). Tipp der Praxis: das Kombipaket Dentalhygiene & Power Bleaching für CHF 399.–.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bnq",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "snr",
+       "text": "Power Bleaching darf nur in einer Dentalhygiene- oder Zahnarztpraxis durchgeführt werden – nur zahnmedizinisches Fachpersonal darf ein Power Bleaching durchführen. Es werden 20 Zähne (4 Quadranten je 5 Zähne) aufgehellt, keine Backenzähne (AGB).",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bns",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "snt",
+       "text": "Melden Sie sich für Ihr Bleaching an: 043 931 78 74 oder 076 460 38 10.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "bild": {
+    "bild": "aktion-1",
+    "alt": "Lachende Frau formt mit den Händen einen Rahmen"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsnv",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Aktion nutzen",
+   "text": "Online buchen über Cituro oder telefonisch. Die Aktion hat auf der bisherigen Website kein Enddatum; die Praxis bestätigt Gültigkeit und Bedingungen.",
+   "zweiterKnopf": {
+    "titel": "Alle Preise",
+    "ziel": "/preise/"
+   }
+  }
+ ]
+}

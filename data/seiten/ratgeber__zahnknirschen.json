@@ -1,0 +1,225 @@
+{
+ "id": "seite-ratgeber-zahnknirschen",
+ "art": "ratgeber",
+ "pruefstatus": "sprachlich-angepasst",
+ "slug": "ratgeber/zahnknirschen",
+ "titel": "Zahnknirschen: Zahn- und Kieferschäden vermeiden",
+ "teaser": "Zähneknirschend oder -pressend durch die Nacht: Auswirkungen, Anzeichen und was Zahnschienen und Entspannung bringen.",
+ "einleitung": "Unser unbewusster Stressabbau erfolgt in der Nacht über den Kiefer – und wir wissen nichts davon. Zähneknirschen wird eher wahrgenommen als Pressen mit dem Kiefer. Das Pressen fügt den Zähnen Schaden zu, kann aber auch zu Verspannungen oder Schmerzen führen. Entspannungsübungen und eine Zahnschiene bringen Abhilfe.",
+ "seoTitel": "Zahnknirschen und Zähnepressen – Schäden vermeiden",
+ "seoBeschreibung": "Zahnknirschen und Pressen in der Nacht: Auswirkungen auf Zähne und Kiefer, Anzeichen, Zahnschienen, Physiotherapie und Entspannungsübungen. Ratgeber von WHITE SMYLE.",
+ "bild": {
+  "bild": "knirschen-2",
+  "alt": "Mann fasst sich mit beiden Händen an den Kopf"
+ },
+ "alteUrls": [
+  "/zahnknirschen.html"
+ ],
+ "quelle": "whitesmyle.ch/zahnknirschen.html",
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bs1c0",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1bg",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1bh",
+       "text": "Wie wirken sich Probleme auf unsere Zähne aus?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1bi",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1bj",
+       "text": "Der Spruch «etwas zähneknirschend zu machen» heisst oft, dass wir etwas ungern tun und unseren Unmut unterdrücken. Diese unterdrückten Dinge verarbeiten wir oft nachts über den Kiefer. Das Knirschen ist nicht so schlimm, ausser es hält über längere Zeiträume an. Hingegen schädigt das Pressen mit den Zähnen Zähne und Kiefergelenke und erzeugt Verspannungen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1bk",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1bl",
+       "text": "Am Morgen brummt der Kopf und der Nacken ist verspannt",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1bm",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1bn",
+       "text": "Langfristig geht die nächtliche Kieferaktivität an die Zahnsubstanz. Beim Knirschen wird die oberste Zahnsubstanz weggerieben und legt das Dentin frei, eine weichere Zahnschicht, die wesentlich anfälliger für Karies und Folgeerscheinungen ist. Der ständige Druck durch Pressen kann in den Zähnen Risse verursachen und Verspannungen, die sich am Morgen durch Kopf-, Nacken- oder Schulterschmerzen bemerkbar machen. In speziellen Fällen kann sogar ein anhaltendes Ohrensausen (Tinnitus) ausgelöst werden; Schwindel, Migräne oder Augenprobleme können ebenfalls auftreten.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1bo",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1bp",
+       "text": "Zahnschienen und Entspannungsübungen helfen",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1bq",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1br",
+       "text": "Gegen das Knirschen und Pressen helfen Zahnschienen, die individuell hergestellt werden müssen. Eine professionelle Aufbiss-Schiene (Michigan-Schiene) ist eine Kunststoffschiene, die nachts getragen wird, zur Entspannung beiträgt und Zahn- oder Kieferschäden verhindert. Abhilfe bei Verspannungen der Kiefergelenksmuskulatur schafft auch eine Physiotherapie: Dehn- und Lockerungsübungen lösen Verspannungen und entkrampfen die Muskeln. Mehrmals täglich den Mund weit öffnen dehnt die Muskulatur, und mit einer Selbstmassage der Kieferpartie relaxen die Kaumuskeln.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1bs",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1bt",
+       "text": "Knirsche ich?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1bu",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1bv",
+       "text": "Wer herausfinden möchte, ob er nachts mit den Zähnen knirscht oder presst, kann sich beim Zahnarzt untersuchen lassen. Anzeichen sind Kopf-, Nacken- oder Kieferschmerzen sowie Schleifspuren an den Zähnen. Falls eine Nachtschiene notwendig ist, werden Abdrücke von Ober- und Unterkiefer genommen oder ein Scan mit dem Intraoralscanner gemacht, sodass eine Schiene im Zahnlabor hergestellt werden kann. Meist eine Woche danach kann die Schiene abgeholt werden; kleinere Anpassungen nimmt der Zahnarzt vor.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1bw",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1bx",
+       "text": "Das Tragen einer Nachtschiene für die Erhaltung der Zähne",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1by",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1bz",
+       "text": "Der langfristige Schutz der Zähne ist durch eine Zahnschiene gewährleistet. Die ersten Tage ist es noch ungewohnt, aber nach einigen Tagen setzt der Gewohnheitseffekt ein und es fühlt sich ganz normal an. Schützen Sie Ihre Zähne nachts vor Pressen und Knirschen – es lohnt sich für Ihren Zahnerhalt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "bild": {
+    "bild": "knirschen-4",
+    "alt": "Person setzt eine transparente Zahnschiene ein"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bs1c3",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1c1",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1c2",
+       "text": "Die Untersuchung auf Knirschen und die Anfertigung einer Schiene beschreibt die bisherige Website als zahnärztliche Leistung. Ob WHITE SMYLE die Schiene selbst anbietet oder an einen Zahnarzt verweist, ist dort nicht eindeutig – die Praxis gibt Auskunft. Die Dentalhygiene umfasst laut Praxis eine Beratung zur Vorbeugung bei Knirschen und Pressen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "art": "info"
+  },
+  {
+   "_type": "galerieBaustein",
+   "_key": "bs1c4",
+   "titel": "Entspannung",
+   "bilder": [
+    {
+     "bild": "knirschen-3",
+     "alt": "Frau in entspannter Haltung mit geschlossenen Augen"
+    },
+    {
+     "bild": "knirschen-1",
+     "alt": "Frau lächelt mit geschlossenen Augen"
+    }
+   ],
+   "hinweis": "Symbolbilder der bisherigen Website."
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bs1c5",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Untersuchung vereinbaren",
+   "text": "Klären Sie ab, ob eine Knirschschiene für Sie in Frage kommt. Telefon 043 931 78 74; SMS, Telegram, Signal oder WhatsApp: 076 460 38 10.",
+   "zweiterKnopf": {
+    "titel": "Fragen zur Vorbereitung",
+    "ziel": "/tests/zahnknirsch-test/"
+   }
+  }
+ ]
+}

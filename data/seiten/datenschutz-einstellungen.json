@@ -1,0 +1,75 @@
+{
+ "id": "seite-datenschutz-einstellungen",
+ "slug": "datenschutz-einstellungen",
+ "art": "rechtliches",
+ "titel": "Cookie-Einstellungen",
+ "teaser": "Einwilligung für externe Medien (Google Maps, YouTube) ansehen, ändern oder widerrufen.",
+ "einleitung": "Diese Website setzt keine Cookies. Gespeichert wird nur Ihre Entscheidung zu externen Medien – hier können Sie sie ändern oder widerrufen.",
+ "seoTitel": "Cookie- und Datenschutz-Einstellungen",
+ "seoBeschreibung": "Einwilligung für externe Medien (Google Maps, YouTube) auf der Demo-Website ansehen, ändern oder widerrufen.",
+ "alteUrls": [],
+ "quelle": "neu für die Demo",
+ "bausteine": [
+  {
+   "_type": "datenschutzEinstellungenBaustein",
+   "_key": "bs1mp",
+   "titel": "Ihre Einstellungen"
+  },
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bs1mx",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1mq",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1mr",
+       "text": "Es gibt genau eine optionale Kategorie: ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s1ms",
+       "text": "Externe Medien",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1mt",
+       "text": " (Standortkarte von Google Maps auf der Kontaktseite, YouTube-Videos in zwei Ratgebern). Alles andere auf dieser Website funktioniert ohne externe Dienste. Details in der ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s1mv",
+       "text": "Datenschutzerklärung",
+       "marks": [
+        "l1mu"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1mw",
+       "text": ".",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l1mu",
+       "href": "/datenschutz/",
+       "extern": false
+      }
+     ]
+    }
+   ],
+   "art": "info"
+  }
+ ]
+}

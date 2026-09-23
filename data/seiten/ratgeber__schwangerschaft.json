@@ -1,0 +1,396 @@
+{
+ "id": "seite-ratgeber-schwangerschaft",
+ "art": "ratgeber",
+ "pruefstatus": "sprachlich-angepasst",
+ "slug": "ratgeber/schwangerschaft",
+ "titel": "Dentalhygiene in der Schwangerschaft",
+ "teaser": "Warum Parodontitis in der Schwangerschaft besondere Aufmerksamkeit braucht – und der Präventionsplan der Praxis.",
+ "einleitung": "Ein gesundes Baby ist eine wahre Freude. Der Einfluss von Parodontitis auf die Schwangerschaft wird seit zwei Jahrzehnten untersucht – Grund genug für Zahnprävention, Aufklärung und zahnmedizinische Betreuung schwangerer Frauen.",
+ "seoTitel": "Dentalhygiene in der Schwangerschaft – Parodontitis und Baby",
+ "seoBeschreibung": "Dentalhygiene in der Schwangerschaft: Zusammenhang Parodontitis, Frühgeburt und Geburtsgewicht, Präventionsplan nach Schwangerschaftsdrittel.",
+ "bild": {
+  "bild": "schwangerschaft-hero",
+  "alt": "Schwangere Frau hält ein Kleid über den Bauch"
+ },
+ "alteUrls": [
+  "/schwangerschaft.html"
+ ],
+ "quelle": "whitesmyle.ch/schwangerschaft.html, /aktuelle-dental-tipps.html",
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bs1ap",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1a5",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1a6",
+       "text": "Der Einfluss von Parodontitis auf die Schwangerschaft",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1a7",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1a8",
+       "text": "Parodontologen beschäftigen sich seit zwei Jahrzehnten mit dem Einfluss von Parodontitis auf die Schwangerschaft im Zusammenhang mit vermindertem Geburtsgewicht und frühzeitiger Geburt. Aus diesem Grund ist die Zahnprävention, die Aufklärung und die zahnmedizinische Betreuung schwangerer Frauen ein Muss, um Mutter und Kind zu schützen und das gesunde Wachstum des Kindes zu gewährleisten.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1a9",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1aa",
+       "text": "Entzündungen in der Schwangerschaft",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1ab",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1ac",
+       "text": "Schon 1891 wurde ein wissenschaftlicher Artikel über den Einfluss peripherer Entzündungsherde veröffentlicht (nicht die Hauptorgane betreffende Entzündungen, wie z. B. im Mund). Diese können dazu beitragen, in anderen Organen eine Krankheit zu fördern oder anzustossen – wobei der Mund ein Entzündungsherd sein kann.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1ad",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1ae",
+       "text": "Siebenfach erhöhtes Risiko für parodontale Erkrankungen",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1af",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1ag",
+       "text": "Das Risiko einer parodontalen Erkrankung ist während der Schwangerschaft erhöht. Eine Gingivitis (Zahnfleischentzündung) kann bei schwangeren Frauen aus noch ungeklärten Gründen auftreten; eine Erklärung ist der erheblich veränderte Hormonhaushalt, auch immunologische Mechanismen werden in Betracht gezogen. So reagieren schwangere Frauen empfindlicher auf die übliche bakterielle Last im Mund.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1ah",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1ai",
+       "text": "Wie können Mundinfektionen den Fötus gefährden?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1aj",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1ak",
+       "text": "Bei einer parodontalen Infektion erreichen die Bakterien auf dem Weg der Zahnfleischtaschen (Spalt zwischen Zahnwurzel und umliegendem Gewebe) die Blutgefässe und können so ihren Weg zu verschiedenen Organen finden, auch zur Plazenta. Eine gesunde Plazenta ist für die Entwicklung des Kindes ein wichtiger Faktor.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1al",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1am",
+       "text": "Schädigung der Plazenta durch parodontale Erkrankungen",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1an",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1ao",
+       "text": "Der vermutete Zusammenhang zwischen parodontalen Erkrankungen und niedrigem Geburtsgewicht: Die chronische Parodontitis kann eine Entzündungsreaktion auslösen, die die Plazenta schädigen und deren Blutversorgung beeinträchtigen kann. Frauen, die an Parodontitis erkrankt sind, haben laut der zitierten Quelle ein siebenfach höheres Risiko für eine Frühgeburt oder die Geburt eines Kindes mit vermindertem Geburtsgewicht.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "bild": {
+    "bild": "schwangerschaft-3",
+    "alt": "Hand mit Stethoskop am Bauch einer Schwangeren; Schriftzug «Zahngesundheit für ein gesundes Baby»"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "ablaufBaustein",
+   "_key": "bs1aq",
+   "titel": "Der Schwangerschafts-Präventionsplan der Praxis",
+   "einleitung": "Die bisherige Website nennt zwei leicht unterschiedliche Fassungen des Plans; beide sind hier zusammengeführt. Die Behandlung im Einzelfall richtet sich nach der Diagnose.",
+   "schritte": [
+    {
+     "_key": "s1",
+     "titel": "1.–3. Monat",
+     "text": "Beratung, Prävention und Behandlung von Gingivitis, Parodontitis, Zahnerosionen und Karies. Eine gründliche Dentalhygiene mit Reinigung zwischen Zahn und Zahnfleisch und Beseitigung von Zahnfleischentzündungen. Möglichst natürliche Zahnpasten; Zahnpasten mit Hydroxylapatit schützen laut Praxis vor Zahnschmelzverlust."
+    },
+    {
+     "_key": "s2",
+     "titel": "4.–6. Monat",
+     "text": "Die Übelkeit ist meist verschwunden: professionelle Zahnreinigung und Instruktion für die Mundhygiene zu Hause, Behandlung, wenn bei gegebener Diagnose notwendig."
+    },
+    {
+     "_key": "s3",
+     "titel": "7.–9. Monat",
+     "text": "Einschränkung bei der Patientenlagerung: Beratung zur Zahn- und Mundgesundheit und zur Prophylaxe des werdenden Kindes. Eine kurze Zahnreinigung vor der Geburt hilft, die erste Zeit nach der Geburt mit gesunden Zähnen und gesundem Zahnfleisch zu überbrücken."
+    }
+   ]
+  },
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bs1ax",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1ar",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1as",
+       "text": "Bleaching in der Schwangerschaft:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1at",
+       "text": " Während Schwangerschaft und Stillzeit empfiehlt die Praxis grundsätzlich kein klassisches Bleaching mit Wasserstoffperoxid (siehe ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s1av",
+       "text": "Bleaching-Fakten",
+       "marks": [
+        "l1au"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1aw",
+       "text": ").",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l1au",
+       "href": "/ratgeber/zahnbleaching/",
+       "extern": false
+      }
+     ]
+    }
+   ],
+   "art": "medizinisch"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs1be",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1ay",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1az",
+       "text": "Definitionen",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1b0",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1b1",
+       "text": "Gingivitis:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1b2",
+       "text": " Oberflächenentzündung des Zahnfleischs",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b1b3",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1b4",
+       "text": "Parodontitis:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1b5",
+       "text": " bakterielle Infektion des Zahnhalteapparats, der die Zähne umgebenden Gewebe und des Kieferknochens",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b1b6",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1b7",
+       "text": "Zahnerosionen:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1b8",
+       "text": " Verlust von Zahnhartsubstanz durch den Einfluss chemischer Prozesse ohne Beteiligung von Mikroorganismen",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b1b9",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1ba",
+       "text": "Karies:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1bb",
+       "text": " akuter oder chronischer Zerfall der harten Substanz der Zähne",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b1bc",
+     "style": "quelle",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1bd",
+       "text": "Quelle laut Praxis: Zusammenfassung des Artikels aus dem Swiss Dental Journal 07-08/2019, Zusammenfassung durch Dr. med. dent. HU Gabriella Molnar. Originalartikel von Jasmina Opacic, Alejandra Maldonado, Christoph A. Ramseier (Klinik für Parodontologie, Zahnmedizinische Kliniken der Universität Bern) und Oliver Laugisch (Philipps-Universität Marburg; ACTA Amsterdam). Korrespondenz: PD Dr. med. dent. Christoph A. Ramseier, MAS, Universität Bern.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "breite": "schmal",
+   "bild": {
+    "bild": "schwangerschaft-2",
+    "alt": "Dentalhygienikerin behandelt eine Patientin"
+   }
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bs1bf",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Dentalhygiene- oder Beratungstermin",
+   "text": "Vereinbaren Sie noch heute Ihren Termin: 043 931 78 74 oder 076 460 38 10.",
+   "zweiterKnopf": {
+    "titel": "Kontakt",
+    "ziel": "/kontakt/"
+   }
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "seite-tests-zahnknirsch-test",
+ "slug": "tests/zahnknirsch-test",
+ "art": "fragebogen",
+ "titel": "Zahnknirsch-Test",
+ "teaser": "Beeinflusst Knirschen Ihre Zahngesundheit? Anzeichen, die die Praxis abfragt.",
+ "einleitung": "Diese Fragen stellt die Praxis im Fragebogen «Zahnknirsch-Test». Hier nur zum Lesen – ohne Eingabe, Auswertung oder Speicherung.",
+ "seoTitel": "Zahnknirsch-Test – Fragen zur Vorbereitung",
+ "seoBeschreibung": "Beeinflusst Knirschen Ihre Zahngesundheit? Anzeichen, die die Praxis abfragt.",
+ "alteUrls": [
+  "/zahn-knirsch-test.html"
+ ],
+ "quelle": "whitesmyle.ch/zahn-knirsch-test.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "fragebogenBaustein",
+   "_key": "bsq6",
+   "fragebogen": "fb-knirschen",
+   "titel": "Zahnknirsch-Test"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsq7",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Direkt besprechen",
+   "text": "Termin buchen oder anrufen: 043 931 78 74.",
+   "zweiterKnopf": {
+    "titel": "Alle Fragebögen",
+    "ziel": "/tests/"
+   }
+  }
+ ]
+}

@@ -1,0 +1,268 @@
+{
+ "id": "seite-ratgeber-anbieterauswahl",
+ "art": "ratgeber",
+ "pruefstatus": "sprachlich-angepasst",
+ "slug": "ratgeber/anbieterauswahl",
+ "titel": "Anbieterauswahl: Tipps für Dentalhygiene und Bleaching",
+ "teaser": "Dentalhygienikerin, Zahnarzt, Prophylaxeassistentin oder Kosmetikerin? Worauf Sie bei der Wahl achten sollten.",
+ "einleitung": "Tipps der Praxis, damit Ihre Dentalhygiene- und Bleaching-Behandlung ein Erfolg wird.",
+ "seoTitel": "Anbieterauswahl Dentalhygiene und Bleaching – worauf achten?",
+ "seoBeschreibung": "Dentalhygienikerin oder Prophylaxeassistentin, Kosmetikinstitut oder Dentalpraxis beim Bleaching: Tipps der Praxis WHITE SMYLE zur Auswahl des richtigen Anbieters.",
+ "bild": {
+  "bild": "anbieterauswahl",
+  "alt": "Zahnärztliches Team mit Patientin"
+ },
+ "alteUrls": [
+  "/anbieterauswahl.html"
+ ],
+ "quelle": "whitesmyle.ch/anbieterauswahl.html",
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bsw5",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bvb",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "svc",
+       "text": "Dentalhygienikerin, Zahnarzt, Prophylaxeassistentin oder Kosmetikerin?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bvd",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sve",
+       "text": "Bei der professionellen Zahnreinigung ist es gut, sich zu vergewissern, ob Sie von einer Dentalhygienikerin (DH) oder von einer Prophylaxeassistentin (PA) behandelt werden. Die Preise für eine Behandlung bei einer Prophylaxeassistentin liegen laut Praxis bei CHF 80 bis 120, bei einer Dentalhygienikerin meist ab CHF 140 bis 250. Ausschlaggebend ist die Qualität der Leistung. Wenn der Zahnarzt persönlich die Zahnreinigung durchführt, ist dies nach Ansicht der Praxis ebenfalls nicht die Qualität, die von einer extra dafür ausgebildeten Dentalhygienikerin erbracht werden kann.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bvf",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "svg",
+       "text": "Der Artikel im Tages-Anzeiger ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "svi",
+       "text": "«Was, wenn die Dentalhygiene gar keine ist?»",
+       "marks": [
+        "lvh"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "svj",
+       "text": " beschreibt die Konsequenzen der Unwissenheit über den Ausbildungsstandard von zahnmedizinischem Personal. So heisst es dort: «Prophylaxeassistentinnen kosten Zahnärzte deutlich weniger als ausgebildete Dentalhygienikerinnen. Viele Patienten kennen die Unterschiede nicht, zahlen zu viel und tragen die Schäden.»",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "lvh",
+       "href": "https://www.tagesanzeiger.ch/zuerich/region/Was-wenn-die-Dentalhygiene-gar-keine-ist/story/16566365",
+       "extern": true
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "bvk",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "svl",
+       "text": "Bleaching: nur zahnmedizinisches Fachpersonal für tiefenwirksame Methoden",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bvm",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "svn",
+       "text": "Kosmetische Institute dürfen nicht mit Bleaching-Methoden arbeiten, die mehr als 6 % Wasserstoffperoxid enthalten. Seien Sie vorsichtig, wenn ein Kosmetikinstitut mit Power Bleaching wirbt: Ein Power Bleaching hat meist zwischen 25 und 40 % Wasserstoffperoxid als Wirkstoff, der für die intensive und lang anhaltende Zahnaufhellung notwendig ist. Nur Dentalpraxen dürfen tiefenwirksame Bleaching-Methoden mit starker Aufhellung verwenden; nur zahnmedizinisch ausgebildetes Fachpersonal darf Zahnaufhellungen mit mehr als 6 % Wasserstoffperoxid durchführen. Zahnoberflächenbehandlungen können auch Kosmetikinstitute durchführen – diese sind sehr sanft, die Haltbarkeit ist jedoch nur gering, da die Oberflächen schnell wieder Verfärbungen annehmen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bvo",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "svp",
+       "text": "Worauf Sie bei der Auswahl achten können",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bvq",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "svr",
+       "text": "Die richtigen Pflegeprodukte im Angebot?",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "svs",
+       "text": " Auch nach der Dentalhygiene ist es wichtig, für den täglichen Bedarf die richtigen Pflegeprodukte zu benutzen. Ein breites Angebot an Zahnpasten, Mundspülungen, Zahnseide und anderen Artikeln ist nach Ansicht der Praxis ein Qualitätszeichen.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bvt",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "svu",
+       "text": "Berücksichtigung Ihrer zahnmedizinischen Situation?",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "svv",
+       "text": " Wenn Sie sich für ein Bleaching entscheiden, muss zuerst Ihre zahnmedizinische Situation berücksichtigt und ein entsprechendes Bleaching empfohlen werden.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bvw",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "svx",
+       "text": "Umsetzung Ihrer Aufhellungswünsche?",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "svy",
+       "text": " Welche Vorstellung haben Sie, und wie kann sie umgesetzt werden? Ein wichtiger Punkt bei der Auswahl des richtigen Bleaching-Gels.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bvz",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sw0",
+       "text": "Bleaching-Profi oder nicht?",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sw1",
+       "text": " Fragen Sie, wie viele Bleaching-Behandlungen pro Jahr in der Praxis gemacht werden. Nur durch Erfahrung und Routine kann gut beraten werden. WHITE SMYLE macht nach eigener Angabe rund 800 Bleaching-Behandlungen pro Jahr.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bw2",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sw3",
+       "text": "Welche Bleaching-Methoden im Angebot?",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sw4",
+       "text": " Ein Anbieter sollte mehrere Bleaching-Methoden mit verschiedenen Funktionen anbieten, damit Sie das gewünschte Ergebnis erhalten.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsw6",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Beratung bei WHITE SMYLE",
+   "text": "Dentalhygiene nur durch die dipl. Dentalhygienikerin HF, Bleaching in der Praxis mit medizinischem Bleaching-Gel.",
+   "zweiterKnopf": {
+    "titel": "Ratgeber DH oder PA",
+    "ziel": "/ratgeber/dentalhygienikerin-oder-prophylaxeassistentin/"
+   }
+  }
+ ]
+}

@@ -1,0 +1,684 @@
+{
+ "id": "seite-dentalhygiene-fragen-und-antworten",
+ "slug": "dentalhygiene/fragen-und-antworten",
+ "art": "leistung",
+ "titel": "Dentalhygiene: Fragen und Antworten",
+ "teaser": "Verständliche Antworten zu Ablauf, Kosten, Airflow, Parodontitis, Häufigkeit und Vorteilen der Dentalhygiene.",
+ "einleitung": "Viele Menschen haben Fragen rund um Dentalhygiene, Zahnstein, Zahnfleischbluten oder professionelle Zahnreinigung. Hier finden Sie verständliche Antworten zu Ablauf, Kosten, Airflow, Parodontitis, Häufigkeit und den Vorteilen regelmässiger Dentalhygiene.",
+ "seoTitel": "Dentalhygiene FAQ Zürich – häufige Fragen und Antworten",
+ "seoBeschreibung": "Alles über professionelle Dentalhygiene, Zahnsteinentfernung, Airflow und gesundes Zahnfleisch. Verständliche Antworten auf häufige Fragen – WHITE SMYLE dental Zürich.",
+ "bild": {
+  "bild": "faq-hero",
+  "alt": "Frau beisst in einen grünen Apfel, Schriftzug «good to know»"
+ },
+ "alteUrls": [
+  "/q--a-dentalhygiene.html"
+ ],
+ "quelle": "whitesmyle.ch/q--a-dentalhygiene.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "faqBaustein",
+   "_key": "bsa3",
+   "titel": "Zahnstein, Atem, Zahnfleisch",
+   "fragen": [
+    {
+     "_key": "f9i",
+     "frage": "Warum habe ich trotz Putzen Zahnstein?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b9j",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s9k",
+         "text": "Auch gründliches Zähneputzen entfernt nicht alle Beläge – besonders in Zahnzwischenräumen oder unter dem Zahnfleisch. Dort kann sich Plaque verhärten und zu Zahnstein werden, der nur professionell entfernt werden kann.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f9l",
+     "frage": "Warum riecht mein Atem trotz Zähneputzen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b9m",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s9n",
+         "text": "Mundgeruch entsteht häufig durch Bakterien in Zahnzwischenräumen, auf der Zunge oder unter dem Zahnfleisch. Normales Putzen erreicht diese Bereiche oft nicht vollständig. Eine professionelle Dentalhygiene reduziert bakterielle Beläge gezielt.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f9o",
+     "frage": "Wieso blutet mein Zahnfleisch?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b9p",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s9q",
+         "text": "Zahnfleischbluten ist meist ein Zeichen von Entzündungen durch Bakterien oder Zahnstein. Gesundes Zahnfleisch sollte beim Putzen normalerweise nicht bluten. Frühzeitige Dentalhygiene hilft, Entzündungen zu stoppen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f9r",
+     "frage": "Warum blutet Zahnfleisch nach der Dentalhygiene manchmal leicht?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b9s",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s9t",
+         "text": "Leichtes Zahnfleischbluten kann auftreten, wenn bereits Entzündungen vorhanden waren. Nach der Entfernung von Bakterien und Zahnstein beruhigt sich das Zahnfleisch meist innerhalb kurzer Zeit.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f9u",
+     "frage": "Warum entzündet sich Zahnfleisch trotz Putzen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b9v",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s9w",
+         "text": "Selbst gründliches Putzen erreicht nicht alle Bereiche im Mund. Besonders Zahnzwischenräume und Stellen unter dem Zahnfleisch bieten Bakterien ideale Bedingungen für Entzündungen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f9x",
+     "frage": "Warum fühlen sich meine Zähne rau an?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b9y",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s9z",
+         "text": "Raue Zahnoberflächen entstehen häufig durch Beläge, Zahnstein oder Verfärbungen. Nach einer professionellen Dentalhygiene fühlen sich die Zähne wieder glatt und sauber an.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fa0",
+     "frage": "Was passiert, wenn Zahnstein nicht entfernt wird?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "ba1",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sa2",
+         "text": "Unbehandelter Zahnstein fördert Entzündungen, Zahnfleischbluten, Mundgeruch und langfristig Parodontitis. Im schlimmsten Fall kann dies zu Knochenabbau und Zahnverlust führen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ],
+   "anker": "zahnstein"
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bsay",
+   "titel": "Behandlung, Häufigkeit, Kosten",
+   "fragen": [
+    {
+     "_key": "fa4",
+     "frage": "Wie oft brauche ich wirklich Dentalhygiene?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "ba5",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sa6",
+         "text": "Für die meisten Menschen werden 1–2 Behandlungen pro Jahr empfohlen. Bei empfindlichem Zahnfleisch, Parodontitis, Implantaten oder Rauchgewohnheiten können häufigere Termine sinnvoll sein.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fa7",
+     "frage": "Reicht normales Putzen nicht aus?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "ba8",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sa9",
+         "text": "Nein. Zahnbürsten reinigen vor allem sichtbare Oberflächen. Bereiche unter dem Zahnfleisch, zwischen den Zähnen oder rund um Kronen und Implantate benötigen oft eine professionelle Tiefenreinigung.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "faa",
+     "frage": "Ist Dentalhygiene schmerzhaft?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bab",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sac",
+         "text": "Moderne Dentalhygiene ist heute besonders schonend und in den meisten Fällen nahezu schmerzfrei. Empfindliche Bereiche werden individuell berücksichtigt, damit die Behandlung möglichst angenehm verläuft.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fad",
+     "frage": "Ist Dentalhygiene auch bei empfindlichen Zähnen möglich?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bae",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "saf",
+         "text": "Ja. Moderne Methoden wie Airflow oder schonende Handinstrumente ermöglichen eine sanfte Reinigung auch bei empfindlichen Zähnen oder sensiblem Zahnfleisch.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fag",
+     "frage": "Ist Dentalhygiene auch für Angstpatientinnen und -patienten geeignet?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bah",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sai",
+         "text": "Ja. Gerade sie profitieren von einer ruhigen, sanften und verständnisvollen Behandlung. Moderne Methoden ermöglichen eine entspannte Dentalhygiene ohne unangenehme Erfahrungen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "faj",
+     "frage": "Wird die Behandlung individuell auf mich abgestimmt?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bak",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sal",
+         "text": "Jede Mundsituation ist anders. Deshalb werden Reinigung, Intensität und Pflegeempfehlungen individuell an Zahnfleisch, Zahngesundheit, Implantate oder empfindliche Stellen angepasst.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fam",
+     "frage": "Wie lange dauert eine Dentalhygiene?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "ban",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sao",
+         "text": "Je nach Aufwand dauert eine Behandlung meist zwischen 45 und 90 Minuten. Faktoren wie Zahnstein, Verfärbungen oder empfindliches Zahnfleisch beeinflussen die Dauer.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fap",
+     "frage": "Was kostet Dentalhygiene in Zürich?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "baq",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sar",
+         "text": "Die Kosten variieren je nach Aufwand, Dauer und individueller Mundsituation. Bei regelmässiger Dentalhygiene liegen die Preise in Zürich laut Praxis zwischen CHF 170 und 230. Bei WHITE SMYLE: CHF 175.– (",
+         "marks": []
+        },
+        {
+         "_type": "span",
+         "_key": "sat",
+         "text": "Preise",
+         "marks": [
+          "las"
+         ]
+        },
+        {
+         "_type": "span",
+         "_key": "sau",
+         "text": ").",
+         "marks": []
+        }
+       ],
+       "markDefs": [
+        {
+         "_type": "link",
+         "_key": "las",
+         "href": "/preise/",
+         "extern": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "_key": "fav",
+     "frage": "Ist Dentalhygiene wirklich notwendig?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "baw",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sax",
+         "text": "Ja. Selbst bei guter Mundhygiene entstehen Beläge an schwer erreichbaren Stellen. Professionelle Dentalhygiene hilft, Zahnstein, Entzündungen und langfristige Schäden frühzeitig zu verhindern.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ],
+   "anker": "behandlung"
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bsc5",
+   "titel": "Airflow, Parodontitis, Bleaching",
+   "fragen": [
+    {
+     "_key": "faz",
+     "frage": "Was ist moderne Airflow-Technologie?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bb0",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sb1",
+         "text": "Airflow ist eine besonders schonende Reinigungsmethode mit feinem Pulver, Wasser und Luft. Verfärbungen und weiche Beläge können sanft entfernt werden – auch an schwer erreichbaren Stellen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fb2",
+     "frage": "Ist Airflow schädlich für die Zähne?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bb3",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sb4",
+         "text": "Nein. Moderne Airflow-Technologie gilt als besonders schonend. Verfärbungen und weiche Beläge werden sanft entfernt, ohne die Zahnoberfläche unnötig zu belasten.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fb5",
+     "frage": "Wie oft sollte Airflow gemacht werden?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bb6",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sb7",
+         "text": "Airflow wird häufig im Rahmen der regelmässigen Dentalhygiene durchgeführt. Wie oft dies sinnvoll ist, hängt von Verfärbungen, Kaffee-, Tee- oder Nikotinkonsum sowie der individuellen Mundgesundheit ab.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fb8",
+     "frage": "Kann man Parodontitis stoppen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bb9",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sba",
+         "text": "Wird Parodontitis früh erkannt, kann das Fortschreiten meist deutlich verlangsamt oder gestoppt werden. Entscheidend sind regelmässige Dentalhygiene, gute Mundpflege und Kontrollen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fbb",
+     "frage": "Wie erkennt man Parodontitis?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bbc",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sbd",
+         "text": "Warnzeichen können Zahnfleischbluten, Mundgeruch, empfindliches Zahnfleisch, Zahnfleischrückgang oder lockere Zähne sein. Oft entwickelt sich Parodontitis jedoch lange unbemerkt.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fbe",
+     "frage": "Wann braucht man eine Tiefenreinigung?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bbf",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sbg",
+         "text": "Eine Tiefenreinigung wird notwendig, wenn sich Bakterien und Zahnstein unter dem Zahnfleisch oder in tiefen Zahntaschen ansammeln. Ziel ist es, Entzündungen zu reduzieren und das Zahnfleisch zu stabilisieren.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fbh",
+     "frage": "Kann Dentalhygiene Karies vorbeugen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bbi",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sbj",
+         "text": "Ja. Durch die Entfernung von Plaque und bakteriellen Belägen wird das Risiko für Karies deutlich reduziert. Zusätzlich hilft die Behandlung dabei, Problemstellen frühzeitig zu erkennen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fbk",
+     "frage": "Warum sollte ich vor dem Bleaching eine Dentalhygiene machen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bbl",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sbm",
+         "text": "Vor einem Bleaching sollten Zahnstein, Beläge und Verfärbungen entfernt werden. Dadurch kann das Bleaching gleichmässiger wirken, und das Ergebnis hält oft länger an. Siehe ",
+         "marks": []
+        },
+        {
+         "_type": "span",
+         "_key": "sbo",
+         "text": "Kombipaket",
+         "marks": [
+          "lbn"
+         ]
+        },
+        {
+         "_type": "span",
+         "_key": "sbp",
+         "text": ".",
+         "marks": []
+        }
+       ],
+       "markDefs": [
+        {
+         "_type": "link",
+         "_key": "lbn",
+         "href": "/kombipaket/",
+         "extern": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "_key": "fbq",
+     "frage": "Können bei der Dentalhygiene Probleme früh erkannt werden?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bbr",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sbs",
+         "text": "Ja. Während der Behandlung werden Zahnfleisch, Zahnbeläge und mögliche Veränderungen kontrolliert. Früh erkannte Probleme lassen sich oft einfacher und schonender behandeln.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fbt",
+     "frage": "Was bedeutet medizinisch fundierte Dentalhygiene?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bbu",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sbv",
+         "text": "Dentalhygiene ist weit mehr als eine kosmetische Reinigung. Ziel ist die professionelle Entfernung von bakteriellen Belägen, um Entzündungen, Parodontitis und Folgeschäden vorzubeugen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fbw",
+     "frage": "Warum ist eine diplomierte Dentalhygienikerin wichtig?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bbx",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sby",
+         "text": "Eine diplomierte Dentalhygienikerin verfügt über spezialisierte Ausbildung und Erfahrung im Bereich Zahnfleischgesundheit, Prophylaxe und professionelle Tiefenreinigung. Mehr im Ratgeber ",
+         "marks": []
+        },
+        {
+         "_type": "span",
+         "_key": "sc0",
+         "text": "Dentalhygienikerin oder Prophylaxeassistentin",
+         "marks": [
+          "lbz"
+         ]
+        },
+        {
+         "_type": "span",
+         "_key": "sc1",
+         "text": ".",
+         "marks": []
+        }
+       ],
+       "markDefs": [
+        {
+         "_type": "link",
+         "_key": "lbz",
+         "href": "/ratgeber/dentalhygienikerin-oder-prophylaxeassistentin/",
+         "extern": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "_key": "fc2",
+     "frage": "Geht es bei Dentalhygiene nur um saubere Zähne?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bc3",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sc4",
+         "text": "Nein. Im Mittelpunkt steht vor allem gesundes Zahnfleisch. Denn gesundes Zahnfleisch bildet die Grundlage für stabile, schöne und langfristig gesunde Zähne.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ],
+   "anker": "airflow"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsc6",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Haben Sie weitere Fragen zur Dentalhygiene?",
+   "text": "Unser Team berät Sie gerne persönlich rund um Zahnfleischgesundheit, professionelle Zahnreinigung, Airflow und langfristigen Zahnerhalt.",
+   "zweiterKnopf": {
+    "titel": "Kontakt",
+    "ziel": "/kontakt/"
+   }
+  }
+ ]
+}

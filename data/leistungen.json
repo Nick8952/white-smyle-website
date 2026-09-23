@@ -1,0 +1,63 @@
+[
+  {
+    "id": "leistung-dentalhygiene", "titel": "Dentalhygiene", "kurztitel": "Dentalhygiene", "kategorie": "dentalhygiene", "seite": "/dentalhygiene/",
+    "kurzbeschreibung": "Gründliche Dentalhygiene durch die dipl. Dentalhygienikerin HF: Zahnstein und Beläge auch unter dem Zahnfleisch, Politur, Airflow auf Wunsch, Beratung und Instruktion. Empfehlung der Praxis: 1–2 Mal pro Jahr.",
+    "leistungsumfang": ["Gründliche Zahnsteinentfernung und Zahnreinigung mit Ultraschall, Handinstrument und Air-Flow (auf Wunsch auch ohne)", "Mundhygiene-Aufklärung, Beratung, Instruktion", "Befundaufnahme mit Kontrolle"],
+    "preisChf": 175, "preisArt": "fix", "dauer": "ca. 45–90 Minuten",
+    "voraussetzungen": [], "hinweise": ["Bei Patientinnen und Patienten mit speziellen Situationen können weitere Sitzungen notwendig sein.", "Die Karieskontrolle durch die Dentalhygienikerin ersetzt nicht die jährliche Kontrolle durch den Zahnarzt (AGB)."],
+    "bild": { "bild": "dh-behandlung", "alt": "Dentalhygiene-Behandlung: Dentalhygienikerin reinigt die Zähne einer Patientin" },
+    "reihenfolge": 1, "quelle": "whitesmyle.ch/preise.html, /dentalhygiene.html", "pruefstatus": "sprachlich-angepasst"
+  },
+  {
+    "id": "leistung-frontpolish", "titel": "Frontpolish (Dentalhygiene light)", "kurztitel": "Frontpolish", "kategorie": "dentalhygiene",
+    "kurzbeschreibung": "Der Frontbereich wird von Verfärbungen und Zahnstein gereinigt – ideal als Zusatzreinigung zwischendurch, zum Beispiel für Raucherinnen, Raucher und Kaffeetrinkende.",
+    "leistungsumfang": ["Entfernen von Zahnstein und Verfärbungen im Frontbereich", "Ultraschall, Air-Flow"],
+    "preisChf": 100, "preisArt": "fix", "dauer": "ca. 30 Minuten",
+    "voraussetzungen": [], "hinweise": [],
+    "reihenfolge": 2, "quelle": "whitesmyle.ch/preise.html, /dentalhygiene.html, /mundgesundheit-canabis.html (30 Minuten)", "pruefstatus": "sprachlich-angepasst"
+  },
+  {
+    "id": "leistung-kinder", "titel": "Zahnreinigung für Kinder und Jugendliche", "kurztitel": "Kinder-Zahnreinigung", "kategorie": "dentalhygiene", "seite": "/dentalhygiene/kinder/",
+    "kurzbeschreibung": "Sanfte Dentalhygiene für Kinder ab etwa 6 Jahren durch die Dentalhygienikerin: Plaque- und Zahnsteinentfernung, Karieskontrolle, spielerische Anleitung und Motivation.",
+    "leistungsumfang": ["Gründliche und tiefe Dentalhygiene", "Befundaufnahme und Karieskontrolle", "Mundhygiene-Aufklärung, Beratung und Instruktion"],
+    "preisArt": "anfrage", "dauer": "ca. 30–45 Minuten",
+    "voraussetzungen": [], "hinweise": ["Auf der bisherigen Website ist kein Preis für die Kinder-Zahnreinigung genannt."],
+    "reihenfolge": 3, "quelle": "whitesmyle.ch/dentalhygiene.html, /dentalhygienezurich.html, /dentalhygiene-kinder.html", "pruefstatus": "sprachlich-angepasst"
+  },
+  {
+    "id": "leistung-power-bleaching", "titel": "HEYDENT Power Bleaching", "kurztitel": "Power Bleaching", "kategorie": "bleaching", "seite": "/bleaching/power-bleaching/",
+    "kurzbeschreibung": "In-Office-Bleaching mit dem medizinischen HEYDENT Power Bleaching Gel (35 % Wasserstoffperoxid, Lichtaktivierung). Deutliche Aufhellung innerhalb einer Sitzung, nur durch zahnmedizinisches Fachpersonal.",
+    "leistungsumfang": ["Bleaching von 20 Zähnen (4 Quadranten je 5 Zähne, keine Backenzähne)", "Schutz von Zahnfleisch und Weichgewebe", "Lichtaktivierung des Gels"],
+    "preisChf": 249, "preisArt": "fix", "dauer": "ca. 60 Minuten",
+    "voraussetzungen": ["Letzte Dentalhygiene nicht länger als 6 Monate zurück (Raucherinnen und Raucher: 2–3 Monate), sonst Kombipaket"], "hinweise": [],
+    "bild": { "bild": "power-bleaching", "alt": "Grafik HEYDENT Power Bleaching mit lachendem Mann" },
+    "reihenfolge": 4, "quelle": "whitesmyle.ch/preise.html, /power-bleaching-zuerich.html, /bleaching-only.html, AGB", "pruefstatus": "sprachlich-angepasst"
+  },
+  {
+    "id": "leistung-power-bleaching-plus", "titel": "HEYDENT Power Bleaching plus", "kurztitel": "Power Bleaching plus", "kategorie": "bleaching", "seite": "/bleaching/power-bleaching/",
+    "kurzbeschreibung": "Das Premium-Bleaching der Praxis für maximale, sofort sichtbare Ergebnisse – ideal bei Kaffee-, Tee-, Nikotin- und anderen Verfärbungen.",
+    "leistungsumfang": ["Sichtbare Aufhellung nach einer Behandlung", "Professionelles High-End-System, schonende Formel", "Bleaching von 20 Zähnen (4 Quadranten je 5 Zähne, keine Backenzähne)"],
+    "preisChf": 299, "preisArt": "fix", "dauer": "ca. 60–90 Minuten",
+    "voraussetzungen": ["Letzte Dentalhygiene nicht länger als 6 Monate zurück (Raucherinnen und Raucher: 2–3 Monate), sonst Kombipaket"], "hinweise": ["Der Unterschied zwischen Power Bleaching und Power Bleaching plus ist auf der bisherigen Website nicht im Detail beschrieben – bitte von der Praxis ergänzen lassen."],
+    "bild": { "bild": "power-bleaching-plus", "alt": "Grafik HEYDENT Power Bleaching plus mit lachendem Mann" },
+    "reihenfolge": 5, "quelle": "whitesmyle.ch/preise.html, /bleaching.html", "pruefstatus": "sprachlich-angepasst"
+  },
+  {
+    "id": "leistung-refresher", "titel": "EXPRESS Refresher Bleaching", "kurztitel": "Refresher Bleaching", "kategorie": "bleaching", "seite": "/bleaching/",
+    "kurzbeschreibung": "Die schnelle Auffrischung für bereits aufgehellte Zähne: eine kurze Power-Sitzung bringt das Weiss zurück – nach Kaffee, Ferien oder längerer Zeit seit dem letzten Bleaching.",
+    "leistungsumfang": ["Kurze Power-Sitzung", "Für bereits gebleichte Zähne"],
+    "preisChf": 199, "preisArt": "fix", "dauer": "ca. 30–45 Minuten",
+    "voraussetzungen": ["Für bereits aufgehellte Zähne (Auffrischung)"], "hinweise": ["Die Praxis empfiehlt Auffrischungen alle 6–12 Monate (AGB)."],
+    "bild": { "bild": "refresher", "alt": "Grafik Refresher Express Bleaching mit lachender Frau" },
+    "reihenfolge": 6, "quelle": "whitesmyle.ch/preise.html, /bleaching.html", "pruefstatus": "sprachlich-angepasst"
+  },
+  {
+    "id": "leistung-home-bleaching", "titel": "Home Bleaching (Philips ZOOM)", "kurztitel": "Home Bleaching", "kategorie": "bleaching", "seite": "/bleaching/home-bleaching/",
+    "kurzbeschreibung": "Individuelle Bleaching-Schiene aus dem Zahnlabor für die Aufhellung zuhause mit professionellem Philips-ZOOM-Gel – als Ergänzung zum Power Bleaching, zur Auffrischung oder für die schrittweise Aufhellung.",
+    "leistungsumfang": ["Abdruck oder Scan der Zähne, Beratung (ca. 30 Minuten)", "Individuelle Bleaching-Schiene aus dem Dentallabor (Fertigstellung nach ca. 7 Tagen)"],
+    "preisChf": 399, "preisArt": "fix", "preisHinweis": "Individuelle Bleaching-Schiene, exkl. Gel. Bleaching-Gel Philips ZOOM: 1 Spritze CHF 15.–", "dauer": "Anwendung zuhause ca. 10–14 Tage",
+    "voraussetzungen": [], "hinweise": ["Ergebnis vergleichbar mit einem Power Bleaching erst nach rund 10–14 Tagen (Angabe der Praxis)."],
+    "bild": { "bild": "home-bleaching", "alt": "Grafik Home Bleaching System mit lachender Frau" },
+    "reihenfolge": 7, "quelle": "whitesmyle.ch/preise.html, /home-bleaching.html", "pruefstatus": "sprachlich-angepasst"
+  }
+]

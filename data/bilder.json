@@ -1,0 +1,2902 @@
+{
+  "hero-farbring": {
+    "id": "hero-farbring",
+    "original": "assets/originale/praxis/zahnfarbring-lachen.jpg",
+    "breite": 1072,
+    "hoehe": 649,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/hero-farbring-480-2219af19.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/hero-farbring-960-2cce29d5.webp"
+      },
+      {
+        "breite": 1072,
+        "url": "/bilder/hero-farbring-1072-8eefd662.webp"
+      }
+    ]
+  },
+  "start-dentalhygiene": {
+    "id": "start-dentalhygiene",
+    "original": "assets/originale/behandlung/dentalhygiene-krankenkassen.jpg",
+    "breite": 445,
+    "hoehe": 297,
+    "quellen": [
+      {
+        "breite": 445,
+        "url": "/bilder/start-dentalhygiene-445-3aa4e16f.webp"
+      }
+    ]
+  },
+  "start-bleaching": {
+    "id": "start-bleaching",
+    "original": "assets/originale/bleaching/vorher-nachher-1363.jpg",
+    "breite": 445,
+    "hoehe": 297,
+    "quellen": [
+      {
+        "breite": 445,
+        "url": "/bilder/start-bleaching-445-b7e81f4d.webp"
+      }
+    ]
+  },
+  "start-kombi": {
+    "id": "start-kombi",
+    "original": "assets/originale/bleaching/vorher-nachher-1314.jpg",
+    "breite": 575,
+    "hoehe": 383,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/start-kombi-480-f58dfff6.webp"
+      },
+      {
+        "breite": 575,
+        "url": "/bilder/start-kombi-575-73da8eeb.webp"
+      }
+    ]
+  },
+  "dh-behandlung": {
+    "id": "dh-behandlung",
+    "original": "assets/originale/behandlung/dentalhygiene-behandlung.jpg",
+    "breite": 554,
+    "hoehe": 369,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/dh-behandlung-480-22cf13bf.webp"
+      },
+      {
+        "breite": 554,
+        "url": "/bilder/dh-behandlung-554-96ee08d8.webp"
+      }
+    ]
+  },
+  "bleaching-lampe": {
+    "id": "bleaching-lampe",
+    "original": "assets/originale/bleaching/bleaching-lampe-213.jpg",
+    "breite": 511,
+    "hoehe": 372,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/bleaching-lampe-480-00476dd9.webp"
+      },
+      {
+        "breite": 511,
+        "url": "/bilder/bleaching-lampe-511-19db0ccd.webp"
+      }
+    ]
+  },
+  "power-bleaching": {
+    "id": "power-bleaching",
+    "original": "assets/originale/bleaching/heydent-power-bleaching.jpg",
+    "breite": 1100,
+    "hoehe": 618,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/power-bleaching-480-3e5efb42.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/power-bleaching-960-2563a2d8.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/power-bleaching-1100-2bc69d1a.webp"
+      }
+    ]
+  },
+  "power-bleaching-plus": {
+    "id": "power-bleaching-plus",
+    "original": "assets/originale/bleaching/heydent-power-bleaching-plus.jpg",
+    "breite": 1100,
+    "hoehe": 743,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/power-bleaching-plus-480-1745f5a2.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/power-bleaching-plus-960-e23b0f90.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/power-bleaching-plus-1100-607a6e91.webp"
+      }
+    ]
+  },
+  "refresher": {
+    "id": "refresher",
+    "original": "assets/originale/bleaching/refresher-express-bleaching.jpg",
+    "breite": 1100,
+    "hoehe": 743,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/refresher-480-f82e382d.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/refresher-960-63474278.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/refresher-1100-1794df3d.webp"
+      }
+    ]
+  },
+  "home-bleaching": {
+    "id": "home-bleaching",
+    "original": "assets/originale/bleaching/home-bleaching-system.jpg",
+    "breite": 1100,
+    "hoehe": 743,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/home-bleaching-480-17043984.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/home-bleaching-960-22ee3d7f.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/home-bleaching-1100-faaf4657.webp"
+      }
+    ]
+  },
+  "dh-hero": {
+    "id": "dh-hero",
+    "original": "assets/originale/behandlung/dentalhygiene-1315-2.jpg",
+    "breite": 1067,
+    "hoehe": 800,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/dh-hero-480-700f6ffc.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/dh-hero-960-70d6e6a6.webp"
+      },
+      {
+        "breite": 1067,
+        "url": "/bilder/dh-hero-1067-44ff6c8b.webp"
+      }
+    ]
+  },
+  "dh-zuerich": {
+    "id": "dh-zuerich",
+    "original": "assets/originale/behandlung/dentalhygiene-2024-05-03-2.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/dh-zuerich-480-3a1832ee.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/dh-zuerich-960-2a361907.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/dh-zuerich-1100-5e1b4434.webp"
+      }
+    ]
+  },
+  "zahnreinigung": {
+    "id": "zahnreinigung",
+    "original": "assets/originale/behandlung/dentalhygiene-1315-1.jpg",
+    "breite": 1067,
+    "hoehe": 800,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/zahnreinigung-480-6ac84ec9.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/zahnreinigung-960-3308eded.webp"
+      },
+      {
+        "breite": 1067,
+        "url": "/bilder/zahnreinigung-1067-de6acaed.webp"
+      }
+    ]
+  },
+  "dh-schritt-0": {
+    "id": "dh-schritt-0",
+    "original": "assets/originale/behandlung/dh-schritt-0.jpeg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/dh-schritt-0-480-93878fae.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/dh-schritt-0-960-d94ef1bd.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/dh-schritt-0-1100-9581b178.webp"
+      }
+    ]
+  },
+  "dh-schritt-1": {
+    "id": "dh-schritt-1",
+    "original": "assets/originale/behandlung/dh-schritt-1-ultraschall.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/dh-schritt-1-480-3299668a.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/dh-schritt-1-960-45a6952e.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/dh-schritt-1-1100-d9a54292.webp"
+      }
+    ]
+  },
+  "dh-schritt-2": {
+    "id": "dh-schritt-2",
+    "original": "assets/originale/behandlung/dh-schritt-2-handinstrument.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/dh-schritt-2-480-1a06229b.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/dh-schritt-2-960-6d2e4d74.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/dh-schritt-2-1100-bb9a9961.webp"
+      }
+    ]
+  },
+  "dh-schritt-3": {
+    "id": "dh-schritt-3",
+    "original": "assets/originale/behandlung/dh-schritt-3-sonde.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/dh-schritt-3-480-b1a2e481.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/dh-schritt-3-960-a8e030ed.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/dh-schritt-3-1100-089cbf20.webp"
+      }
+    ]
+  },
+  "dh-schritt-4": {
+    "id": "dh-schritt-4",
+    "original": "assets/originale/behandlung/dh-schritt-4-politur.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/dh-schritt-4-480-a6f3cd59.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/dh-schritt-4-960-c66d9632.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/dh-schritt-4-1100-99074550.webp"
+      }
+    ]
+  },
+  "dh-schritt-5": {
+    "id": "dh-schritt-5",
+    "original": "assets/originale/behandlung/dh-schritt-5-zwischenraum.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/dh-schritt-5-480-185ec867.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/dh-schritt-5-960-bc7a9f32.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/dh-schritt-5-1100-198668c0.webp"
+      }
+    ]
+  },
+  "dh-schritt-6": {
+    "id": "dh-schritt-6",
+    "original": "assets/originale/behandlung/dh-schritt-6-airflow.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/dh-schritt-6-480-8477a818.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/dh-schritt-6-960-51044e04.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/dh-schritt-6-1100-86e1a813.webp"
+      }
+    ]
+  },
+  "dh-instruktion": {
+    "id": "dh-instruktion",
+    "original": "assets/originale/behandlung/dh-schritt-7-instruktion.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/dh-instruktion-480-632214a4.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/dh-instruktion-960-9a19d2d9.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/dh-instruktion-1100-ada4fe8f.webp"
+      }
+    ]
+  },
+  "dh-abschluss": {
+    "id": "dh-abschluss",
+    "original": "assets/originale/behandlung/dh-abschluss.jpeg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/dh-abschluss-480-93878fae.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/dh-abschluss-960-d94ef1bd.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/dh-abschluss-1100-9581b178.webp"
+      }
+    ]
+  },
+  "dh-476": {
+    "id": "dh-476",
+    "original": "assets/originale/behandlung/dentalhygiene-476.jpg",
+    "breite": 764,
+    "hoehe": 509,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/dh-476-480-fefaa123.webp"
+      },
+      {
+        "breite": 764,
+        "url": "/bilder/dh-476-764-b4b9c3e9.webp"
+      }
+    ]
+  },
+  "you-love-it": {
+    "id": "you-love-it",
+    "original": "assets/originale/grafik/dentalhygiene-you-love-it.jpg",
+    "breite": 531,
+    "hoehe": 445,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/you-love-it-480-ef826070.webp"
+      },
+      {
+        "breite": 531,
+        "url": "/bilder/you-love-it-531-a84cbe62.webp"
+      }
+    ]
+  },
+  "zahnaufbau-1": {
+    "id": "zahnaufbau-1",
+    "original": "assets/originale/grafik/zahnaufbau-1-gesund.jpg",
+    "breite": 347,
+    "hoehe": 429,
+    "quellen": [
+      {
+        "breite": 320,
+        "url": "/bilder/zahnaufbau-1-320-cdd6114a.webp"
+      },
+      {
+        "breite": 347,
+        "url": "/bilder/zahnaufbau-1-347-e29b5343.webp"
+      }
+    ]
+  },
+  "zahnaufbau-2": {
+    "id": "zahnaufbau-2",
+    "original": "assets/originale/grafik/zahnaufbau-2-gingivitis.jpg",
+    "breite": 377,
+    "hoehe": 465,
+    "quellen": [
+      {
+        "breite": 320,
+        "url": "/bilder/zahnaufbau-2-320-a6dbc35e.webp"
+      },
+      {
+        "breite": 377,
+        "url": "/bilder/zahnaufbau-2-377-7d473435.webp"
+      }
+    ]
+  },
+  "zahnaufbau-3": {
+    "id": "zahnaufbau-3",
+    "original": "assets/originale/grafik/zahnaufbau-3-parodontitis.jpg",
+    "breite": 374,
+    "hoehe": 462,
+    "quellen": [
+      {
+        "breite": 320,
+        "url": "/bilder/zahnaufbau-3-320-1ccd7c3f.webp"
+      },
+      {
+        "breite": 374,
+        "url": "/bilder/zahnaufbau-3-374-669dc578.webp"
+      }
+    ]
+  },
+  "zahnaufbau-4": {
+    "id": "zahnaufbau-4",
+    "original": "assets/originale/grafik/zahnaufbau-4-schwer.jpg",
+    "breite": 348,
+    "hoehe": 430,
+    "quellen": [
+      {
+        "breite": 320,
+        "url": "/bilder/zahnaufbau-4-320-300f37f7.webp"
+      },
+      {
+        "breite": 348,
+        "url": "/bilder/zahnaufbau-4-348-a4e1b87a.webp"
+      }
+    ]
+  },
+  "paro-ablauf": {
+    "id": "paro-ablauf",
+    "original": "assets/originale/grafik/paro-ablauf.jpg",
+    "breite": 3275,
+    "hoehe": 666,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/paro-ablauf-480-39ba7942.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/paro-ablauf-960-617a508b.webp"
+      },
+      {
+        "breite": 1600,
+        "url": "/bilder/paro-ablauf-1600-ed05a31c.webp"
+      }
+    ]
+  },
+  "karies-entstehung": {
+    "id": "karies-entstehung",
+    "original": "assets/originale/grafik/entstehung-von-karies.jpg",
+    "breite": 398,
+    "hoehe": 517,
+    "quellen": [
+      {
+        "breite": 320,
+        "url": "/bilder/karies-entstehung-320-2486a792.webp"
+      },
+      {
+        "breite": 398,
+        "url": "/bilder/karies-entstehung-398-9e9145a0.webp"
+      }
+    ]
+  },
+  "karies-hero": {
+    "id": "karies-hero",
+    "original": "assets/originale/ratgeber/karies-713.jpg",
+    "breite": 957,
+    "hoehe": 720,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/karies-hero-480-d1ab8b45.webp"
+      },
+      {
+        "breite": 957,
+        "url": "/bilder/karies-hero-957-f3fde4f4.webp"
+      }
+    ]
+  },
+  "bleaching-hero": {
+    "id": "bleaching-hero",
+    "original": "assets/originale/bleaching/professionelles-zahnbleaching.jpg",
+    "breite": 1025,
+    "hoehe": 589,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/bleaching-hero-480-89a67522.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/bleaching-hero-960-5ae234f7.webp"
+      },
+      {
+        "breite": 1025,
+        "url": "/bilder/bleaching-hero-1025-b8f02718.webp"
+      }
+    ]
+  },
+  "bleaching-ablauf-1": {
+    "id": "bleaching-ablauf-1",
+    "original": "assets/originale/bleaching/ablauf-1-dentalhygiene-1408.jpg",
+    "breite": 1065,
+    "hoehe": 799,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/bleaching-ablauf-1-480-4c2630b2.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/bleaching-ablauf-1-960-2e6491ec.webp"
+      },
+      {
+        "breite": 1065,
+        "url": "/bilder/bleaching-ablauf-1-1065-6c0a2045.webp"
+      }
+    ]
+  },
+  "bleaching-ablauf-2": {
+    "id": "bleaching-ablauf-2",
+    "original": "assets/originale/bleaching/ablauf-2-lichtaktivierung-1356.jpg",
+    "breite": 514,
+    "hoehe": 386,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/bleaching-ablauf-2-480-585e4f45.webp"
+      },
+      {
+        "breite": 514,
+        "url": "/bilder/bleaching-ablauf-2-514-e0259647.webp"
+      }
+    ]
+  },
+  "bleaching-ablauf-3": {
+    "id": "bleaching-ablauf-3",
+    "original": "assets/originale/bleaching/ablauf-3-farbvergleich-1373.jpg",
+    "breite": 474,
+    "hoehe": 389,
+    "quellen": [
+      {
+        "breite": 474,
+        "url": "/bilder/bleaching-ablauf-3-474-d173a064.webp"
+      }
+    ]
+  },
+  "bleaching-only-hero": {
+    "id": "bleaching-only-hero",
+    "original": "assets/originale/bleaching/bleaching-2026-02-16.jpg",
+    "breite": 824,
+    "hoehe": 549,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/bleaching-only-hero-480-007ec971.webp"
+      },
+      {
+        "breite": 824,
+        "url": "/bilder/bleaching-only-hero-824-ef041d87.webp"
+      }
+    ]
+  },
+  "power-hero": {
+    "id": "power-hero",
+    "original": "assets/originale/bleaching/power-1316.jpg",
+    "breite": 800,
+    "hoehe": 595,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/power-hero-480-a48f6c25.webp"
+      },
+      {
+        "breite": 800,
+        "url": "/bilder/power-hero-800-bb32facd.webp"
+      }
+    ]
+  },
+  "power-gel": {
+    "id": "power-gel",
+    "original": "assets/originale/bleaching/power-gel-1369.jpg",
+    "breite": 755,
+    "hoehe": 504,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/power-gel-480-7e9f4698.webp"
+      },
+      {
+        "breite": 755,
+        "url": "/bilder/power-gel-755-4e15b71f.webp"
+      }
+    ]
+  },
+  "bleaching-geraet": {
+    "id": "bleaching-geraet",
+    "original": "assets/originale/bleaching/bleaching-geraet-127.jpg",
+    "breite": 672,
+    "hoehe": 489,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/bleaching-geraet-480-77019e99.webp"
+      },
+      {
+        "breite": 672,
+        "url": "/bilder/bleaching-geraet-672-43ea8f86.webp"
+      }
+    ]
+  },
+  "aktion-1": {
+    "id": "aktion-1",
+    "original": "assets/originale/bleaching/aktion-2023-03-03-7.jpg",
+    "breite": 800,
+    "hoehe": 618,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/aktion-1-480-25e4ced9.webp"
+      },
+      {
+        "breite": 800,
+        "url": "/bilder/aktion-1-800-7844aff2.webp"
+      }
+    ]
+  },
+  "aktion-2": {
+    "id": "aktion-2",
+    "original": "assets/originale/bleaching/aktion-2023-03-03-7-zaehne.jpg",
+    "breite": 800,
+    "hoehe": 563,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/aktion-2-480-c53968d0.webp"
+      },
+      {
+        "breite": 800,
+        "url": "/bilder/aktion-2-800-b668bb34.webp"
+      }
+    ]
+  },
+  "aktion-kombi": {
+    "id": "aktion-kombi",
+    "original": "assets/originale/bleaching/aktion-2024-05-03-5.jpg",
+    "breite": 996,
+    "hoehe": 664,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/aktion-kombi-480-498cedc2.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/aktion-kombi-960-3e0be29c.webp"
+      },
+      {
+        "breite": 996,
+        "url": "/bilder/aktion-kombi-996-48fd62d9.webp"
+      }
+    ]
+  },
+  "aktion-bleaching": {
+    "id": "aktion-bleaching",
+    "original": "assets/originale/bleaching/aktion-2024-04-18-4-2.jpg",
+    "breite": 996,
+    "hoehe": 664,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/aktion-bleaching-480-d7e0f9e2.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/aktion-bleaching-960-3d20ed17.webp"
+      },
+      {
+        "breite": 996,
+        "url": "/bilder/aktion-bleaching-996-6c20ec1d.webp"
+      }
+    ]
+  },
+  "aktion-gesund-weiss": {
+    "id": "aktion-gesund-weiss",
+    "original": "assets/originale/bleaching/aktion-01-2023-gesund-weiss.jpg",
+    "breite": 1263,
+    "hoehe": 658,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/aktion-gesund-weiss-480-e82e8836.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/aktion-gesund-weiss-960-12e18b79.webp"
+      },
+      {
+        "breite": 1263,
+        "url": "/bilder/aktion-gesund-weiss-1263-e5438caf.webp"
+      }
+    ]
+  },
+  "power-galerie-1": {
+    "id": "power-galerie-1",
+    "original": "assets/originale/bleaching/power-galerie-1.jpg",
+    "breite": 1100,
+    "hoehe": 743,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/power-galerie-1-480-969c4b5b.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/power-galerie-1-960-82c5c758.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/power-galerie-1-1100-7853a9f7.webp"
+      }
+    ]
+  },
+  "power-galerie-4": {
+    "id": "power-galerie-4",
+    "original": "assets/originale/bleaching/power-galerie-4.jpg",
+    "breite": 1100,
+    "hoehe": 743,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/power-galerie-4-480-e7010d51.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/power-galerie-4-960-fddcd81d.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/power-galerie-4-1100-77d930a1.webp"
+      }
+    ]
+  },
+  "power-galerie-7": {
+    "id": "power-galerie-7",
+    "original": "assets/originale/bleaching/power-galerie-7.jpg",
+    "breite": 1100,
+    "hoehe": 743,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/power-galerie-7-480-d8671929.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/power-galerie-7-960-96c20cbc.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/power-galerie-7-1100-fcd70036.webp"
+      }
+    ]
+  },
+  "power-galerie-8": {
+    "id": "power-galerie-8",
+    "original": "assets/originale/bleaching/power-galerie-8.jpg",
+    "breite": 1100,
+    "hoehe": 743,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/power-galerie-8-480-41bffc51.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/power-galerie-8-960-d7036362.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/power-galerie-8-1100-b38ea4f0.webp"
+      }
+    ]
+  },
+  "power-galerie-9": {
+    "id": "power-galerie-9",
+    "original": "assets/originale/bleaching/power-galerie-9.jpg",
+    "breite": 1100,
+    "hoehe": 743,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/power-galerie-9-480-1768769d.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/power-galerie-9-960-0cad75c9.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/power-galerie-9-1100-e77ad7f5.webp"
+      }
+    ]
+  },
+  "power-galerie-10": {
+    "id": "power-galerie-10",
+    "original": "assets/originale/bleaching/power-galerie-10.jpg",
+    "breite": 1100,
+    "hoehe": 743,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/power-galerie-10-480-d2774c4e.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/power-galerie-10-960-671bb4df.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/power-galerie-10-1100-d150c419.webp"
+      }
+    ]
+  },
+  "power-galerie-11": {
+    "id": "power-galerie-11",
+    "original": "assets/originale/bleaching/power-galerie-11.jpg",
+    "breite": 1100,
+    "hoehe": 743,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/power-galerie-11-480-d80b8197.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/power-galerie-11-960-c8a1a290.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/power-galerie-11-1100-ba99918d.webp"
+      }
+    ]
+  },
+  "power-galerie-17": {
+    "id": "power-galerie-17",
+    "original": "assets/originale/bleaching/power-galerie-17.jpg",
+    "breite": 1100,
+    "hoehe": 743,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/power-galerie-17-480-81d1e633.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/power-galerie-17-960-f2d82829.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/power-galerie-17-1100-20a0682b.webp"
+      }
+    ]
+  },
+  "power-galerie-20": {
+    "id": "power-galerie-20",
+    "original": "assets/originale/bleaching/power-galerie-20.jpg",
+    "breite": 1100,
+    "hoehe": 743,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/power-galerie-20-480-6514f189.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/power-galerie-20-960-1f01d32a.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/power-galerie-20-1100-bbdda09b.webp"
+      }
+    ]
+  },
+  "fall-1-1": {
+    "id": "fall-1-1",
+    "original": "assets/originale/fallbeispiele/fall-1-vorher.jpg",
+    "breite": 258,
+    "hoehe": 172,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/fall-1-1-258-d75390b1.webp"
+      }
+    ]
+  },
+  "fall-1-2": {
+    "id": "fall-1-2",
+    "original": "assets/originale/fallbeispiele/fall-1-nach-power.jpg",
+    "breite": 258,
+    "hoehe": 172,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/fall-1-2-258-8ed4eeae.webp"
+      }
+    ]
+  },
+  "fall-1-3": {
+    "id": "fall-1-3",
+    "original": "assets/originale/fallbeispiele/fall-1-nach-refresher.jpg",
+    "breite": 282,
+    "hoehe": 188,
+    "quellen": [
+      {
+        "breite": 282,
+        "url": "/bilder/fall-1-3-282-7b3f3c29.webp"
+      }
+    ]
+  },
+  "fall-2-1": {
+    "id": "fall-2-1",
+    "original": "assets/originale/fallbeispiele/fall-2-vorher.jpg",
+    "breite": 258,
+    "hoehe": 172,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/fall-2-1-258-d741ce6b.webp"
+      }
+    ]
+  },
+  "fall-2-2": {
+    "id": "fall-2-2",
+    "original": "assets/originale/fallbeispiele/fall-2-nach-power.jpg",
+    "breite": 258,
+    "hoehe": 172,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/fall-2-2-258-c205f5b2.webp"
+      }
+    ]
+  },
+  "fall-2-3": {
+    "id": "fall-2-3",
+    "original": "assets/originale/fallbeispiele/fall-2-nach-refresher.jpg",
+    "breite": 258,
+    "hoehe": 172,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/fall-2-3-258-2da6d8d1.webp"
+      }
+    ]
+  },
+  "fall-3-1": {
+    "id": "fall-3-1",
+    "original": "assets/originale/fallbeispiele/fall-3-vorher.jpg",
+    "breite": 258,
+    "hoehe": 172,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/fall-3-1-258-61716c3d.webp"
+      }
+    ]
+  },
+  "fall-3-2": {
+    "id": "fall-3-2",
+    "original": "assets/originale/fallbeispiele/fall-3-nach-power.jpg",
+    "breite": 258,
+    "hoehe": 172,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/fall-3-2-258-adfa5195.webp"
+      }
+    ]
+  },
+  "fall-3-3": {
+    "id": "fall-3-3",
+    "original": "assets/originale/fallbeispiele/fall-3-nach-refresher.jpg",
+    "breite": 279,
+    "hoehe": 186,
+    "quellen": [
+      {
+        "breite": 279,
+        "url": "/bilder/fall-3-3-279-69f82b99.webp"
+      }
+    ]
+  },
+  "fall-4-1": {
+    "id": "fall-4-1",
+    "original": "assets/originale/fallbeispiele/fall-4-vorher.jpg",
+    "breite": 258,
+    "hoehe": 172,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/fall-4-1-258-8b2fd9a2.webp"
+      }
+    ]
+  },
+  "fall-4-2": {
+    "id": "fall-4-2",
+    "original": "assets/originale/fallbeispiele/fall-4-nach-power.jpg",
+    "breite": 258,
+    "hoehe": 172,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/fall-4-2-258-44a6b6ae.webp"
+      }
+    ]
+  },
+  "fall-4-3": {
+    "id": "fall-4-3",
+    "original": "assets/originale/fallbeispiele/fall-4-nach-refresher.jpg",
+    "breite": 258,
+    "hoehe": 171,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/fall-4-3-258-7ddcc335.webp"
+      }
+    ]
+  },
+  "fall-5-1": {
+    "id": "fall-5-1",
+    "original": "assets/originale/fallbeispiele/fall-5-vorher.jpg",
+    "breite": 258,
+    "hoehe": 172,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/fall-5-1-258-cab9b4ac.webp"
+      }
+    ]
+  },
+  "fall-5-2": {
+    "id": "fall-5-2",
+    "original": "assets/originale/fallbeispiele/fall-5-nach-power.jpg",
+    "breite": 258,
+    "hoehe": 172,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/fall-5-2-258-48798dc9.webp"
+      }
+    ]
+  },
+  "fall-5-3": {
+    "id": "fall-5-3",
+    "original": "assets/originale/fallbeispiele/fall-5-nach-refresher.jpg",
+    "breite": 254,
+    "hoehe": 169,
+    "quellen": [
+      {
+        "breite": 254,
+        "url": "/bilder/fall-5-3-254-2417839d.webp"
+      }
+    ]
+  },
+  "fall-6-1": {
+    "id": "fall-6-1",
+    "original": "assets/originale/fallbeispiele/fall-6-vorher.jpg",
+    "breite": 258,
+    "hoehe": 172,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/fall-6-1-258-c2b98ab7.webp"
+      }
+    ]
+  },
+  "fall-6-2": {
+    "id": "fall-6-2",
+    "original": "assets/originale/fallbeispiele/fall-6-nach-power.jpg",
+    "breite": 258,
+    "hoehe": 172,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/fall-6-2-258-9a29af39.webp"
+      }
+    ]
+  },
+  "fall-6-3": {
+    "id": "fall-6-3",
+    "original": "assets/originale/fallbeispiele/fall-6-nach-refresher.jpg",
+    "breite": 258,
+    "hoehe": 172,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/fall-6-3-258-eafc402a.webp"
+      }
+    ]
+  },
+  "kombi-1": {
+    "id": "kombi-1",
+    "original": "assets/originale/bleaching/kombi-1319.jpg",
+    "breite": 533,
+    "hoehe": 800,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/kombi-1-480-e86f91a4.webp"
+      },
+      {
+        "breite": 533,
+        "url": "/bilder/kombi-1-533-82f7620b.webp"
+      }
+    ]
+  },
+  "kombi-2": {
+    "id": "kombi-2",
+    "original": "assets/originale/bleaching/kombi-1325-6.jpg",
+    "breite": 533,
+    "hoehe": 800,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/kombi-2-480-169d495a.webp"
+      },
+      {
+        "breite": 533,
+        "url": "/bilder/kombi-2-533-241e164e.webp"
+      }
+    ]
+  },
+  "kombi-3": {
+    "id": "kombi-3",
+    "original": "assets/originale/bleaching/kombi-1325-7.jpg",
+    "breite": 533,
+    "hoehe": 800,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/kombi-3-480-8a89551d.webp"
+      },
+      {
+        "breite": 533,
+        "url": "/bilder/kombi-3-533-9710f4f9.webp"
+      }
+    ]
+  },
+  "kombi-4": {
+    "id": "kombi-4",
+    "original": "assets/originale/bleaching/kombi-1325-2.jpg",
+    "breite": 588,
+    "hoehe": 800,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/kombi-4-480-132e9773.webp"
+      },
+      {
+        "breite": 588,
+        "url": "/bilder/kombi-4-588-acd86665.webp"
+      }
+    ]
+  },
+  "preise-1": {
+    "id": "preise-1",
+    "original": "assets/originale/behandlung/preise-1305.jpg",
+    "breite": 1100,
+    "hoehe": 783,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/preise-1-480-9d84a6bd.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/preise-1-960-5216dc1e.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/preise-1-1100-2cae3340.webp"
+      }
+    ]
+  },
+  "preise-2": {
+    "id": "preise-2",
+    "original": "assets/originale/bleaching/preise-1317.jpg",
+    "breite": 1100,
+    "hoehe": 782,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/preise-2-480-1e775401.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/preise-2-960-422e6ed5.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/preise-2-1100-7a932d76.webp"
+      }
+    ]
+  },
+  "preise-3": {
+    "id": "preise-3",
+    "original": "assets/originale/bleaching/preise-1327.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/preise-3-480-d24a9fca.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/preise-3-960-3d6c7752.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/preise-3-1100-2971f27c.webp"
+      }
+    ]
+  },
+  "hochzeit-1": {
+    "id": "hochzeit-1",
+    "original": "assets/originale/bleaching/hochzeitsbleaching-22.jpg",
+    "breite": 1100,
+    "hoehe": 688,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/hochzeit-1-480-a8a6942f.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/hochzeit-1-960-7f847c5d.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/hochzeit-1-1100-beb0fbc5.webp"
+      }
+    ]
+  },
+  "hochzeit-2": {
+    "id": "hochzeit-2",
+    "original": "assets/originale/bleaching/hochzeitsbleaching-19.jpg",
+    "breite": 442,
+    "hoehe": 246,
+    "quellen": [
+      {
+        "breite": 442,
+        "url": "/bilder/hochzeit-2-442-edffe7f0.webp"
+      }
+    ]
+  },
+  "team-tuende": {
+    "id": "team-tuende",
+    "original": "assets/originale/team/tuende-obenauer.jpg",
+    "breite": 272,
+    "hoehe": 362,
+    "quellen": [
+      {
+        "breite": 272,
+        "url": "/bilder/team-tuende-272-6757c9a5.webp"
+      }
+    ]
+  },
+  "team-andreas": {
+    "id": "team-andreas",
+    "original": "assets/originale/team/andreas-obenauer.jpg",
+    "breite": 257,
+    "hoehe": 342,
+    "quellen": [
+      {
+        "breite": 257,
+        "url": "/bilder/team-andreas-257-1cea00d1.webp"
+      }
+    ]
+  },
+  "tuende-logo": {
+    "id": "tuende-logo",
+    "original": "assets/originale/team/tuende-obenauer-logo.jpg",
+    "breite": 280,
+    "hoehe": 187,
+    "quellen": [
+      {
+        "breite": 280,
+        "url": "/bilder/tuende-logo-280-8e5bd112.webp"
+      }
+    ]
+  },
+  "tuende-2": {
+    "id": "tuende-2",
+    "original": "assets/originale/team/tuende-obenauer-2.jpg",
+    "breite": 331,
+    "hoehe": 220,
+    "quellen": [
+      {
+        "breite": 331,
+        "url": "/bilder/tuende-2-331-0431ae5a.webp"
+      }
+    ]
+  },
+  "standort-luft": {
+    "id": "standort-luft",
+    "original": "assets/originale/standort/luftbild-badenerstrasse.jpg",
+    "breite": 420,
+    "hoehe": 355,
+    "quellen": [
+      {
+        "breite": 420,
+        "url": "/bilder/standort-luft-420-181ce346.webp"
+      }
+    ]
+  },
+  "standort-luft-2": {
+    "id": "standort-luft-2",
+    "original": "assets/originale/standort/luftbild-innenhof.jpg",
+    "breite": 258,
+    "hoehe": 223,
+    "quellen": [
+      {
+        "breite": 258,
+        "url": "/bilder/standort-luft-2-258-9aad40ad.webp"
+      }
+    ]
+  },
+  "standort-schaufenster": {
+    "id": "standort-schaufenster",
+    "original": "assets/originale/standort/schaufenster.jpg",
+    "breite": 329,
+    "hoehe": 219,
+    "quellen": [
+      {
+        "breite": 329,
+        "url": "/bilder/standort-schaufenster-329-5708fff1.webp"
+      }
+    ]
+  },
+  "standort-eingang": {
+    "id": "standort-eingang",
+    "original": "assets/originale/standort/eingang-praxis.jpg",
+    "breite": 342,
+    "hoehe": 228,
+    "quellen": [
+      {
+        "breite": 342,
+        "url": "/bilder/standort-eingang-342-84fdf9eb.webp"
+      }
+    ]
+  },
+  "standort-schild": {
+    "id": "standort-schild",
+    "original": "assets/originale/standort/eingang-innenhof.jpg",
+    "breite": 535,
+    "hoehe": 325,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/standort-schild-480-1bd25967.webp"
+      },
+      {
+        "breite": 535,
+        "url": "/bilder/standort-schild-535-e63152ff.webp"
+      }
+    ]
+  },
+  "standort-tram": {
+    "id": "standort-tram",
+    "original": "assets/originale/standort/tram-kappeli.jpg",
+    "breite": 345,
+    "hoehe": 228,
+    "quellen": [
+      {
+        "breite": 345,
+        "url": "/bilder/standort-tram-345-0da58c6f.webp"
+      }
+    ]
+  },
+  "standort-tram-2": {
+    "id": "standort-tram-2",
+    "original": "assets/originale/standort/tram-kappeli-2.jpg",
+    "breite": 344,
+    "hoehe": 227,
+    "quellen": [
+      {
+        "breite": 344,
+        "url": "/bilder/standort-tram-2-344-149c1f90.webp"
+      }
+    ]
+  },
+  "standort-bus": {
+    "id": "standort-bus",
+    "original": "assets/originale/standort/bus-letzipark-west.jpg",
+    "breite": 345,
+    "hoehe": 228,
+    "quellen": [
+      {
+        "breite": 345,
+        "url": "/bilder/standort-bus-345-345467c9.webp"
+      }
+    ]
+  },
+  "standort-bus-2": {
+    "id": "standort-bus-2",
+    "original": "assets/originale/standort/bus-letzipark-west-2.jpg",
+    "breite": 344,
+    "hoehe": 227,
+    "quellen": [
+      {
+        "breite": 344,
+        "url": "/bilder/standort-bus-2-344-df3271e0.webp"
+      }
+    ]
+  },
+  "standort-parkplatz": {
+    "id": "standort-parkplatz",
+    "original": "assets/originale/standort/parkplaetze.jpg",
+    "breite": 345,
+    "hoehe": 228,
+    "quellen": [
+      {
+        "breite": 345,
+        "url": "/bilder/standort-parkplatz-345-1dfab1c3.webp"
+      }
+    ]
+  },
+  "standort-besucher": {
+    "id": "standort-besucher",
+    "original": "assets/originale/standort/besucher-schild.jpg",
+    "breite": 345,
+    "hoehe": 228,
+    "quellen": [
+      {
+        "breite": 345,
+        "url": "/bilder/standort-besucher-345-1a8e83e9.webp"
+      }
+    ]
+  },
+  "standort-garage": {
+    "id": "standort-garage",
+    "original": "assets/originale/standort/tiefgarage.jpg",
+    "breite": 346,
+    "hoehe": 229,
+    "quellen": [
+      {
+        "breite": 346,
+        "url": "/bilder/standort-garage-346-e24047db.webp"
+      }
+    ]
+  },
+  "zahlung-maestro": {
+    "id": "zahlung-maestro",
+    "original": "assets/originale/zahlung/maestro.png",
+    "breite": 109,
+    "hoehe": 67,
+    "quellen": [
+      {
+        "breite": 109,
+        "url": "/bilder/zahlung-maestro-109-e73332e6.png"
+      }
+    ]
+  },
+  "zahlung-postfinance": {
+    "id": "zahlung-postfinance",
+    "original": "assets/originale/zahlung/postfinance.png",
+    "breite": 86,
+    "hoehe": 65,
+    "quellen": [
+      {
+        "breite": 86,
+        "url": "/bilder/zahlung-postfinance-86-4205830c.png"
+      }
+    ]
+  },
+  "zahlung-cash": {
+    "id": "zahlung-cash",
+    "original": "assets/originale/zahlung/cash.jpg",
+    "breite": 545,
+    "hoehe": 305,
+    "quellen": [
+      {
+        "breite": 160,
+        "url": "/bilder/zahlung-cash-160-34b0b991.webp"
+      },
+      {
+        "breite": 320,
+        "url": "/bilder/zahlung-cash-320-8dc247f4.webp"
+      }
+    ]
+  },
+  "zahlung-vpay": {
+    "id": "zahlung-vpay",
+    "original": "assets/originale/zahlung/v-pay.png",
+    "breite": 65,
+    "hoehe": 71,
+    "quellen": [
+      {
+        "breite": 65,
+        "url": "/bilder/zahlung-vpay-65-d1fc738c.png"
+      }
+    ]
+  },
+  "zahlung-mastercard": {
+    "id": "zahlung-mastercard",
+    "original": "assets/originale/zahlung/mastercard.jpg",
+    "breite": 101,
+    "hoehe": 45,
+    "quellen": [
+      {
+        "breite": 101,
+        "url": "/bilder/zahlung-mastercard-101-4b5c3430.webp"
+      }
+    ]
+  },
+  "zahlung-visa": {
+    "id": "zahlung-visa",
+    "original": "assets/originale/zahlung/visa.png",
+    "breite": 1200,
+    "hoehe": 391,
+    "quellen": [
+      {
+        "breite": 160,
+        "url": "/bilder/zahlung-visa-160-baf0650c.png"
+      },
+      {
+        "breite": 320,
+        "url": "/bilder/zahlung-visa-320-1dbf8ff8.png"
+      }
+    ]
+  },
+  "zahlung-twint": {
+    "id": "zahlung-twint",
+    "original": "assets/originale/zahlung/twint.png",
+    "breite": 1100,
+    "hoehe": 417,
+    "quellen": [
+      {
+        "breite": 160,
+        "url": "/bilder/zahlung-twint-160-1d2b9785.png"
+      },
+      {
+        "breite": 320,
+        "url": "/bilder/zahlung-twint-320-390f3e00.png"
+      }
+    ]
+  },
+  "medien-tagesanzeiger": {
+    "id": "medien-tagesanzeiger",
+    "original": "assets/originale/medien/tagesanzeiger-logo.jpg",
+    "breite": 306,
+    "hoehe": 76,
+    "quellen": [
+      {
+        "breite": 306,
+        "url": "/bilder/medien-tagesanzeiger-306-b995b63d.webp"
+      }
+    ]
+  },
+  "medien-artikel": {
+    "id": "medien-artikel",
+    "original": "assets/originale/medien/artikel-scan.jpg",
+    "breite": 862,
+    "hoehe": 627,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/medien-artikel-480-206b2075.webp"
+      },
+      {
+        "breite": 862,
+        "url": "/bilder/medien-artikel-862-79a15225.webp"
+      }
+    ]
+  },
+  "medien-quartierecho": {
+    "id": "medien-quartierecho",
+    "original": "assets/originale/medien/quartier-echo-logo.gif",
+    "breite": 164,
+    "hoehe": 36,
+    "quellen": [
+      {
+        "breite": 164,
+        "url": "/bilder/medien-quartierecho-164-a1cd8b46.png"
+      }
+    ]
+  },
+  "kinder-hero": {
+    "id": "kinder-hero",
+    "original": "assets/originale/ratgeber/kinder-zahnreinigung.jpg",
+    "breite": 1100,
+    "hoehe": 734,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/kinder-hero-480-696a508e.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/kinder-hero-960-c00d0fc4.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/kinder-hero-1100-8aa4291e.webp"
+      }
+    ]
+  },
+  "kinder-zahnwechsel": {
+    "id": "kinder-zahnwechsel",
+    "original": "assets/originale/grafik/welcher-bleibende-zahn-kommt-wann.jpg",
+    "breite": 437,
+    "hoehe": 621,
+    "quellen": [
+      {
+        "breite": 320,
+        "url": "/bilder/kinder-zahnwechsel-320-70ea6a78.webp"
+      },
+      {
+        "breite": 437,
+        "url": "/bilder/kinder-zahnwechsel-437-30714cec.webp"
+      }
+    ]
+  },
+  "mundgeruch-hero": {
+    "id": "mundgeruch-hero",
+    "original": "assets/originale/ratgeber/mundgeruch-580.jpg",
+    "breite": 1100,
+    "hoehe": 650,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/mundgeruch-hero-480-83cbe1f3.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/mundgeruch-hero-960-b0112618.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/mundgeruch-hero-1100-d315219c.webp"
+      }
+    ]
+  },
+  "zungenbelag": {
+    "id": "zungenbelag",
+    "original": "assets/originale/ratgeber/zungenbelag.jpg",
+    "breite": 656,
+    "hoehe": 315,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/zungenbelag-480-a2bc5e83.webp"
+      },
+      {
+        "breite": 656,
+        "url": "/bilder/zungenbelag-656-41ee58ab.webp"
+      }
+    ]
+  },
+  "zungenreinigung": {
+    "id": "zungenreinigung",
+    "original": "assets/originale/ratgeber/zungenreinigung.jpg",
+    "breite": 987,
+    "hoehe": 474,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/zungenreinigung-480-bfe162cc.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/zungenreinigung-960-f57930e7.webp"
+      },
+      {
+        "breite": 987,
+        "url": "/bilder/zungenreinigung-987-9ef045f0.webp"
+      }
+    ]
+  },
+  "zungenschaber": {
+    "id": "zungenschaber",
+    "original": "assets/originale/produkte/zungenschaber.jpg",
+    "breite": 158,
+    "hoehe": 333,
+    "quellen": [
+      {
+        "breite": 158,
+        "url": "/bilder/zungenschaber-158-234af57e.webp"
+      }
+    ]
+  },
+  "zahnbuerste-zunge": {
+    "id": "zahnbuerste-zunge",
+    "original": "assets/originale/produkte/zahnbuerste.jpg",
+    "breite": 160,
+    "hoehe": 335,
+    "quellen": [
+      {
+        "breite": 160,
+        "url": "/bilder/zahnbuerste-zunge-160-8325a814.webp"
+      }
+    ]
+  },
+  "megasonex-zunge": {
+    "id": "megasonex-zunge",
+    "original": "assets/originale/produkte/megasonex-zungenreiniger.jpg",
+    "breite": 206,
+    "hoehe": 434,
+    "quellen": [
+      {
+        "breite": 206,
+        "url": "/bilder/megasonex-zunge-206-f3506d33.webp"
+      }
+    ]
+  },
+  "mikrobiom-hero": {
+    "id": "mikrobiom-hero",
+    "original": "assets/originale/ratgeber/orales-mikrobiom.jpg",
+    "breite": 1435,
+    "hoehe": 518,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/mikrobiom-hero-480-e8b7005e.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/mikrobiom-hero-960-f17883cd.webp"
+      },
+      {
+        "breite": 1435,
+        "url": "/bilder/mikrobiom-hero-1435-55769de0.webp"
+      }
+    ]
+  },
+  "paro-hero": {
+    "id": "paro-hero",
+    "original": "assets/originale/ratgeber/parodontitis-1323.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/paro-hero-480-af99754f.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/paro-hero-960-6f39b1b6.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/paro-hero-1100-199776d4.webp"
+      }
+    ]
+  },
+  "cannabis-hero": {
+    "id": "cannabis-hero",
+    "original": "assets/originale/ratgeber/cannabis.jpg",
+    "breite": 1098,
+    "hoehe": 621,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/cannabis-hero-480-83c62b15.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/cannabis-hero-960-806df0b5.webp"
+      },
+      {
+        "breite": 1098,
+        "url": "/bilder/cannabis-hero-1098-d777f9f3.webp"
+      }
+    ]
+  },
+  "rauchen-paro": {
+    "id": "rauchen-paro",
+    "original": "assets/originale/grafik/parodont-gesund-parodontitis.jpg",
+    "breite": 480,
+    "hoehe": 497,
+    "quellen": [
+      {
+        "breite": 320,
+        "url": "/bilder/rauchen-paro-320-c738cd83.webp"
+      },
+      {
+        "breite": 480,
+        "url": "/bilder/rauchen-paro-480-2979ad2a.webp"
+      }
+    ]
+  },
+  "anti-zahnschmelz": {
+    "id": "anti-zahnschmelz",
+    "original": "assets/originale/grafik/anti-zahnschmelz-softdrinks.jpg",
+    "breite": 542,
+    "hoehe": 382,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/anti-zahnschmelz-480-201c7062.webp"
+      },
+      {
+        "breite": 542,
+        "url": "/bilder/anti-zahnschmelz-542-b462b3c7.webp"
+      }
+    ]
+  },
+  "pro-zahnschmelz": {
+    "id": "pro-zahnschmelz",
+    "original": "assets/originale/grafik/pro-zahnschmelz.jpg",
+    "breite": 506,
+    "hoehe": 357,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/pro-zahnschmelz-480-05dc4065.webp"
+      },
+      {
+        "breite": 506,
+        "url": "/bilder/pro-zahnschmelz-506-611afb0f.webp"
+      }
+    ]
+  },
+  "interdental": {
+    "id": "interdental",
+    "original": "assets/originale/ratgeber/interdental-reinigung.jpg",
+    "breite": 334,
+    "hoehe": 235,
+    "quellen": [
+      {
+        "breite": 334,
+        "url": "/bilder/interdental-334-d587c61a.webp"
+      }
+    ]
+  },
+  "megasonex-interdental": {
+    "id": "megasonex-interdental",
+    "original": "assets/originale/produkte/megasonex-ultraschall.jpg",
+    "breite": 668,
+    "hoehe": 291,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/megasonex-interdental-480-7007ad67.webp"
+      },
+      {
+        "breite": 668,
+        "url": "/bilder/megasonex-interdental-668-3720e66e.webp"
+      }
+    ]
+  },
+  "rauchen-hero": {
+    "id": "rauchen-hero",
+    "original": "assets/originale/ratgeber/rauchen-kaffee-548.jpg",
+    "breite": 1120,
+    "hoehe": 746,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/rauchen-hero-480-e887e8d1.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/rauchen-hero-960-e5f66355.webp"
+      },
+      {
+        "breite": 1120,
+        "url": "/bilder/rauchen-hero-1120-21323bb9.webp"
+      }
+    ]
+  },
+  "schwangerschaft-hero": {
+    "id": "schwangerschaft-hero",
+    "original": "assets/originale/ratgeber/schwangerschaft-1251.jpg",
+    "breite": 1227,
+    "hoehe": 858,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/schwangerschaft-hero-480-ceaaebff.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/schwangerschaft-hero-960-096f8369.webp"
+      },
+      {
+        "breite": 1227,
+        "url": "/bilder/schwangerschaft-hero-1227-cdc9998e.webp"
+      }
+    ]
+  },
+  "schwangerschaft-2": {
+    "id": "schwangerschaft-2",
+    "original": "assets/originale/ratgeber/schwangerschaft-613.jpg",
+    "breite": 1100,
+    "hoehe": 782,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/schwangerschaft-2-480-6c7d78bd.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/schwangerschaft-2-960-75c2dc7c.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/schwangerschaft-2-1100-3cbd6dcb.webp"
+      }
+    ]
+  },
+  "schwangerschaft-4": {
+    "id": "schwangerschaft-4",
+    "original": "assets/originale/ratgeber/schwangerschaft-zahnpflege.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/schwangerschaft-4-480-b542a9dd.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/schwangerschaft-4-960-f0708fdb.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/schwangerschaft-4-1100-e42e46e5.webp"
+      }
+    ]
+  },
+  "bleaching-ratgeber-hero": {
+    "id": "bleaching-ratgeber-hero",
+    "original": "assets/originale/ratgeber/bleaching-ratgeber.jpg",
+    "breite": 1100,
+    "hoehe": 543,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/bleaching-ratgeber-hero-480-9b94e329.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/bleaching-ratgeber-hero-960-69068949.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/bleaching-ratgeber-hero-1100-65371932.webp"
+      }
+    ]
+  },
+  "koerper-hero": {
+    "id": "koerper-hero",
+    "original": "assets/originale/ratgeber/zahnfleisch-zaehne.jpg",
+    "breite": 1098,
+    "hoehe": 620,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/koerper-hero-480-0bad2eaf.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/koerper-hero-960-40907cf4.webp"
+      },
+      {
+        "breite": 1098,
+        "url": "/bilder/koerper-hero-1098-1609b945.webp"
+      }
+    ]
+  },
+  "knirschen-1": {
+    "id": "knirschen-1",
+    "original": "assets/originale/ratgeber/zahnknirschen-564.jpg",
+    "breite": 973,
+    "hoehe": 800,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/knirschen-1-480-4ddb314a.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/knirschen-1-960-f3bfe2be.webp"
+      },
+      {
+        "breite": 973,
+        "url": "/bilder/knirschen-1-973-02b3b28e.webp"
+      }
+    ]
+  },
+  "knirschen-2": {
+    "id": "knirschen-2",
+    "original": "assets/originale/ratgeber/zahnknirschen-565.jpg",
+    "breite": 1071,
+    "hoehe": 800,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/knirschen-2-480-603a3ac3.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/knirschen-2-960-23ec9dd5.webp"
+      },
+      {
+        "breite": 1071,
+        "url": "/bilder/knirschen-2-1071-537813be.webp"
+      }
+    ]
+  },
+  "knirschen-3": {
+    "id": "knirschen-3",
+    "original": "assets/originale/ratgeber/zahnknirschen-566.jpg",
+    "breite": 352,
+    "hoehe": 315,
+    "quellen": [
+      {
+        "breite": 352,
+        "url": "/bilder/knirschen-3-352-9b27e3cc.webp"
+      }
+    ]
+  },
+  "knirschen-4": {
+    "id": "knirschen-4",
+    "original": "assets/originale/ratgeber/knirschschiene-653.jpg",
+    "breite": 353,
+    "hoehe": 235,
+    "quellen": [
+      {
+        "breite": 353,
+        "url": "/bilder/knirschen-4-353-ef88ce3f.webp"
+      }
+    ]
+  },
+  "faq-hero": {
+    "id": "faq-hero",
+    "original": "assets/originale/ratgeber/good-to-know.jpg",
+    "breite": 1100,
+    "hoehe": 700,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/faq-hero-480-4231052e.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/faq-hero-960-5aaf35ae.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/faq-hero-1100-0096f508.webp"
+      }
+    ]
+  },
+  "recall-hero": {
+    "id": "recall-hero",
+    "original": "assets/originale/behandlung/recall-192.jpg",
+    "breite": 1076,
+    "hoehe": 800,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/recall-hero-480-c49440b4.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/recall-hero-960-29876215.webp"
+      },
+      {
+        "breite": 1076,
+        "url": "/bilder/recall-hero-1076-a16b0c22.webp"
+      }
+    ]
+  },
+  "dental-info": {
+    "id": "dental-info",
+    "original": "assets/originale/grafik/dental-info-banner.jpg",
+    "breite": 1100,
+    "hoehe": 250,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/dental-info-480-c354998d.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/dental-info-960-2ce28571.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/dental-info-1100-8318dd06.webp"
+      }
+    ]
+  },
+  "tipps-immunsystem": {
+    "id": "tipps-immunsystem",
+    "original": "assets/originale/grafik/schuetze-dein-immunsystem.jpg",
+    "breite": 617,
+    "hoehe": 800,
+    "quellen": [
+      {
+        "breite": 320,
+        "url": "/bilder/tipps-immunsystem-320-0a0f796f.webp"
+      },
+      {
+        "breite": 617,
+        "url": "/bilder/tipps-immunsystem-617-15d11cb7.webp"
+      }
+    ]
+  },
+  "tipps-ernaehrung": {
+    "id": "tipps-ernaehrung",
+    "original": "assets/originale/ratgeber/gesunde-ernaehrung.jpg",
+    "breite": 1100,
+    "hoehe": 798,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/tipps-ernaehrung-480-79e5e78c.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/tipps-ernaehrung-960-b53d4efb.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/tipps-ernaehrung-1100-5bdc3e33.webp"
+      }
+    ]
+  },
+  "tipps-dh": {
+    "id": "tipps-dh",
+    "original": "assets/originale/behandlung/dentalhygiene-tipps.jpg",
+    "breite": 990,
+    "hoehe": 800,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/tipps-dh-480-d120e2c2.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/tipps-dh-960-cf0191cd.webp"
+      },
+      {
+        "breite": 990,
+        "url": "/bilder/tipps-dh-990-708b2132.webp"
+      }
+    ]
+  },
+  "tipps-fitness": {
+    "id": "tipps-fitness",
+    "original": "assets/originale/ratgeber/fitness.jpg",
+    "breite": 504,
+    "hoehe": 514,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/tipps-fitness-480-5dc594c6.webp"
+      },
+      {
+        "breite": 504,
+        "url": "/bilder/tipps-fitness-504-09e5c326.webp"
+      }
+    ]
+  },
+  "tipps-paar": {
+    "id": "tipps-paar",
+    "original": "assets/originale/ratgeber/ganzheitlich-paar.jpg",
+    "breite": 745,
+    "hoehe": 477,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/tipps-paar-480-be217c3a.webp"
+      },
+      {
+        "breite": 745,
+        "url": "/bilder/tipps-paar-745-ebf91aa5.webp"
+      }
+    ]
+  },
+  "tipps-mundhygiene": {
+    "id": "tipps-mundhygiene",
+    "original": "assets/originale/grafik/mundhygiene-senkt-infektionsrisiko.jpg",
+    "breite": 560,
+    "hoehe": 396,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/tipps-mundhygiene-480-88c630cd.webp"
+      },
+      {
+        "breite": 560,
+        "url": "/bilder/tipps-mundhygiene-560-da80f6bf.webp"
+      }
+    ]
+  },
+  "tipps-praxis": {
+    "id": "tipps-praxis",
+    "original": "assets/originale/praxis/behandlungsraum.jpg",
+    "breite": 1098,
+    "hoehe": 800,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/tipps-praxis-480-7fcefba6.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/tipps-praxis-960-71afb318.webp"
+      },
+      {
+        "breite": 1098,
+        "url": "/bilder/tipps-praxis-1098-5cebd18f.webp"
+      }
+    ]
+  },
+  "tipps-nuggi": {
+    "id": "tipps-nuggi",
+    "original": "assets/originale/ratgeber/tschuess-nuggi.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/tipps-nuggi-480-0ae41145.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/tipps-nuggi-960-c41ed771.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/tipps-nuggi-1100-a2d43973.webp"
+      }
+    ]
+  },
+  "tipps-megasonex": {
+    "id": "tipps-megasonex",
+    "original": "assets/originale/produkte/megasonex-details.jpg",
+    "breite": 886,
+    "hoehe": 1358,
+    "quellen": [
+      {
+        "breite": 320,
+        "url": "/bilder/tipps-megasonex-320-ee331fa2.webp"
+      },
+      {
+        "breite": 640,
+        "url": "/bilder/tipps-megasonex-640-41356d98.webp"
+      }
+    ]
+  },
+  "tipps-splat": {
+    "id": "tipps-splat",
+    "original": "assets/originale/produkte/splat-silver.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/tipps-splat-480-26cee85f.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/tipps-splat-960-f4a2b8a4.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/tipps-splat-1100-301fc0d2.webp"
+      }
+    ]
+  },
+  "tipps-xylitol": {
+    "id": "tipps-xylitol",
+    "original": "assets/originale/ratgeber/xylitol-kaugummi.jpg",
+    "breite": 353,
+    "hoehe": 353,
+    "quellen": [
+      {
+        "breite": 320,
+        "url": "/bilder/tipps-xylitol-320-814de670.webp"
+      },
+      {
+        "breite": 353,
+        "url": "/bilder/tipps-xylitol-353-fffa9c62.webp"
+      }
+    ]
+  },
+  "tipps-koerper": {
+    "id": "tipps-koerper",
+    "original": "assets/originale/grafik/vernetzung-koerper.jpg",
+    "breite": 261,
+    "hoehe": 514,
+    "quellen": [
+      {
+        "breite": 261,
+        "url": "/bilder/tipps-koerper-261-cee5ecba.webp"
+      }
+    ]
+  },
+  "tipps-sport": {
+    "id": "tipps-sport",
+    "original": "assets/originale/ratgeber/sport.jpg",
+    "breite": 489,
+    "hoehe": 325,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/tipps-sport-480-9187e304.webp"
+      },
+      {
+        "breite": 489,
+        "url": "/bilder/tipps-sport-489-e7b5ba16.webp"
+      }
+    ]
+  },
+  "tipps-suesses": {
+    "id": "tipps-suesses",
+    "original": "assets/originale/ratgeber/suesses.jpg",
+    "breite": 1594,
+    "hoehe": 650,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/tipps-suesses-480-3e50f14b.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/tipps-suesses-960-04f804f3.webp"
+      },
+      {
+        "breite": 1594,
+        "url": "/bilder/tipps-suesses-1594-bf5cc90f.webp"
+      }
+    ]
+  },
+  "hilfsmittel-splat": {
+    "id": "hilfsmittel-splat",
+    "original": "assets/originale/produkte/splat-mineralien.jpg",
+    "breite": 172,
+    "hoehe": 247,
+    "quellen": [
+      {
+        "breite": 172,
+        "url": "/bilder/hilfsmittel-splat-172-d6c1ae10.webp"
+      }
+    ]
+  },
+  "shop-logo": {
+    "id": "shop-logo",
+    "original": "assets/originale/produkte/zahnpastashop-logo.jpg",
+    "breite": 477,
+    "hoehe": 105,
+    "quellen": [
+      {
+        "breite": 320,
+        "url": "/bilder/shop-logo-320-dde8ff37.webp"
+      },
+      {
+        "breite": 477,
+        "url": "/bilder/shop-logo-477-c3bf62c6.webp"
+      }
+    ]
+  },
+  "splat-zahnpasten": {
+    "id": "splat-zahnpasten",
+    "original": "assets/originale/produkte/splat-zahnpasten.jpg",
+    "breite": 1100,
+    "hoehe": 660,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/splat-zahnpasten-480-56997fe8.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/splat-zahnpasten-960-fbe87e74.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/splat-zahnpasten-1100-748a0138.webp"
+      }
+    ]
+  },
+  "zoom-gel": {
+    "id": "zoom-gel",
+    "original": "assets/originale/produkte/zoom-gel-shop.jpg",
+    "breite": 362,
+    "hoehe": 79,
+    "quellen": [
+      {
+        "breite": 362,
+        "url": "/bilder/zoom-gel-362-7ec9de91.webp"
+      }
+    ]
+  },
+  "anbieterauswahl": {
+    "id": "anbieterauswahl",
+    "original": "assets/originale/ratgeber/anbieterauswahl-team.jpg",
+    "breite": 423,
+    "hoehe": 282,
+    "quellen": [
+      {
+        "breite": 423,
+        "url": "/bilder/anbieterauswahl-423-149c99a5.webp"
+      }
+    ]
+  },
+  "lachen-1326-2": {
+    "id": "lachen-1326-2",
+    "original": "assets/originale/lachen/lachen-1326-2.jpg",
+    "breite": 800,
+    "hoehe": 533,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1326-2-480-03617d00.webp"
+      },
+      {
+        "breite": 800,
+        "url": "/bilder/lachen-1326-2-800-4b74668d.webp"
+      }
+    ]
+  },
+  "lachen-1326-3": {
+    "id": "lachen-1326-3",
+    "original": "assets/originale/lachen/lachen-1326-3.jpg",
+    "breite": 800,
+    "hoehe": 562,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1326-3-480-25607982.webp"
+      },
+      {
+        "breite": 800,
+        "url": "/bilder/lachen-1326-3-800-7cc907e1.webp"
+      }
+    ]
+  },
+  "lachen-1331-2": {
+    "id": "lachen-1331-2",
+    "original": "assets/originale/lachen/lachen-1331-2.jpg",
+    "breite": 800,
+    "hoehe": 487,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1331-2-480-3f7d7125.webp"
+      },
+      {
+        "breite": 800,
+        "url": "/bilder/lachen-1331-2-800-ce434f04.webp"
+      }
+    ]
+  },
+  "lachen-1331-5": {
+    "id": "lachen-1331-5",
+    "original": "assets/originale/lachen/lachen-1331-5.jpg",
+    "breite": 800,
+    "hoehe": 533,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1331-5-480-7c617960.webp"
+      },
+      {
+        "breite": 800,
+        "url": "/bilder/lachen-1331-5-800-f94e30ae.webp"
+      }
+    ]
+  },
+  "lachen-1353-2": {
+    "id": "lachen-1353-2",
+    "original": "assets/originale/lachen/lachen-1353-2.jpg",
+    "breite": 800,
+    "hoehe": 524,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1353-2-480-751fdc76.webp"
+      },
+      {
+        "breite": 800,
+        "url": "/bilder/lachen-1353-2-800-93bf3607.webp"
+      }
+    ]
+  },
+  "lachen-1353-3": {
+    "id": "lachen-1353-3",
+    "original": "assets/originale/lachen/lachen-1353-3.jpg",
+    "breite": 800,
+    "hoehe": 534,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1353-3-480-aab9396b.webp"
+      },
+      {
+        "breite": 800,
+        "url": "/bilder/lachen-1353-3-800-15a7c974.webp"
+      }
+    ]
+  },
+  "lachen-1353-4": {
+    "id": "lachen-1353-4",
+    "original": "assets/originale/lachen/lachen-1353-4.jpg",
+    "breite": 800,
+    "hoehe": 489,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1353-4-480-c7c8bffc.webp"
+      },
+      {
+        "breite": 800,
+        "url": "/bilder/lachen-1353-4-800-b68136c6.webp"
+      }
+    ]
+  },
+  "lachen-1353-6": {
+    "id": "lachen-1353-6",
+    "original": "assets/originale/lachen/lachen-1353-6.jpg",
+    "breite": 800,
+    "hoehe": 534,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1353-6-480-112933ac.webp"
+      },
+      {
+        "breite": 800,
+        "url": "/bilder/lachen-1353-6-800-debcf0ff.webp"
+      }
+    ]
+  },
+  "standort-17": {
+    "id": "standort-17",
+    "original": "assets/originale/standort/buckhauserstrasse-17.jpg",
+    "breite": 535,
+    "hoehe": 325,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/standort-17-480-1bd25967.webp"
+      },
+      {
+        "breite": 535,
+        "url": "/bilder/standort-17-535-e63152ff.webp"
+      }
+    ]
+  },
+  "schwangerschaft-3": {
+    "id": "schwangerschaft-3",
+    "original": "assets/originale/ratgeber/schwangerschaft-baby.jpg",
+    "breite": 631,
+    "hoehe": 407,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/schwangerschaft-3-480-a16ea59f.webp"
+      },
+      {
+        "breite": 631,
+        "url": "/bilder/schwangerschaft-3-631-7331c7eb.webp"
+      }
+    ]
+  },
+  "lachen-1326": {
+    "id": "lachen-1326",
+    "original": "assets/originale/lachen/lachen-1326.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1326-480-b36610b5.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/lachen-1326-960-98e7130d.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/lachen-1326-1100-3b9dec90.webp"
+      }
+    ]
+  },
+  "lachen-1326-1": {
+    "id": "lachen-1326-1",
+    "original": "assets/originale/lachen/lachen-1326-1.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1326-1-480-4a3c5b87.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/lachen-1326-1-960-70ff4245.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/lachen-1326-1-1100-1f6da3f0.webp"
+      }
+    ]
+  },
+  "lachen-1326-4": {
+    "id": "lachen-1326-4",
+    "original": "assets/originale/lachen/lachen-1326-4.jpg",
+    "breite": 1100,
+    "hoehe": 734,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1326-4-480-d80922df.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/lachen-1326-4-960-b53704b4.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/lachen-1326-4-1100-e9548462.webp"
+      }
+    ]
+  },
+  "lachen-1326-5": {
+    "id": "lachen-1326-5",
+    "original": "assets/originale/lachen/lachen-1326-5.jpg",
+    "breite": 1100,
+    "hoehe": 734,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1326-5-480-9a0125f6.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/lachen-1326-5-960-4ca498f5.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/lachen-1326-5-1100-66287ece.webp"
+      }
+    ]
+  },
+  "lachen-1326-6": {
+    "id": "lachen-1326-6",
+    "original": "assets/originale/lachen/lachen-1326-6.jpg",
+    "breite": 1094,
+    "hoehe": 800,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1326-6-480-23541f0e.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/lachen-1326-6-960-8358445d.webp"
+      },
+      {
+        "breite": 1094,
+        "url": "/bilder/lachen-1326-6-1094-4d821921.webp"
+      }
+    ]
+  },
+  "lachen-1326-7": {
+    "id": "lachen-1326-7",
+    "original": "assets/originale/lachen/lachen-1326-7.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1326-7-480-3a181d8e.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/lachen-1326-7-960-6a2c8aa8.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/lachen-1326-7-1100-b0b7f13f.webp"
+      }
+    ]
+  },
+  "lachen-1326-7-2": {
+    "id": "lachen-1326-7-2",
+    "original": "assets/originale/lachen/lachen-1326-7-2.jpg",
+    "breite": 1100,
+    "hoehe": 744,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1326-7-2-480-7a215188.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/lachen-1326-7-2-960-f5899197.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/lachen-1326-7-2-1100-9595dbb7.webp"
+      }
+    ]
+  },
+  "lachen-1353-5": {
+    "id": "lachen-1353-5",
+    "original": "assets/originale/lachen/lachen-1353-5.jpg",
+    "breite": 1100,
+    "hoehe": 700,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1353-5-480-95a60187.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/lachen-1353-5-960-31c9ca9d.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/lachen-1353-5-1100-625cb2c5.webp"
+      }
+    ]
+  },
+  "lachen-1344-1": {
+    "id": "lachen-1344-1",
+    "original": "assets/originale/lachen/lachen-1344-1.jpg",
+    "breite": 1073,
+    "hoehe": 1270,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1344-1-480-aaf0183b.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/lachen-1344-1-960-ebd2481a.webp"
+      },
+      {
+        "breite": 1073,
+        "url": "/bilder/lachen-1344-1-1073-2bb37642.webp"
+      }
+    ]
+  },
+  "lachen-1344-2": {
+    "id": "lachen-1344-2",
+    "original": "assets/originale/lachen/lachen-1344-2.jpg",
+    "breite": 565,
+    "hoehe": 593,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1344-2-480-54042efb.webp"
+      },
+      {
+        "breite": 565,
+        "url": "/bilder/lachen-1344-2-565-2f2cb86b.webp"
+      }
+    ]
+  },
+  "lachen-1344-3": {
+    "id": "lachen-1344-3",
+    "original": "assets/originale/lachen/lachen-1344-3.jpg",
+    "breite": 809,
+    "hoehe": 800,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1344-3-480-686d0308.webp"
+      },
+      {
+        "breite": 809,
+        "url": "/bilder/lachen-1344-3-809-0a801889.webp"
+      }
+    ]
+  },
+  "lachen-1344-4": {
+    "id": "lachen-1344-4",
+    "original": "assets/originale/lachen/lachen-1344-4.jpg",
+    "breite": 634,
+    "hoehe": 800,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1344-4-480-8bcb3215.webp"
+      },
+      {
+        "breite": 634,
+        "url": "/bilder/lachen-1344-4-634-54206d3b.webp"
+      }
+    ]
+  },
+  "lachen-1305-3": {
+    "id": "lachen-1305-3",
+    "original": "assets/originale/lachen/lachen-1305-3.jpg",
+    "breite": 1100,
+    "hoehe": 733,
+    "quellen": [
+      {
+        "breite": 480,
+        "url": "/bilder/lachen-1305-3-480-be935d94.webp"
+      },
+      {
+        "breite": 960,
+        "url": "/bilder/lachen-1305-3-960-916e7acb.webp"
+      },
+      {
+        "breite": 1100,
+        "url": "/bilder/lachen-1305-3-1100-3d05aa49.webp"
+      }
+    ]
+  }
+}

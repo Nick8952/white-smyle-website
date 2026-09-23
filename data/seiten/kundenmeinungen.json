@@ -1,0 +1,131 @@
+{
+ "id": "seite-kundenmeinungen",
+ "slug": "kundenmeinungen",
+ "art": "seite",
+ "titel": "Kundenmeinungen",
+ "teaser": "Erfahrungen von Patientinnen, Patienten und Kunden, die die Praxis gerne teilt – wörtlich übernommen.",
+ "einleitung": "Erfahrungen von Patientinnen, Patienten und Kunden, welche wir gerne mit Ihnen teilen möchten.",
+ "seoTitel": "Kundenmeinungen – WHITE SMYLE Zürich",
+ "seoBeschreibung": "Was Kundinnen und Kunden über Dentalhygiene und Bleaching bei WHITE SMYLE sagen – Erfahrungsberichte von der bisherigen Website, wörtlich übernommen.",
+ "alteUrls": [
+  "/kundenmeinungen.html"
+ ],
+ "quelle": "whitesmyle.ch/kundenmeinungen.html, Startseite, /bleaching.html, /kombiangebote.html",
+ "pruefstatus": "uebernommen",
+ "bausteine": [
+  {
+   "_type": "kundenmeinungenBaustein",
+   "_key": "bsov",
+   "titel": "Ich gehe zu WHITE SMYLE …",
+   "darstellung": "wand",
+   "meinungen": [
+    "km-kurz-peter",
+    "km-kurz-valentina",
+    "km-kurz-beat",
+    "km-kurz-jessica",
+    "km-kurz-mila",
+    "km-kurz-urs",
+    "km-kurz-nicole",
+    "km-kurz-lara",
+    "km-kurz-benjamin",
+    "km-kurz-daniel",
+    "km-kurz-sarah"
+   ],
+   "quellenHinweis": "Kurzstatements von whitesmyle.ch/kundenmeinungen.html (Textliste und Kundengrafiken), wörtlich."
+  },
+  {
+   "_type": "kundenmeinungenBaustein",
+   "_key": "bsow",
+   "titel": "Erfahrungsberichte",
+   "darstellung": "wand",
+   "meinungen": [
+    "km-daniel",
+    "km-elvira",
+    "km-nicolas",
+    "km-livia",
+    "km-marco",
+    "km-alfred",
+    "km-diana",
+    "km-pascal",
+    "km-esra",
+    "km-otto",
+    "km-cindy",
+    "km-marcel",
+    "km-alessia",
+    "km-veronika",
+    "km-samira",
+    "km-oliver",
+    "km-carla",
+    "km-valerio",
+    "km-susanne",
+    "km-adrian",
+    "km-martina",
+    "km-anja",
+    "km-danijela",
+    "km-adriano",
+    "km-angie",
+    "km-stefan",
+    "km-michelle",
+    "km-lucia"
+   ]
+  },
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bsp2",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "box",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "soy",
+       "text": "Einige Berichte nennen Leistungen, die auf der aktuellen Preisliste nicht mehr stehen (Soft Bleaching, ZOOM Bleaching) oder eine frühere Namensform der Dentalhygienikerin (Frau Tauber). Die Texte sind unverändert übernommen; welche Leistungen heute angeboten werden, steht in der ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "sp0",
+       "text": "Preisübersicht",
+       "marks": [
+        "loz"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sp1",
+       "text": ".",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "loz",
+       "href": "/preise/",
+       "extern": false
+      }
+     ]
+    }
+   ],
+   "art": "info"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsp3",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Testen auch Sie uns",
+   "text": "Vereinbaren Sie Ihre Dentalhygiene oder Ihr Bleaching.",
+   "zweiterKnopf": {
+    "titel": "Kontakt",
+    "ziel": "/kontakt/"
+   }
+  }
+ ]
+}

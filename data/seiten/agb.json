@@ -1,0 +1,20 @@
+{
+ "id": "seite-agb",
+ "slug": "agb",
+ "art": "rechtliches",
+ "titel": "AGB",
+ "teaser": "Allgemeine Geschäftsbedingungen der KOMVITA AG / WHITE SMYLE dental für Dentalhygiene und Bleaching.",
+ "seoTitel": "AGB – WHITE SMYLE dental",
+ "seoBeschreibung": "Allgemeine Geschäftsbedingungen der KOMVITA AG / WHITE SMYLE dental: Dentalhygiene, Bleaching, Dokumente, Garantie und Kulanz, Zahlung, Terminabsagen (Stand 05/2025).",
+ "alteUrls": [
+  "/agbs.html"
+ ],
+ "quelle": "whitesmyle.ch/agbs.html",
+ "bausteine": [
+  {
+   "_type": "rechtstextBaustein",
+   "_key": "bs1mo",
+   "rechtstext": "agb"
+  }
+ ]
+}

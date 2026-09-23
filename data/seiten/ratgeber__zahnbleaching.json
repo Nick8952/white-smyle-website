@@ -1,0 +1,622 @@
+{
+ "id": "seite-ratgeber-zahnbleaching",
+ "art": "ratgeber",
+ "pruefstatus": "sprachlich-angepasst",
+ "slug": "ratgeber/zahnbleaching",
+ "titel": "Bleaching-Fakten: Alles über Zahnbleaching",
+ "teaser": "Methoden, Haltbarkeit, Kosten, Risiken und Tipps für dauerhaft weisse Zähne – in 30 Sekunden und im Detail.",
+ "einleitung": "Schöne weisse Zähne machen einen Unterschied. Ein strahlendes Lächeln wirkt gepflegt, sympathisch und selbstbewusst – genau deshalb entscheiden sich immer mehr Menschen für ein professionelles Zahnbleaching.",
+ "seoTitel": "Zahnbleaching Ratgeber – Methoden, Haltbarkeit, Kosten, Risiken",
+ "seoBeschreibung": "Alles über Zahnbleaching: In-Office, Home Bleaching, Whitening-Produkte, Haltbarkeit 1–3 Jahre, Empfindlichkeit und was danach zu beachten ist.",
+ "bild": {
+  "bild": "bleaching-ratgeber-hero",
+  "alt": "Mann mit weissem Lächeln hält eine Zahnbürste"
+ },
+ "alteUrls": [
+  "/zahnbleaching-ratgeber.html"
+ ],
+ "quelle": "whitesmyle.ch/zahnbleaching-ratgeber.html",
+ "bausteine": [
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bsqq",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bqc",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sqd",
+       "text": "Zahnbleaching in 30 Sekunden erklärt",
+       "marks": [
+        "strong"
+       ]
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bqe",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sqf",
+       "text": "Bleaching hellt natürliche Zähne sichtbar auf.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bqg",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sqh",
+       "text": "Die Behandlung dauert meist 45–75 Minuten.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bqi",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sqj",
+       "text": "Professionelles Bleaching ist bei gesunden Zähnen sicher.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bqk",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sql",
+       "text": "Das Ergebnis hält meist 1–3 Jahre.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bqm",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sqn",
+       "text": "Kaffee, Tee und Rauchen können neue Verfärbungen verursachen.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bqo",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sqp",
+       "text": "Kronen und Füllungen werden nicht aufgehellt.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    }
+   ],
+   "art": "info"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bss5",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bqr",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sqs",
+       "text": "Was ist Zahnbleaching überhaupt?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bqt",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "squ",
+       "text": "Bleaching ist die professionelle Aufhellung natürlicher Zähne. Dabei werden spezielle Wirkstoffe eingesetzt, die eingelagerte Farbpigmente im Zahnschmelz lösen. Die Zahnsubstanz wird dabei nicht abgeschliffen oder beschädigt. Das Ergebnis sind sichtbar hellere und frischere Zähne – oft bereits nach einer einzigen Behandlung.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bqv",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sqw",
+       "text": "Warum verfärben sich Zähne?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bqx",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sqy",
+       "text": "Im Laufe der Jahre lagern sich Farbstoffe in den Zähnen ein. Häufige Ursachen: Kaffee, Tee, Rotwein, Rauchen, Curry und stark färbende Lebensmittel, Medikamente, natürliche Alterungsprozesse, genetische Veranlagung. Je nach Ursache und Zahnstruktur können die Ergebnisse unterschiedlich ausfallen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bqz",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sr0",
+       "text": "Welche Bleaching-Methoden gibt es?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "br1",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sr2",
+       "text": "In-Office-Bleaching in der Praxis",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sr3",
+       "text": " ist die schnellste und effektivste Methode: sichtbares Ergebnis bereits nach ca. 60 Minuten, professioneller Schutz von Zahnfleisch und Lippen, höhere Wirksamkeit, sichere Durchführung, individuelle Betreuung. Für viele ist dies die beste Wahl, wenn schnell ein sichtbares Resultat gewünscht wird.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "br4",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sr5",
+       "text": "Home Bleaching:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sr6",
+       "text": " Individuelle Zahnschienen mit Bleaching-Gel werden zuhause angewendet. Vorteile: flexible Anwendung, schrittweise Aufhellung, gute Ergänzung nach einer Praxisbehandlung. Nachteile: längere Behandlungsdauer, weniger intensive Sofortwirkung, höherer Eigenaufwand.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "br7",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sr8",
+       "text": "Whitening-Produkte aus dem Handel:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sr9",
+       "text": " Strips, Pens oder Zahnpasten können leichte oberflächliche Verfärbungen reduzieren. Für eine deutliche Erstaufhellung empfiehlt die Praxis jedoch immer ein professionelles Bleaching in der Praxis.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bra",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "srb",
+       "text": "Ist Bleaching schädlich?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "brc",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "srd",
+       "text": "Eine der häufigsten Fragen überhaupt. Bei fachgerechter Durchführung gilt professionelles Zahnbleaching als sichere Methode. Wichtig ist: Die Zähne sollten gesund sein, Karies sollte vorher behandelt werden, das Zahnfleisch sollte gesund sein, und die Behandlung sollte durch zahnmedizinisch geschultes Fachpersonal erfolgen. Vor jeder Behandlung prüft die Praxis deshalb Ihre individuelle Situation.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bre",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "srf",
+       "text": "Werden die Zähne empfindlich?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "brg",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "srh",
+       "text": "Manche Menschen spüren nach dem Bleaching vorübergehend eine erhöhte Empfindlichkeit auf Kälte, Wärme, Süsses oder Luft. Diese Reaktion verschwindet normalerweise innerhalb kurzer Zeit wieder. Moderne Bleaching-Systeme sind deutlich schonender als früher.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bri",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "srj",
+       "text": "Wie lange hält das Ergebnis?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "brk",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "srl",
+       "text": "Das hängt von Ihren Gewohnheiten ab. Wer viel Kaffee trinkt oder raucht, wird schneller neue Verfärbungen bemerken. Typischerweise hält ein professionelles Bleaching 1–3 Jahre. Mit regelmässigen Auffrischungen und guter Mundhygiene bleibt das Ergebnis oft deutlich länger erhalten.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "brm",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "srn",
+       "text": "Können Kronen oder Füllungen aufgehellt werden?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bro",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "srp",
+       "text": "Nein. Bleaching wirkt nur auf natürliche Zahnsubstanz. Kronen, Veneers, Brücken und Kunststofffüllungen verändern ihre Farbe nicht. Deshalb prüft die Praxis vor jeder Behandlung, welche Resultate realistisch erreichbar sind.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "brq",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "srr",
+       "text": "Warum eine Dentalhygiene vor dem Bleaching?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "brs",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "srt",
+       "text": "Beläge und Zahnstein können das Ergebnis beeinträchtigen. Eine professionelle Dentalhygiene sorgt dafür, dass Verfärbungen entfernt werden, die Zahnoberflächen sauber sind, das Bleaching gleichmässiger wirkt und das Ergebnis schöner wird. Die Kombination aus Dentalhygiene und Bleaching liefert oft die besten Resultate – siehe ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "srv",
+       "text": "Kombipaket",
+       "marks": [
+        "lru"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "srw",
+       "text": ".",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "lru",
+       "href": "/kombipaket/",
+       "extern": false
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "brx",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sry",
+       "text": "Was sollten Sie nach dem Bleaching beachten?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "brz",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "ss0",
+       "text": "Während der ersten 24 bis 48 Stunden möglichst wenig färbende Lebensmittel: Kaffee, Tee, Rotwein, Nikotin, Curry, Sojasauce, dunkle Saucen. Eine einfache Regel: Vermeiden Sie alles, was auf einem weissen T-Shirt Flecken hinterlassen würde.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bs1",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "ss2",
+       "text": "Wer eignet sich besonders für ein Bleaching?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bs3",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "ss4",
+       "text": "Menschen mit gelblichen Verfärbungen, Kaffee- oder Teeverfärbungen, Raucherverfärbungen oder altersbedingten Verfärbungen. Vor jeder Behandlung berät die Praxis persönlich und beurteilt die individuelle Ausgangssituation.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ]
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bssl",
+   "titel": "Die häufigsten Fragen zum Zahnbleaching",
+   "fragen": [
+    {
+     "_key": "fs6",
+     "frage": "Wie weiss werden meine Zähne?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bs7",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "ss8",
+         "text": "Das hängt von Ihrer natürlichen Zahnfarbe, der Zahnstruktur und den vorhandenen Verfärbungen ab. Ziel ist meist ein natürlich wirkendes Weiss und kein künstlicher Hollywood-Look.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fs9",
+     "frage": "Wie oft darf man Bleaching machen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bsa",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "ssb",
+         "text": "In der Regel empfiehlt die Praxis Auffrischungen alle 6 bis 12 Monate.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fsc",
+     "frage": "Ist Bleaching während Schwangerschaft oder Stillzeit möglich?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bsd",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sse",
+         "text": "Während Schwangerschaft und Stillzeit empfiehlt die Praxis grundsätzlich kein klassisches Bleaching mit Wasserstoffperoxid.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fsf",
+     "frage": "Wie lange dauert ein professionelles Bleaching?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bsg",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "ssh",
+         "text": "Je nach Methode etwa 45 bis 60 Minuten.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fsi",
+     "frage": "Tut Bleaching weh?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bsj",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "ssk",
+         "text": "Die meisten empfinden die Behandlung als gut verträglich. Gelegentliche Empfindlichkeiten verschwinden normalerweise rasch wieder.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bssm",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Professionelles Zahnbleaching in Zürich",
+   "text": "Seit 2012 begleitet WHITE SMYLE Kundinnen und Kunden zu einem sichtbar helleren, natürlichen Lächeln.",
+   "zweiterKnopf": {
+    "titel": "Bleaching-Arten und Preise",
+    "ziel": "/bleaching/"
+   }
+  }
+ ]
+}

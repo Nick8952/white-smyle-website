@@ -1,0 +1,39 @@
+{
+ "id": "seite-tests-bleaching-test",
+ "slug": "tests/bleaching-test",
+ "art": "fragebogen",
+ "titel": "Bleaching-Test",
+ "teaser": "Welcher Bleaching-Typ sind Sie? Wünsche und zahnmedizinisches Profil – die Fragen der Praxis.",
+ "einleitung": "Diese Fragen stellt die Praxis im Fragebogen «Bleaching-Test». Hier nur zum Lesen – ohne Eingabe, Auswertung oder Speicherung.",
+ "seoTitel": "Bleaching-Test – Fragen zur Vorbereitung",
+ "seoBeschreibung": "Welcher Bleaching-Typ sind Sie? Wünsche und zahnmedizinisches Profil – die Fragen der Praxis.",
+ "alteUrls": [
+  "/bleaching-test.html"
+ ],
+ "quelle": "whitesmyle.ch/bleaching-test.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "fragebogenBaustein",
+   "_key": "bsq4",
+   "fragebogen": "fb-bleaching",
+   "titel": "Bleaching-Test"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsq5",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Direkt besprechen",
+   "text": "Termin buchen oder anrufen: 043 931 78 74.",
+   "zweiterKnopf": {
+    "titel": "Alle Fragebögen",
+    "ziel": "/tests/"
+   }
+  }
+ ]
+}

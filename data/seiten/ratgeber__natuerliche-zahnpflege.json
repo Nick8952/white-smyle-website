@@ -1,0 +1,198 @@
+{
+ "id": "seite-ratgeber-natuerliche-zahnpflege",
+ "slug": "ratgeber/natuerliche-zahnpflege",
+ "art": "ratgeber",
+ "titel": "Natürliche Zahnpflege",
+ "teaser": "Warum die Praxis auf natürliche Zahnpasten mit Enzymen, Hydroxylapatit und ätherischen Ölen setzt.",
+ "einleitung": "Alles, was täglich in Ihren Mund kommt, sollte sauber, sicher und sinnvoll sein.",
+ "seoTitel": "Natürliche Zahnpflege – gesunde Zahnpasten kurz erklärt",
+ "seoBeschreibung": "Natürliche Zahnpflege laut WHITE SMYLE: Enzyme, Hydroxylapatit als Alternative zu Fluorid, ätherische Öle. Fragen und Antworten zu gesunden Zahnpasten.",
+ "bild": {
+  "bild": "splat-zahnpasten",
+  "alt": "Zahnpasten-Tuben der Marke SPLAT"
+ },
+ "alteUrls": [
+  "/"
+ ],
+ "quelle": "whitesmyle.ch (Startseite, Abschnitt «Natürliche Zahnpflege»)",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bsph",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bpd",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "spe",
+       "text": "Dennoch greifen viele noch zu Zahnpasten mit unnötiger Chemie. Dabei ist der Mund ein sensibles Mikrobiom, das man nicht aus dem Gleichgewicht bringen sollte. Moderne Zahnpflege setzt deshalb nach Ansicht der Praxis auf natürliche, gut erforschte Inhaltsstoffe: Enzyme, die Beläge sanft lösen (ohne Kratzen), Hydroxylapatit zur Stärkung des Zahnschmelzes – auch als Alternative zu Fluorid – und ätherische Öle für Frische statt künstlicher Zusätze.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bpf",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "spg",
+       "text": "Natürlich und wissenschaftlich muss kein Widerspruch sein. Im Gegenteil: Die beste Zahnpflege verbindet beides. Kurz gesagt: Was in Ihren Mund kommt, sollte Ihnen auch wirklich guttun.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ]
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bsq0",
+   "titel": "Gesunde Zahnpasten kurz erklärt",
+   "fragen": [
+    {
+     "_key": "fpi",
+     "frage": "Warum sollte ich auf meine Zahnpasta achten?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bpj",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "spk",
+         "text": "Weil Sie sie täglich verwenden – und alles, was in Ihren Mund kommt, sollte möglichst sauber und verträglich sein.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fpl",
+     "frage": "Was macht eine Zahnpasta «gesund»?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bpm",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "spn",
+         "text": "Natürliche Inhaltsstoffe, die wirksam reinigen, ohne das orale Mikrobiom zu stören.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fpo",
+     "frage": "Geht Zahnpflege auch ohne Fluorid?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bpp",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "spq",
+         "text": "Ja – zum Beispiel mit Hydroxylapatit, einem Stoff, der dem natürlichen Zahnschmelz sehr ähnlich ist und ihn unterstützt (Angabe der Praxis).",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fpr",
+     "frage": "Wie werden die Zähne sauber ohne aggressive Schleifstoffe?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bps",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "spt",
+         "text": "Durch Enzyme, die Zahnbelag sanft auflösen, statt ihn mechanisch «wegzuschrubben».",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fpu",
+     "frage": "Warum ätherische Öle statt Chemie?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bpv",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "spw",
+         "text": "Sie sorgen für Frische und können antibakteriell wirken – ganz ohne unnötige synthetische Zusätze.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fpx",
+     "frage": "Natürlich oder wissenschaftlich – was ist besser?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bpy",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "spz",
+         "text": "Die Kombination macht es: natürliche Inhaltsstoffe, deren Wirkung auch wissenschaftlich sinnvoll ist.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsq1",
+   "variante": "karte",
+   "titel": "Ausgewählte natürliche Zahnpasten",
+   "text": "Im Zahnpastashop, dem externen Webshop der Praxisbetreiber. Preise, Bestände und Versandbedingungen finden Sie dort.",
+   "knopf": {
+    "titel": "Zum Zahnpastashop",
+    "ziel": "https://www.zahnpastashop.ch/zahnpasten.html",
+    "extern": true
+   },
+   "zweiterKnopf": {
+    "titel": "Ratgeber Hilfsmittel",
+    "ziel": "/ratgeber/hilfsmittel/"
+   }
+  }
+ ]
+}

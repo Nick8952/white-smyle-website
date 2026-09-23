@@ -1,0 +1,768 @@
+{
+ "id": "seite-bleaching-power-bleaching",
+ "slug": "bleaching/power-bleaching",
+ "art": "leistung",
+ "titel": "HEYDENT Power Bleaching",
+ "teaser": "Professionelle Zahnaufhellung in der Praxis mit dem medizinischen HEYDENT Power Bleaching Gel (35 % Wasserstoffperoxid).",
+ "einleitung": "Professionelle Zahnaufhellung ist heute deutlich mehr als nur «weissere Zähne». Moderne Power-Bleaching-Systeme arbeiten präzise, kontrolliert und zahnschonend. Mit dem medizinischen Bleaching-Gel HEYDENT Power Bleaching kommt eine In-Office-Technologie zum Einsatz, die speziell für professionelle Zahnaufhellungen entwickelt wurde.",
+ "seoTitel": "Power Bleaching Zürich – HEYDENT Power Bleaching",
+ "seoBeschreibung": "Power Bleaching in Zürich mit HEYDENT: medizinisch klassifiziertes Gel mit 35 % Wasserstoffperoxid, Aufhellung in einer Sitzung. Preise und Fragen.",
+ "bild": {
+  "bild": "power-hero",
+  "alt": "Lachende Frau mit hellen Zähnen"
+ },
+ "alteUrls": [
+  "/power-bleaching-zuerich.html"
+ ],
+ "quelle": "whitesmyle.ch/power-bleaching-zuerich.html, /power-bleaching-aktion.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "leistungenBaustein",
+   "_key": "bsfr",
+   "titel": "Power Bleaching und Power Bleaching plus",
+   "einleitung": "Preise gemäss Preisliste. Voraussetzung: Die letzte Dentalhygiene liegt nicht länger als 6 Monate zurück – sonst empfiehlt die Praxis das Kombipaket.",
+   "leistungen": [
+    "leistung-power-bleaching",
+    "leistung-power-bleaching-plus"
+   ],
+   "darstellung": "liste"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bsge",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bfs",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sft",
+       "text": "Was ist HEYDENT Power Bleaching?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bfu",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sfv",
+       "text": "HEYDENT Power Bleaching ist ein professionelles Power-Bleaching-Gel mit 35 % Wasserstoffperoxid zur schnellen und kontrollierten Zahnaufhellung in der Praxis. Das Gel wurde nach Angabe des Herstellers speziell für stark verfärbte, dunklere Zähne oder bereits gebleichte Zähne entwickelt, die noch weisser werden sollen, und wird am besten mit Lichtaktivierung verwendet. Es wird ausschliesslich im professionellen Bereich eingesetzt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bfw",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sfx",
+       "text": "Wie wirkt das Bleaching-Gel?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bfy",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sfz",
+       "text": "Der Wirkstoff Wasserstoffperoxid dringt in den Zahnschmelz ein und löst dort eingelagerte Farbpigmente auf. Diese Oxidation reduziert Verfärbungen sichtbar und hellt die natürliche Zahnfarbe auf. Das Gel wirkt in der Tiefe des Zahnschmelzes sowie an der Oberfläche. Dadurch eignet sich die Behandlung besonders bei Kaffee- und Tee-Verfärbungen, Raucherverfärbungen, altersbedingten Verfärbungen und Medikamentenverfärbungen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bg0",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sg1",
+       "text": "Wann ist das Gel besonders geeignet?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bg2",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sg3",
+       "text": "Bei dunklen oder gelblichen Zähnen:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sg4",
+       "text": " Menschen mit natürlichen Verfärbungen profitieren häufig besonders stark.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bg5",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sg6",
+       "text": "Kaffee-, Tee- oder Nikotinverfärbungen:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sg7",
+       "text": " Tiefe Farbpigmente können gezielt reduziert werden.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bg8",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sg9",
+       "text": "Vor Events oder Hochzeiten:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sga",
+       "text": " Sichtbare Ergebnisse oft bereits nach einer Sitzung.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bgb",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sgc",
+       "text": "Wunsch nach schneller Zahnaufhellung:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sgd",
+       "text": " Im Vergleich zu Home Bleaching wirken hochkonzentrierte In-Office-Gele deutlich schneller – für die erste Aufhellung sehr zu empfehlen.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    }
+   ],
+   "bild": {
+    "bild": "power-gel",
+    "alt": "Bleaching-Gel wird auf die Zähne aufgetragen"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bshh",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bgf",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sgg",
+       "text": "Was unterscheidet HEYDENT Power Bleaching von anderen Bleaching-Gels?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bgh",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sgi",
+       "text": "Medizinisches In-Office-System:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sgj",
+       "text": " Viele frei verkäufliche Whitening-Produkte arbeiten mit deutlich niedrigeren Konzentrationen und liefern oft ungleichmässige Resultate. HEYDENT Power Bleaching wurde speziell für professionelle Anwendungen entwickelt.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bgk",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sgl",
+       "text": "Neutraler pH-Wert:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sgm",
+       "text": " Das Gel besitzt laut Hersteller einen neutralen pH-Wert, wodurch die Zahnoberfläche geschont werden soll – ein wichtiger Unterschied zu aggressiveren Bleaching-Produkten.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bgn",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sgo",
+       "text": "Enthält Mineralien:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sgp",
+       "text": " Das System enthält zusätzlich Mineralien zur Unterstützung und zum Schutz der Zahnstruktur während der Aufhellung.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bgq",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sgr",
+       "text": "Kein Verlaufen des Gels:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sgs",
+       "text": " Durch die spezielle Konsistenz bleibt das Gel stabil auf dem Zahn und ermöglicht eine gleichmässigere Aufhellung.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bgt",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sgu",
+       "text": "Auto-Mix-Technologie:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sgv",
+       "text": " Das Gel wird automatisch in der richtigen Mischung kombiniert – konstante Wirkstoffqualität ohne manuelles Anmischen.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bgw",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sgx",
+       "text": "Welche Vorteile haben Patientinnen und Patienten?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bgy",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sgz",
+       "text": "Schnelle sichtbare Ergebnisse:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sh0",
+       "text": " Viele sehen bereits nach einer Behandlung eine deutliche Aufhellung.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bh1",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sh2",
+       "text": "Natürlichere Weissgrade:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sh3",
+       "text": " kein künstlicher Hollywood-Look, sondern ein natürlich helleres Zahnbild.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bh4",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sh5",
+       "text": "Professionelle Kontrolle:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sh6",
+       "text": " Die Behandlung erfolgt kontrolliert mit Schutz für Zahnfleisch und Weichgewebe.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bh7",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sh8",
+       "text": "Gleichmässigere Ergebnisse:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sh9",
+       "text": " Professionelle Hochleistungsgele arbeiten präziser als viele Home-Whitening-Produkte.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bha",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "shb",
+       "text": "Längerfristige Resultate:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "shc",
+       "text": " Durch die hohe Wirkstoffkonzentration können Ergebnisse häufig länger sichtbar bleiben – abhängig von Ernährung und Lebensstil.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bhd",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "she",
+       "text": "Ist das Gel medizinisch geprüft?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bhf",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "shg",
+       "text": "HEYDENT Power Bleaching wird laut Hersteller als Medizinprodukt der Klasse IIa beschrieben und ist für die professionelle Anwendung entwickelt worden: kein normales Kosmetikprodukt, medizinisch klassifiziert, ausschliesslich für Fachpersonal bestimmt. Power Bleaching darf nur in einer Dentalhygiene- oder Zahnarztpraxis durchgeführt werden.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "breite": "schmal"
+  },
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bshl",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bhi",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "shj",
+       "text": "Ist das Bleaching sicher?",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "shk",
+       "text": " Professionelles Power Bleaching gilt bei gesunden Zähnen grundsätzlich als sichere Methode der Zahnaufhellung. Entscheidend sind korrekte Diagnose, Schutz des Zahnfleisches, professionelle Anwendung und passende Wirkstoffdosierung. Leichte temporäre Empfindlichkeiten können bei manchen Patientinnen und Patienten auftreten, verschwinden jedoch meist nach kurzer Zeit. Auch beim Bleaching gilt: Zu viel ist nicht gut – die Abstände nennt Ihnen die Fachperson.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "art": "medizinisch"
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bsia",
+   "titel": "Häufige Fragen zu HEYDENT Power Bleaching",
+   "fragen": [
+    {
+     "_key": "fhm",
+     "frage": "Wie funktioniert Power Bleaching?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bhn",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sho",
+         "text": "Power Bleaching ist eine schnelle und effektive Methode zur Aufhellung von Zähnen. Innerhalb einer Stunde ist die deutliche Aufhellung zu sehen. Mit dem Home Bleaching braucht man ca. 14 Tage, um das gleiche Ergebnis zu erreichen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fhp",
+     "frage": "Warum fallen Bleaching-Ergebnisse unterschiedlich aus?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bhq",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "shr",
+         "text": "Das Ergebnis hängt unter anderem ab von natürlicher Zahnfarbe, Zahnschmelzdicke, Alter, Ernährung, Nikotin, genetischer Zahnstruktur und Medikamentenverfärbungen. Deshalb wird professionelles Bleaching individuell angepasst.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fhs",
+     "frage": "Wie lange hält Power Bleaching?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bht",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "shu",
+         "text": "Die Haltbarkeit ist individuell unterschiedlich – durchschnittlich ca. 6 Monate bis mehrere Jahre. Beeinflusst wird das Ergebnis durch Rauchen, Kaffee und Tee, Mundhygiene, Dentalhygiene und Ernährung.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fhv",
+     "frage": "Wird das Zahnfleisch geschützt?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bhw",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "shx",
+         "text": "Ja. Während der Behandlung wird ein spezieller Zahnfleisch-Schutz verwendet.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fhy",
+     "frage": "Können Kronen oder Veneers gebleicht werden?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bhz",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "si0",
+         "text": "Nein. Bleaching wirkt nur auf natürliche Zahnsubstanz.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fi1",
+     "frage": "Ist das Gel auch für empfindliche Zähne geeignet?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bi2",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "si3",
+         "text": "Empfindliche Zähne müssen individuell beurteilt werden. Das Gel besitzt jedoch laut Hersteller einen neutralen pH-Wert und mineralische Bestandteile zur Zahnschonung.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fi4",
+     "frage": "Wie schnell sieht man Ergebnisse?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bi5",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "si6",
+         "text": "Bereits nach einer Sitzung hat man ein sichtbares Ergebnis. Je nach Verfärbungsgrad werden die Zähne deutlich heller – ein Hollywood-Weiss wird nicht erreicht, sondern ein natürliches schönes Weiss.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fi7",
+     "frage": "Warum ist professionelles Power Bleaching besser als Drogerie-Produkte?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bi8",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "si9",
+         "text": "Professionelle Systeme arbeiten nach Angabe der Praxis kontrollierter, stärker, gleichmässiger, sicherer und medizinisch überwacht.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "galerieBaustein",
+   "_key": "bsib",
+   "titel": "Eindrücke",
+   "bilder": [
+    {
+     "bild": "power-galerie-20",
+     "alt": "Vier lachende Menschen mit hellen Zähnen"
+    },
+    {
+     "bild": "power-galerie-4",
+     "alt": "Lachender Mund"
+    },
+    {
+     "bild": "power-galerie-9",
+     "alt": "Lachender Mund"
+    },
+    {
+     "bild": "power-galerie-7",
+     "alt": "Lachender Mund"
+    },
+    {
+     "bild": "power-galerie-8",
+     "alt": "Lachender Mund"
+    },
+    {
+     "bild": "power-galerie-10",
+     "alt": "Lachender Mann"
+    },
+    {
+     "bild": "power-galerie-11",
+     "alt": "Zahnfarbring vor einem lachenden Mund"
+    },
+    {
+     "bild": "power-galerie-17",
+     "alt": "Lachender Mann"
+    },
+    {
+     "bild": "power-galerie-1",
+     "alt": "Lachender Mund"
+    }
+   ],
+   "hinweis": "Bilder der bisherigen Aktionsseite; Herkunft (Praxis oder Symbolbild) dort nicht angegeben."
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsic",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Buchen Sie jetzt Ihren Bleaching-Termin",
+   "text": "Online über Cituro oder telefonisch: 043 931 78 74 / 076 460 38 10.",
+   "zweiterKnopf": {
+    "titel": "Aktion ansehen",
+    "ziel": "/preise/aktion/"
+   }
+  }
+ ]
+}

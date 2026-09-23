@@ -1,0 +1,1033 @@
+{
+ "id": "seite-ratgeber-mundgeruch",
+ "art": "ratgeber",
+ "pruefstatus": "sprachlich-angepasst",
+ "slug": "ratgeber/mundgeruch",
+ "titel": "Mundgeruch erkennen und nachhaltig behandeln",
+ "teaser": "Ich putze meine Zähne und habe trotzdem Mundgeruch: Ursachen, die Rolle der Zunge, Hilfsmittel und die Checkliste «frischer Atem».",
+ "einleitung": "Viele Menschen leiden unter Mundgeruch, obwohl sie ihre Zähne regelmässig putzen. Oft entsteht schlechter Atem nicht durch mangelnde Hygiene, sondern durch bakterielle Beläge auf der Zunge, Zahnfleischentzündungen oder schwer erreichbare Stellen zwischen den Zähnen.",
+ "seoTitel": "Mundgeruch (Halitosis) – Ursachen und Hilfe in Zürich",
+ "seoBeschreibung": "Mundgeruch trotz Zähneputzen? Ursachen, Zungenreinigung, Hilfsmittel, Tagesplan und Checkliste «frischer Atem». Ratgeber der Praxis WHITE SMYLE Zürich.",
+ "bild": {
+  "bild": "mundgeruch-hero",
+  "alt": "Frau prüft ihren Atem mit der Hand vor dem Mund"
+ },
+ "alteUrls": [
+  "/mundgeruch.html"
+ ],
+ "quelle": "whitesmyle.ch/mundgeruch.html",
+ "mitInhaltsverzeichnis": true,
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bs13s",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b136",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s137",
+       "text": "Besonders unangenehm ist, dass Betroffene ihren eigenen Mundgeruch häufig gar nicht bemerken – das Umfeld dagegen schon. Das kann im Alltag, bei der Arbeit oder in persönlichen Gesprächen sehr belastend sein.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b138",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s139",
+       "text": "Was verursacht Mundgeruch?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b13a",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s13b",
+       "text": "In den meisten Fällen entsteht Mundgeruch direkt im Mundraum. Häufige Ursachen: bakterielle Beläge auf der Zunge, Zahnfleischentzündungen (Gingivitis), Parodontitis, Zahnstein, ungepflegte Zahnzwischenräume, trockener Mund, Entzündungen im Mundraum. Bakterien produzieren dabei Schwefelverbindungen, die den typischen unangenehmen Geruch verursachen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b13c",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s13d",
+       "text": "Warum Mundgeruch trotz guter Zahnpflege entstehen kann",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b13e",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s13f",
+       "text": "Mit der Zahnbürste allein erreicht man oft nicht alle Bereiche, in denen sich Bakterien ansammeln: Zahnzwischenräume, Zahnfleischtaschen, die Zungenoberfläche, schwer zugängliche Stellen im hinteren Mundbereich. Professionelle Dentalhygiene kann helfen, diese Beläge gezielt zu entfernen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b13g",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s13h",
+       "text": "Mundgeruch und Zahnfleischprobleme",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b13i",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s13j",
+       "text": "Gesundes Zahnfleisch blutet nicht und riecht nicht unangenehm. Entzündetes Zahnfleisch dagegen bietet ideale Bedingungen für Bakterien. Typische Warnzeichen: Zahnfleischbluten, geschwollenes Zahnfleisch, schlechter Geschmack im Mund, unangenehmer Atem trotz Zähneputzen. Unbehandelt können sich Entzündungen langfristig verschlimmern.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b13k",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s13l",
+       "text": "Die Zunge spielt oft eine grosse Rolle",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b13m",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s13n",
+       "text": "Viele geruchsbildende Bakterien sitzen direkt auf der Zunge. Ein weisslicher oder gelblicher Belag kann deshalb eine häufige Ursache für Mundgeruch sein. In der Mundhöhle leben laut Praxis rund 50 Millionen verschiedene Bakterien; die bevorzugten Plätze sind Orte, an denen sie nicht durch das Zähneputzen gestört werden und wenig Sauerstoff vorhanden ist: Zahnzwischenräume, Zahnfleischtaschen, Zahnersatz – und die Zunge. Experten vermuten nach Angabe der Praxis, dass mit einer besseren Zungenhygiene rund der Hälfte aller an Mundgeruch leidenden Personen geholfen werden kann. Vor allem dem hinteren Teil der Zunge sollte man mehr Aufmerksamkeit schenken und ihn 2 Mal pro Tag gründlich reinigen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b13o",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s13p",
+       "text": "Was hilft gegen Mundgeruch?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b13q",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s13r",
+       "text": "Eine nachhaltige Verbesserung gelingt meist nur, wenn die Ursache behandelt wird. Wichtige Massnahmen: professionelle Dentalhygiene, Reinigung der Zahnzwischenräume, Entfernung von Zahnstein, Behandlung von Zahnfleischentzündungen, regelmässige Zungenreinigung, ausreichende Flüssigkeitszufuhr. Frischer Atem beginnt mit gesunden Zähnen und gesundem Zahnfleisch.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "ursachen",
+   "titel": "Ursachen",
+   "bild": {
+    "bild": "zungenbelag",
+    "alt": "Frau zeigt ihre Zunge; Schriftzug «Zungenreinigung – Mundgeruch durch Zungenbelag»"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs14f",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b13t",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s13u",
+       "text": "Hilfsmittel für die Zungenreinigung",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b13v",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s13w",
+       "text": "Die vier wesentlichen Möglichkeiten laut Praxis:",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b13x",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s13y",
+       "text": "Zahnbürste:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s13z",
+       "text": " besser als gar nicht zu putzen. Eine separate weiche Zahnbürste nehmen – harte Borsten würden die Papillen der Zungenoberfläche verletzen, und mit derselben Bürste würden Bakterien von der Zunge auf die Zähne übertragen.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b140",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s141",
+       "text": "Zungenschaber:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s142",
+       "text": " Es gibt viele Modelle von Kunststoff bis Gold. Normalerweise genügt ein Zungenschaber mit zweifacher Schabkante – so reduziert sich der Brechreiz, und die Zunge wird besonders gründlich gereinigt. Die Praxis empfiehlt Zungenschaber von TePe oder Curaprox.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b143",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s144",
+       "text": "Sonic-Zungenreinigung von Philips:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s145",
+       "text": " Wer eine elektrische Zahnbürste von Philips besitzt, kann den Sonicare-Zungenreiniger aufstecken. Durch die 200 kegelförmigen Mikroborsten und 31 000 Schwingungen pro Minute entsteht eine sanfte, tiefgreifende Reinigung, ohne die Papillen zu verletzen.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b146",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s147",
+       "text": "Ultraschall-Zungenreinigung von MEGASONEX:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s148",
+       "text": " Ein Aufsatz für den MEGASONEX-Zahnbürstengriff. Nach Angabe des Herstellers kombiniert er sanftes Schaben mit Ultraschall (96 Millionen Impulse pro Minute, bis 12 mm tief) und 9000–18 000 Vibrationen pro Minute, um Bakterien in den Papillenzwischenräumen zu entfernen. Erhältlich im externen ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s14a",
+       "text": "Zahnpastashop",
+       "marks": [
+        "l149"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s14b",
+       "text": ". Mehr im Ratgeber ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s14d",
+       "text": "Ultraschallzahnbürste",
+       "marks": [
+        "l14c"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s14e",
+       "text": ".",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l149",
+       "href": "https://www.zahnpastashop.ch/megasonex-ultraschall.html",
+       "extern": true
+      },
+      {
+       "_type": "link",
+       "_key": "l14c",
+       "href": "/ratgeber/ultraschallzahnbuerste/",
+       "extern": false
+      }
+     ],
+     "listItem": "number",
+     "level": 1
+    }
+   ],
+   "anker": "hilfsmittel",
+   "titel": "Hilfsmittel",
+   "bild": {
+    "bild": "zungenreinigung",
+    "alt": "Frau reinigt ihre Zunge mit einem Zungenschaber"
+   },
+   "bildPosition": "links"
+  },
+  {
+   "_type": "spaltenBaustein",
+   "_key": "bs150",
+   "anker": "tagesplan",
+   "titel": "Tipps für den täglichen Gebrauch",
+   "einleitung": "Tägliche Mundhygiene mit den richtigen Hilfsmitteln – der Tagesplan der Praxis (auch als PDF «Checkliste frischer Atem»).",
+   "spalten": [
+    {
+     "_key": "m",
+     "titel": "Morgens",
+     "inhalt": [
+      {
+       "_type": "block",
+       "_key": "b14g",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s14h",
+         "text": "Zähneputzen (1–2 Minuten)",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b14i",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s14j",
+         "text": "Mit Zungenschaber Zunge reinigen",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b14k",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s14l",
+         "text": "Mundspülung benutzen",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      }
+     ]
+    },
+    {
+     "_key": "t",
+     "titel": "Tagsüber",
+     "inhalt": [
+      {
+       "_type": "block",
+       "_key": "b14m",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s14n",
+         "text": "Zahnzwischenräume unbedingt mit Zahnseide oder Zahnstochern/Interdentalbürsten reinigen",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b14o",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s14p",
+         "text": "Mundspülung verwenden oder Mund mit Wasser gut ausspülen (Option: Zähne putzen mit Mundspülung statt Zahnpasta)",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b14q",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s14r",
+         "text": "Xylitol-Kaugummi verwenden",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      }
+     ]
+    },
+    {
+     "_key": "a",
+     "titel": "Abends",
+     "inhalt": [
+      {
+       "_type": "block",
+       "_key": "b14s",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s14t",
+         "text": "Zahnzwischenräume gründlich reinigen mit Zahnseide/Interdentalbürstchen",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b14u",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s14v",
+         "text": "Sanftes und gründliches Zähneputzen von mindestens 3 Minuten – am besten mit einer elektrischen Schallzahnbürste",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b14w",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s14x",
+         "text": "Mit Zungenschaber und eventuell Gel Zunge reinigen",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b14y",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s14z",
+         "text": "Mundspülung benutzen",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "spaltenBaustein",
+   "_key": "bs163",
+   "anker": "praevention",
+   "titel": "Prävention laut Praxis",
+   "spalten": [
+    {
+     "_key": "h",
+     "titel": "Hilfsmittel für die tägliche Mundhygiene",
+     "inhalt": [
+      {
+       "_type": "block",
+       "_key": "b151",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s152",
+         "text": "MEGASONEX Ultraschall- oder elektrische Zahnbürste",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b153",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s154",
+         "text": "Keine schleifende Zahnpasta",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b155",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s156",
+         "text": "Zungenschaber",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b157",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s158",
+         "text": "Zahnseide / Interdentalbürstchen",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b159",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s15a",
+         "text": "Mundspülung",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b15b",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s15c",
+         "text": "Xylitol-Kaugummi",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      }
+     ]
+    },
+    {
+     "_key": "d",
+     "titel": "1–2 Mal pro Jahr Dentalhygiene",
+     "inhalt": [
+      {
+       "_type": "block",
+       "_key": "b15d",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s15e",
+         "text": "Dentalhygiene durch eine diplomierte Dentalhygienikerin:",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      },
+      {
+       "_type": "block",
+       "_key": "b15f",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s15g",
+         "text": "Zahnsteinentfernung mit Ultraschall und Handinstrument",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b15h",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s15i",
+         "text": "Bei Bedarf Deep Scaling – Entfernen von unter dem Zahnfleisch liegendem Zahnstein und Zahnbelag",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b15j",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s15k",
+         "text": "Politur mit Paste oder Airflow (Pulverstrahlreiniger)",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b15l",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s15m",
+         "text": "Bei belegter Zunge Reinigung der Zunge mit einem rotierenden Instrument",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b15n",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s15o",
+         "text": "Kontrolle auf kariöse Stellen",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b15p",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s15q",
+         "text": "Individuelle Beratung für optimale Mundhygiene",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      }
+     ]
+    },
+    {
+     "_key": "e",
+     "titel": "Ernährung und Körper",
+     "inhalt": [
+      {
+       "_type": "block",
+       "_key": "b15r",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s15s",
+         "text": "Empfehlungen der Praxis (nicht fachlich geprüft):",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      },
+      {
+       "_type": "block",
+       "_key": "b15t",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s15u",
+         "text": "Möglichst viel chlorophyllhaltiges Gemüse (Broccoli, Spinat, Kohlsorten)",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b15v",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s15w",
+         "text": "Zwischenmahlzeiten mit Obst oder Nüssen statt Chips und Süssigkeiten",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b15x",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s15y",
+         "text": "Mehr Reis und Kartoffeln statt Brot und Pasta",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b15z",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s160",
+         "text": "Wasser, Tee oder natürliche Säfte statt zuckerhaltiger Softdrinks",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b161",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s162",
+         "text": "Sport treiben, Pausen vom Stress des Tages",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "downloadsBaustein",
+   "_key": "bs164",
+   "anker": "download",
+   "titel": "Checkliste zum Herunterladen",
+   "downloads": [
+    "download-mundgeruch"
+   ]
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bs16n",
+   "titel": "Häufige Fragen zu Mundgeruch",
+   "fragen": [
+    {
+     "_key": "f165",
+     "frage": "Warum habe ich Mundgeruch trotz Zähneputzen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b166",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s167",
+         "text": "Bakterien auf der Zunge, Zahnfleischentzündungen oder Beläge zwischen den Zähnen sind häufige Ursachen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f168",
+     "frage": "Kann Mundgeruch vom Zahnfleisch kommen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b169",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s16a",
+         "text": "Ja. Entzündetes Zahnfleisch und Parodontitis gehören zu den häufigsten Ursachen von schlechtem Atem.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f16b",
+     "frage": "Hilft Dentalhygiene gegen Mundgeruch?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b16c",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s16d",
+         "text": "Professionelle Dentalhygiene kann bakterielle Beläge und Zahnstein entfernen und dadurch Mundgeruch deutlich reduzieren.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f16e",
+     "frage": "Warum riecht mein Atem morgens schlecht?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b16f",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s16g",
+         "text": "Während des Schlafs produziert der Mund weniger Speichel. Dadurch können sich Bakterien stärker vermehren.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f16h",
+     "frage": "Was verursacht schlechten Geschmack im Mund?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b16i",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s16j",
+         "text": "Häufige Ursachen sind bakterielle Beläge, Zahnfleischprobleme oder Entzündungen im Mundraum.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f16k",
+     "frage": "Ist Mundgeruch heilbar?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b16l",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s16m",
+         "text": "In vielen Fällen ja – besonders wenn die Ursache frühzeitig erkannt und behandelt wird.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ],
+   "anker": "faq"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bs16o",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Dentalhygiene-Termin mit Mundgeruchsberatung",
+   "text": "Mundgeruch ist oft behandelbar – die Ursache sollte frühzeitig erkannt werden.",
+   "zweiterKnopf": {
+    "titel": "Fragen zur Vorbereitung",
+    "ziel": "/tests/mundgeruch-test/"
+   }
+  }
+ ]
+}

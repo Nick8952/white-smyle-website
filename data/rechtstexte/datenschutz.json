@@ -1,0 +1,744 @@
+{
+ "id": "rechtstext-datenschutz",
+ "art": "datenschutz",
+ "titel": "Datenschutzerklärung",
+ "stand": "2026-09-23",
+ "hinweis": "Demo-Fassung für die tatsächliche technische Umsetzung dieser Verkaufs-Demo (GitHub Pages, keine Cookies, externe Medien nach Einwilligung). Nicht anwaltlich geprüft; vor einem Go-Live neu zu fassen.",
+ "inhalt": [
+  {
+   "_type": "block",
+   "_key": "b1im",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1in",
+     "text": "1. Worum es geht",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1io",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1ip",
+     "text": "Diese Datenschutzerklärung beschreibt, welche Daten beim Besuch dieser ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1iq",
+     "text": "Demo-Website",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1ir",
+     "text": " verarbeitet werden. Sie gilt für die Demo unter nick8952.github.io/white-smyle-website/ und wurde für die tatsächliche technische Umsetzung geschrieben. Sie ersetzt nicht die Datenschutzerklärung der Praxis WHITE SMYLE dental für deren eigene Website, Buchungs- und Behandlungsprozesse.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1is",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1it",
+     "text": "Massgebend ist das Schweizer Bundesgesetz über den Datenschutz (DSG). Soweit Personen aus dem EU/EWR-Raum betroffen sind, wird auch die DSGVO berücksichtigt. Diese Erklärung ist eine redaktionelle Fassung für die Demo und ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1iu",
+     "text": "nicht anwaltlich geprüft",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1iv",
+     "text": ".",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1iw",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1ix",
+     "text": "2. Verantwortliche Stelle",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1iy",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1iz",
+     "text": "Für die Datenverarbeitung auf dieser Demo ist verantwortlich: Nick Holzbecher, E-Mail holzbechernick@gmail.com (Betreiber der Demo, siehe Impressum). Das dargestellte Unternehmen KOMVITA AG / WHITE SMYLE dental betreibt diese Demo nicht.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1j0",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1j1",
+     "text": "3. Hosting: GitHub Pages",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1j2",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1j3",
+     "text": "Die Website wird als statische Seite über GitHub Pages ausgeliefert (GitHub, Inc., 88 Colin P Kelly Jr Street, San Francisco, CA 94107, USA; Vertragspartner für Europa: GitHub B.V., Niederlande). Beim Aufruf verarbeitet GitHub technisch notwendige Daten wie IP-Adresse, Zeitpunkt, aufgerufene Seite, Browser- und Betriebssystemangaben, um die Seite auszuliefern und die Sicherheit zu gewährleisten. GitHub kann diese Daten in Server-Logs speichern; der Betreiber der Demo hat keinen Zugriff auf diese Logs. Informationen zum Datenschutz bei GitHub Pages: ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1j5",
+     "text": "docs.github.com – About GitHub Pages",
+     "marks": [
+      "l1j4"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1j6",
+     "text": " und ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1j8",
+     "text": "GitHub Privacy Statement",
+     "marks": [
+      "l1j7"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1j9",
+     "text": ". GitHub ist unter dem Swiss-U.S. Data Privacy Framework zertifiziert; Angaben dazu sind bei GitHub zu prüfen.",
+     "marks": []
+    }
+   ],
+   "markDefs": [
+    {
+     "_type": "link",
+     "_key": "l1j4",
+     "href": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection",
+     "extern": true
+    },
+    {
+     "_type": "link",
+     "_key": "l1j7",
+     "href": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+     "extern": true
+    }
+   ]
+  },
+  {
+   "_type": "block",
+   "_key": "b1ja",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1jb",
+     "text": "4. Keine Cookies, keine Analyse, keine Werbung",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1jc",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1jd",
+     "text": "Diese Demo setzt ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1je",
+     "text": "keine Cookies",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1jf",
+     "text": ", verwendet ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1jg",
+     "text": "keine Analyse- oder Statistikdienste",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1jh",
+     "text": " (kein Google Analytics, kein Facebook-Pixel) und keine Werbenetzwerke. Die auf der bisherigen Website whitesmyle.ch eingesetzten Dienste (Google Analytics, Facebook-Pixel, Weebly-Hosting, appjustable-Terminknopf) wurden für diese Demo ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1ji",
+     "text": "nicht",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1jj",
+     "text": " übernommen. Schriften werden lokal von dieser Website geladen (keine Google Fonts).",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1jk",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1jl",
+     "text": "5. Speicherung Ihrer Einwilligungsentscheidung (localStorage)",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1jm",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1jn",
+     "text": "Für die externen Medien (Ziffer 6) fragt die Website Ihre Einwilligung ab. Ihre Entscheidung («Alle akzeptieren», «Nur notwendige» oder die Auswahl in den Einstellungen) wird ausschliesslich in Ihrem Browser im localStorage gespeichert (Schlüssel «white-smyle-einwilligung»: Version, Zeitpunkt, Kategorie erlaubt ja/nein). Diese Speicherung ist technisch notwendig, damit die Frage nicht bei jedem Seitenaufruf erneut erscheint; sie wird nicht an den Betreiber oder Dritte übertragen. Sie können die Entscheidung jederzeit unter ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1jp",
+     "text": "Cookie-Einstellungen",
+     "marks": [
+      "l1jo"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1jq",
+     "text": " ändern oder widerrufen; ein Widerruf löscht den Eintrag und entfernt eingebettete Inhalte sofort. Steht kein localStorage zur Verfügung (z. B. privater Modus), gilt Ihre Auswahl nur für die aktuelle Seite.",
+     "marks": []
+    }
+   ],
+   "markDefs": [
+    {
+     "_type": "link",
+     "_key": "l1jo",
+     "href": "/datenschutz-einstellungen/",
+     "extern": false
+    }
+   ]
+  },
+  {
+   "_type": "block",
+   "_key": "b1jr",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1js",
+     "text": "6. Externe Medien nach Einwilligung: Google Maps und YouTube",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1jt",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1ju",
+     "text": "Auf der Kontaktseite kann eine Standortkarte von ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1jv",
+     "text": "Google Maps",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1jw",
+     "text": " eingeblendet werden, in zwei Ratgebern ein Video von ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1jx",
+     "text": "YouTube",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1jy",
+     "text": " (Anbieter jeweils Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland). Diese Inhalte werden ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1jz",
+     "text": "erst geladen, wenn Sie zustimmen",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1k0",
+     "text": " – vorher wird keine Verbindung zu Google aufgebaut (kein Vorschaubild, kein Preconnect). Beim Laden werden Ihre IP-Adresse, Geräte- und Browserangaben und die aufgerufene Seite an Google übertragen; Google kann Cookies setzen und die Daten in die USA übermitteln. Videos werden über youtube-nocookie.com im erweiterten Datenschutzmodus eingebettet. Rechtsgrundlage ist Ihre Einwilligung. Informationen: ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1k2",
+     "text": "Google Datenschutzerklärung",
+     "marks": [
+      "l1k1"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1k3",
+     "text": ". Alternativ stehen Ihnen externe Links zur Verfügung (Route in Google Maps öffnen, Video auf YouTube öffnen), die Sie bewusst selbst aufrufen.",
+     "marks": []
+    }
+   ],
+   "markDefs": [
+    {
+     "_type": "link",
+     "_key": "l1k1",
+     "href": "https://policies.google.com/privacy",
+     "extern": true
+    }
+   ]
+  },
+  {
+   "_type": "block",
+   "_key": "b1k4",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1k5",
+     "text": "7. Externe Links und Dienste (keine Einbettung)",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1k6",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1k7",
+     "text": "Die Website verlinkt auf externe Dienste. Beim Anklicken verlassen Sie diese Demo; es gelten die Datenschutzbestimmungen des jeweiligen Anbieters:",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1k8",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1k9",
+     "text": "Online-Terminbuchung Cituro",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1ka",
+     "text": " (app.cituro.com): Der Buchungsdienst der Praxis. Diese Demo bettet Cituro nicht ein und überträgt keine Daten dorthin; Eingaben auf der Cituro-Seite verarbeitet Cituro im Auftrag der Praxis.",
+     "marks": []
+    }
+   ],
+   "markDefs": [],
+   "listItem": "bullet",
+   "level": 1
+  },
+  {
+   "_type": "block",
+   "_key": "b1kb",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1kc",
+     "text": "WhatsApp-Link",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1kd",
+     "text": " (wa.me, Meta Platforms): öffnet auf Wunsch einen Chat mit der Mobilnummer der Praxis. Bitte keine Gesundheitsangaben über WhatsApp senden.",
+     "marks": []
+    }
+   ],
+   "markDefs": [],
+   "listItem": "bullet",
+   "level": 1
+  },
+  {
+   "_type": "block",
+   "_key": "b1ke",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1kf",
+     "text": "Zahnpastashop",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1kg",
+     "text": " (zahnpastashop.ch), ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1kh",
+     "text": "fresh4life.shop",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1ki",
+     "text": ": externe Webshops der Praxisbetreiber bzw. Dritter.",
+     "marks": []
+    }
+   ],
+   "markDefs": [],
+   "listItem": "bullet",
+   "level": 1
+  },
+  {
+   "_type": "block",
+   "_key": "b1kj",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1kk",
+     "text": "Instagram, Facebook",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1kl",
+     "text": " (Meta Platforms Ireland Limited), ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1km",
+     "text": "Tages-Anzeiger",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1kn",
+     "text": ", Studien- und Herstellerlinks: externe Websites.",
+     "marks": []
+    }
+   ],
+   "markDefs": [],
+   "listItem": "bullet",
+   "level": 1
+  },
+  {
+   "_type": "block",
+   "_key": "b1ko",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1kp",
+     "text": "8. Kontaktaufnahme",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1kq",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1kr",
+     "text": "Telefon, E-Mail:",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1ks",
+     "text": " Wenn Sie die Praxis anrufen oder ihr eine E-Mail schreiben, verarbeitet die Praxis Ihre Angaben zur Bearbeitung Ihres Anliegens. E-Mail ist kein sicherer Übertragungsweg für Gesundheitsdaten: Nachrichten können unverschlüsselt übermittelt werden. Senden Sie deshalb keine Befunde, Fotos, Versicherungs- oder andere sensible Angaben per E-Mail, sondern besprechen Sie Medizinisches telefonisch oder im Termin.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1kt",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1ku",
+     "text": "Formular «E-Mail vorbereiten»:",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1kv",
+     "text": " Das Formular auf den Seiten Kontakt und Termin sendet nichts über diese Website. Es setzt aus Ihren Eingaben (Name, optionale Rückrufnummer, Anliegen, Nachricht) einen E-Mail-Entwurf zusammen und öffnet Ihr eigenes E-Mail-Programm. Die Eingaben werden nicht gespeichert, nicht protokolliert und nicht an Dritte übertragen. Abgesendet wird die E-Mail nur, wenn Sie das in Ihrem E-Mail-Programm selbst tun.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1kw",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1kx",
+     "text": "Fragebögen («Tests»):",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1ky",
+     "text": " Diese Demo zeigt die Fragen der Praxis nur an. Es gibt keine Eingabefelder, keine Auswertung und keine Speicherung. Der Link zur Originalfunktion führt auf whitesmyle.ch, wo Antworten per E-Mail an die Praxis übermittelt werden; dafür gilt die Datenschutzerklärung der Praxis.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1kz",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1l0",
+     "text": "9. Gesundheitsdaten",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1l1",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1l2",
+     "text": "Diese Demo erhebt bewusst ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1l3",
+     "text": "keine Gesundheitsdaten",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1l4",
+     "text": ": kein Symptom-Formular, kein Upload, kein Chat, keine Terminverwaltung, keine Patientenkonten. Gesundheitsdaten sind besonders schützenswerte Personendaten (Art. 5 lit. c DSG); ihre Verarbeitung ist Sache der Praxis in ihren dafür vorgesehenen, gesicherten Abläufen.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1l5",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1l6",
+     "text": "10. Ihre Rechte",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1l7",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1l8",
+     "text": "Sie haben nach DSG (und ggf. DSGVO) das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Bearbeitung, Datenherausgabe sowie Widerspruch gegen bestimmte Bearbeitungen. Da diese Demo selbst keine Personendaten speichert, richten Sie Anliegen zu Daten, die Sie GitHub, Google, Cituro oder der Praxis übermittelt haben, an den jeweiligen Anbieter. Für Fragen zu dieser Demo wenden Sie sich an den Betreiber (Ziffer 2). Bei Anliegen nach DSG können Sie sich an den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) wenden.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1l9",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1la",
+     "text": "11. Änderungen",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1lb",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1lc",
+     "text": "Diese Erklärung wird angepasst, wenn sich die technische Umsetzung ändert – insbesondere bei einer späteren Umstellung auf ein Content-Management-System (Sanity) und ein anderes Hosting (Vercel). Beide Dienste werden auf dieser Demo ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1ld",
+     "text": "nicht",
+     "marks": [
+      "strong"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1le",
+     "text": " eingesetzt. Vor einer Übergabe an die Praxis muss die Erklärung neu gefasst werden (Verantwortliche, Hosting, Dienste, Kontaktwege, Aufbewahrung) und ist rechtlich prüfen zu lassen.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1lf",
+   "style": "quelle",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1lg",
+     "text": "Hinweis zur Übernahme: Die Datenschutzerklärung der bisherigen Website (Stand 24. Juli 2024, KOMVITA AG; Kontakt Datenschutz marketing@whitesmyle.ch) beschreibt Weebly-Hosting, Cookies, Borlabs Cookie, Social-Media-Präsenzen (Instagram, Facebook, LinkedIn) und Beschäftigtendaten und enthält unfertige Platzhalter («premiumtext»). Sie wurde deshalb nicht übernommen, sondern für die Demo neu verfasst; die Originalfassung liegt der Projektdokumentation bei.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  }
+ ]
+}

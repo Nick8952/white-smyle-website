@@ -1,0 +1,116 @@
+{
+ "id": "seite-termin",
+ "slug": "termin",
+ "art": "seite",
+ "titel": "Ihr Wunschtermin",
+ "teaser": "Termine für Dentalhygiene oder Bleaching online über Cituro buchen – oder telefonisch, per SMS und WhatsApp anfragen.",
+ "einleitung": "Vereinbaren Sie Ihren Termin für Dentalhygiene und/oder Bleaching online. Die Buchung läuft über den externen Dienst Cituro; alternativ erreichen Sie die Praxis telefonisch.",
+ "seoTitel": "Termin buchen – Dentalhygiene oder Bleaching in Zürich",
+ "seoBeschreibung": "Wunschtermin für Dentalhygiene oder Bleaching bei WHITE SMYLE Zürich Altstetten: online über Cituro buchen oder anrufen: 043 931 78 74.",
+ "hero": {
+  "variante": "seite",
+  "titel": "Ihr Wunschtermin für Dentalhygiene oder Bleaching",
+  "text": "Online buchen über den externen Dienst Cituro – oder anrufen, SMS oder WhatsApp an 076 460 38 10. Laut Praxis sind auch kurzfristige Termine möglich.",
+  "knopf": {
+   "titel": "Termin online buchen",
+   "ziel": "https://app.cituro.com/booking/2814276",
+   "extern": true
+  },
+  "zweiterKnopf": {
+   "titel": "Kontakt und Anfahrt",
+   "ziel": "/kontakt/"
+  },
+  "bild": {
+   "bild": "zahnreinigung",
+   "alt": "Dentalhygienikerin bei der Behandlung"
+  }
+ },
+ "bild": {
+  "bild": "zahnreinigung",
+  "alt": "Dentalhygienikerin bei der Behandlung"
+ },
+ "alteUrls": [
+  "/termin.html",
+  "/online-termin.html"
+ ],
+ "quelle": "whitesmyle.ch/termin.html, /online-termin.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "ablaufBaustein",
+   "_key": "bsnw",
+   "titel": "So kommen Sie zu Ihrem Termin",
+   "schritte": [
+    {
+     "_key": "t1",
+     "titel": "Angebot wählen",
+     "text": "Dentalhygiene, Bleaching oder das Kombipaket – die Voraussetzungen stehen bei jedem Angebot. Unsicher? Die Praxis berät Sie telefonisch."
+    },
+    {
+     "_key": "t2",
+     "titel": "Online buchen",
+     "text": "Der Knopf «Termin online buchen» öffnet die Buchungsseite von Cituro in einem neuen Tab. Dort wählen Sie Leistung und Zeit; es gelten die Datenschutzbestimmungen von Cituro."
+    },
+    {
+     "_key": "t3",
+     "titel": "Oder anrufen",
+     "text": "043 931 78 74 (Praxis) oder 076 460 38 10 (auch SMS und WhatsApp). Öffnungszeiten: Di–Do 11–19 Uhr, Fr 9–13 Uhr, Sa nach Vereinbarung."
+    },
+    {
+     "_key": "t4",
+     "titel": "Termin einhalten",
+     "text": "Verlegungen oder Absagen bitte mindestens 48 Stunden im Voraus innerhalb der Praxis-Arbeitszeiten – sonst wird der volle Preis verrechnet (AGB)."
+    }
+   ]
+  },
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bso2",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bnx",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sny",
+       "text": "Die Online-Buchung ist ein externer Dienst (Cituro, app.cituro.com). Diese Demo enthält keine eigene Terminverwaltung und zeigt keine freien Termine an. Beim Öffnen der Buchungsseite werden Daten an Cituro übertragen; Angaben dazu finden Sie in der ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "so0",
+       "text": "Datenschutzerklärung",
+       "marks": [
+        "lnz"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "so1",
+       "text": ".",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "lnz",
+       "href": "/datenschutz/",
+       "extern": false
+      }
+     ]
+    }
+   ],
+   "art": "info"
+  },
+  {
+   "_type": "kontaktBaustein",
+   "_key": "bso3",
+   "titel": "Kontakt",
+   "mitFormular": true,
+   "mitKarte": false
+  }
+ ]
+}

@@ -1,0 +1,640 @@
+{
+ "hero-farbring": {
+  "datei": "praxis/zahnfarbring-lachen.jpg"
+ },
+ "start-dentalhygiene": {
+  "datei": "behandlung/dentalhygiene-krankenkassen.jpg"
+ },
+ "start-bleaching": {
+  "datei": "bleaching/vorher-nachher-1363.jpg"
+ },
+ "start-kombi": {
+  "datei": "bleaching/vorher-nachher-1314.jpg"
+ },
+ "dh-behandlung": {
+  "datei": "behandlung/dentalhygiene-behandlung.jpg"
+ },
+ "bleaching-lampe": {
+  "datei": "bleaching/bleaching-lampe-213.jpg"
+ },
+ "power-bleaching": {
+  "datei": "bleaching/heydent-power-bleaching.jpg"
+ },
+ "power-bleaching-plus": {
+  "datei": "bleaching/heydent-power-bleaching-plus.jpg"
+ },
+ "refresher": {
+  "datei": "bleaching/refresher-express-bleaching.jpg"
+ },
+ "home-bleaching": {
+  "datei": "bleaching/home-bleaching-system.jpg"
+ },
+ "dh-hero": {
+  "datei": "behandlung/dentalhygiene-1315-2.jpg"
+ },
+ "dh-zuerich": {
+  "datei": "behandlung/dentalhygiene-2024-05-03-2.jpg"
+ },
+ "zahnreinigung": {
+  "datei": "behandlung/dentalhygiene-1315-1.jpg"
+ },
+ "dh-schritt-0": {
+  "datei": "behandlung/dh-schritt-0.jpeg"
+ },
+ "dh-schritt-1": {
+  "datei": "behandlung/dh-schritt-1-ultraschall.jpg"
+ },
+ "dh-schritt-2": {
+  "datei": "behandlung/dh-schritt-2-handinstrument.jpg"
+ },
+ "dh-schritt-3": {
+  "datei": "behandlung/dh-schritt-3-sonde.jpg"
+ },
+ "dh-schritt-4": {
+  "datei": "behandlung/dh-schritt-4-politur.jpg"
+ },
+ "dh-schritt-5": {
+  "datei": "behandlung/dh-schritt-5-zwischenraum.jpg"
+ },
+ "dh-schritt-6": {
+  "datei": "behandlung/dh-schritt-6-airflow.jpg"
+ },
+ "dh-instruktion": {
+  "datei": "behandlung/dh-schritt-7-instruktion.jpg"
+ },
+ "dh-abschluss": {
+  "datei": "behandlung/dh-abschluss.jpeg"
+ },
+ "dh-476": {
+  "datei": "behandlung/dentalhygiene-476.jpg"
+ },
+ "you-love-it": {
+  "datei": "grafik/dentalhygiene-you-love-it.jpg"
+ },
+ "zahnaufbau-1": {
+  "datei": "grafik/zahnaufbau-1-gesund.jpg",
+  "breiten": [
+   320,
+   640
+  ]
+ },
+ "zahnaufbau-2": {
+  "datei": "grafik/zahnaufbau-2-gingivitis.jpg",
+  "breiten": [
+   320,
+   640
+  ]
+ },
+ "zahnaufbau-3": {
+  "datei": "grafik/zahnaufbau-3-parodontitis.jpg",
+  "breiten": [
+   320,
+   640
+  ]
+ },
+ "zahnaufbau-4": {
+  "datei": "grafik/zahnaufbau-4-schwer.jpg",
+  "breiten": [
+   320,
+   640
+  ]
+ },
+ "paro-ablauf": {
+  "datei": "grafik/paro-ablauf.jpg"
+ },
+ "karies-entstehung": {
+  "datei": "grafik/entstehung-von-karies.jpg",
+  "breiten": [
+   320,
+   640
+  ]
+ },
+ "karies-hero": {
+  "datei": "ratgeber/karies-713.jpg"
+ },
+ "bleaching-hero": {
+  "datei": "bleaching/professionelles-zahnbleaching.jpg"
+ },
+ "bleaching-ablauf-1": {
+  "datei": "bleaching/ablauf-1-dentalhygiene-1408.jpg"
+ },
+ "bleaching-ablauf-2": {
+  "datei": "bleaching/ablauf-2-lichtaktivierung-1356.jpg"
+ },
+ "bleaching-ablauf-3": {
+  "datei": "bleaching/ablauf-3-farbvergleich-1373.jpg"
+ },
+ "bleaching-only-hero": {
+  "datei": "bleaching/bleaching-2026-02-16.jpg"
+ },
+ "power-hero": {
+  "datei": "bleaching/power-1316.jpg"
+ },
+ "power-gel": {
+  "datei": "bleaching/power-gel-1369.jpg"
+ },
+ "bleaching-geraet": {
+  "datei": "bleaching/bleaching-geraet-127.jpg"
+ },
+ "aktion-1": {
+  "datei": "bleaching/aktion-2023-03-03-7.jpg"
+ },
+ "aktion-2": {
+  "datei": "bleaching/aktion-2023-03-03-7-zaehne.jpg"
+ },
+ "aktion-kombi": {
+  "datei": "bleaching/aktion-2024-05-03-5.jpg"
+ },
+ "aktion-bleaching": {
+  "datei": "bleaching/aktion-2024-04-18-4-2.jpg"
+ },
+ "aktion-gesund-weiss": {
+  "datei": "bleaching/aktion-01-2023-gesund-weiss.jpg"
+ },
+ "power-galerie-1": {
+  "datei": "bleaching/power-galerie-1.jpg"
+ },
+ "power-galerie-4": {
+  "datei": "bleaching/power-galerie-4.jpg"
+ },
+ "power-galerie-7": {
+  "datei": "bleaching/power-galerie-7.jpg"
+ },
+ "power-galerie-8": {
+  "datei": "bleaching/power-galerie-8.jpg"
+ },
+ "power-galerie-9": {
+  "datei": "bleaching/power-galerie-9.jpg"
+ },
+ "power-galerie-10": {
+  "datei": "bleaching/power-galerie-10.jpg"
+ },
+ "power-galerie-11": {
+  "datei": "bleaching/power-galerie-11.jpg"
+ },
+ "power-galerie-17": {
+  "datei": "bleaching/power-galerie-17.jpg"
+ },
+ "power-galerie-20": {
+  "datei": "bleaching/power-galerie-20.jpg"
+ },
+ "fall-1-1": {
+  "datei": "fallbeispiele/fall-1-vorher.jpg"
+ },
+ "fall-1-2": {
+  "datei": "fallbeispiele/fall-1-nach-power.jpg"
+ },
+ "fall-1-3": {
+  "datei": "fallbeispiele/fall-1-nach-refresher.jpg"
+ },
+ "fall-2-1": {
+  "datei": "fallbeispiele/fall-2-vorher.jpg"
+ },
+ "fall-2-2": {
+  "datei": "fallbeispiele/fall-2-nach-power.jpg"
+ },
+ "fall-2-3": {
+  "datei": "fallbeispiele/fall-2-nach-refresher.jpg"
+ },
+ "fall-3-1": {
+  "datei": "fallbeispiele/fall-3-vorher.jpg"
+ },
+ "fall-3-2": {
+  "datei": "fallbeispiele/fall-3-nach-power.jpg"
+ },
+ "fall-3-3": {
+  "datei": "fallbeispiele/fall-3-nach-refresher.jpg"
+ },
+ "fall-4-1": {
+  "datei": "fallbeispiele/fall-4-vorher.jpg"
+ },
+ "fall-4-2": {
+  "datei": "fallbeispiele/fall-4-nach-power.jpg"
+ },
+ "fall-4-3": {
+  "datei": "fallbeispiele/fall-4-nach-refresher.jpg"
+ },
+ "fall-5-1": {
+  "datei": "fallbeispiele/fall-5-vorher.jpg"
+ },
+ "fall-5-2": {
+  "datei": "fallbeispiele/fall-5-nach-power.jpg"
+ },
+ "fall-5-3": {
+  "datei": "fallbeispiele/fall-5-nach-refresher.jpg"
+ },
+ "fall-6-1": {
+  "datei": "fallbeispiele/fall-6-vorher.jpg"
+ },
+ "fall-6-2": {
+  "datei": "fallbeispiele/fall-6-nach-power.jpg"
+ },
+ "fall-6-3": {
+  "datei": "fallbeispiele/fall-6-nach-refresher.jpg"
+ },
+ "kombi-1": {
+  "datei": "bleaching/kombi-1319.jpg"
+ },
+ "kombi-2": {
+  "datei": "bleaching/kombi-1325-6.jpg"
+ },
+ "kombi-3": {
+  "datei": "bleaching/kombi-1325-7.jpg"
+ },
+ "kombi-4": {
+  "datei": "bleaching/kombi-1325-2.jpg"
+ },
+ "preise-1": {
+  "datei": "behandlung/preise-1305.jpg"
+ },
+ "preise-2": {
+  "datei": "bleaching/preise-1317.jpg"
+ },
+ "preise-3": {
+  "datei": "bleaching/preise-1327.jpg"
+ },
+ "hochzeit-1": {
+  "datei": "bleaching/hochzeitsbleaching-22.jpg"
+ },
+ "hochzeit-2": {
+  "datei": "bleaching/hochzeitsbleaching-19.jpg"
+ },
+ "team-tuende": {
+  "datei": "team/tuende-obenauer.jpg",
+  "breiten": [
+   272
+  ]
+ },
+ "team-andreas": {
+  "datei": "team/andreas-obenauer.jpg",
+  "breiten": [
+   257
+  ]
+ },
+ "tuende-logo": {
+  "datei": "team/tuende-obenauer-logo.jpg"
+ },
+ "tuende-2": {
+  "datei": "team/tuende-obenauer-2.jpg"
+ },
+ "standort-luft": {
+  "datei": "standort/luftbild-badenerstrasse.jpg"
+ },
+ "standort-luft-2": {
+  "datei": "standort/luftbild-innenhof.jpg"
+ },
+ "standort-schaufenster": {
+  "datei": "standort/schaufenster.jpg"
+ },
+ "standort-eingang": {
+  "datei": "standort/eingang-praxis.jpg"
+ },
+ "standort-schild": {
+  "datei": "standort/eingang-innenhof.jpg"
+ },
+ "standort-tram": {
+  "datei": "standort/tram-kappeli.jpg"
+ },
+ "standort-tram-2": {
+  "datei": "standort/tram-kappeli-2.jpg"
+ },
+ "standort-bus": {
+  "datei": "standort/bus-letzipark-west.jpg"
+ },
+ "standort-bus-2": {
+  "datei": "standort/bus-letzipark-west-2.jpg"
+ },
+ "standort-parkplatz": {
+  "datei": "standort/parkplaetze.jpg"
+ },
+ "standort-besucher": {
+  "datei": "standort/besucher-schild.jpg"
+ },
+ "standort-garage": {
+  "datei": "standort/tiefgarage.jpg"
+ },
+ "zahlung-maestro": {
+  "datei": "zahlung/maestro.png",
+  "format": "png",
+  "breiten": [
+   160,
+   320
+  ]
+ },
+ "zahlung-postfinance": {
+  "datei": "zahlung/postfinance.png",
+  "format": "png",
+  "breiten": [
+   160,
+   320
+  ]
+ },
+ "zahlung-cash": {
+  "datei": "zahlung/cash.jpg",
+  "breiten": [
+   160,
+   320
+  ]
+ },
+ "zahlung-vpay": {
+  "datei": "zahlung/v-pay.png",
+  "format": "png",
+  "breiten": [
+   160,
+   320
+  ]
+ },
+ "zahlung-mastercard": {
+  "datei": "zahlung/mastercard.jpg",
+  "breiten": [
+   160,
+   320
+  ]
+ },
+ "zahlung-visa": {
+  "datei": "zahlung/visa.png",
+  "format": "png",
+  "breiten": [
+   160,
+   320
+  ]
+ },
+ "zahlung-twint": {
+  "datei": "zahlung/twint.png",
+  "format": "png",
+  "breiten": [
+   160,
+   320
+  ]
+ },
+ "medien-tagesanzeiger": {
+  "datei": "medien/tagesanzeiger-logo.jpg",
+  "breiten": [
+   320
+  ]
+ },
+ "medien-artikel": {
+  "datei": "medien/artikel-scan.jpg"
+ },
+ "medien-quartierecho": {
+  "datei": "medien/quartier-echo-logo.gif",
+  "format": "png",
+  "breiten": [
+   320
+  ]
+ },
+ "kinder-hero": {
+  "datei": "ratgeber/kinder-zahnreinigung.jpg"
+ },
+ "kinder-zahnwechsel": {
+  "datei": "grafik/welcher-bleibende-zahn-kommt-wann.jpg",
+  "breiten": [
+   320,
+   640
+  ]
+ },
+ "mundgeruch-hero": {
+  "datei": "ratgeber/mundgeruch-580.jpg"
+ },
+ "zungenbelag": {
+  "datei": "ratgeber/zungenbelag.jpg"
+ },
+ "zungenreinigung": {
+  "datei": "ratgeber/zungenreinigung.jpg"
+ },
+ "zungenschaber": {
+  "datei": "produkte/zungenschaber.jpg",
+  "breiten": [
+   240
+  ]
+ },
+ "zahnbuerste-zunge": {
+  "datei": "produkte/zahnbuerste.jpg",
+  "breiten": [
+   240
+  ]
+ },
+ "megasonex-zunge": {
+  "datei": "produkte/megasonex-zungenreiniger.jpg",
+  "breiten": [
+   240
+  ]
+ },
+ "mikrobiom-hero": {
+  "datei": "ratgeber/orales-mikrobiom.jpg"
+ },
+ "paro-hero": {
+  "datei": "ratgeber/parodontitis-1323.jpg"
+ },
+ "cannabis-hero": {
+  "datei": "ratgeber/cannabis.jpg"
+ },
+ "rauchen-paro": {
+  "datei": "grafik/parodont-gesund-parodontitis.jpg",
+  "breiten": [
+   320,
+   640
+  ]
+ },
+ "anti-zahnschmelz": {
+  "datei": "grafik/anti-zahnschmelz-softdrinks.jpg"
+ },
+ "pro-zahnschmelz": {
+  "datei": "grafik/pro-zahnschmelz.jpg"
+ },
+ "interdental": {
+  "datei": "ratgeber/interdental-reinigung.jpg"
+ },
+ "megasonex-interdental": {
+  "datei": "produkte/megasonex-ultraschall.jpg"
+ },
+ "rauchen-hero": {
+  "datei": "ratgeber/rauchen-kaffee-548.jpg"
+ },
+ "schwangerschaft-hero": {
+  "datei": "ratgeber/schwangerschaft-1251.jpg"
+ },
+ "schwangerschaft-2": {
+  "datei": "ratgeber/schwangerschaft-613.jpg"
+ },
+ "schwangerschaft-4": {
+  "datei": "ratgeber/schwangerschaft-zahnpflege.jpg"
+ },
+ "bleaching-ratgeber-hero": {
+  "datei": "ratgeber/bleaching-ratgeber.jpg"
+ },
+ "koerper-hero": {
+  "datei": "ratgeber/zahnfleisch-zaehne.jpg"
+ },
+ "knirschen-1": {
+  "datei": "ratgeber/zahnknirschen-564.jpg"
+ },
+ "knirschen-2": {
+  "datei": "ratgeber/zahnknirschen-565.jpg"
+ },
+ "knirschen-3": {
+  "datei": "ratgeber/zahnknirschen-566.jpg"
+ },
+ "knirschen-4": {
+  "datei": "ratgeber/knirschschiene-653.jpg"
+ },
+ "faq-hero": {
+  "datei": "ratgeber/good-to-know.jpg"
+ },
+ "recall-hero": {
+  "datei": "behandlung/recall-192.jpg"
+ },
+ "dental-info": {
+  "datei": "grafik/dental-info-banner.jpg"
+ },
+ "tipps-immunsystem": {
+  "datei": "grafik/schuetze-dein-immunsystem.jpg",
+  "breiten": [
+   320,
+   640
+  ]
+ },
+ "tipps-ernaehrung": {
+  "datei": "ratgeber/gesunde-ernaehrung.jpg"
+ },
+ "tipps-dh": {
+  "datei": "behandlung/dentalhygiene-tipps.jpg"
+ },
+ "tipps-fitness": {
+  "datei": "ratgeber/fitness.jpg"
+ },
+ "tipps-paar": {
+  "datei": "ratgeber/ganzheitlich-paar.jpg"
+ },
+ "tipps-mundhygiene": {
+  "datei": "grafik/mundhygiene-senkt-infektionsrisiko.jpg"
+ },
+ "tipps-praxis": {
+  "datei": "praxis/behandlungsraum.jpg"
+ },
+ "tipps-nuggi": {
+  "datei": "ratgeber/tschuess-nuggi.jpg"
+ },
+ "tipps-megasonex": {
+  "datei": "produkte/megasonex-details.jpg",
+  "breiten": [
+   320,
+   640
+  ]
+ },
+ "tipps-splat": {
+  "datei": "produkte/splat-silver.jpg"
+ },
+ "tipps-xylitol": {
+  "datei": "ratgeber/xylitol-kaugummi.jpg",
+  "breiten": [
+   320,
+   640
+  ]
+ },
+ "tipps-koerper": {
+  "datei": "grafik/vernetzung-koerper.jpg",
+  "breiten": [
+   320,
+   640
+  ]
+ },
+ "tipps-sport": {
+  "datei": "ratgeber/sport.jpg"
+ },
+ "tipps-suesses": {
+  "datei": "ratgeber/suesses.jpg"
+ },
+ "hilfsmittel-splat": {
+  "datei": "produkte/splat-mineralien.jpg",
+  "breiten": [
+   320,
+   640
+  ]
+ },
+ "shop-logo": {
+  "datei": "produkte/zahnpastashop-logo.jpg",
+  "breiten": [
+   320,
+   640
+  ]
+ },
+ "splat-zahnpasten": {
+  "datei": "produkte/splat-zahnpasten.jpg"
+ },
+ "zoom-gel": {
+  "datei": "produkte/zoom-gel-shop.jpg"
+ },
+ "anbieterauswahl": {
+  "datei": "ratgeber/anbieterauswahl-team.jpg"
+ },
+ "lachen-1326-2": {
+  "datei": "lachen/lachen-1326-2.jpg"
+ },
+ "lachen-1326-3": {
+  "datei": "lachen/lachen-1326-3.jpg"
+ },
+ "lachen-1331-2": {
+  "datei": "lachen/lachen-1331-2.jpg"
+ },
+ "lachen-1331-5": {
+  "datei": "lachen/lachen-1331-5.jpg"
+ },
+ "lachen-1353-2": {
+  "datei": "lachen/lachen-1353-2.jpg"
+ },
+ "lachen-1353-3": {
+  "datei": "lachen/lachen-1353-3.jpg"
+ },
+ "lachen-1353-4": {
+  "datei": "lachen/lachen-1353-4.jpg"
+ },
+ "lachen-1353-6": {
+  "datei": "lachen/lachen-1353-6.jpg"
+ },
+ "standort-17": {
+  "datei": "standort/buckhauserstrasse-17.jpg"
+ },
+ "schwangerschaft-3": {
+  "datei": "ratgeber/schwangerschaft-baby.jpg"
+ },
+ "lachen-1326": {
+  "datei": "lachen/lachen-1326.jpg"
+ },
+ "lachen-1326-1": {
+  "datei": "lachen/lachen-1326-1.jpg"
+ },
+ "lachen-1326-4": {
+  "datei": "lachen/lachen-1326-4.jpg"
+ },
+ "lachen-1326-5": {
+  "datei": "lachen/lachen-1326-5.jpg"
+ },
+ "lachen-1326-6": {
+  "datei": "lachen/lachen-1326-6.jpg"
+ },
+ "lachen-1326-7": {
+  "datei": "lachen/lachen-1326-7.jpg"
+ },
+ "lachen-1326-7-2": {
+  "datei": "lachen/lachen-1326-7-2.jpg"
+ },
+ "lachen-1353-5": {
+  "datei": "lachen/lachen-1353-5.jpg"
+ },
+ "lachen-1344-1": {
+  "datei": "lachen/lachen-1344-1.jpg"
+ },
+ "lachen-1344-2": {
+  "datei": "lachen/lachen-1344-2.jpg"
+ },
+ "lachen-1344-3": {
+  "datei": "lachen/lachen-1344-3.jpg"
+ },
+ "lachen-1344-4": {
+  "datei": "lachen/lachen-1344-4.jpg"
+ },
+ "lachen-1305-3": {
+  "datei": "lachen/lachen-1305-3.jpg"
+ }
+}

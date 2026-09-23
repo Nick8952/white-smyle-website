@@ -1,0 +1,792 @@
+{
+ "id": "seite-dentalhygiene-kinder",
+ "slug": "dentalhygiene/kinder",
+ "art": "leistung",
+ "titel": "Dentalhygiene für Kinder",
+ "teaser": "Gesunde Zähne von Anfang an: sanfte Zahnreinigung für Kinder ab etwa 6 Jahren, spielerische Anleitung und Motivation.",
+ "einleitung": "Eine gute Dentalhygiene bei Kindern ist die Grundlage für lebenslang gesunde Zähne. Bereits ab dem ersten Milchzahn beginnt die richtige Mundpflege – und genau hier unterstützen wir Sie und Ihr Kind professionell und spielerisch.",
+ "seoTitel": "Zahnreinigung für Kinder in Zürich – Dentalhygiene & Kariesprophylaxe",
+ "seoBeschreibung": "Kinder-Zahnreinigung in Zürich Altstetten: sanfte Dentalhygiene ab ca. 6 Jahren, Karieskontrolle, spielerische Putzanleitung. Tipps für Eltern und Zahnwechsel.",
+ "bild": {
+  "bild": "kinder-hero",
+  "alt": "Drei lachende Kinder"
+ },
+ "alteUrls": [
+  "/dentalhygiene-kinder.html"
+ ],
+ "quelle": "whitesmyle.ch/dentalhygiene-kinder.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bs5l",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b4d",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s4e",
+       "text": "Kinderzähne sind besonders empfindlich und anfällig für Karies, da der Zahnschmelz noch nicht vollständig ausgereift ist. Deshalb ist eine frühzeitige Prophylaxe entscheidend.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b4f",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s4g",
+       "text": "Warum ist Dentalhygiene bei Kindern so wichtig?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b4h",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s4i",
+       "text": "Milchzähne sind nicht nur «Platzhalter», sondern wichtig für die Sprachentwicklung, die richtige Zahnstellung und gesundes Kauen. Werden sie nicht richtig gepflegt, kann dies langfristige Folgen haben. Regelmässige Zahnreinigung und richtige Putzgewohnheiten reduzieren das Risiko für Karies und Zahnfleischprobleme deutlich.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b4j",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s4k",
+       "text": "Was passiert bei der Zahnreinigung für Kinder?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b4l",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s4m",
+       "text": "Bei der professionellen Dentalhygiene für Kinder achten wir besonders auf eine sanfte und kindgerechte Behandlung:",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b4n",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s4o",
+       "text": "Entfernung von Plaque und Belägen",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b4p",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s4q",
+       "text": "Kontrolle auf Karies",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b4r",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s4s",
+       "text": "Spielerische Anleitung zum richtigen Zähneputzen",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b4t",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s4u",
+       "text": "Motivation für die tägliche Zahnpflege",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b4v",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s4w",
+       "text": "Durch das Anfärben der Zähne sehen Kinder selbst, wo sie noch besser putzen können – ein wichtiger Lerneffekt. Die Plaque- und Zahnsteinentfernung wird sanft und einfühlsam gemacht. Danach wird bei der Karieskontrolle festgestellt, ob es Handlungsbedarf für einen Zahnarztbesuch gibt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b4x",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s4y",
+       "text": "Ab wann ist Dentalhygiene sinnvoll?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b4z",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s50",
+       "text": "Erste Zahnpflege: ab dem ersten Zahn",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b51",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s52",
+       "text": "Professionelle Zahnreinigung: ab ca. 6 Jahren",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b53",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s54",
+       "text": "Kontrolle: 1 Mal pro Jahr empfohlen",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b55",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s56",
+       "text": "Zahnstein kann bereits ab dem 5.–6. Lebensjahr entstehen. Zahnreinigung 1 Mal pro Jahr genügt in den meisten Fällen; die Dauer der Behandlung beträgt ca. 30–45 Minuten.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b57",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s58",
+       "text": "Spielerisch zu gesunden Zähnen",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b59",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s5a",
+       "text": "Kinder lernen am besten durch Spass und Vorbilder. Wird Zähneputzen als positives Ritual integriert, bleibt dieses Verhalten oft ein Leben lang bestehen. Unser Ziel ist es, dass Ihr Kind gerne zur Dentalhygiene kommt, selbstständig gut putzt und keine Angst vor Behandlungen hat. Unser Motto: «Mit Spass lernt man leichter.» Die lockere Atmosphäre in unserer Praxis – eine Oase ohne bohrende Geräusche – lässt die Anspannung vor der Zahnreinigung verschwinden.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b5b",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s5c",
+       "text": "Tipps für gesunde Kinderzähne",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b5d",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s5e",
+       "text": "2 Mal täglich Zähne putzen (ab dem 1. Zahn)",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b5f",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s5g",
+       "text": "Zucker nur zu Hauptmahlzeiten",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b5h",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s5i",
+       "text": "Eltern putzen nach (bis ca. 8 Jahre)",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b5j",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s5k",
+       "text": "Regelmässige Kontrollen",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs5w",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b5m",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s5n",
+       "text": "Welcher bleibende Zahn kommt wann?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b5o",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s5p",
+       "text": "Bei Kindern kommen im Alter von etwa 6 Jahren die ersten bleibenden Zähne. Der Zahnschmelz, die äusserste Schicht des Zahns, ist bei diesen Zähnen besonders empfindlich. 20 Milchzähne fallen meist zwischen dem 6. und dem 18.–30. Lebensjahr aus und werden durch die bleibenden Zähne ersetzt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b5q",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s5r",
+       "text": "Der erste bleibende Backenzahn, der ab dem 6. Lebensjahr kommt, verdient am meisten Aufmerksamkeit: Er versteckt sich beim Putzen hinter dem letzten Milchzahn und wird so meist übersehen. Es ist die Aufgabe der Eltern, das Kind darauf aufmerksam zu machen und mitzuhelfen, diesen Zahn zu putzen. Die Mundhygiene ist ab 6 Jahren besonders wichtig, damit sich die «neuen bleibenden Zähne» entwickeln können und lange gesund bleiben.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b5s",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s5t",
+       "text": "Fissurenversiegelung / Kariesvorbeugung",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b5u",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s5v",
+       "text": "Die Kauoberfläche der Backenzähne besteht besonders bei Kindern und Jugendlichen aus tiefen Grübchen (Fissuren), die sich mit einer Zahnbürste kaum reinigen lassen. Hier kann nach der Dentalhygiene, der gründlichen Säuberung und Vorbehandlung des Zahnes eine Versiegelung mit einem dünnen Kunststoff erfolgen. So kann eine Kariesinfektion grösstenteils verhindert werden.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "zahnwechsel",
+   "titel": "Zahnwechsel",
+   "bild": {
+    "bild": "kinder-zahnwechsel",
+    "alt": "Schema: welcher bleibende Zahn kommt in welchem Alter"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs6h",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b5x",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s5y",
+       "text": "Zahnpflege für Kinder und Jugendliche soll Spass machen",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b5z",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s60",
+       "text": "Was sollten Eltern bei Säuglingen beachten?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b61",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s62",
+       "text": "Bereits bei Säuglingen ist es für die Zahngesundheit wichtig, dass das Kind nicht dauerhaft an Nuckelflaschen oder Ähnlichem saugt. Dieses «Dauernuckeln» kann durch die Saugwirkung die Entwicklung des Kiefers beeinträchtigen. Dies wirkt sich später nicht nur auf die Zahngesundheit aus, sondern kann auch Folgen für das Sprechen, die Gesichtsmimik und die Zahnstellung haben. Süsse Getränke aus der Babyflasche wie Kakao, Säfte oder mit Honig gesüsste Milch fördern die Kariesbildung. Im Gegensatz zum Nuckeln an Babyfläschchen beeinflusst das Stillen die Kieferentwicklung des Kindes positiv.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b63",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s64",
+       "text": "Ist das erste Milchzähnchen durchgebrochen, sollten Eltern ihrem Kind einmal täglich die Zähne putzen. Ab dem zweiten Geburtstag ist zweimal tägliches Zähneputzen sinnvoll. Lassen Sie Ihr Kind ruhig selbst putzen – bis zum Schulalter sollten Sie aber von allen Seiten noch einmal nachputzen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b65",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s66",
+       "text": "Zahnpasta und Zahnbürste",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b67",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s68",
+       "text": "Eine weiche Kinderzahnbürste sowie eine möglichst natürliche Zahnpasta sind vorteilhaft, da Kleinkinder den Grossteil der Zahnpaste schlucken. Inhaltsstoffe wie Xylitol oder Hydroxylapatit (Zahnschmelz) zeigen nach Angaben der Praxis positive Wirkung und schützen vor Karies.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b69",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s6a",
+       "text": "Ernährung",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b6b",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s6c",
+       "text": "Zuckerhaltige Lebensmittel nicht über den Tag verteilt naschen, sondern möglichst nur im Rahmen der Hauptmahlzeiten essen. Auch sehr saure Lebensmittel sollten nur sparsam auf dem Speisezettel stehen, denn die Säure macht den Zahn empfindlich. Süsses oder Saures gänzlich zu meiden, ist aber nicht notwendig.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b6d",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s6e",
+       "text": "Prophylaxe in der Praxis",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b6f",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s6g",
+       "text": "Kinderprophylaxe in der Praxis sollte ab dem 6. Lebensjahr regelmässig 1 Mal pro Jahr gemacht werden. Der Mundhygienestatus wird kontrolliert; meist werden die Zähne angefärbt – Plaque leuchtet dann rosa oder lila, und die kleinen Patientinnen und Patienten sehen, welche Zähne nicht ordentlich geputzt worden sind. Folgende Fragen werden mit Eltern und Kind individuell besprochen: Wie entsteht Karies? Warum ist das Zahnfleisch entzündet? Wie kann mein Kind die Mundhöhle besser pflegen? Wo versteckt sich Zucker? Ist Fluorid für mein Kind sinnvoll? Kann mein Kind seine Zähne schon alleine gut reinigen?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "eltern",
+   "titel": "Für Eltern",
+   "breite": "schmal"
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bs79",
+   "titel": "Häufige Fragen zur Zahnreinigung für Kinder",
+   "fragen": [
+    {
+     "_key": "f6i",
+     "frage": "Wie oft sollten Kinder zur Dentalhygiene?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b6j",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s6k",
+         "text": "Einmal pro Jahr wird empfohlen. Bei erhöhtem Kariesrisiko auch häufiger.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f6l",
+     "frage": "Ab wann sollte mein Kind zum ersten Mal zur Zahnreinigung?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b6m",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s6n",
+         "text": "Sobald bleibende Zähne kommen (ca. ab 6 Jahren) oder bei sichtbaren Belägen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f6o",
+     "frage": "Ist eine professionelle Zahnreinigung für Kinder sinnvoll?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b6p",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s6q",
+         "text": "Ja, sie entfernt Beläge, die Kinder selbst oft nicht erreichen, und verbessert die Putztechnik nachhaltig.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f6r",
+     "frage": "Wie oft sollten Kinder die Zähne putzen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b6s",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s6t",
+         "text": "Mindestens zweimal täglich für jeweils zwei Minuten.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f6u",
+     "frage": "Müssen Eltern nachputzen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b6v",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s6w",
+         "text": "Ja, bis etwa 7–8 Jahre, da die Feinmotorik noch nicht ausreicht.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f6x",
+     "frage": "Welche Zahnpasta ist für Kinder geeignet?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b6y",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s6z",
+         "text": "Kinderzahnpasten sollten generell sehr natürliche Inhaltsstoffe haben, da Kinder die Zahnpaste teils verschlucken. Inhaltsstoffe wie Xylitol oder Hydroxylapatit (Zahnschmelz) zeigen positive Wirkung und schützen effektiv vor Karies.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f70",
+     "frage": "Ist Hydroxylapatit in Kinderzahnpasta wirksam?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b71",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s72",
+         "text": "Nach Angabe der Praxis zeigen Studien, dass Hydroxylapatit Karies bei Kindern ähnlich gut vorbeugen kann wie Fluorid. Es stärkt den Zahnschmelz, repariert kleine Defekte und gilt als besonders gut verträglich – auch beim Verschlucken.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f73",
+     "frage": "Was ist das grösste Risiko für Karies bei Kindern?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b74",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s75",
+         "text": "Häufiges Naschen und zuckerhaltige Getränke, besonders aus der Nuckelflasche.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f76",
+     "frage": "Wie kann ich mein Kind zum Zähneputzen motivieren?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b77",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s78",
+         "text": "Spielerisch, gemeinsam und mit Vorbildfunktion – Routine ist entscheidend.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bs7a",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Kindertermin vereinbaren",
+   "text": "Für die Zahnreinigung Ihres Kindes ist auf der bisherigen Website kein Preis genannt – die Praxis gibt gerne Auskunft.",
+   "zweiterKnopf": {
+    "titel": "Kontakt",
+    "ziel": "/kontakt/"
+   }
+  }
+ ]
+}

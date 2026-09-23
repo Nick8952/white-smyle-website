@@ -1,0 +1,30 @@
+{
+ "id": "seite-medienstimmen",
+ "slug": "medienstimmen",
+ "art": "seite",
+ "titel": "Medienstimmen",
+ "teaser": "Medienbeiträge und Interviews mit WHITE SMYLE – als Verweise auf die Originale.",
+ "einleitung": "Medienkommentare zu WHITE SMYLE: Beiträge über die Praxis und Frau Obenauer, dipl. Dentalhygienikerin HF. Fremde Artikel werden hier nur verlinkt beziehungsweise als von der Praxis bereitgestelltes Dokument angeboten.",
+ "seoTitel": "Medienstimmen – WHITE SMYLE",
+ "seoBeschreibung": "Medienbeiträge über WHITE SMYLE: Tages-Anzeiger-Artikel zur Dentalhygiene, Unternehmensbeitrag «Gesund und weiss», Quartier-Echo.",
+ "alteUrls": [
+  "/medienstimmen.html"
+ ],
+ "quelle": "whitesmyle.ch/medienstimmen.html",
+ "pruefstatus": "uebernommen",
+ "bausteine": [
+  {
+   "_type": "medienstimmenBaustein",
+   "_key": "bsp4",
+   "titel": "Beiträge"
+  },
+  {
+   "_type": "downloadsBaustein",
+   "_key": "bsp5",
+   "titel": "Dokumente",
+   "downloads": [
+    "download-quartier-echo"
+   ]
+  }
+ ]
+}

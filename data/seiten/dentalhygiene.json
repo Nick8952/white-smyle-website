@@ -1,0 +1,1045 @@
+{
+ "id": "seite-dentalhygiene",
+ "slug": "dentalhygiene",
+ "art": "leistung",
+ "titel": "Dentalhygiene in Zürich Altstetten",
+ "teaser": "Professionelle Dentalhygiene durch die dipl. Dentalhygienikerin HF – deutlich mehr als eine Zahnreinigung.",
+ "einleitung": "Dentalhygiene ist der wichtigste Schritt für langfristig gesunde Zähne und ein strahlendes Lächeln. Bei WHITE SMYLE erhalten Sie eine gründliche, schonende und individuell abgestimmte Behandlung, die weit über eine einfache Zahnreinigung hinausgeht.",
+ "seoTitel": "Dentalhygiene Zürich Altstetten – professionelle Zahnreinigung",
+ "seoBeschreibung": "Dentalhygiene in Zürich: gründliche Reinigung auch unter dem Zahnfleisch, Schutz vor Parodontitis, Beratung. CHF 175.– durch dipl. Dentalhygienikerin HF. Termin buchen.",
+ "bild": {
+  "bild": "dh-zuerich",
+  "alt": "Dentalhygienikerin behandelt eine Patientin auf dem Behandlungsstuhl"
+ },
+ "hero": {
+  "variante": "seite",
+  "titel": "Dentalhygiene in Zürich Altstetten",
+  "text": "Dentalhygiene ist der wichtigste Schritt für langfristig gesunde Zähne und ein strahlendes Lächeln. Bei WHITE SMYLE erhalten Sie eine gründliche, schonende und individuell abgestimmte Behandlung, die weit über eine einfache Zahnreinigung hinausgeht.",
+  "knopf": {
+   "titel": "Termin online buchen",
+   "ziel": "https://app.cituro.com/booking/2814276",
+   "extern": true
+  },
+  "zweiterKnopf": {
+   "titel": "Preise ansehen",
+   "ziel": "/preise/"
+  },
+  "bild": {
+   "bild": "dh-zuerich",
+   "alt": "Dentalhygienikerin behandelt eine Patientin auf dem Behandlungsstuhl"
+  }
+ },
+ "alteUrls": [
+  "/dentalhygiene.html",
+  "/dentalhygienezurich.html",
+  "/zahnreinigung-zuerich.html"
+ ],
+ "quelle": "whitesmyle.ch/dentalhygiene.html, /dentalhygienezurich.html, /zahnreinigung-zuerich.html (zusammengeführt)",
+ "pruefstatus": "sprachlich-angepasst",
+ "mitInhaltsverzeichnis": true,
+ "bausteine": [
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bs1h",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1e",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1f",
+       "text": "Kurz erklärt:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1g",
+       "text": " Dentalhygiene ist eine medizinische Behandlung zur Vorbeugung von Karies, Gingivitis und Parodontitis – und deutlich umfassender als eine klassische Zahnreinigung. Die Karieskontrolle durch die Dentalhygienikerin ersetzt nicht die jährliche Kontrolle durch den Zahnarzt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "art": "medizinisch"
+  },
+  {
+   "_type": "vergleichBaustein",
+   "_key": "bs1i",
+   "anker": "unterschied",
+   "titel": "Dentalhygiene oder Zahnreinigung – der Unterschied",
+   "einleitung": "Unterschiede in Ausbildung, Tiefe und Wirkung der Behandlung.",
+   "spalten": [
+    {
+     "_key": "dh",
+     "titel": "Dentalhygiene",
+     "untertitel": "bei WHITE SMYLE",
+     "hervorgehoben": true,
+     "punkte": [
+      "Durchführung durch ausgebildete Dentalhygienikerin (3-jährige Ausbildung)",
+      "Tiefgehende Reinigung auch unter dem Zahnfleisch",
+      "Entfernung von Zahnstein, Bakterien und Belägen in kritischen Bereichen",
+      "Behandlung und Vorbeugung von Parodontitis",
+      "Medizinischer Fokus auf langfristige Zahngesundheit",
+      "Ergebnis: nachhaltig gesunde Zähne und gesundes Zahnfleisch"
+     ]
+    },
+    {
+     "_key": "zr",
+     "titel": "Zahnreinigung (Prophylaxe)",
+     "untertitel": "oft durch Prophylaxeassistentin",
+     "punkte": [
+      "Durchführung oft durch Prophylaxeassistentin (ca. 3 Wochen Ausbildung)",
+      "Reinigung hauptsächlich an der Zahnoberfläche",
+      "Entfernung von sichtbaren Belägen und Verfärbungen",
+      "Fokus auf Ästhetik und kurzfristige Sauberkeit",
+      "Ergebnis: saubere Zähne – aber weniger Tiefenwirkung"
+     ]
+    }
+   ],
+   "fazit": "Für langfristig gesunde Zähne reicht eine oberflächliche Zahnreinigung nicht aus. Nur die regelmässige Dentalhygiene entfernt Bakterien auch dort, wo Krankheiten entstehen. Mehr dazu im Ratgeber «Dentalhygienikerin oder Prophylaxeassistentin»."
+  },
+  {
+   "_type": "leistungenBaustein",
+   "_key": "bs1j",
+   "anker": "angebot",
+   "titel": "Unser Behandlungsangebot Dentalhygiene",
+   "einleitung": "Medizinische Dentalhygiene durch die Dentalhygienikerin. Preise gemäss Preisliste; Zusatzversicherungen übernehmen häufig einen Teil der Kosten – WHITE SMYLE dental ist Krankenkassen anerkannt: Fragen Sie nach Ihrem Rückforderungsbeleg.",
+   "leistungen": [
+    "leistung-dentalhygiene",
+    "leistung-frontpolish",
+    "leistung-kinder"
+   ],
+   "darstellung": "liste"
+  },
+  {
+   "_type": "ablaufBaustein",
+   "_key": "bs1k",
+   "anker": "ablauf",
+   "titel": "Was bei einer Dentalhygiene bei WHITE SMYLE gemacht wird",
+   "einleitung": "Eine professionelle Dentalhygiene umfasst mehrere Schritte. Dauer: ca. 45 bis 90 Minuten.",
+   "schritte": [
+    {
+     "_key": "s1",
+     "titel": "Untersuchung",
+     "text": "Untersuchung von Zähnen und Zahnfleisch; Karies- und Zahnfleischkontrolle mit der Sonde.",
+     "bild": {
+      "bild": "dh-schritt-3",
+      "alt": "Kontrolle der Zähne mit der Sonde"
+     }
+    },
+    {
+     "_key": "s2",
+     "titel": "Ultraschall-Reinigung",
+     "text": "Tiefgehende Entfernung von Zahnstein und Bakterien mit Ultraschall – auch zwischen Zahn und Zahnfleisch.",
+     "bild": {
+      "bild": "dh-schritt-1",
+      "alt": "Ultraschall-Reinigung der Zähne"
+     }
+    },
+    {
+     "_key": "s3",
+     "titel": "Handinstrument",
+     "text": "Feine Dentalhygiene-Reinigung mit dem Handinstrument (auf Wunsch auch ganz ohne Ultraschall).",
+     "bild": {
+      "bild": "dh-schritt-2",
+      "alt": "Reinigung mit dem Handinstrument"
+     }
+    },
+    {
+     "_key": "s4",
+     "titel": "Zahnzwischenräume",
+     "text": "Intensive Reinigung der Zahnzwischenräume mit Handinstrument und Zahnseide.",
+     "bild": {
+      "bild": "dh-schritt-5",
+      "alt": "Reinigung der Zahnzwischenräume mit Zahnseide"
+     }
+    },
+    {
+     "_key": "s5",
+     "titel": "Airflow",
+     "text": "Reinigung der Zahnoberfläche und Zahnzwischenräume mit AirFlow (Wasser-Luft-Pulverstrahl).",
+     "bild": {
+      "bild": "dh-schritt-6",
+      "alt": "Airflow-Reinigung der Zahnoberfläche"
+     }
+    },
+    {
+     "_key": "s6",
+     "titel": "Politur",
+     "text": "Politur der Zähne; auf Wunsch Zahnschmelzschutz.",
+     "bild": {
+      "bild": "dh-schritt-4",
+      "alt": "Politur der Zähne"
+     }
+    },
+    {
+     "_key": "s7",
+     "titel": "Beratung und Instruktion",
+     "text": "Individuelle Beratung zur optimalen Mundpflege, Ernährung und Vorbeugung bei Knirschen und Pressen.",
+     "bild": {
+      "bild": "dh-instruktion",
+      "alt": "Beratung zur Zahnpflege mit Zahnbürste"
+     }
+    },
+    {
+     "_key": "s8",
+     "titel": "Ergebnis",
+     "text": "Saubere Zähne und Zahnzwischenräume, Bakterienherde zwischen Zahn und Zahnfleisch entfernt.",
+     "bild": {
+      "bild": "dh-abschluss",
+      "alt": "Lachende Patientin nach der Dentalhygiene"
+     }
+    }
+   ]
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs25",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1l",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1m",
+       "text": "Was ist eine Airflow-Anwendung?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1n",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1o",
+       "text": "Airflow ist eine sanfte, moderne Reinigungsmethode für die Zähne. Mit einem warmen Wasser-Luft-Pulverstrahl werden Zahnbeläge, Verfärbungen und Bakterien schonend entfernt – auch an schwer erreichbaren Stellen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1p",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1q",
+       "text": "Für Empfindliche:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1r",
+       "text": " besonders schonend und nahezu schmerzfrei",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b1s",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1t",
+       "text": "Für Ästhetik-Orientierte:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1u",
+       "text": " entfernt auch hartnäckige Verfärbungen für ein sichtbar helleres Lächeln",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b1v",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1w",
+       "text": "Für Gesundheitsbewusste:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1x",
+       "text": " reduziert Bakterien gründlich – wichtig für Zahnfleisch und Mundgesundheit",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b1y",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1z",
+       "text": "Dentalhygiene und Ästhetik",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b20",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s21",
+       "text": "Neben der Gesundheit verbessert die Dentalhygiene auch das Aussehen der Zähne – speziell durch die Beseitigung von Zahnbelag und Zahnstein mit Ultraschall, Handinstrumenten und Airflow. Das Ergebnis: glattere Zahnoberflächen, Entfernung von Verfärbungen, ein natürlich helleres Lächeln. Für tiefere Verfärbungen kann zusätzlich ein ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s23",
+       "text": "Bleaching",
+       "marks": [
+        "l22"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s24",
+       "text": " sinnvoll sein.",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l22",
+       "href": "/bleaching/",
+       "extern": false
+      }
+     ]
+    }
+   ],
+   "anker": "airflow",
+   "titel": "Airflow und Ästhetik",
+   "bild": {
+    "bild": "dh-476",
+    "alt": "Nahaufnahme einer Dentalhygiene-Behandlung"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "stufenBaustein",
+   "_key": "bs26",
+   "anker": "phasen",
+   "titel": "Die Phasen des Zahnverfalls und Massnahmen dagegen",
+   "einleitung": "Darstellung der Praxis von der bisherigen Website. Die Beurteilung im Einzelfall erfolgt in der Untersuchung.",
+   "stufen": [
+    {
+     "_key": "p1",
+     "titel": "Gesunder Zahn",
+     "untertitel": "ohne Beschwerden",
+     "bild": {
+      "bild": "zahnaufbau-1",
+      "alt": "Schemazeichnung eines gesunden Zahns"
+     },
+     "anzeichen": [
+      "keine"
+     ],
+     "massnahmen": [
+      "Tägliche Zahnpflege",
+      "1–2 Mal jährlich Dentalhygiene durch Dentalhygienikerin oder Prophylaxeassistentin",
+      "Regelmässige Zahnarztkontrolle"
+     ]
+    },
+    {
+     "_key": "p2",
+     "titel": "Leichte Gingivitis",
+     "untertitel": "Zahnfleischentzündung",
+     "bild": {
+      "bild": "zahnaufbau-2",
+      "alt": "Schemazeichnung eines Zahns mit leichter Zahnfleischentzündung"
+     },
+     "anzeichen": [
+      "Geschwollenes und entzündetes Zahnfleisch",
+      "4–5 mm Zahntaschen",
+      "Zahnstein entsteht in der Tiefe, der selbst nicht mehr beseitigt werden kann",
+      "Beginnende Knochen- und Zahnfleischauflösung (Parodontitis)",
+      "Zahnfleischbluten beim Putzen"
+     ],
+     "massnahmen": [
+      "Tägliche Zahnpflege intensivieren",
+      "Mehr Zahnseide, Mundspülung, Zahnpflegekaugummi, Interdentalbürstchen",
+      "2 Mal jährlich professionelle Dentalhygiene nur durch Dentalhygienikerin, bis die Entzündung weg ist",
+      "Regelmässige Zahnarztkontrolle"
+     ]
+    },
+    {
+     "_key": "p3",
+     "titel": "Mittelschwere Gingivitis",
+     "untertitel": "beginnende Parodontitis",
+     "bild": {
+      "bild": "zahnaufbau-3",
+      "alt": "Schemazeichnung eines Zahns mit beginnender Parodontitis"
+     },
+     "anzeichen": [
+      "Deutliche Auflösung des Knochens (Halteapparat des Zahns)",
+      "Tiefer, harter, unter dem Zahnfleisch liegender Zahnstein",
+      "6–8 mm tiefe Zahntaschen",
+      "Starke Blutung und Mundgeruch"
+     ],
+     "massnahmen": [
+      "Tägliche Zahnpflege intensivieren",
+      "Mehr Zahnseide, Mundspülung, Zahnpflegekaugummi, Interdentalbürstchen",
+      "Alle 3–4 Monate Dentalhygiene nur durch Dentalhygienikerin, bis die Entzündung verschwunden ist",
+      "Schmerzhafte Tiefenreinigung, oft mit Spritze durch den Zahnarzt",
+      "Regelmässige Zahnarztkontrolle"
+     ]
+    },
+    {
+     "_key": "p4",
+     "titel": "Schwere Parodontitis",
+     "bild": {
+      "bild": "zahnaufbau-4",
+      "alt": "Schemazeichnung eines Zahns mit schwerer Parodontitis"
+     },
+     "anzeichen": [
+      "Starker Knochenabbau (Halteapparat des Zahns)",
+      "9–12 mm tiefe Zahntaschen",
+      "Schwer entzündetes, zerstörtes Zahnfleisch und Knochen, oft bis zur Wurzelspitze",
+      "Oft Eiterbildung und starker Mundgeruch",
+      "Extrem starke Blutung"
+     ],
+     "massnahmen": [
+      "Tägliche Zahnpflege intensivieren",
+      "Mehr Zahnseide, Mundspülung, Zahnpflegekaugummi, Interdentalbürstchen",
+      "Intensive Parodontitisbehandlung, meist 4 Sitzungen hintereinander, bis die Entzündung verschwunden ist",
+      "Alle 3–4 Monate Dentalhygiene nur durch Dentalhygienikerin",
+      "Zahnärztliche Behandlungen notwendig: Parodontitisbehandlung, Wurzelbehandlung, Ziehen des Zahns, Implantat oder Brücke"
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bs3t",
+   "titel": "Häufige Fragen zur Dentalhygiene",
+   "fragen": [
+    {
+     "_key": "f27",
+     "frage": "Was ist Dentalhygiene?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b28",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s29",
+         "text": "Die Dentalhygiene ist eine professionelle und medizinisch fundierte Reinigung der Zähne. Sie erreicht auch schwer zugängliche Stellen und Bereiche unter dem Zahnfleisch, in den Zahnzwischenräumen, unter Brücken und bei Kronen, die mit normaler Zahnpflege nicht ausreichend gereinigt werden können.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      },
+      {
+       "_type": "block",
+       "_key": "b2a",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s2b",
+         "text": "Ziele der Dentalhygiene:",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      },
+      {
+       "_type": "block",
+       "_key": "b2c",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s2d",
+         "text": "Entfernung von Zahnstein und Plaque",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b2e",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s2f",
+         "text": "Vorbeugung von Zahnfleischentzündungen",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b2g",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s2h",
+         "text": "Schutz vor Parodontitis",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b2i",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s2j",
+         "text": "Verbesserung der Mundgesundheit",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b2k",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s2l",
+         "text": "Beseitigung von bakteriellem Mundgeruch",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b2m",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s2n",
+         "text": "Ästhetisch sauberere und hellere Zähne",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      }
+     ]
+    },
+    {
+     "_key": "f2o",
+     "frage": "Warum ist Dentalhygiene so wichtig?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b2p",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s2q",
+         "text": "Auch bei gründlichem Zähneputzen bleiben Bakterien in schwer erreichbaren Bereichen zurück – besonders unter dem Zahnfleisch, unter Brücken und Kronen und in den Zahnzwischenräumen. Diese Bakterien sind die Hauptursache für Parodontitis, eine chronische Entzündung, die unbehandelt längerfristig zu Zahnverlust führen kann.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      },
+      {
+       "_type": "block",
+       "_key": "b2r",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s2s",
+         "text": "Vorteile der regelmässigen Dentalhygiene: gesünderes Zahnfleisch, frischer Atem, weniger Kariesrisiko, Früherkennung von Problemen, langfristiger Zahnerhalt.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f2t",
+     "frage": "Wie oft sollte man zur Dentalhygiene?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b2u",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s2v",
+         "text": "Die Häufigkeit hängt von Ihrer individuellen Situation ab. Empfehlung der Praxis: 1–2 Mal pro Jahr bei gesunden Zähnen, 3–4 Mal pro Jahr bei Parodontitis oder erhöhtem Risiko wie bei Raucherinnen und Rauchern.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f2w",
+     "frage": "Für wen ist Dentalhygiene geeignet?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b2x",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s2y",
+         "text": "Dentalhygiene ist besonders wichtig für:",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      },
+      {
+       "_type": "block",
+       "_key": "b2z",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s30",
+         "text": "Erwachsene ab 18 Jahren",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b31",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s32",
+         "text": "Seniorinnen und Senioren wegen eventueller Kronen, Brücken oder Implantate",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b33",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s34",
+         "text": "Patientinnen und Patienten mit empfindlichem Zahnfleisch oder Zähnen",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b35",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s36",
+         "text": "Personen mit Parodontitis (Zahnfleischentzündung)",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b37",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s38",
+         "text": "Jugendliche und Erwachsene beim Tragen von Zahnspangen oder Zahnschienen",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      },
+      {
+       "_type": "block",
+       "_key": "b39",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s3a",
+         "text": "Raucherinnen und Raucher – erhöhtes Risiko für Zahnfleisch und Zähne",
+         "marks": []
+        }
+       ],
+       "markDefs": [],
+       "listItem": "bullet",
+       "level": 1
+      }
+     ]
+    },
+    {
+     "_key": "f3b",
+     "frage": "Was kostet die Dentalhygiene in Zürich?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b3c",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s3d",
+         "text": "Die Kosten variieren je nach Aufwand und Dauer der Behandlung. Richtpreise: ca. CHF 170 bis 220 pro Sitzung in vielen Praxen; bei WHITE SMYLE CHF 175.–. Zusatzversicherungen übernehmen häufig einen Teil der Kosten, die Grundversicherung meist nicht. Siehe auch die ",
+         "marks": []
+        },
+        {
+         "_type": "span",
+         "_key": "s3f",
+         "text": "Preise",
+         "marks": [
+          "l3e"
+         ]
+        },
+        {
+         "_type": "span",
+         "_key": "s3g",
+         "text": ".",
+         "marks": []
+        }
+       ],
+       "markDefs": [
+        {
+         "_type": "link",
+         "_key": "l3e",
+         "href": "/preise/",
+         "extern": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "_key": "f3h",
+     "frage": "Ist Dentalhygiene schmerzhaft?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b3i",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s3j",
+         "text": "In der Regel nicht. Bei empfindlichem Zahnfleisch kann es kurzfristig unangenehm sein. Empfindliche Stellen werden individuell berücksichtigt; auf Wunsch wird ganz ohne Ultraschall mit dem Handinstrument gereinigt.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f3k",
+     "frage": "Wie lange dauert die Behandlung?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b3l",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s3m",
+         "text": "Zwischen 45 und 90 Minuten, je nach Aufwand.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f3n",
+     "frage": "Dentalhygiene bei Parodontitis?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b3o",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s3p",
+         "text": "Bei Parodontitis ist eine regelmässige Dentalhygiene unverzichtbar. Sie hilft, Entzündungen zu reduzieren, Bakterien zu entfernen und das Fortschreiten der Erkrankung zu stoppen. Mehr auf der Seite ",
+         "marks": []
+        },
+        {
+         "_type": "span",
+         "_key": "s3r",
+         "text": "Behandlung bei Parodontitis",
+         "marks": [
+          "l3q"
+         ]
+        },
+        {
+         "_type": "span",
+         "_key": "s3s",
+         "text": ".",
+         "marks": []
+        }
+       ],
+       "markDefs": [
+        {
+         "_type": "link",
+         "_key": "l3q",
+         "href": "/dentalhygiene/parodontitis/",
+         "extern": false
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "anker": "faq"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs4b",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b3u",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s3v",
+       "text": "Unsere Empfehlung für gesunde Zähne",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b3w",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s3x",
+       "text": "1–2 Mal pro Jahr regelmässig Dentalhygiene",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b3y",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s3z",
+       "text": "2 Mal pro Tag die Zähne putzen (am Abend besonders wichtig!)",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b40",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s41",
+       "text": "mindestens 2 Mal pro Woche Zahnseide, Zahnstocher oder Interdentalbürstchen benutzen",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b42",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s43",
+       "text": "Zucker vermeiden",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b44",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s45",
+       "text": "Für weisse Zähne ist der WHITE SMYLE Bleaching-Refresher ideal",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b46",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s47",
+       "text": "Ihre Vorteile in Zürich Altstetten:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s48",
+       "text": " individuelle Betreuung, schonende und sehr gründliche Behandlung, Beratung, die über das «Normale» hinausgeht, über 30 Jahre Erfahrung – zentral gelegen direkt an der Tramlinie 2 und mit Gratis-Parkplätzen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b49",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s4a",
+       "text": "Unsere Dentalhygienikerin Frau Obenauer, mit über 30 Jahren Berufserfahrung die «Zahnheldin» mit Herz und Hand: Sie macht nicht nur sauber, sie macht den Unterschied und bewahrt Ihr schönes Lachen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "empfehlung",
+   "titel": "Empfehlung",
+   "bild": {
+    "bild": "tuende-logo",
+    "alt": "Tünde Obenauer, Leitung Dentalhygiene & Bleaching",
+    "bildunterschrift": "Tünde Obenauer, Leitung Dentalhygiene & Bleaching"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bs4c",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Jetzt Dentalhygiene-Termin buchen",
+   "text": "Online über Cituro oder telefonisch unter 043 931 78 74. Termine Di–Do 11–19 Uhr, Fr 9–13 Uhr, Sa nach Vereinbarung.",
+   "zweiterKnopf": {
+    "titel": "Kombipaket mit Bleaching",
+    "ziel": "/kombipaket/"
+   }
+  }
+ ]
+}

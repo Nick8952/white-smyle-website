@@ -1,0 +1,58 @@
+{
+ "id": "seite-ratgeber",
+ "slug": "ratgeber",
+ "art": "seite",
+ "titel": "Ratgeber",
+ "teaser": "Wissen rund um Dentalhygiene, Bleaching und Mundgesundheit – die Ratgeber der Praxis.",
+ "einleitung": "Die Ratgeber der Praxis zu Zahnbleaching, Dentalhygiene, Mundgeruch, Karies, Zahnfleisch, Schwangerschaft, Zahnknirschen und ganzheitlicher Mundgesundheit. Die Texte stammen von der bisherigen Website und geben die Sicht der Praxis wieder; sie ersetzen keine Beratung im Termin.",
+ "seoTitel": "Ratgeber Dentalhygiene und Bleaching – WHITE SMYLE",
+ "seoBeschreibung": "Ratgeber von WHITE SMYLE Zürich: Zahnbleaching, Dentalhygienikerin oder Prophylaxeassistentin, Mundgeruch, Karies, Gingivitis, Schwangerschaft, Zahnknirschen.",
+ "alteUrls": [
+  "/aktuelle-dental-tipps.html"
+ ],
+ "quelle": "whitesmyle.ch (Navigation)",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "ratgeberListeBaustein",
+   "_key": "bspb",
+   "titel": "Alle Ratgeber"
+  },
+  {
+   "_type": "linkkartenBaustein",
+   "_key": "bspc",
+   "titel": "Ausserdem",
+   "spalten": 3,
+   "karten": [
+    {
+     "_key": "l1",
+     "titel": "Fragen zur Vorbereitung",
+     "text": "Die fünf Fragebögen der Praxis zu Dentalhygiene, Bleaching, Knirschen, Mundgeruch und Zahnpasta – zum Lesen.",
+     "link": {
+      "titel": "Zu den Fragebögen",
+      "ziel": "/tests/"
+     }
+    },
+    {
+     "_key": "l2",
+     "titel": "Fragen und Antworten zur Dentalhygiene",
+     "text": "Verständliche Antworten zu Zahnstein, Zahnfleischbluten, Airflow, Kosten und Häufigkeit.",
+     "link": {
+      "titel": "Zu den Antworten",
+      "ziel": "/dentalhygiene/fragen-und-antworten/"
+     }
+    },
+    {
+     "_key": "l3",
+     "titel": "Zahnpastashop",
+     "text": "Der externe Webshop der Praxisbetreiber mit natürlichen Zahnpasten, Mundspülungen und Zubehör. Preise und Bedingungen dort.",
+     "link": {
+      "titel": "Shop öffnen",
+      "ziel": "https://www.zahnpastashop.ch/",
+      "extern": true
+     }
+    }
+   ]
+  }
+ ]
+}

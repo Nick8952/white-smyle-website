@@ -1,0 +1,198 @@
+{
+ "id": "seite-preise",
+ "slug": "preise",
+ "art": "seite",
+ "titel": "Preise für Dentalhygiene und Bleaching",
+ "teaser": "Alle Preise auf einen Blick: Dentalhygiene, Bleaching-Arten, Kombipakete, Zahlungsmöglichkeiten und Terminbedingungen.",
+ "einleitung": "Dentalhygiene und Bleaching bei WHITE SMYLE Zürich – Behandlung nur durch die dipl. Dentalhygienikerin. Alle Preise in CHF gemäss der Preisliste der bisherigen Website.",
+ "seoTitel": "Preise Dentalhygiene und Bleaching Zürich – WHITE SMYLE",
+ "seoBeschreibung": "Preise bei WHITE SMYLE Zürich: Dentalhygiene CHF 175.–, Frontpolish CHF 100.–, Power Bleaching ab CHF 249.–, Kombipakete ab CHF 349.–. Zahlung und Bedingungen.",
+ "hero": {
+  "variante": "seite",
+  "titel": "Preise für Dentalhygiene und Bleaching",
+  "text": "Behandlung nur durch die dipl. Dentalhygienikerin HF. Alle Preise in CHF gemäss Preisliste; Voraussetzungen stehen direkt beim Angebot.",
+  "knopf": {
+   "titel": "Termin online buchen",
+   "ziel": "https://app.cituro.com/booking/2814276",
+   "extern": true
+  },
+  "zweiterKnopf": {
+   "titel": "Kombipakete vergleichen",
+   "ziel": "/kombipaket/"
+  },
+  "bild": {
+   "bild": "preise-1",
+   "alt": "Dentalhygienikerin behandelt eine Patientin"
+  }
+ },
+ "bild": {
+  "bild": "preise-1",
+  "alt": "Dentalhygienikerin behandelt eine Patientin"
+ },
+ "alteUrls": [
+  "/preise.html",
+  "/zahlungsmoumlglichkeiten.html"
+ ],
+ "quelle": "whitesmyle.ch/preise.html, /zahlungsmoumlglichkeiten.html, AGB",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "preistafelBaustein",
+   "_key": "bsn0",
+   "anker": "preisliste",
+   "titel": "Preisliste",
+   "aktion": "aktion-power-plus",
+   "mitZahlungsarten": true,
+   "fussnoten": [
+    "Alle Preise in CHF gemäss Preisliste auf whitesmyle.ch (Stand 23.09.2026). Bei speziellen Situationen können weitere Dentalhygiene-Sitzungen notwendig sein.",
+    "Kombipaket Dentalhygiene & Home Bleaching: Die Preisliste nennt CHF 549.–, die Seiten «Kombiangebote» und «Aktion» CHF 514.–. Die Praxis bestätigt den gültigen Preis.",
+    "Aktion Power Bleaching plus: kein Enddatum auf der bisherigen Website; Gültigkeit und Bedingungen bestätigt die Praxis.",
+    "Kinder-Zahnreinigung: kein Preis auf der bisherigen Website genannt."
+   ]
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bsni",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bn1",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sn2",
+       "text": "Terminverlegungen und Terminstornierungen",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bn3",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sn4",
+       "text": "Bitte verlegen oder stornieren Sie Ihren Termin rechtzeitig, mindestens 48 Stunden im Voraus und innerhalb der Praxis-Arbeitszeiten. Andernfalls wird Ihnen der volle Preis in Rechnung gestellt. Beachten Sie bitte, dass die 48 Stunden nur an Werktagen zählen, da Stornierungen ausserhalb der Arbeitszeiten (Sonn- und Feiertage) nicht berücksichtigt werden können.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bn5",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sn6",
+       "text": "Kurzfristige Absagen und Nichterscheinen aus jeglichen Gründen (auch Krankheit) werden gemäss AGB nach der üblichen Gebührenliste verrechnet, um die anfallenden Kosten zu decken. Details in den ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "sn8",
+       "text": "AGB",
+       "marks": [
+        "ln7"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sn9",
+       "text": ".",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "ln7",
+       "href": "/agb/",
+       "extern": false
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "bna",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "snb",
+       "text": "Bezahlen Sie bequem nach der Behandlung",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bnc",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "snd",
+       "text": "Dienstleistungen sind direkt nach der Behandlung mit den üblichen Zahlungsmitteln wie Kreditkarte, PostFinance Card, TWINT oder in bar zu bezahlen. Rechnungszahlung ist nur nach Absprache möglich.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bne",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "snf",
+       "text": "Krankenkasse",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bng",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "snh",
+       "text": "WHITE SMYLE dental ist nach eigener Angabe Krankenkassen anerkannt. Fragen Sie nach Ihrem Rückforderungsbeleg für die Dentalhygiene, falls Sie eine entsprechende Zusatzversicherung haben. Die Grundversicherung übernimmt Dentalhygiene meist nicht, Zusatzversicherungen oft teilweise.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "bedingungen",
+   "titel": "Bedingungen und Zahlung",
+   "breite": "schmal"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsnj",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Vereinbaren Sie Ihren Online-Termin",
+   "text": "Die Praxis berät Sie, welches Angebot für Ihre Wünsche und Ihre zahnmedizinische Situation passt.",
+   "zweiterKnopf": {
+    "titel": "Aktion ansehen",
+    "ziel": "/preise/aktion/"
+   }
+  }
+ ]
+}

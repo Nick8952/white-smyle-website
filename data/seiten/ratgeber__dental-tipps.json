@@ -1,0 +1,1039 @@
+{
+ "id": "seite-ratgeber-dental-tipps",
+ "art": "ratgeber",
+ "pruefstatus": "sprachlich-angepasst",
+ "slug": "ratgeber/dental-tipps",
+ "titel": "Ganzheitliche Dental-Tipps",
+ "teaser": "Zahngesundheit und Immunsystem, orale Bakterien und Fitness, Kaugummi und Säure, Süssigkeiten, Sport, Nuggi: die Tipps-Sammlung der Praxis.",
+ "einleitung": "Mit den Dental-Tipps möchte die Praxis umfassendes und ganzheitliches Wissen für Zahnpflege und Lebensstil weitergeben. Die Sammlung stammt von der bisherigen Website und gibt die Sicht der Praxis wieder.",
+ "seoTitel": "Dental-Tipps – Zahngesundheit, Immunsystem, Sport, Ernährung",
+ "seoBeschreibung": "Dental-Tipps von WHITE SMYLE: Zahngesundheit und Immunsystem, orale Bakterien und Fitness, Bleaching, Kaugummi und Säure, Süssigkeiten, Sport, Nuggi.",
+ "bild": {
+  "bild": "tipps-paar",
+  "alt": "Paar läuft lachend am Strand"
+ },
+ "alteUrls": [
+  "/aktuelle-dental-tipps.html"
+ ],
+ "quelle": "whitesmyle.ch/aktuelle-dental-tipps.html",
+ "mitInhaltsverzeichnis": true,
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bs1ev",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1e2",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1e3",
+       "text": "Wie hängen Zahngesundheit, Immunsystem und körperliche Gesundheit zusammen?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1e4",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1e5",
+       "text": "Zahngesundheit und Immunsystem sind eng miteinander verbunden. Probleme in der Mundgesundheit, insbesondere Zahnfleischerkrankungen (Parodontitis) oder Karies, können negative Auswirkungen auf das Immunsystem haben – und umgekehrt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1e6",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1e7",
+       "text": "Einfluss der Zahngesundheit auf das Immunsystem",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1e8",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1e9",
+       "text": "Bakterielle Ausbreitung:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1ea",
+       "text": " Bakterien im Mund, insbesondere bei Zahnfleischerkrankungen, können in den Blutkreislauf gelangen und Entzündungen in anderen Körperteilen auslösen – zum Beispiel Endokarditis (bakterielle Infektion der Herzinnenwand) oder Atemwegserkrankungen wie Lungenentzündung und COPD.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b1eb",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1ec",
+       "text": "Schwangerschaftskomplikationen:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1ed",
+       "text": " Schwangere mit Zahnfleischerkrankungen haben ein höheres Risiko für Frühgeburten und Babys mit geringem Geburtsgewicht.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b1ee",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1ef",
+       "text": "Ernährung und Verdauung:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1eg",
+       "text": " Gesunde Zähne sind notwendig, um Nahrung richtig zu kauen und zu verdauen. Karies oder Zahnverlust können die Nährstoffaufnahme beeinträchtigen.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b1eh",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1ei",
+       "text": "Immunsystem und Stress:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1ej",
+       "text": " Chronische Zahnfleischentzündungen setzen den Körper unter Dauerstress, was das Immunsystem schwächt und die Heilung nach Verletzungen oder Operationen verlangsamen kann.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b1ek",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1el",
+       "text": "Neurodegenerative Erkrankungen:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1em",
+       "text": " Es gibt laut Praxis zunehmend Hinweise, dass Zahnfleischerkrankungen mit einem höheren Risiko für Alzheimer und andere Demenzformen verbunden sein können.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b1en",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1eo",
+       "text": "Lösungen zur Verbesserung der Zahngesundheit",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1ep",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1eq",
+       "text": "Regelmässige Zahnpflege mit möglichst natürlichen Zahnpasten sowie Zahnseide oder Interdentalbürsten; Verzicht auf Rauchen (erhöht das Risiko für Zahnfleischerkrankungen und Mundkrebs erheblich und beeinträchtigt die Heilung); gesunde Ernährung mit wenig Zucker und verarbeiteten Lebensmitteln; antibakterielle Mundspülungen. Die Praxis nennt zudem Immunbooster mit Vitamin D3, K2, C, Zink und B-Vitaminen als Unterstützung des Immunsystems und verlinkt entsprechende Produkte im externen Shop fresh4life.shop.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1er",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1es",
+       "text": "Die Rolle der regelmässigen Dentalhygiene",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1et",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1eu",
+       "text": "Plaque- und Zahnsteinentfernung, die zuhause nicht vollständig gelingt; Prävention von Parodontitis; Früherkennung von Problemen wie Karies oder Entzündungen. Fazit der Praxis: Gesunde Zahnpflege und regelmässige Dentalhygiene spielen eine entscheidende Rolle für die allgemeine Gesundheit und das Immunsystem.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "immunsystem",
+   "titel": "Zahngesundheit und Immunsystem",
+   "bild": {
+    "bild": "tipps-immunsystem",
+    "alt": "Grafik: Regenschirm schützt vor Viren; Schriftzug «Schütze dein Immunsystem»"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bs1ey",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1ew",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1ex",
+       "text": "Die Aussage der bisherigen Website, die Einnahme von Nahrungsergänzungsmitteln sei «heute unumgänglich geworden», wurde in dieser Demo nicht übernommen und ist von der Praxis fachlich zu prüfen. Die Produktlinks (fresh4life.shop) führen zu einem externen Shop.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "art": "medizinisch"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs1fc",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1ez",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1f0",
+       "text": "Wie weiss werden meine Zähne durch Bleaching?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1f1",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1f2",
+       "text": "Viele Bleaching-Kundinnen und -Kunden sagen erstaunlicherweise, dass sie keine zu weissen Zähne möchten. Das Wichtigste: Es gibt zwei Arten von Verfärbungen – Oberflächenverfärbungen und die in der Tiefe des Zahnschmelzes liegenden hartnäckigen Verfärbungen, die ohne Bleaching nicht zu beseitigen sind.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1f3",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1f4",
+       "text": "Der Zahnbelag, der sich täglich bildet, besteht aus Bakterien; wird er nicht gut beseitigt, entsteht Zahnstein. In Zahnbelag und Zahnstein bilden sich Oberflächenverfärbungen, die bei der täglichen Zahnpflege und bei der Dentalhygiene (Ultraschall, Handinstrumente, Airflow) entfernt werden. Danach kann das Bleaching-Gel die tiefen Verfärbungen beseitigen – meist nach einer Stunde sieht man das Endergebnis.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1f5",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1f6",
+       "text": "Extrem weisse Zähne bekommt man entweder von zu viel Zahnaufhellung in kurzen Abständen – wovon die Praxis dringend abrät – oder mit Veneers (Keramikschalen). Das oft künstlich aussehende Weiss der Keramikschalen schreckt viele davon ab, eine Zahnaufhellung zu machen; wer vernünftig bleicht, braucht diese Angst nicht zu haben.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1f7",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1f8",
+       "text": "Beim ersten Bleaching werden die Verfärbungen der letzten Jahre beseitigt – sozusagen ein «Zahn-Reset». Bei zu starken Verfärbungen braucht es eventuell eine zweite und dritte Sitzung. Das Aufrechterhalten benötigt meist alle 1–2 Jahre eine Auffrischung, die mit der Dentalhygiene im ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s1fa",
+       "text": "Kombipaket",
+       "marks": [
+        "l1f9"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1fb",
+       "text": " gemacht werden kann.",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l1f9",
+       "href": "/kombipaket/",
+       "extern": false
+      }
+     ]
+    }
+   ],
+   "anker": "weiss",
+   "titel": "Wie weiss werden Zähne?",
+   "breite": "schmal"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs1fr",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1fd",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1fe",
+       "text": "Orale Bakterien und die Auswirkungen auf Fitness und Gesundheit",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1ff",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1fg",
+       "text": "Parodontitis wird heute als Erkrankung angesehen, die auf den gesamten Körper Auswirkungen hat. In einer gesunden Mundhöhle leben rund eine Billion Bakterien, die für eine gesunde Mundflora sorgen. Hygiene, Ernährung, Stress und andere Faktoren beeinflussen die Balance zwischen aufbauenden und aggressiven Bakterien.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1fh",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1fi",
+       "text": "Heute besteht laut Praxis weitgehend Einigkeit darin, dass chronische Entzündungsprozesse – Zahnfleischbluten oder eine unbehandelte Parodontitis – Stoffwechsel, Lunge und Gefässsystem dauernd belasten. Das Bakterium Fusobacterium nucleatum, das an Mikroorganismen im Plaque anhaftet, ist allein nicht krankheitserregend, aktiviert aber durch sein Anhaften an anderen Erregern bestimmte Vorgänge und produziert toxische Abbauprodukte; es findet sich nicht nur im Mund, sondern bei vielen Darmkrebspatientinnen und -patienten auch im Darm. Gelenkentzündungen, Atemwegserkrankungen und Herzinfarktrisiko können durch verbesserte Mundhygiene vermindert werden.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1fj",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1fk",
+       "text": "Tägliche Mundpflege:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1fl",
+       "text": " Ausschlaggebend sind Qualität und Häufigkeit der Pflegeprodukte. Möglichst natürliche Produkte fördern die pH-Balance; eine antibakterielle Mundspülung, am besten ohne Alkohol, hemmt das Plaque-Wachstum; eine zucker- und säurearme Ernährung trägt zur Gesunderhaltung bei. Rund 60 % aller oralen Organismen befinden sich auf der Zunge – nach dem Zähneputzen 2 Mal pro Tag mit einem Zungenschaber reinigen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1fm",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1fn",
+       "text": "Attraktivität:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1fo",
+       "text": " Mit gepflegten und gesunden Zähnen verschönern Sie Ihr Erscheinungsbild. Beim Bleaching entsteht laut Praxis Sauerstoff, der die «schlechten» Bakterien beseitigt und so auch Mundgeruch vermindern soll.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1fp",
+     "style": "blockquote",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1fq",
+       "text": "«Ich unterstütze Sie gerne mit einer wirklich guten Dentalhygiene und einer individuellen Beratung, damit Sie Ihre gesundheitlichen Ziele erreichen können.» – Tünde Obenauer",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "fitness",
+   "titel": "Orale Bakterien und Fitness",
+   "bild": {
+    "bild": "tuende-2",
+    "alt": "Tünde Obenauer, Dentalhygienikerin"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs1g8",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1fs",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1ft",
+       "text": "Ist Kaugummi kauen wirklich gesund?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1fu",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1fv",
+       "text": "Nicht nur süsse, sondern auch saure Lebensmittel können die Zähne angreifen. Säureschäden (Erosionen) entstehen durch die direkte Einwirkung von Säuren auf die Zahnoberfläche und führen zu nicht wiederherstellbarem Verlust von Zahnhartsubstanz – Bakterien sind daran nicht beteiligt, im Gegensatz zur Karies. Der Speichel neutralisiert die Säuren und stellt die Remineralisation der Zähne sicher. Deshalb empfiehlt sich eine regelmässige Stimulation des Speichelflusses: Je mehr Speichel fliesst, desto besser sind die Zähne geschützt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1fw",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1fx",
+       "text": "Massnahme:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1fy",
+       "text": " zuckerfreie Kaugummis nach den Mahlzeiten oder zwischendurch. Kaugummis mit Birkenzucker (Xylitol) schützen laut Praxis noch effektiver, da sie die Bakterienvermehrung verhindern und so die Säureproduktion drastisch verringern.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1fz",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1g0",
+       "text": "So werden die Zähne nicht sauer:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1g1",
+       "text": " Besonders säurehaltig sind gekaufte Fruchtsäfte, Sportgetränke, Energy-Drinks, Limonaden, Hagebuttentee und Mineralwasser mit Geschmack, viele Früchte (Ananas, Kiwi, Orangen, Zitronen), Essig und saure Süssigkeiten. Tipps der Praxis: maximal 5 säurehaltige Lebensmittel pro Tag, Kontakt mit den Zähnen kurz halten (Strohhalm), bei bestehenden Säureschäden vor dem Verzehr saurer Lebensmittel putzen; wer keine Säureschäden hat, putzt nach dem Essen – das Kariesrisiko ist meist höher als das Erosionsrisiko. Neuere Studien hätten gezeigt, dass bei normalem Essverhalten das Warten von einer halben Stunde nach sauren Mahlzeiten nichts bringt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1g2",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1g3",
+       "text": "Zu viele Süssigkeiten – wie putze ich dann richtig?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1g4",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1g5",
+       "text": "Auf den Zuckerkonsum folgt die Attacke: Unzählige Bakterien bilden Säure, die die Zähne angreift. In den Zahnzwischenräumen bleiben nach Süssigkeiten besonders viele Rückstände – diese Stellen regelmässig mit Interdentalbürstchen und Zahnseide reinigen. Blutet das Zahnfleisch beim Beginn, in den nächsten Tagen weiterputzen; die Blutungen werden weniger und verschwinden.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1g6",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1g7",
+       "text": "Tipps der Praxis: 1–2 Mal pro Tag eine natürliche Mundspülung (z. B. SPRY mit Xylitol), einige Male am Tag kurz einen Kaugummi mit Xylitol kauen, nach Süssigkeiten die Zahnzwischenräume mit einer Interdentalbürste putzen, eine Zahnpasta verwenden, die dem Zahnfleisch hilft, sich zu regenerieren (z. B. SPLAT Blackwood, SPLAT Green Tea, ROCS Pro Fresh Mint).",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "kaugummi",
+   "titel": "Kaugummi, Säure, Süssigkeiten",
+   "bild": {
+    "bild": "tipps-xylitol",
+    "alt": "Frau bläst eine Kaugummiblase; Schriftzug «Xylitol Kaugummi»"
+   },
+   "bildPosition": "links"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs1gi",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1g9",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1ga",
+       "text": "Zahngesundheit und Sport",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1gb",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1gc",
+       "text": "Sport wirkt laut Praxis wie ein Jungbrunnen für den ganzen Körper. Bei Krafttraining sollte das Cardiotraining nicht vernachlässigt werden: weniger Ermüdung im Job, bessere Konzentration, Stressabbau. Ärzte sprechen von Anti-Aging, da die Durchblutung stärker ist. Ob Ausdauer- oder Kraftsport – es besteht laut Praxis ein direkter Zusammenhang mit der Zahn- und Mundgesundheit: Die verstärkte Durchblutung fördert die Mineralstoffversorgung im Mundbereich; unterstützend Zahnpasten mit durchblutungsfördernden Inhaltsstoffen (Ingwer, Brennnessel, Chili).",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1gd",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1ge",
+       "text": "Zahnfleischentzündung versus Sport:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1gf",
+       "text": " Der deutsche Professor Jörg Eberhard konnte laut Praxis in einer Studie nachweisen, dass der positive Effekt des Sports fast nutzlos ist, wenn die Person mit entzündetem Zahnfleisch zu kämpfen hat: Die DNA verkürzt sich bei Sporttreibenden mit Parodontitis genauso schnell wie bei «Couch-Potatoes». Sportlich aktive Personen mit gesundem Zahnfleisch und tadelloser Mundhygiene haben den Vorteil, dass sie nicht nur gesund, sondern auch jung bleiben.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1gg",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1gh",
+       "text": "Die bisherige Website verlinkt zudem das Fitnesscenter basefit.ch als Empfehlung und weist darauf hin, dass viele Krankenkassen mit Zusatzversicherung einen Teil des Jahresbeitrags übernehmen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "sport",
+   "titel": "Sport",
+   "bild": {
+    "bild": "tipps-sport",
+    "alt": "Frau joggt über eine Wiese"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs1h4",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1gj",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1gk",
+       "text": "Was haben Herz-Kreislauf-Probleme oder Diabetes mit Zahnmedizin zu tun?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1gl",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1gm",
+       "text": "Allgemeine Krankheiten können laut der zitierten Quelle verringert werden: Herz-Kreislauf-Probleme, Atemwegserkrankungen, Diabetes/Blutzuckerspiegel, Gelenkentzündungen, Gefahr einer Frühgeburt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1gn",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1go",
+       "text": "Herz-Kreislauf:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1gp",
+       "text": " Eine Parodontitis erhöht das Risiko für Gefässveränderungen. Über die Blutbahn können Parodontitis-Bakterien und Entzündungsbotenstoffe im Körper zirkulieren, Gefässe verengen und das Herzinfarktrisiko steigern; mit einer schweren Parodontitis erhöht sich auch die Gefahr eines Schlaganfalls um das Zwei- bis Dreifache, vor allem bei Männern über 60. Bakteriämie ist die Hauptursache für Entzündungen der Herzinnenhaut (Endokarditis). Patientinnen und Patienten mit Herzfehlern sollten das zahnmedizinische Praxisteam informieren.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1gq",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1gr",
+       "text": "Atemwegserkrankungen:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1gs",
+       "text": " Keime im Mund werden in Rachen und Lunge eingeatmet und können bei geschwächtem Immunsystem Lungenentzündung, Bronchitis oder ein Lungenemphysem auslösen. Rauchende haben ein doppelt erhöhtes Risiko.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1gt",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1gu",
+       "text": "Gelenkentzündung:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1gv",
+       "text": " Menschen mit Parodontitis haben ein bis zu achtmal höheres Risiko für rheumatoide Arthritis. Das Parodontitis-Bakterium P. gingivalis bildet ein Enzym, das die Aminosäure Arginin in Citrullin umwandelt; das Immunsystem reagiert mit Antikörpern, die auch ein Symptom der rheumatoiden Arthritis sind. Parodontitis und Rheuma müssen parallel behandelt werden.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1gw",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1gx",
+       "text": "Blutzuckerspiegel/Diabetes:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1gy",
+       "text": " Entzündungsherde im Mund tragen dazu bei, dass die Zellen weniger auf Insulin ansprechen. Umgekehrt sind Diabetikerinnen und Diabetiker anfälliger für bakterielle Infektionen und haben ein höheres Risiko für Parodontitis und Karies; wer den Zuckerspiegel gut kontrolliert, hat kaum ein höheres Parodontitis-Risiko. Hohe Blutzuckerwerte und Medikamente können zu Mundtrockenheit führen – viel Wasser trinken oder zuckerfreie Kaugummis kauen. Wer an Diabetes leidet, sollte das Praxisteam informieren (Wundheilungsstörungen).",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1gz",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1h0",
+       "text": "Mundpflege senkt das Risiko:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1h1",
+       "text": " Täglich mit Zahnbürste und Zahnpasta die Bakterienbeläge entfernen, auf eine zucker- und säurearme Ernährung achten und allenfalls eine antibakterielle Mundspülung verwenden.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1h2",
+     "style": "quelle",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1h3",
+       "text": "Quelle laut Praxis: www.mundgesund.ch – eine Initiative der Schweizerischen Zahnärzte-Gesellschaft SSO und Swiss Dental Hygienists.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "krankheiten",
+   "titel": "Herz, Lunge, Gelenke, Diabetes",
+   "bild": {
+    "bild": "tipps-koerper",
+    "alt": "Grafik des menschlichen Körpers mit Blutkreislauf",
+    "bildunterschrift": "Die Vernetzung des körperlichen Systems"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs1hd",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1h5",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1h6",
+       "text": "Tschüss Nuggi",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1h7",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1h8",
+       "text": "Ein Nuggi ist eine gute Sache: Er beruhigt und hält Kinder davon ab, Daumen zu lutschen. Spätestens mit drei Jahren sollten sich Kinder schrittweise von ihrem «Beruhigungssauger» lösen, vor allem den Zähnen zuliebe. 80 % der Kinder haben das Bedürfnis zu saugen – am Nuggi, am Daumen, am Stofftier oder am Zipfel ihrer Decke; von all diesen Möglichkeiten sei der Nuggi die beste, weil er einfacher abgewöhnt werden kann. Je weniger Nuggi-Zeit, desto besser die Sprachentwicklung.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1h9",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1ha",
+       "text": "Warum abgewöhnen? Damit sich die Zähne nicht verschieben. Kieferfehlstellungen wie ein offener Biss, bei dem die Schneidezähne auseinanderklaffen, hängen mit den Sauggewohnheiten zusammen. Am besten vor dem Durchbruch der bleibenden Zähne aufhören. Acht Monate nach der Geburt ist das Saugbedürfnis nicht mehr so stark ausgeprägt, sodass die Nuggi-Zeit stetig vermindert werden kann; Eltern sollten den Nuggi nie von sich aus anbieten. Fachleute raten davon ab, den Nuggi einfach wegzunehmen. Methoden: den Nuggi mit eklig schmeckenden Gels bestreichen oder die Nuggi-Trennung feiern (Nuggi-Fee, Samichlaus, Osterhase). Je älter die Kinder, desto schwieriger wird die Abgewöhnung – und umso wichtiger.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1hb",
+     "style": "quelle",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1hc",
+       "text": "Quelle laut Praxis: Zahninfo, Patientenzeitung der Schweizerischen Zahnärzte-Gesellschaft SSO Nr. 3/18.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "nuggi",
+   "titel": "Nuggi",
+   "bild": {
+    "bild": "tipps-nuggi",
+    "alt": "Schlafendes Baby mit Nuggi; Schriftzug «Tschüss Nuggi»"
+   },
+   "bildPosition": "links"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs1hn",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1he",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1hf",
+       "text": "Pflanzenwirkstoffe auf dem Vormarsch",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1hg",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1hh",
+       "text": "Zahnpasten mit möglichst natürlichen Inhaltsstoffen setzen sich laut Praxis am Schweizer Dentalmarkt immer mehr durch. Zahnärzte und Dentalhygienikerinnen empfehlen Menschen, die nach weniger chemischen Produkten suchen, SPLAT-Zahnpasten: Sie enthalten keine aggressiven Inhaltsstoffe wie Triclosan, Chlorhexidin oder Natriumlaurylsulfat (SLS); diese wurden durch pflanzliche Wirkstoffe wie Baikal-Helmkraut, Bergenie, Spirulina, Vitamine A und C ersetzt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1hi",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1hj",
+       "text": "Das SPLAT-White-System beinhaltet natürliche Enzyme aus Papaya, Feige oder Ananas, die Proteine spalten und so Plaque auflösen. Manche handelsüblichen Zahnpasten enthalten hoch abrasive Inhaltsstoffe, die zu Zahnsensitivitäten führen können. SPLAT-Zahnpasten enthalten laut Hersteller bis zu 98,6 % organische Wirkstoffe, SPLAT-Mundspülungen bis zu 98 %. Erhältlich im externen ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s1hl",
+       "text": "Zahnpastashop",
+       "marks": [
+        "l1hk"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1hm",
+       "text": ".",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l1hk",
+       "href": "https://www.zahnpastashop.ch/",
+       "extern": true
+      }
+     ]
+    }
+   ],
+   "anker": "pflanzen",
+   "titel": "Pflanzenwirkstoffe",
+   "bild": {
+    "bild": "tipps-splat",
+    "alt": "Zahnpasta-Tube SPLAT Silver"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bs1hq",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1ho",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1hp",
+       "text": "Nicht übernommen wurde der Abschnitt «Zahnarztpraxen zählen zu den Corona-sichersten Orten» (Stand 2020, mit SSO-Medienmitteilung vom August 2020): Er ist zeitgebunden und beschreibt zahnärztliche Massnahmen (Wurzelbehandlung), die nicht zum Dentalhygiene-Angebot passen. Die Praxis entscheidet, ob ein aktualisierter Hygiene-Hinweis gewünscht ist. Die Abschnitte zu Zahnknirschen, Schwangerschaft und Megasonex aus der alten Tipps-Sammlung stehen als eigene Ratgeber zur Verfügung.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "art": "info"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bs1hr",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Ihre Dentalhygiene als Beitrag zur Gesundheit",
+   "text": "Regelmässige Dentalhygiene 1–2 Mal pro Jahr – buchen Sie online oder rufen Sie an.",
+   "zweiterKnopf": {
+    "titel": "Alle Ratgeber",
+    "ziel": "/ratgeber/"
+   }
+  }
+ ]
+}

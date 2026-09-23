@@ -1,0 +1,137 @@
+{
+ "id": "seite-bleaching-hochzeitsbleaching",
+ "slug": "bleaching/hochzeitsbleaching",
+ "art": "leistung",
+ "titel": "Hochzeitsbleaching",
+ "teaser": "Weisse Zähne für die Hochzeit – für Braut und Bräutigam, idealerweise 2–3 Wochen vor dem grossen Tag.",
+ "einleitung": "Der Hochzeitstermin steht fest, die Ringe sind gekauft, die Location ist gebucht und die Einladungen sind versendet. Aber was fehlt noch? Das Hochzeitsbleaching.",
+ "seoTitel": "Hochzeitsbleaching Zürich – weisse Zähne für die Hochzeit",
+ "seoBeschreibung": "Hochzeitsbleaching bei WHITE SMYLE Zürich: Bleaching für Braut und Bräutigam, bei Bedarf mit Dentalhygiene im Kombipaket. Empfehlung: 2–3 Wochen vor der Hochzeit.",
+ "bild": {
+  "bild": "hochzeit-1",
+  "alt": "Brautpaar; Schriftzug «Hochzeitsbleaching»"
+ },
+ "alteUrls": [
+  "/hochzeitsbleaching.html"
+ ],
+ "quelle": "whitesmyle.ch/hochzeitsbleaching.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bsmx",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bmm",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "smn",
+       "text": "Weisse Zähne für Braut und Bräutigam",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bmo",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "smp",
+       "text": "Die Traumhochzeit findet natürlich nur mit schönen weissen Zähnen statt. Kommen Sie gemeinsam vorbei für ein Bleaching und, wenn notwendig, auch für eine Dentalhygiene im Kombipaket.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bmq",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "smr",
+       "text": "Tipp der Praxis:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sms",
+       "text": " Wenn die letzte Dentalhygiene länger als ein halbes Jahr zurückliegt, ist vor dem Hochzeitsbleaching eine Dentalhygiene angesagt – sie verschönert das Ergebnis. Die Praxis empfiehlt, das Bleaching 2–3 Wochen vor der Hochzeit zu machen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bmt",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "smu",
+       "text": "Ja, ich will … aber nur mit weissen Zähnen!",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bmv",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "smw",
+       "text": "Ihre Hochzeitsfotos – ob im Fotoalbum, auf Ihrer Website oder auf Instagram, Facebook & Co. – sind eine bleibende Erinnerung und werden sicher noch von Ihren Enkelkindern bestaunt. Melden Sie sich für eine Beratung oder sichern Sie sich noch heute Ihren Termin.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "bild": {
+    "bild": "hochzeit-2",
+    "alt": "Bräutigam trägt die Braut; Schriftzug «Hochzeitsbleaching»"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "kombinationenBaustein",
+   "_key": "bsmy",
+   "titel": "Passende Angebote",
+   "einleitung": "Bleaching allein (bei aktueller Dentalhygiene) oder im Kombipaket. Preise gemäss Preisliste.",
+   "kombinationen": [
+    "kombi-power",
+    "kombi-power-plus"
+   ],
+   "mitEinzelpreisen": true
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsmz",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Termin für Ihr Hochzeitsbleaching",
+   "text": "Online buchen oder anrufen: 043 931 78 74.",
+   "zweiterKnopf": {
+    "titel": "Bleaching-Arten vergleichen",
+    "ziel": "/bleaching/"
+   }
+  }
+ ]
+}

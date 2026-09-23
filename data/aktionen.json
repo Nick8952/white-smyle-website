@@ -1,0 +1,11 @@
+[
+  {
+    "id": "aktion-power-plus", "titel": "HEYDENT Power Bleaching plus zum Preis des Power Bleachings",
+    "text": "Auf der bisherigen Website wird das Power Bleaching plus als Aktion für CHF 249.– statt CHF 299.– angeboten («Du sparst CHF 50.–»). Übertragen auf das Kombipaket ergibt das Dentalhygiene & Power Bleaching plus für CHF 399.– statt CHF 474.– («Du sparst 75.–», Startseite).",
+    "leistung": "leistung-power-bleaching-plus", "aktionspreisChf": 249, "vergleichspreisChf": 299, "vergleichBasis": "regulärer Preis Power Bleaching plus auf der Preisliste",
+    "kombination": { "kombination": "kombi-power-plus", "aktionspreisChf": 399, "vergleichspreisChf": 474 },
+    "status": "gueltigkeit-ungeklaert",
+    "bedingungen": ["Bleaching von 20 Zähnen (4 Quadranten je 5 Zähne, keine Backenzähne)", "Ohne Dentalhygiene nur, wenn die letzte Dentalhygiene nicht länger als 6 Monate zurückliegt", "Kein Enddatum auf der bisherigen Website genannt – Gültigkeit und Bedingungen bestätigt die Praxis"],
+    "quelle": "whitesmyle.ch (Startseite), /power-bleaching-aktion.html, /preise.html", "pruefstatus": "sprachlich-angepasst"
+  }
+]

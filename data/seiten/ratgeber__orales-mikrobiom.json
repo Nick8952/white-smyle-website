@@ -1,0 +1,353 @@
+{
+ "id": "seite-ratgeber-orales-mikrobiom",
+ "art": "ratgeber",
+ "pruefstatus": "sprachlich-angepasst",
+ "slug": "ratgeber/orales-mikrobiom",
+ "titel": "Das orale Mikrobiom",
+ "teaser": "Ihr unsichtbarer Beschützer im Mund: was das Mikrobiom ist, was bei einer Dysbiose passiert und wie Sie es natürlich stärken.",
+ "einleitung": "In Ihrem Mund leben Milliarden Mikroorganismen. Die Praxis zeigt, warum das gut ist – und wie dieses Gleichgewicht geschützt wird.",
+ "seoTitel": "Orales Mikrobiom – Bedeutung für die Zahngesundheit",
+ "seoBeschreibung": "Was ist das orale Mikrobiom, warum ist es wichtig für die Zahngesundheit und wie lässt es sich natürlich stärken? Antworten der Praxis WHITE SMYLE.",
+ "bild": {
+  "bild": "mikrobiom-hero",
+  "alt": "Grafik mit grünen Bakterien; Schriftzug «Orales Mikrobiom»"
+ },
+ "alteUrls": [
+  "/orales-mikrobiom.html"
+ ],
+ "quelle": "whitesmyle.ch/orales-mikrobiom.html",
+ "bausteine": [
+  {
+   "_type": "vergleichBaustein",
+   "_key": "bsw7",
+   "titel": "Drei Blickwinkel",
+   "spalten": [
+    {
+     "_key": "m1",
+     "titel": "Was ist das Mikrobiom?",
+     "punkte": [
+      "Milliarden Mikroorganismen, die Ihr Ökosystem im Mund bilden"
+     ]
+    },
+    {
+     "_key": "m2",
+     "titel": "Dysbiose",
+     "untertitel": "bakterielles Ungleichgewicht",
+     "punkte": [
+      "Was passiert, wenn das Gleichgewicht kippt"
+     ]
+    },
+    {
+     "_key": "m3",
+     "titel": "Ganzheitlicher Bezug",
+     "punkte": [
+      "Wie Mundgesundheit den ganzen Körper beeinflusst"
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bswk",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bw8",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sw9",
+       "text": "So unterstützen Sie Ihr Mikrobiom natürlich",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bwa",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "swb",
+       "text": "Zuckerarme Ernährung",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bwc",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "swd",
+       "text": "Genug Speichelfluss",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bwe",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "swf",
+       "text": "Stressreduktion",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bwg",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "swh",
+       "text": "Mundhygiene mit natürlichen Zahnpasten",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bwi",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "swj",
+       "text": "Professionelle Dentalhygiene",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bsxc",
+   "titel": "Häufige Fragen zum oralen Mikrobiom",
+   "fragen": [
+    {
+     "_key": "fwl",
+     "frage": "Was ist das orale Mikrobiom?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bwm",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "swn",
+         "text": "Das orale Mikrobiom ist die Gemeinschaft von Bakterien, Pilzen und weiteren Mikroorganismen, die natürlicherweise in Ihrem Mund leben. Nach dem Darm ist die Mundhöhle die zweitvielfältigste mikrobiell besiedelte Region des Körpers. Diese Mikroorganismen sind kein Zeichen mangelnder Hygiene, sondern ein lebenswichtiger Teil eines gesunden Mundes: Sie bilden ein fein abgestimmtes Ökosystem, das Zähne und Zahnfleisch aktiv mitschützt.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fwo",
+     "frage": "Sind Bakterien im Mund automatisch schlecht?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bwp",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "swq",
+         "text": "Nein. Die meisten Bakterien im Mund sind harmlos oder sogar nützlich – sie halten schädliche Keime in Schach und unterstützen ein gesundes Milieu. Probleme entstehen nicht durch die blosse Anwesenheit von Bakterien, sondern erst dann, wenn das Gleichgewicht kippt.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fwr",
+     "frage": "Was passiert bei einem bakteriellen Ungleichgewicht (Dysbiose)?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bws",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "swt",
+         "text": "Gerät das orale Mikrobiom aus dem Gleichgewicht, können sich schädliche Bakterien stärker ausbreiten. Das begünstigt Karies, Zahnfleischentzündungen (Gingivitis) oder Parodontitis. Häufige Auslöser sind zuckerreiche Ernährung, Rauchen, Alkohol, Stress, bestimmte Medikamente sowie ein geschwächtes Immunsystem. Auch der übermässige Einsatz stark antibakterieller Mundpflegeprodukte kann dazu beitragen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fwu",
+     "frage": "Warum ist «möglichst viele Bakterien abtöten» nicht die beste Strategie?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bwv",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sww",
+         "text": "Aggressive antibakterielle Produkte unterscheiden nicht zwischen nützlichen und schädlichen Bakterien. Das kann das natürliche Gleichgewicht zusätzlich stören, statt es zu stärken. Deshalb setzt WHITE SMYLE nach eigener Angabe nicht auf Keimreduktion um jeden Preis, sondern auf den Aufbau und Erhalt eines stabilen, gesunden mikrobiellen Gleichgewichts.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fwx",
+     "frage": "Wie hängt Mundgesundheit mit der Gesamtgesundheit zusammen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bwy",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "swz",
+         "text": "Der Mund ist eine der wichtigsten Eintrittspforten des Körpers und über Speichel und Verdauungstrakt eng mit dem restlichen Organismus verbunden. Ein gestörtes orales Mikrobiom wirkt sich deshalb nicht nur auf Zähne und Zahnfleisch aus, sondern kann das gesamte Wohlbefinden beeinflussen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fx0",
+     "frage": "Schadet professionelle Zahnreinigung meinem Mikrobiom?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bx1",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sx2",
+         "text": "Nein – im Gegenteil. Eine fachgerecht durchgeführte Dentalhygiene entfernt gezielt schädliche Beläge und schafft die Grundlage für ein stabiles Gleichgewicht. Wichtig ist, dass sie sanft und individuell abgestimmt erfolgt.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fx3",
+     "frage": "Wie oft sollte ich mein orales Mikrobiom professionell überprüfen lassen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bx4",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sx5",
+         "text": "Das hängt vom individuellen Zustand ab. Die bisherige Website nennt als Orientierung an einer Stelle «alle 6–12 Monate», an einer anderen «alle 3–6 Monate»; bei Anzeichen einer Dysbiose auch häufiger. Den passenden Rhythmus ermittelt die Praxis in einer persönlichen Beratung.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fx6",
+     "frage": "Kann ich mein orales Mikrobiom durch die Ernährung beeinflussen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bx7",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sx8",
+         "text": "Ja. Zucker und stark verarbeitete Lebensmittel fördern schädliche Bakterien, während eine ballaststoffreiche, ausgewogene Ernährung das gesunde Gleichgewicht unterstützt.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fx9",
+     "frage": "Was macht die ganzheitliche Dentalhygiene bei WHITE SMYLE anders?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bxa",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sxb",
+         "text": "Statt einzelne Symptome isoliert zu behandeln, betrachtet die Praxis den Mund als lebendiges Ökosystem. Im Mittelpunkt steht die Stärkung des natürlichen mikrobiellen Gleichgewichts als Grundlage für nachhaltige Zahn-, Zahnfleisch- und Mundgesundheit – gründlich, sanft und individuell.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsxd",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Lassen Sie Ihr orales Mikrobiom professionell beurteilen",
+   "text": "In einer persönlichen Dentalhygiene-Behandlung schaut sich die Praxis Ihr Mundmilieu an und zeigt, wie Sie es natürlich stärken können.",
+   "zweiterKnopf": {
+    "titel": "Zur Dentalhygiene",
+    "ziel": "/dentalhygiene/"
+   }
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "seite-tests-dentalhygiene-test",
+ "slug": "tests/dentalhygiene-test",
+ "art": "fragebogen",
+ "titel": "Dentalhygiene-Test",
+ "teaser": "Sollte ich wieder einmal zur Dentalhygiene? Die Fragen der Praxis zum Handlungsbedarf.",
+ "einleitung": "Diese Fragen stellt die Praxis im Fragebogen «Dentalhygiene-Test». Hier nur zum Lesen – ohne Eingabe, Auswertung oder Speicherung.",
+ "seoTitel": "Dentalhygiene-Test – Fragen zur Vorbereitung",
+ "seoBeschreibung": "Sollte ich wieder einmal zur Dentalhygiene? Die Fragen der Praxis zum Handlungsbedarf.",
+ "alteUrls": [
+  "/dentalhygiene-test.html"
+ ],
+ "quelle": "whitesmyle.ch/dentalhygiene-test.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "fragebogenBaustein",
+   "_key": "bsq2",
+   "fragebogen": "fb-dentalhygiene",
+   "titel": "Dentalhygiene-Test"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsq3",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Direkt besprechen",
+   "text": "Termin buchen oder anrufen: 043 931 78 74.",
+   "zweiterKnopf": {
+    "titel": "Alle Fragebögen",
+    "ziel": "/tests/"
+   }
+  }
+ ]
+}

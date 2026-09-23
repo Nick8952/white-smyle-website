@@ -1,0 +1,9 @@
+[
+  { "id": "zahlung-bar", "titel": "Barzahlung", "bild": { "bild": "zahlung-cash", "alt": "Cash payment" }, "reihenfolge": 1 },
+  { "id": "zahlung-twint", "titel": "TWINT", "bild": { "bild": "zahlung-twint", "alt": "TWINT" }, "reihenfolge": 2 },
+  { "id": "zahlung-postfinance", "titel": "PostFinance Card", "bild": { "bild": "zahlung-postfinance", "alt": "PostFinance" }, "reihenfolge": 3 },
+  { "id": "zahlung-maestro", "titel": "Maestro", "bild": { "bild": "zahlung-maestro", "alt": "Maestro" }, "reihenfolge": 4 },
+  { "id": "zahlung-vpay", "titel": "V PAY", "bild": { "bild": "zahlung-vpay", "alt": "V PAY" }, "reihenfolge": 5 },
+  { "id": "zahlung-mastercard", "titel": "Mastercard", "bild": { "bild": "zahlung-mastercard", "alt": "Mastercard" }, "reihenfolge": 6 },
+  { "id": "zahlung-visa", "titel": "Visa", "bild": { "bild": "zahlung-visa", "alt": "Visa" }, "reihenfolge": 7 }
+]

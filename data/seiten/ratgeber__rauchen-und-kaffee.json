@@ -1,0 +1,324 @@
+{
+ "id": "seite-ratgeber-rauchen-und-kaffee",
+ "art": "ratgeber",
+ "pruefstatus": "sprachlich-angepasst",
+ "slug": "ratgeber/rauchen-und-kaffee",
+ "titel": "Rauchen, Kaffee und Zahngesundheit",
+ "teaser": "Verfärbungen, Mundgeruch, Zahnstein und Zahnfleischprobleme – und was moderne Dentalhygiene dagegen ausrichten kann.",
+ "einleitung": "Für viele Menschen gehören Kaffee und Zigaretten zum Alltag: der erste Kaffee am Morgen, die Zigarette zwischendurch, die entspannte Pause im Café. Doch genau diese Kombination hinterlässt oft sichtbare Spuren an Zähnen und Zahnfleisch.",
+ "seoTitel": "Rauchen, Kaffee und Zähne – Verfärbungen, Mundgeruch, Zahnfleisch",
+ "seoBeschreibung": "Wie Rauchen und Kaffee Zähne und Zahnfleisch beeinflussen: Verfärbungen, Mundgeruch, Zahnstein, Parodontitis-Risiko – und was Dentalhygiene bewirken kann.",
+ "bild": {
+  "bild": "rauchen-hero",
+  "alt": "Frau mit Zigarette"
+ },
+ "alteUrls": [
+  "/rauchen-zahnverfaerbungen.html"
+ ],
+ "quelle": "whitesmyle.ch/rauchen-zahnverfaerbungen.html",
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bs17t",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b16p",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s16q",
+       "text": "Verfärbungen, Mundgeruch, Zahnstein oder gereiztes Zahnfleisch entwickeln sich meist schleichend. Viele bemerken die Veränderungen erst, wenn die Zähne dunkler wirken oder das Zahnfleisch empfindlicher wird. Die gute Nachricht: Moderne Dentalhygiene kann viele dieser Folgen deutlich reduzieren.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b16r",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s16s",
+       "text": "Warum Kaffee und Rauchen Zähne verfärben",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b16t",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s16u",
+       "text": "Kaffee enthält Tannine und Farbstoffe, die sich an der Zahnoberfläche ablagern können. Besonders in feinen Unebenheiten des Zahnschmelzes entstehen mit der Zeit sichtbare Verfärbungen. Beim Rauchen kommen Nikotin, Teerstoffe, Hitze und trockene Mundschleimhäute hinzu. Diese Kombination fördert hartnäckige Ablagerungen und gelblich-braune Verfärbungen – besonders entlang des Zahnfleischrandes und zwischen den Zähnen. Viele berichten, dass sich trotz täglichem Putzen dunkle Beläge bilden, die zuhause kaum mehr entfernt werden können.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b16v",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s16w",
+       "text": "Mundgeruch – die häufig unterschätzte Nebenwirkung",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b16x",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s16y",
+       "text": "Rauchen reduziert den Speichelfluss, Kaffee kann den Mund zusätzlich austrocknen, Bakterien vermehren sich leichter, Schwefelverbindungen verursachen unangenehmen Geruch. Ein trockener Mund bietet ideale Bedingungen für geruchsbildende Bakterien – besonders auf der Zunge und entlang des Zahnfleisches.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b16z",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s170",
+       "text": "Warum Zahnfleisch bei Raucherinnen und Rauchern stärker belastet wird",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b171",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s172",
+       "text": "Rauchen beeinflusst die Durchblutung des Zahnfleisches. Dadurch werden Entzündungen häufig später erkannt. Typische Folgen: empfindliches Zahnfleisch, Zahnfleischrückgang, erhöhte Zahnsteinbildung, langsamere Heilung, höheres Risiko für Parodontitis. Besonders problematisch: Bei Raucherinnen und Rauchern blutet das Zahnfleisch oft weniger, obwohl bereits Entzündungen vorhanden sind – Parodontitis bleibt häufig lange unbemerkt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b173",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s174",
+       "text": "Kaffee allein ist selten das Hauptproblem",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b175",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s176",
+       "text": "Kaffee allein ist oft weniger problematisch als die Kombination aus Rauchen, Zucker, häufigem Snacking, mangelnder Zahnzwischenraumreinigung und unregelmässiger Dentalhygiene.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b177",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s178",
+       "text": "Warum sich Verfärbungen trotz Putzen festsetzen",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b179",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s17a",
+       "text": "Selbst gute Zahnbürsten erreichen nicht jede Stelle: Zahnzwischenräume, hintere Backenzähne, Zahnfleischrand, Kronen und Implantate. Mit der Zeit verbinden sich Farbstoffe, Bakterien und Zahnstein zu festen Ablagerungen, die sich oft nur noch professionell entfernen lassen. Viele versuchen es mit Whitening-Zahnpasten, Aktivkohle-Produkten, Hausmitteln oder aggressiven Aufhellern – nicht alle Methoden sind sinnvoll; manche Produkte können bei falscher Anwendung den Zahnschmelz unnötig belasten.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b17b",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s17c",
+       "text": "Moderne Dentalhygiene kann viel bewirken",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b17d",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s17e",
+       "text": "Professionelle Dentalhygiene entfernt Zahnstein, bakterielle Beläge, Rauchverfärbungen, Kaffeeablagerungen und oberflächliche Flecken. Besonders moderne Airflow-Technologie ermöglicht heute eine schonende Reinigung auch bei stärkeren Verfärbungen. Viele berichten nach der Behandlung über glattere Zähne, frischeres Mundgefühl, hellere Zahnoberflächen, angenehmeren Atem und ein saubereres Zahnfleischgefühl. Für Raucherinnen, Raucher und Kaffeetrinkende bietet die Praxis zudem den ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s17g",
+       "text": "Frontpolish",
+       "marks": [
+        "l17f"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s17h",
+       "text": " als Zusatzreinigung an.",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l17f",
+       "href": "/preise/",
+       "extern": false
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b17i",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s17j",
+       "text": "Kleine Gewohnheiten machen einen grossen Unterschied",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b17k",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s17l",
+       "text": "Wer nicht auf Kaffee oder Rauchen verzichten möchte, kann die Belastung trotzdem reduzieren: Wasser nach dem Kaffee trinken, Zähne nicht direkt nach dem Kaffee putzen, regelmässige Zahnzwischenraumreinigung, ausreichend trinken, weniger Zucker, professionelle Dentalhygiene, regelmässige Kontrollen. Kaffee eher bewusst in kürzerer Zeit konsumieren statt über Stunden verteilt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b17m",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s17n",
+       "text": "Prävention ist günstiger als spätere Reparaturen",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b17o",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s17p",
+       "text": "Viele Folgen entstehen schleichend: Verfärbungen, Zahnfleischentzündungen, Mundgeruch, Parodontitis, Zahnverlust. Spätere Behandlungen wie Kronen, Implantate, Knochenaufbau oder Parodontitis-Therapie sind deutlich aufwendiger und teurer als regelmässige Vorsorge.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b17q",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s17r",
+       "text": "Fazit:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s17s",
+       "text": " Kaffee und Rauchen gehören für viele Menschen zum Alltag. Wer frühzeitig auf professionelle Dentalhygiene, gute Mundpflege und regelmässige Kontrollen setzt, kann viele Auswirkungen deutlich reduzieren – ohne auf jeden Genussmoment verzichten zu müssen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ]
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bs17u",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Buchen Sie Ihre Dentalhygiene",
+   "text": "Verfärbungen von Kaffee und Nikotin lassen sich professionell entfernen – für tiefere Verfärbungen kann ein Bleaching sinnvoll sein.",
+   "zweiterKnopf": {
+    "titel": "Cannabis und Mundgesundheit",
+    "ziel": "/ratgeber/cannabis-und-mundgesundheit/"
+   }
+  }
+ ]
+}

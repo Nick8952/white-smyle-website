@@ -1,0 +1,577 @@
+{
+ "id": "seite-ratgeber-zahngesundheit-und-koerper",
+ "art": "ratgeber",
+ "pruefstatus": "sprachlich-angepasst",
+ "slug": "ratgeber/zahngesundheit-und-koerper",
+ "titel": "Wie Zahngesundheit den ganzen Körper beeinflusst",
+ "teaser": "Parodontitis, Entzündungen, Mundflora und der Zusammenhang zwischen Zahnfleisch und Allgemeingesundheit – mit Quellenangaben.",
+ "einleitung": "Viele Menschen denken bei Zahngesundheit hauptsächlich an Karies oder schöne Zähne. Tatsächlich steht die Mundgesundheit jedoch in enger Verbindung mit dem gesamten Körper.",
+ "seoTitel": "Zahngesundheit und Körper – Zusammenhang zwischen Mund und Allgemeingesundheit",
+ "seoBeschreibung": "Wie Parodontitis, Entzündungen und Mundflora Herz, Diabetes, Immunsystem und Schwangerschaft beeinflussen können – Ratgeber mit Studienverweisen von WHITE SMYLE.",
+ "bild": {
+  "bild": "koerper-hero",
+  "alt": "Dentalhygienikerin kontrolliert Zahnfleisch und Zähne"
+ },
+ "alteUrls": [
+  "/zahngesundheit--krankheiten.html"
+ ],
+ "quelle": "whitesmyle.ch/zahngesundheit--krankheiten.html",
+ "mitInhaltsverzeichnis": true,
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bsxo",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bxe",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sxf",
+       "text": "Entzündungen im Mundraum können nicht nur Zahnfleisch und Zähne schädigen, sondern auch Auswirkungen auf Herz, Immunsystem, Verdauung oder Allgemeinbefinden haben. Moderne Zahnmedizin und Naturmedizin beschäftigen sich zunehmend mit der Frage, wie chronische Entzündungen, bakterielle Belastungen und die Mundflora den Organismus beeinflussen. Besonders Parodontitis gilt heute nicht mehr nur als lokales Zahnproblem, sondern als möglicher Risikofaktor für verschiedene gesundheitliche Beschwerden.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bxg",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sxh",
+       "text": "Warum der Mund eine wichtige Rolle für die Gesundheit spielt",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bxi",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sxj",
+       "text": "Im Mund befinden sich Millionen von Bakterien. Viele davon sind wichtig für eine gesunde Mundflora. Problematisch wird es, wenn sich schädliche Bakterien vermehren und Entzündungen entstehen. Bleiben bakterielle Beläge über längere Zeit bestehen, können sie Zahnfleischentzündungen verursachen, Zahnstein bilden, das Zahnfleisch schädigen, den Kieferknochen angreifen und Entzündungsstoffe im Körper freisetzen. Diese Prozesse bleiben oft lange unbemerkt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bxk",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sxl",
+       "text": "Parodontitis – die unterschätzte Entzündung",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bxm",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sxn",
+       "text": "Parodontitis gehört weltweit zu den häufigsten chronischen Erkrankungen. Dabei entzündet sich das Gewebe rund um den Zahn. Unbehandelt kann dies zu Knochenabbau und Zahnverlust führen. Typische Anzeichen: Zahnfleischbluten, Mundgeruch, empfindliches Zahnfleisch, Zahnfleischrückgang, lockere Zähne, unangenehmer Geschmack im Mund. Viele Betroffene haben anfangs kaum Schmerzen und bemerken die Erkrankung deshalb erst spät.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "mund",
+   "titel": "Der Mund als Teil des Körpers"
+  },
+  {
+   "_type": "vergleichBaustein",
+   "_key": "bsxp",
+   "anker": "zusammenhang",
+   "titel": "Zusammenhang zwischen Zahnfleisch und Allgemeingesundheit",
+   "einleitung": "Darstellung der Praxis; die Studienverweise stehen weiter unten.",
+   "spalten": [
+    {
+     "_key": "z1",
+     "titel": "Herz-Kreislauf-System",
+     "punkte": [
+      "Chronische Entzündungen im Mund können das Herz-Kreislauf-System belasten",
+      "Entzündungsstoffe und Bakterien gelangen über die Blutbahn in den Körper und stehen im Verdacht, Gefässe zusätzlich zu belasten"
+     ]
+    },
+    {
+     "_key": "z2",
+     "titel": "Diabetes",
+     "punkte": [
+      "Wechselseitige Beziehung zwischen Diabetes und Parodontitis",
+      "Menschen mit Diabetes haben häufiger Zahnfleischentzündungen",
+      "Chronische Entzündungen können die Blutzuckerregulation erschweren"
+     ]
+    },
+    {
+     "_key": "z3",
+     "titel": "Immunsystem und Schwangerschaft",
+     "punkte": [
+      "Naturmedizinische Ansätze betrachten den Mund als Teil des gesamten Immunsystems",
+      "Chronische Entzündungsherde können den Organismus dauerhaft belasten",
+      "In der Schwangerschaft verändert sich das Zahnfleisch hormonbedingt; viele Frauen entwickeln schneller Entzündungen"
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bsyb",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bxq",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sxr",
+       "text": "Mundflora – das natürliche Gleichgewicht im Mund",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bxs",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sxt",
+       "text": "Ähnlich wie im Darm existiert auch im Mund eine empfindliche Bakterienbalance. Gerät diese aus dem Gleichgewicht, können sich schädliche Keime stärker vermehren. Naturmedizinisch wird deshalb oft Wert gelegt auf entzündungsarme Ernährung, ausreichende Mineralstoffversorgung, genügend Flüssigkeit, Speichelfluss, Reduktion von Zucker, Stressmanagement und Unterstützung des Immunsystems. Eine gesunde Mundflora kann helfen, Entzündungen vorzubeugen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bxu",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sxv",
+       "text": "Was sagt die Naturmedizin?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bxw",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sxx",
+       "text": "Naturheilkundliche Ansätze betrachten Zahngesundheit häufig ganzheitlich. Häufig diskutierte Themen: Einfluss chronischer Entzündungen, Bedeutung der Ernährung, Zusammenhang zwischen Darm und Mundflora, Mineralstoffhaushalt, Stress und Zähneknirschen, Auswirkungen von Rauchen, entzündungsfördernde Lebensweise. ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "sxy",
+       "text": "Naturmedizin ersetzt keine zahnmedizinische Behandlung,",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sxz",
+       "text": " kann jedoch eine Ergänzung für Prävention und allgemeines Wohlbefinden sein.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "by0",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sy1",
+       "text": "Warum professionelle Dentalhygiene medizinisch wichtig ist",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "by2",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sy3",
+       "text": "Viele bakterielle Beläge sitzen an Stellen, die mit der Zahnbürste kaum erreichbar sind: Zahnzwischenräume, unter dem Zahnfleisch, rund um Implantate, bei Kronen und Brücken. Professionelle Dentalhygiene entfernt diese Beläge gezielt und hilft, Zahnfleischentzündungen vorzubeugen, Parodontitis frühzeitig zu erkennen, Zahnstein zu entfernen, die Mundflora zu stabilisieren und langfristig Zähne zu erhalten.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "by4",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sy5",
+       "text": "Ernährung, Stress, Früherkennung",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "by6",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sy7",
+       "text": "Auch die Ernährung beeinflusst die Mundgesundheit deutlich: möglichst wenig versteckter Zucker, ausreichend Vitamine und Mineralstoffe, calciumreiche Ernährung, genügend Wasser, frische Lebensmittel, Reduktion stark säurehaltiger Getränke. Stress wirkt sich nicht nur psychisch, sondern auch körperlich aus – häufige Folgen sind Zähneknirschen, Verspannungen, trockener Mund, geschwächtes Immunsystem und erhöhte Entzündungsneigung. Viele Erkrankungen im Mund entwickeln sich langsam; regelmässige Kontrollen und professionelle Dentalhygiene helfen, Veränderungen frühzeitig zu erkennen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "by8",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sy9",
+       "text": "Fazit:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sya",
+       "text": " Die Mundgesundheit beeinflusst weit mehr als nur die Zähne. Professionelle Dentalhygiene, gute Mundpflege und ein bewusster Lebensstil können einen wichtigen Beitrag leisten, um Zähne und Zahnfleisch langfristig gesund zu erhalten – und damit auch das allgemeine Wohlbefinden zu unterstützen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "mundflora",
+   "titel": "Mundflora, Naturmedizin, Ernährung"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bsza",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "byc",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "syd",
+       "text": "Wissenschaftliche Quellen und Studien",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bye",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "syf",
+       "text": "Die auf der bisherigen Website genannten Quellen (Zusammenfassungen der Praxis, Links extern):",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "byg",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "syh",
+       "text": "Parodontitis und Diabetes:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "syi",
+       "text": " «Bidirectional association between periodontal disease and diabetes mellitus», Scientific Reports (Nature). Wechselseitiger Zusammenhang; chronische Entzündungen beeinflussen den Stoffwechsel. ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "syk",
+       "text": "Nature",
+       "marks": [
+        "lyj"
+       ]
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "lyj",
+       "href": "https://www.nature.com/articles/s41598-021-93062-6",
+       "extern": true
+      }
+     ],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "byl",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sym",
+       "text": "Parodontitis und Herz-Kreislauf-Erkrankungen:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "syn",
+       "text": " Zusammenhang zwischen Parodontitis und Gefässerkrankungen, Gefässchirurgie / Springer Medizin. Parodontitis gilt als möglicher Risikofaktor; interdisziplinäre Zusammenarbeit wird empfohlen. ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "syp",
+       "text": "Springer",
+       "marks": [
+        "lyo"
+       ]
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "lyo",
+       "href": "https://link.springer.com/article/10.1007/s00772-020-00689-2",
+       "extern": true
+      }
+     ],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "byq",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "syr",
+       "text": "«Bermuda-Dreieck»-Studie:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sys",
+       "text": " Parodontitis, Diabetes und Herzgesundheit, niederländische Forschungsarbeit (Vrije Universiteit Amsterdam). ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "syu",
+       "text": "VU Amsterdam",
+       "marks": [
+        "lyt"
+       ]
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "lyt",
+       "href": "https://research.vu.nl/en/publications/25f743f7-61bf-40a3-9dbd-18adad2af77e",
+       "extern": true
+      }
+     ],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "byv",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "syw",
+       "text": "PAROKRANK-Studie",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "syx",
+       "text": " (Karolinska Institutet): über 1600 Personen; Hinweise auf Zusammenhänge zwischen versteckten Diabetes-Erkrankungen, Herzinfarkten und schwerer Parodontitis. ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "syz",
+       "text": "PubMed",
+       "marks": [
+        "lyy"
+       ]
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "lyy",
+       "href": "https://pubmed.ncbi.nlm.nih.gov/31182493/",
+       "extern": true
+      }
+     ],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bz0",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sz1",
+       "text": "Deutsche Mundgesundheitsstudie (DMS 6):",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sz2",
+       "text": " Menschen mit Herz-Kreislauf-Erkrankungen weisen häufiger Zahnverlust, schwere Parodontitis und eingeschränkte Mundgesundheit auf. ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "sz4",
+       "text": "dms6.info",
+       "marks": [
+        "lz3"
+       ]
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "lz3",
+       "href": "https://www.dms6.info/",
+       "extern": true
+      }
+     ],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bz5",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sz6",
+       "text": "Naturmedizin und ganzheitliche Ansätze:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sz7",
+       "text": " chronische Entzündungen, Mundflora, Ernährung, Immunsystem, Stress, Darm-Mund-Achse – viele dieser Ansätze werden zunehmend wissenschaftlich untersucht.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bz8",
+     "style": "quelle",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sz9",
+       "text": "Disclaimer der Praxis: Die beschriebenen Zusammenhänge basieren auf wissenschaftlichen Studien und aktuellen medizinischen Erkenntnissen. Naturmedizinische Ansätze verstehen sich als ergänzende Betrachtungsweise und ersetzen keine zahnmedizinische oder ärztliche Behandlung. Die Verlinkung und Zusammenfassung der Studien stammen von der Praxis; diese Demo hat die Inhalte der Studien nicht überprüft.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "quellen",
+   "titel": "Quellen",
+   "breite": "schmal"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bszb",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Vereinbaren Sie Ihren Dentalhygiene-Termin",
+   "text": "Regelmässige Dentalhygiene als Beitrag zu Zahnerhalt und Wohlbefinden.",
+   "zweiterKnopf": {
+    "titel": "Ratgeber Mikrobiom",
+    "ziel": "/ratgeber/orales-mikrobiom/"
+   }
+  }
+ ]
+}

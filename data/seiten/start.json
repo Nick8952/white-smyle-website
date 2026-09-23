@@ -1,0 +1,497 @@
+{
+ "id": "seite-start",
+ "slug": "start",
+ "art": "seite",
+ "titel": "Dentalhygiene & Bleaching in Zürich Altstetten",
+ "seoTitel": "Dentalhygiene & Bleaching Zürich – WHITE SMYLE dental",
+ "seoBeschreibung": "Dentalhygiene CHF 175.– durch dipl. Dentalhygienikerin HF, Kombipaket Dentalhygiene & Bleaching ab CHF 399.– – WHITE SMYLE dental in Zürich Altstetten. Online buchen.",
+ "alteUrls": [
+  "/",
+  "/index.html"
+ ],
+ "quelle": "whitesmyle.ch (Startseite)",
+ "pruefstatus": "sprachlich-angepasst",
+ "hero": {
+  "variante": "start",
+  "kurzzeile": "Präventionsspezialist seit 2012",
+  "titel": "Gründlich gereinigt. Sichtbar weiss. Persönlich betreut.",
+  "text": "Dentalhygiene nur durch die dipl. Dentalhygienikerin HF und professionelles Bleaching – in einer Sitzung kombinierbar, zentral in Zürich Altstetten.",
+  "knopf": {
+   "titel": "Termin online buchen",
+   "ziel": "https://app.cituro.com/booking/2814276",
+   "extern": true
+  },
+  "zweiterKnopf": {
+   "titel": "Angebote vergleichen",
+   "ziel": "/preise/"
+  },
+  "bild": {
+   "bild": "hero-farbring",
+   "alt": "Lachende Frau hält einen Zahnfarbring vor ihre Zähne"
+  }
+ },
+ "bausteine": [
+  {
+   "_type": "linkkartenBaustein",
+   "_key": "bs1",
+   "titel": "Drei Wege zu gesunden und weissen Zähnen",
+   "spalten": 3,
+   "karten": [
+    {
+     "_key": "k1",
+     "titel": "Dentalhygiene",
+     "preisChf": 175,
+     "text": "Behandlung durch die dipl. Dentalhygienikerin (keine Prophylaxeassistentin). Die gründliche Dentalhygiene 1–2 Mal pro Jahr sichert Ihre Zahngesundheit.",
+     "link": {
+      "titel": "Zur Dentalhygiene",
+      "ziel": "/dentalhygiene/"
+     },
+     "bild": {
+      "bild": "start-dentalhygiene",
+      "alt": "Dentalhygiene-Behandlung bei WHITE SMYLE, mit Hinweis «Krankenkassen anerkannt»"
+     }
+    },
+    {
+     "_key": "k2",
+     "titel": "HEYDENT Power Bleaching plus",
+     "preisChf": 249,
+     "preisPraefix": "Aktion",
+     "text": "Ihr Zahn-Upgrade: die Zahnaufhellung in der Praxis. Aktionspreis statt CHF 299.– – Gültigkeit wird von der Praxis bestätigt.",
+     "link": {
+      "titel": "Zum Bleaching",
+      "ziel": "/bleaching/"
+     },
+     "bild": {
+      "bild": "start-bleaching",
+      "alt": "Vergleich der Zahnfarbe vor und nach dem Bleaching"
+     }
+    },
+    {
+     "_key": "k3",
+     "titel": "Kombipaket Dentalhygiene & Bleaching",
+     "preisChf": 399,
+     "preisPraefix": "ab",
+     "text": "Dentalhygiene und Bleaching in einer Sitzung, nur durch die dipl. Dentalhygienikerin. Sie sparen Zeit – sichtbares Ergebnis nach rund zwei Stunden.",
+     "link": {
+      "titel": "Zum Kombipaket",
+      "ziel": "/kombipaket/"
+     },
+     "bild": {
+      "bild": "start-kombi",
+      "alt": "Vergleich eines Lachens vor und nach Dentalhygiene und Bleaching"
+     }
+    }
+   ]
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bsf",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b2",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s3",
+       "text": "WHITE SMYLE – die Praxis für Dentalhygiene und Zahnaufhellung in Zürich",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b4",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s5",
+       "text": "Bei WHITE SMYLE stehen Sie und Ihre Gesundheit im Mittelpunkt. Seit über 30 Jahren arbeitet die Inhaberin mit viel Freude, Erfahrung und echter Fürsorge für ihre Patientinnen und Patienten. Jede Behandlung erfolgt gründlich, sanft und individuell abgestimmt – für ein sauberes, frisches Mundgefühl und ein gutes Gefühl danach.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b6",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s7",
+       "text": "Unsere professionelle Dentalhygiene entfernt zuverlässig Plaque, Zahnstein und bakterielle Beläge – eine wichtige Grundlage zur Vorbeugung von Karies, Zahnfleischentzündungen und Mundgeruch. Ergänzend sorgt ein schonendes Bleaching für sichtbar weissere Zähne – oft schon nach nur einer Behandlung.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b8",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s9",
+       "text": "Was uns besonders macht",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "ba",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sb",
+       "text": "Wir denken weiter. Dank fundiertem Gesundheitswissen erhalten Sie bei uns nicht nur eine gründliche Zahnreinigung, sondern auch eine ganzheitliche Beratung rund um Ihre Mundgesundheit und das damit verbundene Wohlbefinden.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bc",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sd",
+       "text": "Unser Versprechen:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "se",
+       "text": " Gründliche Reinigung. Sanfte Behandlung. Sichtbare Ergebnisse. Persönliche Betreuung.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "bild": {
+    "bild": "dh-hero",
+    "alt": "Dentalhygienikerin bei der Behandlung einer Patientin"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "kennzahlenBaustein",
+   "_key": "bsg",
+   "titel": "Warum WHITE SMYLE",
+   "einleitung": "Angaben der Praxis auf der bisherigen Website; Herkunft jeweils darunter. Zentral in Zürich Altstetten erreichbar aus Zürich HB, Oerlikon, Wiedikon, Schlieren und Dietikon."
+  },
+  {
+   "_type": "kombinationenBaustein",
+   "_key": "bsh",
+   "titel": "Unsere Kombipakete für saubere und weisse Zähne",
+   "einleitung": "Dentalhygiene und Bleaching in nur einer Sitzung: In etwa zwei Stunden werden Ihre Zähne gründlich gereinigt und anschliessend aufgehellt. Kein zweiter Termin, ein sofort sichtbares Ergebnis.",
+   "kombinationen": [
+    "kombi-power",
+    "kombi-refresher",
+    "kombi-home"
+   ],
+   "mitEinzelpreisen": true
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bsx",
+   "titel": "Häufige Fragen",
+   "fragen": [
+    {
+     "_key": "fi",
+     "frage": "Wie oft sollte man eine Dentalhygiene machen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bj",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sk",
+         "text": "In der Regel 1–2 Mal pro Jahr, bei erhöhtem Risiko auch häufiger.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fl",
+     "frage": "Ist Bleaching schädlich für die Zähne?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bm",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sn",
+         "text": "Professionell durchgeführt gilt Bleaching bei gesunden Zähnen als sichere und schonende Methode für den Zahnschmelz. Wichtig ist, dass die Zähne vorher kontrolliert und gereinigt werden.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fo",
+     "frage": "Was kostet Dentalhygiene in Zürich und was bei WHITE SMYLE?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bp",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sq",
+         "text": "Dentalhygiene durch die Dentalhygienikerin kostet je nach Praxis ca. CHF 160–220. Nur Zahnreinigung durch eine Prophylaxeassistentin je nach Praxis ca. CHF 80–160. Bei WHITE SMYLE kostet die Dentalhygiene – nur durch die Dentalhygienikerin – CHF 175.–.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fr",
+     "frage": "Wie lange hält ein Bleaching?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bs",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "st",
+         "text": "In der Regel 6–24 Monate, abhängig von Ernährung und Pflege.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fu",
+     "frage": "Kann man Dentalhygiene und Bleaching kombinieren?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bv",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sw",
+         "text": "Ja – das verbessert sogar das Ergebnis deutlich. Saubere Zähne ermöglichen ein gleichmässigeres und besseres Bleaching-Ergebnis; deshalb zuerst Dentalhygiene, dann Bleaching.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "kundenmeinungenBaustein",
+   "_key": "bsy",
+   "titel": "Was unsere Kundinnen und Kunden sagen",
+   "darstellung": "zitate",
+   "meinungen": [
+    "km-start-jessica",
+    "km-start-nicolas",
+    "km-start-mona",
+    "km-start-carla"
+   ]
+  },
+  {
+   "_type": "galerieBaustein",
+   "_key": "bsz",
+   "titel": "Dentalhygiene und Bleaching: das Ergebnis danach",
+   "bilder": [
+    {
+     "bild": "lachen-1326",
+     "alt": "Lachender Mund mit hellen Zähnen"
+    },
+    {
+     "bild": "lachen-1326-1",
+     "alt": "Lachender Mund mit hellen Zähnen"
+    },
+    {
+     "bild": "lachen-1326-2",
+     "alt": "Lachender Mund mit hellen Zähnen"
+    },
+    {
+     "bild": "lachen-1326-3",
+     "alt": "Lachender Mund mit hellen Zähnen"
+    },
+    {
+     "bild": "lachen-1326-5",
+     "alt": "Lachender Mund mit hellen Zähnen"
+    },
+    {
+     "bild": "lachen-1326-7",
+     "alt": "Lachender Mund mit hellen Zähnen"
+    },
+    {
+     "bild": "lachen-1331-2",
+     "alt": "Lachender Mund mit hellen Zähnen"
+    },
+    {
+     "bild": "lachen-1331-5",
+     "alt": "Lachender Mund mit hellen Zähnen"
+    },
+    {
+     "bild": "lachen-1353-2",
+     "alt": "Lachender Mund mit hellen Zähnen"
+    },
+    {
+     "bild": "lachen-1353-3",
+     "alt": "Lachender Mund mit hellen Zähnen"
+    },
+    {
+     "bild": "lachen-1353-4",
+     "alt": "Lachender Mund mit hellen Zähnen"
+    },
+    {
+     "bild": "lachen-1353-5",
+     "alt": "Lachender Mund mit hellen Zähnen"
+    },
+    {
+     "bild": "lachen-1353-6",
+     "alt": "Lachender Mund mit hellen Zähnen"
+    }
+   ],
+   "hinweis": "Bilder der bisherigen Website. Ob es sich um Aufnahmen aus der Praxis oder Symbolbilder handelt, ist dort nicht angegeben."
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs1c",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b10",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s11",
+       "text": "Natürliche Zahnpflege – weil Ihr Mund mehr verdient",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b12",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s13",
+       "text": "Alles, was täglich in Ihren Mund kommt, sollte sauber, sicher und sinnvoll sein – dennoch greifen viele noch zu Zahnpasten mit unnötiger Chemie. Dabei ist Ihr Mund ein sensibles Mikrobiom, das Sie nicht aus dem Gleichgewicht bringen sollten. Moderne Zahnpflege setzt deshalb auf natürliche, gut erforschte Inhaltsstoffe: Enzyme, die Beläge sanft lösen (ohne Kratzen), Hydroxylapatit zur Stärkung des Zahnschmelzes – auch als Alternative zu Fluorid – und ätherische Öle für Frische statt künstlicher Zusätze.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b14",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s15",
+       "text": "Natürlich und wissenschaftlich muss kein Widerspruch sein. Im Gegenteil: Die beste Zahnpflege verbindet beides. Ausgewählte natürliche Zahnpasten finden Sie im ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s17",
+       "text": "Zahnpastashop",
+       "marks": [
+        "l16"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s18",
+       "text": ", dem externen Webshop der Praxisbetreiber. Mehr dazu im Ratgeber ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s1a",
+       "text": "Natürliche Zahnpflege",
+       "marks": [
+        "l19"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1b",
+       "text": ".",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l16",
+       "href": "https://www.zahnpastashop.ch/",
+       "extern": true
+      },
+      {
+       "_type": "link",
+       "_key": "l19",
+       "href": "/ratgeber/natuerliche-zahnpflege/",
+       "extern": false
+      }
+     ]
+    }
+   ],
+   "bild": {
+    "bild": "splat-zahnpasten",
+    "alt": "Zahnpasten-Tuben der Marke SPLAT"
+   },
+   "bildPosition": "links"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bs1d",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Sind auch Sie bereit für Ihr neues Lachen?",
+   "text": "Termine buchen Sie online über den externen Dienst Cituro – oder Sie rufen an: 043 931 78 74.",
+   "zweiterKnopf": {
+    "titel": "Kontakt und Anfahrt",
+    "ziel": "/kontakt/"
+   }
+  }
+ ]
+}

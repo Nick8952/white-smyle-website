@@ -1,0 +1,37 @@
+{
+  "marke": "WHITE SMYLE dental",
+  "kurzname": "WHITE SMYLE",
+  "claim": "Dentalhygiene & Bleaching in Zürich Altstetten",
+  "rechtstraeger": "KOMVITA AG",
+  "verantwortlich": "Andreas Obenauer",
+  "bewilligung": "Bewilligung der Gesundheitsdirektion Zürich zur selbständigen Berufsausübung für Dentalhygiene durch Tünde Obenauer",
+  "berufsrecht": ["Berufsordnung der Gesundheitsdirektion Zürich", "Hygienekonzept Swissmedic"],
+  "kennzahlen": [
+    { "_key": "seit", "wert": "seit 2012", "text": "Bleaching in Zürich Altstetten", "quelle": "Angabe der Praxis (whitesmyle.ch/bleaching.html)" },
+    { "_key": "bleachings", "wert": "ca. 800", "text": "Bleachings pro Jahr", "quelle": "Angabe der Praxis (AGB, Stand 05/2025)" },
+    { "_key": "dh", "wert": "über 2400", "text": "Dentalhygiene-Behandlungen pro Jahr", "quelle": "Angabe der Praxis (whitesmyle.ch/kombiangebote.html)" },
+    { "_key": "erfahrung", "wert": "über 30 Jahre", "text": "Berufserfahrung der Dentalhygienikerin", "quelle": "Angabe der Praxis (whitesmyle.ch/dentalhygiene.html)" }
+  ],
+  "adresse": { "strasse": "Buckhauserstrasse 17", "zusatz": "Praxis im Rückgebäude / Innenhof", "plz": "8048", "ort": "Zürich", "land": "Schweiz" },
+  "telefon": "043 931 78 74",
+  "mobil": "076 460 38 10",
+  "mobilKanaele": "Telefon, SMS, WhatsApp",
+  "email": "kontakt@whitesmyle.ch",
+  "whatsappUrl": "https://wa.me/41764603810?text=Hallo%2C+ich+will+einen+Termin+anfragen",
+  "buchungUrl": "https://app.cituro.com/booking/2814276",
+  "buchungAnbieter": "Cituro",
+  "shopUrl": "https://www.zahnpastashop.ch/",
+  "shopName": "zahnpastashop.ch",
+  "instagramUrl": "https://www.instagram.com/whitesmyle/",
+  "facebookUrl": "https://www.facebook.com/WhiteSmyleDentalhygiene",
+  "routenlink": "https://www.google.com/maps/dir/?api=1&destination=Buckhauserstrasse+17%2C+8048+Z%C3%BCrich",
+  "kartenEinbettung": "https://www.google.com/maps?q=Buckhauserstrasse+17,+8048+Z%C3%BCrich&z=16&output=embed",
+  "geo": { "breite": 47.3855246, "laenge": 8.4931136 },
+  "oeffnungszeiten": [
+    { "_key": "di-do", "tage": "Di – Do", "zeiten": "11:00 – 19:00", "wochentage": ["Dienstag", "Mittwoch", "Donnerstag"], "intervalle": [{ "_key": "a", "von": "11:00", "bis": "19:00" }] },
+    { "_key": "fr", "tage": "Fr", "zeiten": "09:00 – 13:00", "wochentage": ["Freitag"], "intervalle": [{ "_key": "a", "von": "09:00", "bis": "13:00" }] },
+    { "_key": "sa", "tage": "Sa", "zeiten": "nach Vereinbarung", "nachVereinbarung": true },
+    { "_key": "weitere", "tage": "Weitere", "zeiten": "Termine auf Anfrage", "nachVereinbarung": true }
+  ],
+  "seoBild": { "bild": "hero-farbring", "alt": "Lachende Frau hält einen Zahnfarbring vor ihre Zähne" }
+}

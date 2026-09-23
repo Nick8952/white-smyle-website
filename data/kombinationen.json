@@ -1,0 +1,18 @@
+[
+  { "id": "kombi-power", "titel": "Dentalhygiene & Power Bleaching", "leistungen": ["leistung-dentalhygiene", "leistung-power-bleaching"], "preisChf": 399, "dauer": "ca. 2 Stunden, eine Sitzung",
+    "beschreibung": "Nach der gründlichen Dentalhygiene sind Oberflächenverfärbungen, Plaque und Zahnstein entfernt – das Power Bleaching kann die Verfärbungen in der Tiefe des Zahnschmelzes optimal entfernen.",
+    "voraussetzungen": ["Empfohlen, wenn die letzte Dentalhygiene länger als ein halbes Jahr zurückliegt"],
+    "bild": { "bild": "start-kombi", "alt": "Vergleich eines Lachens vor und nach der Behandlung" }, "reihenfolge": 1, "quelle": "whitesmyle.ch/preise.html, /kombiangebote.html, /aktion.html (überall CHF 399)", "pruefstatus": "sprachlich-angepasst" },
+  { "id": "kombi-power-plus", "titel": "Dentalhygiene & Power Bleaching plus", "leistungen": ["leistung-dentalhygiene", "leistung-power-bleaching-plus"], "preisChf": 474, "dauer": "ca. 2 Stunden, eine Sitzung",
+    "beschreibung": "Dentalhygiene und das Premium-Bleaching der Praxis in einer Sitzung – für maximale, sofort sichtbare Ergebnisse.",
+    "voraussetzungen": ["Empfohlen, wenn die letzte Dentalhygiene länger als ein halbes Jahr zurückliegt"],
+    "bild": { "bild": "kombi-1", "alt": "Lachende Frau nach der Behandlung" }, "reihenfolge": 2, "quelle": "whitesmyle.ch/preise.html, /kombiangebote.html, /aktion.html (überall CHF 474)", "pruefstatus": "sprachlich-angepasst" },
+  { "id": "kombi-refresher", "titel": "Dentalhygiene & EXPRESS Refresher Bleaching", "leistungen": ["leistung-dentalhygiene", "leistung-refresher"], "preisChf": 349, "dauer": "ca. 1,5 Stunden, eine Sitzung",
+    "beschreibung": "Nach der gründlichen Dentalhygiene beseitigt das Refresher Bleaching lästige Verfärbungen – die Auffrischung für bereits gebleichte Zähne.",
+    "voraussetzungen": ["Für bereits aufgehellte Zähne (Auffrischung)"],
+    "bild": { "bild": "kombi-2", "alt": "Lachende Frau mit hellen Zähnen" }, "reihenfolge": 3, "quelle": "whitesmyle.ch/preise.html (nur dort genannt)", "pruefstatus": "sprachlich-angepasst" },
+  { "id": "kombi-home", "titel": "Dentalhygiene & Home Bleaching", "leistungen": ["leistung-dentalhygiene", "leistung-home-bleaching"], "preisChf": 549, "preisHinweis": "Preis gemäss Preisliste. Die Seiten «Kombiangebote» und «Aktion» der bisherigen Website nennen CHF 514.– – wird von der Praxis bestätigt.",
+    "beschreibung": "Nach der gründlichen Dentalhygiene sind alle Oberflächenverfärbungen beseitigt, und Sie sind bereit, mit der im Zahnlabor massgeschneiderten Schiene Ihre Zähne zuhause zu bleichen.",
+    "voraussetzungen": [],
+    "bild": { "bild": "kombi-3", "alt": "Lachende Frau nach der Behandlung" }, "reihenfolge": 4, "quelle": "whitesmyle.ch/preise.html (CHF 549) vs. /kombiangebote.html und /aktion.html (CHF 514)", "pruefstatus": "sprachlich-angepasst" }
+]

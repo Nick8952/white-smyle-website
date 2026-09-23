@@ -1,0 +1,20 @@
+{
+ "id": "seite-datenschutz",
+ "slug": "datenschutz",
+ "art": "rechtliches",
+ "titel": "Datenschutzerklärung",
+ "teaser": "Wie diese Demo mit Daten umgeht: GitHub Pages, keine Cookies, externe Medien nur nach Einwilligung.",
+ "seoTitel": "Datenschutzerklärung",
+ "seoBeschreibung": "Datenschutzerklärung der Demo: Hosting auf GitHub Pages, keine Cookies, Google Maps und YouTube nur nach Einwilligung, E-Mail-Kontakt ohne Gesundheitsdaten.",
+ "alteUrls": [
+  "/datenschutzerklaerung.html"
+ ],
+ "quelle": "neu verfasst für die Demo",
+ "bausteine": [
+  {
+   "_type": "rechtstextBaustein",
+   "_key": "bs1mn",
+   "rechtstext": "datenschutz"
+  }
+ ]
+}

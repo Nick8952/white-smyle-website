@@ -1,0 +1,296 @@
+{
+ "id": "rechtstext-agb",
+ "art": "agb",
+ "titel": "Allgemeine Geschäftsbedingungen KOMVITA AG – WHITE SMYLE dental",
+ "stand": "2025-05-01",
+ "hinweis": "Wörtlich von der bisherigen Website übernommen (Stand 05/2025). Es handelt sich um die Bedingungen der Praxis für ihre Behandlungen, nicht um Bedingungen dieser Demo.",
+ "inhalt": [
+  {
+   "_type": "block",
+   "_key": "b1lh",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1li",
+     "text": "Dentalhygiene",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1lj",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1lk",
+     "text": "Eine Dentalhygiene ist eine präventive Massnahme zur Gesunderhaltung von Zähnen und Zahnfleisch.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1ll",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1lm",
+     "text": "Karieskontrolle durch die Dentalhygienikerin ersetzt NICHT die jährliche Karieskontrolle durch den Zahnarzt! Patienten, welche eine Zahnkontrolle durch White Smyle dental ablehnen, sind für die Zahnkontrolle durch einen externen Zahnarzt selbst verantwortlich und entbinden White Smyle von jeglicher Haftung.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1ln",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1lo",
+     "text": "Bleaching",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1lp",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1lq",
+     "text": "White Smyle führt jährlich ca. 800 Bleachings durch und bietet erprobte und gut funktionierende verschiedene Bleaching-Methoden an, welche Beratung benötigen, um wirklich das beste Resultat zu erzielen.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1lr",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1ls",
+     "text": "White Smyle kann keine Versprechungen geben bezüglich Resultat und Dauer der Sichtbarkeit, da die Ausgangssituationen von Farbe, Zahnschmelzqualität und Konsum von verfärbenden Lebensmitteln bei jedem Patienten unterschiedlich ist. Oft braucht es mehrere Bleachingbehandlungen, bis das gewünschte Farbergebnis erreicht wird.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1lt",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1lu",
+     "text": "Wir empfehlen regelmässige Auffrischungen (alle 6–12 Monate) zu machen, um das Bleachingresultat aufrecht zu erhalten und zu stabilisieren.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1lv",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1lw",
+     "text": "Bei einem «in office» Bleaching werden 20 Zähne (4 Quadranten je 5 Zähne) aufgehellt und keine Backenzähne.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1lx",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1ly",
+     "text": "Dokumente und Datenschutz",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1lz",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1m0",
+     "text": "Die zahnärztliche Dokumentation, insbesondere die Patientenkarteien, Untersuchungsbefunde und andere Aufzeichnungen sind Eigentum des Zahnarztes. Röntgenaufnahmen sind Eigentum des Patienten, sofern sie bezahlt worden sind. Auf Verlangen werden Kopien der Patientendatei sowie die Röntgenaufnahmen im Original hinsichtlich des Datenschutzes ausschliesslich an den Patienten zugestellt.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1m1",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1m2",
+     "text": "Garantie und Kulanz bei jeglichen Zahnarztleistungen",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1m3",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1m4",
+     "text": "Nach der Rechtsprechung des Bundesgerichts stellt die zahnärztliche Tätigkeit im Rechtssinne einen Auftrag gemäss ",
+     "marks": []
+    },
+    {
+     "_type": "span",
+     "_key": "s1m6",
+     "text": "Art. 394 ff. des Obligationenrechts",
+     "marks": [
+      "l1m5"
+     ]
+    },
+    {
+     "_type": "span",
+     "_key": "s1m7",
+     "text": " dar. Nach Auftragsrecht haftet der Zahnarzt / die Dentalhygienikerin gegenüber seinem Auftraggeber – dem Patienten – für die getreue und sorgfältige Ausführung des Auftrages. Das heisst, dass sich die Tätigkeit des Behandlers nach den allgemein bekannten und anerkannten Regeln der Zahnmedizin zu richten hat. Damit wird gleichzeitig auch ausgesagt, dass ein Erfolg der Behandlung nicht garantiert werden kann. Diese Regelung gilt auch im Bereich der zahnmedizinischen Versorgungen unter dem Sozialversicherungsrecht (z. B. UVG oder KVG) und selbst dann, wenn die Versicherung Anweisungen für die Behandlung des Patienten erteilt. Ein Kunstfehler liegt dann vor, wenn der Zahnarzt / die Dentalhygienikerin seine Sorgfaltspflichten in klarer Weise verletzt. Dies ist dann der Fall, wenn gültige zahnmedizinische Erkenntnisse vernachlässigt oder anerkannte Regeln der zahnärztlichen Wissenschaft ausser Acht gelassen werden. In unklaren Fällen, wie Materialermüdung oder vorzeitiger Alterung der Restauration, entscheidet die Praxisleitung im Einzelfall über einen Ersatz auf Kulanzbasis.",
+     "marks": []
+    }
+   ],
+   "markDefs": [
+    {
+     "_type": "link",
+     "_key": "l1m5",
+     "href": "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_394",
+     "extern": true
+    }
+   ]
+  },
+  {
+   "_type": "block",
+   "_key": "b1m8",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1m9",
+     "text": "Zahlung der Dienstleistung",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1ma",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1mb",
+     "text": "Dienstleistungen sind direkt nach der Behandlung mit den üblichen Zahlungsmitteln wie Kreditkarte, Postcard, Twint oder in Bar zu bezahlen. Rechnungszahlung ist nur nach Absprache möglich.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1mc",
+   "style": "h2",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1md",
+     "text": "Kurzfristige Absagen / Nichterscheinen wird verrechnet",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1me",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1mf",
+     "text": "Terminabsagen oder Terminverlegungen müssen spätestens 48 Stunden vorher erfolgen.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1mg",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1mh",
+     "text": "Kurzfristige Absagen und Nichterscheinen aus JEGLICHEN Gründen (auch Krankheit) wird nach der üblichen Gebührenliste verrechnet, um die anfallenden Kosten zu decken.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1mi",
+   "style": "normal",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1mj",
+     "text": "Ergänzend nennt die Preisseite der bisherigen Website: Bitte verlegen oder stornieren Sie Ihren Termin mindestens 48 Stunden im Voraus und innerhalb der Praxis-Arbeitszeiten; andernfalls wird der volle Preis in Rechnung gestellt. Die 48 Stunden zählen nur an Werktagen, da Stornierungen ausserhalb der Arbeitszeiten (Sonn- und Feiertage) nicht berücksichtigt werden können.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  },
+  {
+   "_type": "block",
+   "_key": "b1mk",
+   "style": "quelle",
+   "children": [
+    {
+     "_type": "span",
+     "_key": "s1ml",
+     "text": "Stand 05/2025, KOMVITA AG, Buckhauserstrasse 17, 8048 Zürich. Wörtlich von whitesmyle.ch/agbs.html übernommen (Schreibweise leicht vereinheitlicht, Gesetzeslink auf fedlex.admin.ch aktualisiert). Diese Bedingungen gelten für Behandlungen der Praxis; für Buchungen über den externen Dienst Cituro gelten zusätzlich dessen Nutzungsbedingungen, die hier nicht geprüft wurden.",
+     "marks": []
+    }
+   ],
+   "markDefs": []
+  }
+ ]
+}

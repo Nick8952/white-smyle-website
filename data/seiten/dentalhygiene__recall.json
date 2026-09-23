@@ -1,0 +1,101 @@
+{
+ "id": "seite-dentalhygiene-recall",
+ "slug": "dentalhygiene/recall",
+ "art": "leistung",
+ "titel": "Recall-Erinnerung",
+ "teaser": "Vergessen Sie nie wieder Ihren Dentalhygiene-Termin: Erinnerung per SMS, Anruf, E-Mail oder Brief zum gewünschten Zeitpunkt.",
+ "einleitung": "Recall-Service von WHITE SMYLE – pünktlich und zuverlässig: Wir erinnern Sie an Ihren nächsten Dentalhygiene-Termin. Eine regelmässige Dentalhygiene sichert den langfristigen Zahnerhalt.",
+ "seoTitel": "Recall Dentalhygiene – Terminerinnerung WHITE SMYLE",
+ "seoBeschreibung": "Mit dem Recall-Service von WHITE SMYLE werden Sie termingerecht an Ihre nächste Dentalhygiene erinnert – per SMS, Anruf, E-Mail oder Brief.",
+ "bild": {
+  "bild": "recall-hero",
+  "alt": "Dentalhygienikerin behandelt eine Patientin; Schriftzug «Dentalhygiene Recall Service»"
+ },
+ "alteUrls": [
+  "/recall-programm.html"
+ ],
+ "quelle": "whitesmyle.ch/recall-programm.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "ablaufBaustein",
+   "_key": "bsc7",
+   "titel": "So funktioniert der Dentalhygiene-Recall",
+   "schritte": [
+    {
+     "_key": "r1",
+     "titel": "Registrieren",
+     "text": "Sie teilen der Praxis mit, wann Sie erinnert werden möchten (Fixtermin im gewünschten Monat) und wofür: Dentalhygiene, Bleaching, Dentalhygiene & Bleaching oder Zahnarztkontrolle."
+    },
+    {
+     "_key": "r2",
+     "titel": "Erinnerung erhalten",
+     "text": "Sie erhalten Ihre Recall-Erinnerung per SMS, Anruf, E-Mail oder Postkarte – nach 3, 6, 9 oder 12 Monaten, wie gewünscht."
+    },
+    {
+     "_key": "r3",
+     "titel": "Termin vereinbaren",
+     "text": "Sie melden sich bequem für Ihren Dentalhygiene-Termin an – online oder telefonisch."
+    }
+   ]
+  },
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bscd",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bc8",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sc9",
+       "text": "Auf der bisherigen Website gab es ein Registrierungsformular für den Recall-Service. Auf dieser Demo werden keine Formulardaten übermittelt oder gespeichert. Für die Registrierung nutzen Sie den E-Mail-Weg auf der ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "scb",
+       "text": "Kontaktseite",
+       "marks": [
+        "lca"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "scc",
+       "text": " (Anliegen «Recall-Erinnerung einrichten» mit Wunschmonat und Intervall) oder rufen Sie an: 043 931 78 74. Bitte keine Gesundheitsangaben per E-Mail senden.",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "lca",
+       "href": "/kontakt/",
+       "extern": false
+      }
+     ]
+    }
+   ],
+   "art": "info"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsce",
+   "variante": "band",
+   "knopf": {
+    "titel": "E-Mail vorbereiten",
+    "ziel": "/kontakt/"
+   },
+   "titel": "Recall einrichten",
+   "text": "Schreiben Sie der Praxis mit Wunschmonat und Erinnerungsintervall – oder buchen Sie gleich den nächsten Termin.",
+   "zweiterKnopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   }
+  }
+ ]
+}

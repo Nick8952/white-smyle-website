@@ -1,0 +1,463 @@
+{
+ "id": "seite-ratgeber-gingivitis",
+ "art": "ratgeber",
+ "pruefstatus": "sprachlich-angepasst",
+ "slug": "ratgeber/gingivitis",
+ "titel": "Gingivitis: Zahnfleischentzündung behandeln",
+ "teaser": "Zahnfleischbluten oder gerötetes Zahnfleisch? Ursachen, Symptome, was Sie selbst tun können und wie Dentalhygiene hilft.",
+ "einleitung": "Gingivitis ist eine Entzündung des Zahnfleisches und die früheste Form der Parodontitis (Zahnfleischerkrankung). Sie entsteht meist durch bakterielle Zahnbeläge (Plaque), die sich am Zahnfleischrand ansammeln.",
+ "seoTitel": "Gingivitis behandeln – Zahnfleischentzündung und Dentalhygiene",
+ "seoBeschreibung": "Zahnfleischbluten oder gerötetes Zahnfleisch? Gingivitis: Ursachen, Symptome, Selbsthilfe und wie Dentalhygiene das Zahnfleisch nachhaltig verbessert.",
+ "bild": {
+  "bild": "paro-ablauf",
+  "alt": "Schemazeichnung: Ablauf einer Parodontitis-Behandlung"
+ },
+ "alteUrls": [
+  "/gingivitis.html"
+ ],
+ "quelle": "whitesmyle.ch/gingivitis.html",
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bs10e",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bzc",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "szd",
+       "text": "Typisch:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sze",
+       "text": " gerötetes Zahnfleisch, Schwellung, Zahnfleischbluten beim Putzen. Wichtig: Gingivitis ist reversibel, wenn sie früh erkannt und behandelt wird.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bzf",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "szg",
+       "text": "Professionelle Dentalhygiene bei Gingivitis",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bzh",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "szi",
+       "text": "Die wichtigste Therapie ist die gründliche Entfernung von Plaque, Zahnstein und Bakterien unter dem Zahnfleisch. Diese Behandlung (Scaling) reduziert Entzündungen und ermöglicht die Heilung des Zahnfleisches.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bzj",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "szk",
+       "text": "Ursachen von Zahnfleischentzündung",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bzl",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "szm",
+       "text": "Die Hauptursache ist unzureichende Mundhygiene. Dadurch entstehen bakterielle Beläge, die das Zahnfleisch reizen. Weitere Risikofaktoren: Rauchen, Diabetes, Hormonveränderungen (z. B. Schwangerschaft), schlechte Zahnstellung, bestimmte Medikamente.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bzn",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "szo",
+       "text": "Symptome – so erkennen Sie Gingivitis frühzeitig",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bzp",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "szq",
+       "text": "Achten Sie auf Zahnfleischbluten (häufig erstes Symptom), Rötung und Schwellung, empfindliches Zahnfleisch und Mundgeruch. Gesundes Zahnfleisch blutet nicht beim Putzen – Blut ist immer ein Warnsignal.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bzr",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "szs",
+       "text": "Was passiert ohne Behandlung?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bzt",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "szu",
+       "text": "Unbehandelte Gingivitis kann sich zu Parodontitis entwickeln: Zerstörung von Knochen und Gewebe, Zahnlockerung, Zahnverlust. Früh behandeln ist entscheidend, da nur Gingivitis vollständig heilbar ist.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bzv",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "szw",
+       "text": "Was Sie selbst tun können",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bzx",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "szy",
+       "text": "2 Mal täglich Zähneputzen",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bzz",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s100",
+       "text": "tägliche Zahnzwischenraumreinigung mit Zahnseide oder Zahnsticks",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b101",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s102",
+       "text": "regelmässige Kontrollen",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b103",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s104",
+       "text": "Gute Mundhygiene kann Gingivitis oft vollständig rückgängig machen. Blutet das Zahnfleisch beim Verwenden von Zahnseide, deutet das meist auf eine Entzündung durch bakterielle Beläge hin. Reinigen Sie die Zahnzwischenräume weiterhin täglich – in den meisten Fällen lässt das Bluten nach wenigen Tagen nach, sobald die Entzündung abklingt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b105",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s106",
+       "text": "«Ich putze doch schon gut …»",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b107",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s108",
+       "text": "Selbst bei guter Mundhygiene entstehen oft bakterielle Beläge an schwer erreichbaren Stellen. Gingivitis verursacht oft lange keine Schmerzen, deshalb wird sie häufig erst entdeckt, wenn das Zahnfleisch bereits stark entzündet ist. Eine regelmässige professionelle Reinigung entfernt Bakterien auch in schwer erreichbaren Bereichen, reduziert Zahnfleischbluten schnell und verhindert langfristige Schäden. Ziel der Behandlung: Entzündung stoppen, Zahnfleisch stärken, Fortschreiten verhindern.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b109",
+     "style": "quelle",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s10a",
+       "text": "Die Praxis verweist für die Definition auf die ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s10c",
+       "text": "Mayo Clinic",
+       "marks": [
+        "l10b"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s10d",
+       "text": ".",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l10b",
+       "href": "https://www.mayoclinic.org/diseases-conditions/gingivitis/symptoms-causes/syc-20354453",
+       "extern": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bs110",
+   "titel": "Häufige Fragen",
+   "fragen": [
+    {
+     "_key": "f10f",
+     "frage": "Ist Zahnfleischbluten normal?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b10g",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s10h",
+         "text": "Nein. Zahnfleischbluten ist ein typisches Zeichen für Gingivitis und sollte immer abgeklärt werden.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f10i",
+     "frage": "Kann Gingivitis von alleine verschwinden?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b10j",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s10k",
+         "text": "Nein – ohne Behandlung bleibt die Entzündung bestehen oder verschlechtert sich.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f10l",
+     "frage": "Wie schnell heilt Gingivitis?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b10m",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s10n",
+         "text": "Bei guter Mundhygiene und professioneller Reinigung oft innerhalb von 1–2 Wochen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f10o",
+     "frage": "Wie oft sollte man zur Dentalhygiene?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b10p",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s10q",
+         "text": "In der Regel 1–2 Mal pro Jahr, bei Gingivitis häufiger.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f10r",
+     "frage": "Ist Gingivitis gefährlich?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b10s",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s10t",
+         "text": "Unbehandelt kann sie zu Parodontitis und Zahnverlust führen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f10u",
+     "frage": "Was ist der Unterschied zwischen Gingivitis und Parodontitis?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b10v",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s10w",
+         "text": "Gingivitis ist reversibel (Zahnfleischentzündung), Parodontitis verursacht bleibende Schäden am Zahnhalteapparat.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f10x",
+     "frage": "Welche Zahnpasta hilft bei Gingivitis?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b10y",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s10z",
+         "text": "Zahnpasten mit antibakteriellen Wirkstoffen oder Hydroxylapatit können nach Angabe der Praxis unterstützen – entscheidend ist jedoch die richtige Putztechnik.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bs111",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Gingivitis vermeiden – Termin buchen",
+   "text": "Regelmässige Dentalhygiene entfernt Bakterien auch dort, wo die Zahnbürste nicht hinkommt.",
+   "zweiterKnopf": {
+    "titel": "Behandlung bei Parodontitis",
+    "ziel": "/dentalhygiene/parodontitis/"
+   }
+  }
+ ]
+}

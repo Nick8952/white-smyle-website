@@ -1,0 +1,804 @@
+{
+ "id": "seite-bleaching",
+ "slug": "bleaching",
+ "art": "leistung",
+ "titel": "Professionelles Zahnbleaching in Zürich",
+ "teaser": "Natürlich weisse Zähne in rund 60 Minuten: HEYDENT Power Bleaching, Refresher und Home Bleaching – seit 2012 in Zürich Altstetten.",
+ "seoTitel": "Zahnbleaching Zürich – Bleaching seit 2012 – WHITE SMYLE",
+ "seoBeschreibung": "Zahnbleaching in Zürich seit 2012: HEYDENT Power Bleaching, Home Bleaching und Refresher. Preise, Fallbeispiele, Antworten auf häufige Fragen. Termin buchen.",
+ "hero": {
+  "variante": "seite",
+  "kurzzeile": "Bleaching-Erfahrung seit 2012",
+  "titel": "Professionelles Zahnbleaching in Zürich",
+  "text": "Natürlich weisse Zähne in rund 60 Minuten mit modernen Bleaching-Technologien – bei den Bleaching-Profis von WHITE SMYLE in Zürich Altstetten.",
+  "knopf": {
+   "titel": "Termin online buchen",
+   "ziel": "https://app.cituro.com/booking/2814276",
+   "extern": true
+  },
+  "zweiterKnopf": {
+   "titel": "Bleaching-Preise",
+   "ziel": "/preise/"
+  },
+  "bild": {
+   "bild": "bleaching-hero",
+   "alt": "Lachende Frau formt mit den Händen einen Bilderrahmen"
+  }
+ },
+ "bild": {
+  "bild": "bleaching-hero",
+  "alt": "Lachende Frau formt mit den Händen einen Bilderrahmen"
+ },
+ "alteUrls": [
+  "/bleaching.html"
+ ],
+ "quelle": "whitesmyle.ch/bleaching.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "mitInhaltsverzeichnis": true,
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bsdp",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bdf",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sdg",
+       "text": "Seit 2012 steht WHITE SMYLE für professionelle Zahnaufhellung. Mit tausenden durchgeführten Bleachings, moderner Technologie und langjähriger Erfahrung gehört die Praxis nach eigener Angabe zu den etablierten Anbietern für Zahnbleaching in Zürich. Der Fokus: natürlich weisse Zähne statt künstlicher Hollywood-Look.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bdh",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sdi",
+       "text": "Dabei kombiniert die Praxis moderne Bleaching-Systeme, sichere Anwendungen, individuelle Beratung, professionelle Dental-Erfahrung und schonende Methoden. Das Ergebnis sind sichtbar hellere, gepflegte und natürliche Zähne – abgestimmt auf Sie und Ihr Lächeln.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bdj",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sdk",
+       "text": "Warum sich immer mehr Menschen für Zahnbleaching entscheiden",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bdl",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sdm",
+       "text": "Ein gepflegtes Lächeln verändert oft mehr, als man denkt. Es wirkt offen, gepflegt, attraktiv und selbstbewusst – ob beim ersten Date, im Business-Meeting, auf Fotos oder einfach im Alltag. Viele Menschen fühlen sich mit verfärbten oder gelblichen Zähnen unsicher und lächeln weniger bewusst.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bdn",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sdo",
+       "text": "Durch Kaffee, Tee, Rotwein, Rauchen oder die natürliche Alterung verlieren Zähne mit der Zeit ihre Helligkeit. Selbst bei guter Zahnpflege lassen sich diese Verfärbungen oft nicht mehr vollständig entfernen. Mit einem professionellen Bleaching bringen Sie Ihr natürliches Zahnweiss zurück – schonend, modern und sichtbar.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "profi",
+   "titel": "Ihr Bleaching-Profi in Zürich",
+   "bild": {
+    "bild": "bleaching-lampe",
+    "alt": "Bleaching-Behandlung mit Lichtaktivierung"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "leistungenBaustein",
+   "_key": "bsdq",
+   "anker": "arten",
+   "titel": "Unsere Bleaching-Arten",
+   "einleitung": "Welches Bleaching passt zu Ihnen? Die Praxis berät Sie persönlich und findet gemeinsam mit Ihnen die passende Methode für Ihre Wünsche und Ihre Zahnfarbe.",
+   "leistungen": [
+    "leistung-power-bleaching-plus",
+    "leistung-power-bleaching",
+    "leistung-refresher",
+    "leistung-home-bleaching"
+   ],
+   "darstellung": "karten"
+  },
+  {
+   "_type": "ablaufBaustein",
+   "_key": "bsdr",
+   "anker": "reihenfolge",
+   "titel": "Die optimale Reihenfolge für gesunde und weisse Zähne",
+   "einleitung": "Vor einem Bleaching empfiehlt die Praxis eine professionelle Dentalhygiene: Zahnstein wird entfernt, Beläge gelöst, Oberflächen gereinigt. Das Bleaching kann dadurch gleichmässiger und effektiver wirken.",
+   "schritte": [
+    {
+     "_key": "r1",
+     "titel": "Dentalhygiene",
+     "text": "Entfernung aller Oberflächenverfärbungen für ein optimales Bleaching-Ergebnis. So beseitigt das Gel die in der Tiefe des Zahnschmelzes liegenden Verfärbungen besser.",
+     "bild": {
+      "bild": "bleaching-ablauf-1",
+      "alt": "Dentalhygiene vor dem Bleaching"
+     }
+    },
+    {
+     "_key": "r2",
+     "titel": "Bleaching mit Lichtaktivierung",
+     "text": "Bleaching-Behandlung mit Lichtaktivierung des High-Performance-Bleaching-Gels.",
+     "bild": {
+      "bild": "bleaching-ablauf-2",
+      "alt": "Bleaching-Lampe über den Zähnen einer Patientin"
+     }
+    },
+    {
+     "_key": "r3",
+     "titel": "Farbvergleich",
+     "text": "Vergleich der Zahnfarben vorher – nachher. Resultat geniessen und viel lachen.",
+     "bild": {
+      "bild": "bleaching-ablauf-3",
+      "alt": "Farbring zum Vergleich der Zahnfarbe"
+     }
+    }
+   ],
+   "abschluss": "Alles in einer Sitzung: das Kombipaket Dentalhygiene & Bleaching."
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsds",
+   "variante": "karte",
+   "titel": "Für das beste Ergebnis: Kombipaket Dentalhygiene & Bleaching",
+   "text": "Dentalhygiene und Bleaching in einer Sitzung, ca. 2 Stunden. Kombipakete ab CHF 349.–.",
+   "knopf": {
+    "titel": "Zum Kombipaket",
+    "ziel": "/kombipaket/"
+   },
+   "zweiterKnopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   }
+  },
+  {
+   "_type": "kennzahlenBaustein",
+   "_key": "bsdt",
+   "anker": "warum",
+   "titel": "Warum Kundinnen und Kunden seit Jahren zu WHITE SMYLE kommen",
+   "einleitung": "Bleaching-Erfahrung seit 2012, Erfahrung mit unterschiedlichsten Zahnfarben, genetischen Beschaffenheiten und Verfärbungen, moderne Bleaching-Systeme, zentral in Zürich Altstetten."
+  },
+  {
+   "_type": "kundenmeinungenBaustein",
+   "_key": "bsdu",
+   "anker": "kundenstimmen",
+   "titel": "Kundenstimmen über WHITE SMYLE Bleaching",
+   "darstellung": "wand",
+   "meinungen": [
+    "km-bl-jessica-m",
+    "km-bl-marco-m",
+    "km-bl-alina-r",
+    "km-bl-kevin-s",
+    "km-bl-laura-t",
+    "km-bl-sarah-k",
+    "km-bl-nico-b",
+    "km-bl-vanessa-l",
+    "km-bl-david-p",
+    "km-bl-elena-f"
+   ],
+   "quellenHinweis": "Kundenstimmen wörtlich von whitesmyle.ch/bleaching.html (inklusive der dort gezeigten Sternebewertungen). Eine Plattformquelle ist nicht angegeben; Herkunft und Einwilligung sind durch die Praxis zu bestätigen."
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bsfd",
+   "titel": "Häufige Fragen zum Zahnbleaching",
+   "fragen": [
+    {
+     "_key": "fdv",
+     "frage": "Ist professionelles Zahnbleaching schädlich für die Zähne?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bdw",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sdx",
+         "text": "Professionelles Zahnbleaching gilt bei fachgerechter Anwendung als sicher und schonend. Moderne Bleaching-Systeme arbeiten gezielt auf Verfärbungen an der Zahnoberfläche und im Zahnschmelz, ohne die Zahnsubstanz zu beschädigen. Wichtig ist, dass das Bleaching professionell durchgeführt oder begleitet wird. Günstige Home-Kits oder unsachgemässe Anwendungen können häufiger zu Reizungen oder Überempfindlichkeiten führen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fdy",
+     "frage": "Wie lange hält ein Zahnbleaching?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bdz",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "se0",
+         "text": "Das Ergebnis hängt stark von der Genetik der Zähne ab und hält je nach Lebensstil und Ernährung meist zwischen 1 und 2 Jahren. Wer viel Kaffee trinkt, raucht oder regelmässig Rotwein konsumiert, wird meist schneller neue Verfärbungen bemerken. Mit guter Zahnpflege, regelmässiger Dentalhygiene und gelegentlichen Refresher-Behandlungen lassen sich die Resultate deutlich länger erhalten.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fe1",
+     "frage": "Funktioniert Bleaching bei jedem?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "be2",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "se3",
+         "text": "Grundsätzlich ja – allerdings unterschiedlich stark. Das Resultat hängt unter anderem ab von natürlicher Zahnfarbe, Stärke der Verfärbungen, Alter, Beschaffenheit des Zahnschmelzes und bisherigen Zahnbehandlungen. Gelbliche Zähne reagieren oft besser auf Bleaching als gräuliche Verfärbungen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fe4",
+     "frage": "Können Kronen, Veneers oder Füllungen aufgehellt werden?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "be5",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "se6",
+         "text": "Nein. Bleaching wirkt nur auf natürliche Zahnsubstanz. Kronen, Veneers oder Kunststofffüllungen verändern ihre Farbe nicht. Deshalb prüft die Praxis vor jeder Behandlung individuell, welche Resultate realistisch und ästhetisch sinnvoll sind.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fe7",
+     "frage": "Warum eine Dentalhygiene vor dem Bleaching?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "be8",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "se9",
+         "text": "Beläge und Zahnstein können das Bleaching-Ergebnis beeinflussen. Durch eine professionelle Dentalhygiene werden Oberflächen gereinigt und Verfärbungen entfernt, das Bleaching wirkt gleichmässiger.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fea",
+     "frage": "Warum werden Zähne überhaupt gelb oder dunkler?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "beb",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sec",
+         "text": "Zähne verfärben sich mit der Zeit ganz natürlich – besonders häufig durch Kaffee, Tee, Rotwein, Nikotin, Curry oder andere stark färbende Lebensmittel und die natürliche Alterung. Zusätzlich lagern sich Farbpigmente über Jahre im Zahnschmelz ein, die mit normalem Zähneputzen oft nicht mehr entfernt werden können.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fed",
+     "frage": "Wie oft kann man Bleaching machen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bee",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sef",
+         "text": "Professionelles Bleaching sollte nicht übertrieben werden. Viele Kundinnen und Kunden machen alle 1–2 Jahre ein Power Bleaching und zwischendurch Refresher-Sitzungen. So bleiben die Zähne langfristig schön hell und natürlich.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "feg",
+     "frage": "Ist Bleaching auch für empfindliche Zähne geeignet?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "beh",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sei",
+         "text": "In vielen Fällen ja. Moderne Systeme wie professionelle HEYDENT-Bleachings arbeiten nach Angabe der Praxis deutlich schonender als viele günstige Whitening-Produkte. Zusätzlich können spezielle Gele oder angepasste Anwendungen verwendet werden, um Empfindlichkeiten zu minimieren. Mehr auf der Seite ",
+         "marks": []
+        },
+        {
+         "_type": "span",
+         "_key": "sek",
+         "text": "Bleaching ohne Dentalhygiene",
+         "marks": [
+          "lej"
+         ]
+        },
+        {
+         "_type": "span",
+         "_key": "sel",
+         "text": ".",
+         "marks": []
+        }
+       ],
+       "markDefs": [
+        {
+         "_type": "link",
+         "_key": "lej",
+         "href": "/bleaching/bleaching-ohne-dentalhygiene/",
+         "extern": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "_key": "fem",
+     "frage": "Gibt es Unterschiede zwischen professionellem Bleaching und Whitening-Strips?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "ben",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "seo",
+         "text": "Ja – grosse Unterschiede. Professionelles Bleaching: stärkere und effektivere Wirkstoffe, kontrollierte Anwendung, gleichmässigere Resultate, sicherer für Zahnfleisch und Zahnschmelz. Whitening-Strips aus Drogerien liefern meist deutlich schwächere und ungleichmässigere Ergebnisse; viele Nutzerinnen und Nutzer berichten häufiger über Sensibilität oder Schmerzen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fep",
+     "frage": "Tut Bleaching weh?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "beq",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "ser",
+         "text": "Die meisten empfinden die Behandlung als gut erträglich. Von 100 Personen haben nach Erfahrung der Praxis ca. 20 während oder nach dem Bleaching kurzfristig leichte Empfindlichkeiten – besonders, wenn jemand mit den Zähnen knirscht oder presst, generell empfindliche Zähne oder freiliegende Zahnhälse hat. Dieses Gefühl verschwindet normalerweise innerhalb weniger Stunden bis Tage wieder. WHITE SMYLE bietet Produkte für die Behandlung vor und nach dem Bleaching an.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fes",
+     "frage": "Warum werden Zähne nach dem Bleaching manchmal empfindlich?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bet",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "seu",
+         "text": "Beim Bleaching öffnen sich mikroskopisch kleine Poren im Zahnschmelz, damit Verfärbungen entfernt werden können. Dadurch reagieren Zähne kurzfristig empfindlicher auf Kälte, Wärme, Luft und süsse Lebensmittel. Die Sensibilität ist meist nur temporär. Zahnpasten mit Hydroxylapatit (Zahnschmelz) helfen nach Angabe der Praxis, Sensitivitäten schnell zu beseitigen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fev",
+     "frage": "Kann Rauchen nach dem Bleaching das Ergebnis beeinflussen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bew",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sex",
+         "text": "Ja. Nikotin gehört zu den häufigsten Ursachen für neue Zahnverfärbungen. Wer nach dem Bleaching regelmässig raucht, wird meist schneller wieder dunklere Zähne bekommen. Tipp der Praxis: 1–2 Tage rauchfrei, und die Zahnaufhellung hält länger an.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fey",
+     "frage": "Wie weiss werden meine Zähne wirklich?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bez",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sf0",
+         "text": "Das Ziel eines professionellen Bleachings ist ein natürlich frisches Weiss – nicht ein künstlicher «Hollywood-Look». Ihre Zähne können nur bis zum genetisch möglichen Weiss aufgehellt werden; es hängt also von Ihrer natürlichen Zahnfarbe ab. In vielen Fällen sind mehrere Nuancen Aufhellung möglich.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "ff1",
+     "frage": "Wie lange dauert ein Bleaching-Termin?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bf2",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sf3",
+         "text": "HEYDENT Power Bleaching plus: ca. 60–90 Minuten. Refresher Bleaching: ca. 30–45 Minuten. Home Bleaching: Schiene erstellen und Beratung ca. 30 Minuten, Bleaching-Sitzung zuhause je nach Gel 60 Minuten oder über Nacht.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "ff4",
+     "frage": "Hat Genetik Einfluss auf das Bleaching-Ergebnis?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bf5",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sf6",
+         "text": "Ja. Die natürliche Zahnfarbe und Zahnstruktur sind teilweise genetisch bedingt. Gelbliche Zähne reagieren oft stärker auf Bleaching als gräuliche oder bläuliche Zahnfarben. Gräuliche oder bläuliche Zähne sind häufig stärker genetisch oder durch Medikamente beeinflusst und reagieren manchmal langsamer oder weniger intensiv – dann sind mehrere Sitzungen notwendig. Deshalb fällt jedes Ergebnis individuell aus.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "ff7",
+     "frage": "Warum ist professionelle Beratung wichtig?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bf8",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sf9",
+         "text": "Ein professionelles Bleaching beginnt immer mit einer individuellen Einschätzung der Ausgangssituation: natürliche Zahnfarbe, Art der Verfärbungen, genetische Grundfarbe, Zahnschmelz, vorhandene Füllungen oder Kronen. So können realistische und ästhetisch schöne Ergebnisse erzielt werden.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "ffa",
+     "frage": "Was sollte ich nach dem Bleaching vermeiden?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bfb",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sfc",
+         "text": "Während der ersten 24–48 Stunden nach dem Bleaching sollten Sie möglichst auf stark färbende Lebensmittel verzichten: Kaffee, Tee, Rotwein, Nikotin, Curry und andere verfärbende Gewürze, dunkle Saucen, blutiges Steak, Balsamico, Tomatensauce, Sojasauce – kurz gesagt alles, was auf einem weissen T-Shirt Flecken hinterlässt. In dieser Zeit sind die Zähne besonders aufnahmefähig für neue Farbpigmente.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ],
+   "anker": "faq"
+  },
+  {
+   "_type": "fallbeispieleBaustein",
+   "_key": "bsfi",
+   "anker": "fallbeispiele",
+   "titel": "Fallbeispiele von schwierigen Bleaching-Fällen",
+   "einleitung": [
+    {
+     "_type": "block",
+     "_key": "bfe",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sff",
+       "text": "Bleaching-Beispiele nach dem ersten und zweiten Bleaching. Die Erfahrung der Praxis zeigt: Dranbleiben lohnt sich. Auch wenn die Zahnstellung nicht perfekt ist, wirken weisse Zähne wesentlich besser.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bfg",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sfh",
+       "text": "Erstes Bild: Ausgangssituation. Zweites Bild: vollständiges HEYDENT Power Bleaching, Dauer ca. 60 Minuten. Drittes Bild: meist 4–6 Monate danach Refresher Bleaching, Dauer ca. 20–30 Minuten.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "beschriftungen": [
+    "Ausgangssituation",
+    "Nach HEYDENT Power Bleaching (ca. 60 Min.)",
+    "4–6 Monate später: nach Refresher Bleaching"
+   ],
+   "faelle": [
+    {
+     "_key": "fall-1",
+     "titel": "Bleaching-Fallbeispiel 1",
+     "bilder": [
+      {
+       "bild": "fall-1-1",
+       "alt": "Fallbeispiel 1: Ausgangssituation"
+      },
+      {
+       "bild": "fall-1-2",
+       "alt": "Fallbeispiel 1: nach dem HEYDENT Power Bleaching"
+      },
+      {
+       "bild": "fall-1-3",
+       "alt": "Fallbeispiel 1: nach dem Refresher Bleaching"
+      }
+     ]
+    },
+    {
+     "_key": "fall-2",
+     "titel": "Bleaching-Fallbeispiel 2",
+     "bilder": [
+      {
+       "bild": "fall-2-1",
+       "alt": "Fallbeispiel 2: Ausgangssituation"
+      },
+      {
+       "bild": "fall-2-2",
+       "alt": "Fallbeispiel 2: nach dem HEYDENT Power Bleaching"
+      },
+      {
+       "bild": "fall-2-3",
+       "alt": "Fallbeispiel 2: nach dem Refresher Bleaching"
+      }
+     ]
+    },
+    {
+     "_key": "fall-3",
+     "titel": "Bleaching-Fallbeispiel 3",
+     "bilder": [
+      {
+       "bild": "fall-3-1",
+       "alt": "Fallbeispiel 3: Ausgangssituation"
+      },
+      {
+       "bild": "fall-3-2",
+       "alt": "Fallbeispiel 3: nach dem HEYDENT Power Bleaching"
+      },
+      {
+       "bild": "fall-3-3",
+       "alt": "Fallbeispiel 3: nach dem Refresher Bleaching"
+      }
+     ]
+    },
+    {
+     "_key": "fall-4",
+     "titel": "Bleaching-Fallbeispiel 4",
+     "bilder": [
+      {
+       "bild": "fall-4-1",
+       "alt": "Fallbeispiel 4: Ausgangssituation"
+      },
+      {
+       "bild": "fall-4-2",
+       "alt": "Fallbeispiel 4: nach dem HEYDENT Power Bleaching"
+      },
+      {
+       "bild": "fall-4-3",
+       "alt": "Fallbeispiel 4: nach dem Refresher Bleaching"
+      }
+     ]
+    },
+    {
+     "_key": "fall-5",
+     "titel": "Bleaching-Fallbeispiel 5",
+     "bilder": [
+      {
+       "bild": "fall-5-1",
+       "alt": "Fallbeispiel 5: Ausgangssituation"
+      },
+      {
+       "bild": "fall-5-2",
+       "alt": "Fallbeispiel 5: nach dem HEYDENT Power Bleaching"
+      },
+      {
+       "bild": "fall-5-3",
+       "alt": "Fallbeispiel 5: nach dem Refresher Bleaching"
+      }
+     ]
+    },
+    {
+     "_key": "fall-6",
+     "titel": "Bleaching-Fallbeispiel 6",
+     "bilder": [
+      {
+       "bild": "fall-6-1",
+       "alt": "Fallbeispiel 6: Ausgangssituation"
+      },
+      {
+       "bild": "fall-6-2",
+       "alt": "Fallbeispiel 6: nach dem HEYDENT Power Bleaching"
+      },
+      {
+       "bild": "fall-6-3",
+       "alt": "Fallbeispiel 6: nach dem Refresher Bleaching"
+      }
+     ]
+    }
+   ],
+   "hinweis": "Aufnahmen und Beschriftungen der Praxis von der bisherigen Website, unbearbeitet. Jedes Ergebnis ist individuell (siehe AGB). Die Einwilligung der abgebildeten Personen ist durch die Praxis zu bestätigen."
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bsfp",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bfj",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sfk",
+       "text": "Sind Sie bereit für Ihr neues Lächeln?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bfl",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sfm",
+       "text": "Ein strahlendes Lächeln wirkt gepflegt, attraktiv und selbstbewusst – oft mehr, als man denkt. Seit Jahren vertrauen Kundinnen und Kunden aus Zürich auf die Erfahrung von WHITE SMYLE, wenn es um professionelle Zahnaufhellung und natürlich weisse Zähne geht. Mit ca. 800 Bleachings pro Jahr weiss die Praxis nach eigener Angabe, welche Methode zu Ihrem Zahntyp, Ihrer Ausgangsfarbe und Ihren Wünschen passt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bfn",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sfo",
+       "text": "Ob HEYDENT Power Bleaching plus, Refresher Bleaching oder Home Bleaching – die Praxis berät Sie persönlich und ehrlich, damit Ihr Ergebnis natürlich, harmonisch und sichtbar schön wirkt. Mehr lachen, frischer wirken, sich wohler fühlen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "bereit",
+   "breite": "schmal"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsfq",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Jetzt Bleaching-Termin online buchen",
+   "text": "WHITE SMYLE Dentalhygiene & Bleaching Spezialist, Buckhauserstrasse 17, 8048 Zürich – seit 2012 spezialisiert auf professionelles Zahnbleaching in Zürich.",
+   "zweiterKnopf": {
+    "titel": "Bleaching-Fakten im Ratgeber",
+    "ziel": "/ratgeber/zahnbleaching/"
+   }
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "id": "seite-kontakt",
+ "slug": "kontakt",
+ "art": "seite",
+ "titel": "Kontakt und Standort",
+ "teaser": "Buckhauserstrasse 17, 8048 Zürich Altstetten – Praxis im Innenhof, 100 m von der Tramhaltestelle Kappeli, gratis Parkplätze.",
+ "einleitung": "WHITE SMYLE dental, Praxis für Dentalhygiene und Bleaching, Buckhauserstrasse 17 (Ecke Badenerstrasse), 8048 Zürich. Wir kümmern uns um Ihre Wünsche.",
+ "seoTitel": "Kontakt und Standort – WHITE SMYLE Zürich Altstetten",
+ "seoBeschreibung": "WHITE SMYLE dental, Buckhauserstrasse 17, 8048 Zürich: 043 931 78 74, 076 460 38 10 (SMS/WhatsApp), kontakt@whitesmyle.ch. Tram 2 Kappeli, gratis Parkplätze.",
+ "hero": {
+  "variante": "seite",
+  "titel": "Kontakt und Standort",
+  "text": "Buckhauserstrasse 17, 8048 Zürich Altstetten – die Praxis liegt im grünen Innenhof des Geschäftshauses. Telefon 043 931 78 74.",
+  "knopf": {
+   "titel": "Termin online buchen",
+   "ziel": "https://app.cituro.com/booking/2814276",
+   "extern": true
+  },
+  "bild": {
+   "bild": "standort-schaufenster",
+   "alt": "Schaufenster der Praxis WHITE SMYLE"
+  }
+ },
+ "bild": {
+  "bild": "standort-schaufenster",
+  "alt": "Schaufenster der Praxis WHITE SMYLE"
+ },
+ "alteUrls": [
+  "/kontakt.html",
+  "/standort.html"
+ ],
+ "quelle": "whitesmyle.ch/kontakt.html, /standort.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "kontaktBaustein",
+   "_key": "bsoh",
+   "titel": "So erreichen Sie uns",
+   "mitFormular": true,
+   "mitKarte": true,
+   "anfahrt": [
+    {
+     "_type": "block",
+     "_key": "bo4",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "so5",
+       "text": "Anfahrt",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bo6",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "so7",
+       "text": "Sie finden uns an der Badenerstrasse, Ecke Buckhauserstrasse. Der Eingang ins Geschäftshaus Buckhauserstrasse 17 führt nur zum Briefkasten – die Praxis liegt im grünen Innenhof, Eingang im Rückgebäude.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bo8",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "so9",
+       "text": "Tram:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "soa",
+       "text": " Linie 2, Haltestelle Kappeli, 100 Meter entfernt",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bob",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "soc",
+       "text": "Bus:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sod",
+       "text": " Linien 89 und 95 ab S-Bahnhof Altstetten bis Letzipark West, 200 Meter entfernt",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "boe",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sof",
+       "text": "Auto:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sog",
+       "text": " gratis Tiefgarage direkt im Haus oder Stellplätze vor dem Haus (Besucherparkplätze)",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    }
+   ],
+   "anfahrtBilder": [
+    {
+     "bild": "standort-luft",
+     "alt": "Luftbild mit Markierung der Buckhauserstrasse 17",
+     "bildunterschrift": "Lage an der Badenerstrasse, Ecke Buckhauserstrasse"
+    },
+    {
+     "bild": "standort-17",
+     "alt": "Eingang des Geschäftshauses mit der Nummer 17",
+     "bildunterschrift": "Eingang Buckhauserstrasse 17 (hier nur Briefkasten)"
+    },
+    {
+     "bild": "standort-eingang",
+     "alt": "Schaufenster mit Praxisbeschriftung",
+     "bildunterschrift": "Eingang im Rückgebäude / Innenhof"
+    },
+    {
+     "bild": "standort-tram",
+     "alt": "Tramhaltestelle Kappeli",
+     "bildunterschrift": "Tram 2, Haltestelle Kappeli"
+    },
+    {
+     "bild": "standort-bus",
+     "alt": "Bushaltestelle Letzipark West",
+     "bildunterschrift": "Bus 89 und 95, Letzipark West"
+    },
+    {
+     "bild": "standort-garage",
+     "alt": "Einfahrt zur Tiefgarage",
+     "bildunterschrift": "Gratis Tiefgarage im Haus"
+    }
+   ]
+  },
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bsok",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "boi",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "soj",
+       "text": "Das Kontaktformular der bisherigen Website enthielt einen Datei-Upload. Auf dieser Demo gibt es bewusst keinen Upload und keinen Versand über die Website: Das Formular bereitet nur eine E-Mail in Ihrem eigenen Mailprogramm vor. Bitte senden Sie keine Gesundheitsangaben, Befunde oder Fotos per E-Mail – besprechen Sie Medizinisches telefonisch oder im Termin.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "art": "info"
+  }
+ ]
+}

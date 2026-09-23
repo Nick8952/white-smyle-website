@@ -1,0 +1,20 @@
+{
+ "id": "seite-impressum",
+ "slug": "impressum",
+ "art": "rechtliches",
+ "titel": "Impressum",
+ "teaser": "Betreiber der Demo und dargestelltes Unternehmen.",
+ "seoTitel": "Impressum",
+ "seoBeschreibung": "Impressum der Verkaufs-Demo für WHITE SMYLE dental: Betreiber der Demo (Nick Holzbecher) und Angaben zum dargestellten Unternehmen KOMVITA AG.",
+ "alteUrls": [
+  "/impressum.html"
+ ],
+ "quelle": "whitesmyle.ch/impressum.html, /agbs.html, /datenschutzerklaerung.html",
+ "bausteine": [
+  {
+   "_type": "rechtstextBaustein",
+   "_key": "bs1mm",
+   "rechtstext": "impressum"
+  }
+ ]
+}

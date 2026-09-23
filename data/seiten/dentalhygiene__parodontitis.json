@@ -1,0 +1,584 @@
+{
+ "id": "seite-dentalhygiene-parodontitis",
+ "slug": "dentalhygiene/parodontitis",
+ "art": "leistung",
+ "titel": "Behandlung bei Parodontitis",
+ "teaser": "Parodontose früh erkennen und behandeln: die Rolle der Dentalhygienikerin bei Zahnfleischentzündungen und Zahnhalteapparat.",
+ "einleitung": "Parodontose – medizinisch Parodontitis – ist eine chronische Entzündung des Zahnfleisches und des Zahnhalteapparates. Sie entsteht durch Bakterien, die sich unter dem Zahnfleisch ansiedeln.",
+ "seoTitel": "Parodontitis behandeln in Zürich – Dentalhygiene",
+ "seoBeschreibung": "Parodontose früh erkennen und behandeln: Tiefenreinigung, Zahnfleischtaschen, Airflow, Recall. Dentalhygiene bei Parodontitis in Zürich Altstetten.",
+ "bild": {
+  "bild": "paro-hero",
+  "alt": "Dentalhygienikerin behandelt eine Patientin"
+ },
+ "alteUrls": [
+  "/parodontose-zuerich.html"
+ ],
+ "quelle": "whitesmyle.ch/parodontose-zuerich.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bs86",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b7b",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s7c",
+       "text": "Unbehandelt kann Parodontose dazu führen, dass sich das Zahnfleisch zurückzieht und Zähne locker werden oder verloren gehen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b7d",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s7e",
+       "text": "Typische Anzeichen:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s7f",
+       "text": " Zahnfleischbluten, Rötung oder Schwellung, Mundgeruch, empfindliche Zahnhälse, lockere Zähne (späteres Stadium).",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b7g",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s7h",
+       "text": "Behandlung durch die Dentalhygienikerin",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b7i",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s7j",
+       "text": "Bei entstehender und bestehender Parodontitis ist eine regelmässige Dentalhygiene besonders wichtig. Unsere Behandlung hilft, Bakterien zu reduzieren, Entzündungen zu kontrollieren und das Fortschreiten der Erkrankung zu stoppen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b7k",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s7l",
+       "text": "Wie wird Parodontose behandelt?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b7m",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s7n",
+       "text": "Die Dentalhygienikerin spielt eine zentrale Rolle bei der Behandlung:",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b7o",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s7p",
+       "text": "Tiefenreinigung unter dem Zahnfleisch, Entfernung von Bakterien und Belägen",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b7q",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s7r",
+       "text": "Reinigung der Zahnfleischtaschen",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b7s",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s7t",
+       "text": "Airflow für schonende Belagsentfernung",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b7u",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s7v",
+       "text": "Individuelle Mundhygiene-Anleitung",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b7w",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s7x",
+       "text": "Regelmässige Nachkontrollen (",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s7z",
+       "text": "Recall",
+       "marks": [
+        "l7y"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s80",
+       "text": ")",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l7y",
+       "href": "/dentalhygiene/recall/",
+       "extern": false
+      }
+     ],
+     "listItem": "bullet",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b81",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s82",
+       "text": "Ziel: Entzündung stoppen, Zahnfleisch stabilisieren und Zähne langfristig erhalten. Die Phasen von Gingivitis bis schwerer Parodontitis sind auf der Seite ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s84",
+       "text": "Dentalhygiene",
+       "marks": [
+        "l83"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s85",
+       "text": " dargestellt.",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l83",
+       "href": "/dentalhygiene/#phasen",
+       "extern": false
+      }
+     ]
+    }
+   ],
+   "bild": {
+    "bild": "paro-ablauf",
+    "alt": "Schemazeichnung: Ablauf einer Parodontitis-Behandlung"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bs9g",
+   "titel": "Häufige Fragen zu Parodontitis und Dentalhygiene",
+   "fragen": [
+    {
+     "_key": "f87",
+     "frage": "Ist Parodontose heilbar?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b88",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s89",
+         "text": "Parodontose ist nicht vollständig heilbar, aber sehr gut kontrollierbar. Mit regelmässiger Dentalhygiene kann die Krankheit gestoppt werden.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f8a",
+     "frage": "Ist Parodontose schlimm?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b8b",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s8c",
+         "text": "Ja – unbehandelt kann sie zu Zahnverlust führen und steht im Zusammenhang mit allgemeinen Gesundheitsrisiken.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f8d",
+     "frage": "Tut die Behandlung weh?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b8e",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s8f",
+         "text": "Die Behandlung ist heute schonend und gut verträglich. Empfindliche Stellen werden individuell berücksichtigt.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f8g",
+     "frage": "Wie entsteht Parodontose?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b8h",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s8i",
+         "text": "Durch Bakterien im Zahnbelag, oft begünstigt durch unzureichende Mundhygiene, Rauchen, Stress und genetische Veranlagung.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f8j",
+     "frage": "Kann ich Parodontose selbst behandeln?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b8k",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s8l",
+         "text": "Nein. Die Bakterien unter dem Zahnfleisch können nur professionell entfernt werden.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f8m",
+     "frage": "Wie oft muss ich zur Dentalhygiene bei Parodontose?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b8n",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s8o",
+         "text": "In der Regel alle 3–6 Monate, je nach Schweregrad.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f8p",
+     "frage": "Ist Mundgeruch ein Zeichen für Parodontose?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b8q",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s8r",
+         "text": "Ja – oft ein frühes Warnsignal durch bakterielle Entzündungen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f8s",
+     "frage": "Können sich Zähne bei Parodontose wieder festigen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b8t",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s8u",
+         "text": "Wenn früh behandelt wird: ja, teilweise Stabilisierung möglich.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f8v",
+     "frage": "Was passiert, wenn ich bei Parodontose nichts mache?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b8w",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s8x",
+         "text": "Fortschreitender Knochenabbau, Zahnlockerung, Zahnverlust.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f8y",
+     "frage": "Ist Parodontose ansteckend?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b8z",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s90",
+         "text": "Bakterien können übertragen werden (z. B. über Speichel), aber das Risiko hängt stark von der individuellen Mundgesundheit ab.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f91",
+     "frage": "Übernimmt die Krankenkasse die Behandlung?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b92",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s93",
+         "text": "In der Schweiz meist nicht standardmässig, ausser bei Zusatzversicherungen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f94",
+     "frage": "Hilft eine elektrische Zahnbürste bei Parodontose?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b95",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s96",
+         "text": "Ja – sie unterstützt die tägliche Pflege, ersetzt aber keine professionelle Behandlung. Nach Ansicht der Praxis ist eine Ultraschallzahnbürste die noch bessere Wahl.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f97",
+     "frage": "Hilft eine Ultraschallzahnbürste bei Parodontose?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b98",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s99",
+         "text": "Nach Angabe der Praxis kann Ultraschall wie bei der MEGASONEX M8 helfen, indem er Bakterienstrukturen im Biofilm auch in tieferen Zahnfleischtaschen zerstört und so die Keimlast reduziert – unterstützend zur normalen Zahnpflege, nicht als Ersatz für eine Behandlung. Mehr im Ratgeber ",
+         "marks": []
+        },
+        {
+         "_type": "span",
+         "_key": "s9b",
+         "text": "Ultraschallzahnbürste",
+         "marks": [
+          "l9a"
+         ]
+        },
+        {
+         "_type": "span",
+         "_key": "s9c",
+         "text": ".",
+         "marks": []
+        }
+       ],
+       "markDefs": [
+        {
+         "_type": "link",
+         "_key": "l9a",
+         "href": "/ratgeber/ultraschallzahnbuerste/",
+         "extern": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "_key": "f9d",
+     "frage": "Welche Rolle spielt die Dentalhygienikerin langfristig?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b9e",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s9f",
+         "text": "Sie ist entscheidend für die Kontrolle der Entzündung, die Prävention von Rückfällen und den langfristigen Zahnerhalt.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bs9h",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Dentalhygiene-Termin bei Parodontose",
+   "text": "Melden Sie sich für Ihren Dentalhygiene-Termin an, um Parodontose zu vermeiden oder zu behandeln.",
+   "zweiterKnopf": {
+    "titel": "Zur Dentalhygiene",
+    "ziel": "/dentalhygiene/"
+   }
+  }
+ ]
+}

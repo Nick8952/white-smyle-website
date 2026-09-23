@@ -1,0 +1,570 @@
+{
+ "id": "seite-ratgeber-karies",
+ "art": "ratgeber",
+ "pruefstatus": "sprachlich-angepasst",
+ "slug": "ratgeber/karies",
+ "titel": "Karies: Ursachen, Symptome und Prävention",
+ "teaser": "Wie Karies entsteht, wie Sie sie früh erkennen und welche vier Dinge helfen, nie wieder Karies zu bekommen.",
+ "einleitung": "Karies ist eine der häufigsten Zahnerkrankungen weltweit und entsteht durch Bakterien, die Zucker in Säuren umwandeln und dadurch den Zahnschmelz angreifen.",
+ "seoTitel": "Karies behandeln und vorbeugen – Ursachen, Symptome, Dentalhygiene",
+ "seoBeschreibung": "Karies früh erkennen und vorbeugen: Ursachen, Symptome, Karies bei Kindern, «Nie wieder Karies» in vier Schritten. Ratgeber der Praxis WHITE SMYLE Zürich.",
+ "bild": {
+  "bild": "karies-hero",
+  "alt": "Frau bei der Zahnbehandlung"
+ },
+ "alteUrls": [
+  "/karies.html"
+ ],
+ "quelle": "whitesmyle.ch/karies.html",
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bs11w",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b112",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s113",
+       "text": "Unbehandelt führt Karies zu Löchern im Zahn, Schmerzen und langfristig Zahnverlust. Wichtig: Karies entsteht schleichend – oft lange ohne Beschwerden.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b114",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s115",
+       "text": "Wie entsteht Karies?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b116",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s117",
+       "text": "Karies entsteht durch ein Zusammenspiel von drei Faktoren: Bakterien (Plaque), zuckerhaltige Ernährung und unzureichende Mundhygiene. Bakterien wandeln Zucker innerhalb weniger Minuten in Säuren um, die den Zahnschmelz angreifen und entmineralisieren. Besonders häufig betroffen: Kinder (weicher Zahnschmelz) und Menschen mit schlechter Zahnzwischenraumreinigung.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b118",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s119",
+       "text": "Symptome – Karies früh erkennen",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b11a",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s11b",
+       "text": "Frühe Anzeichen: weisse oder matte Flecken auf dem Zahn, beginnende Verfärbungen. Spätere Symptome: Schmerzen, Empfindlichkeit (heiss, kalt, süss), sichtbare Löcher. Schmerzen bedeuten meist: Karies ist bereits fortgeschritten.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b11c",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s11d",
+       "text": "Karies bei Kindern – besonders wichtig",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b11e",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s11f",
+       "text": "Karies ist eine der häufigsten Erkrankungen im Kindesalter. Kinder sind stärker betroffen wegen dünnerem Zahnschmelz, häufigerem Zuckerkonsum und unvollständiger Putztechnik. Laut Praxis zeigen Studien: Kinder aus Familien mit Karies haben ein deutlich höheres Risiko (bis zu 3-mal höher). Siehe auch ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s11h",
+       "text": "Dentalhygiene für Kinder",
+       "marks": [
+        "l11g"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s11i",
+       "text": ".",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l11g",
+       "href": "/dentalhygiene/kinder/",
+       "extern": false
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b11j",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s11k",
+       "text": "Was passiert ohne Behandlung?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b11l",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s11m",
+       "text": "Unbehandelte Karies breitet sich im Zahn aus, erreicht das Zahninnere (Nerv) und kann Entzündungen verursachen. Früh erkannt ist Karies einfach behandelbar – spät wird es aufwendig.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b11n",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s11o",
+       "text": "Karies vorbeugen",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b11p",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s11q",
+       "text": "Die wichtigste Prävention ist die regelmässige Entfernung von Plaque, Bakterien und Zahnstein durch die professionelle Dentalhygiene. Dadurch wird die Entstehung von Karies deutlich reduziert. Was Sie selbst tun können: 2 Mal täglich Zähneputzen, tägliche Zahnseide oder Interdentalbürsten, Zucker reduzieren (besonders Zwischenmahlzeiten), regelmässige Kontrollen. «Kein Zucker – keine Karies» ist laut Praxis wissenschaftlich gut belegt. Ziel der Kariesprävention: Zahnschmelz stärken, Bakterien reduzieren, Löcher verhindern.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b11r",
+     "style": "quelle",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s11s",
+       "text": "Die Praxis verweist für die Definition auf ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s11u",
+       "text": "Helvident",
+       "marks": [
+        "l11t"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s11v",
+       "text": ".",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l11t",
+       "href": "https://helvident.ch/de/zahnkaries/",
+       "extern": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs12f",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b11x",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s11y",
+       "text": "Nie wieder Karies: diese vier Dinge sollten Sie wissen",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b11z",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s120",
+       "text": "Ein lohnendes Ziel: Egal wie viel Karies Sie in der Vergangenheit hatten – entscheiden Sie, dass Sie nie neue bekommen möchten.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b121",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s122",
+       "text": "Die Gewohnheiten funktionieren.",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s123",
+       "text": " Es gibt einen Grund, warum Dentalhygienikerinnen und Zahnärzte möchten, dass Sie die Zähne zweimal täglich putzen, einmal am Tag Zahnseide oder Sticks benutzen und zweimal im Jahr eine professionelle Zahnreinigung bei der Dentalhygienikerin machen: Es verhindert wirklich, dass Sie «Löcher» bekommen. Karies wird durch zwei Dinge verursacht: Kohlenhydrate und Bakterien. Kohlenhydrate in Form von Zucker und Stärke füttern die Bakterien auf den Zähnen; nach einer Mahlzeit (gesüsste Speisen, Fruchtsäfte, Softdrinks, Kuchen, aber auch Ketchup, Joghurt, Brot, Müsli, Pasta, Pizza, Kartoffeln, Reis) scheiden sie Säure aus. Wird dieser Belag nicht entfernt, frisst er sich durch den Zahnschmelz. Bestimmte Stellen erreicht man mit der Zahnbürste nicht – erst bei der nächsten Dentalhygiene wird dort die Plaque entfernt.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b124",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s125",
+       "text": "Reduzieren Sie Zucker und Kohlenhydrate.",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s126",
+       "text": " Ernsthaft, und stark. Essen oder trinken Sie nichts mit Zucker zwischen den Mahlzeiten. Wenn Sie Lust auf Süsses haben, essen Sie es zu den Mahlzeiten und nicht als Snack – und putzen Sie danach die Zähne.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b127",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s128",
+       "text": "Fragen Sie nach einer Versiegelung der Backenzähne.",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s129",
+       "text": " Sie deckt die tiefen Rillen (Fissuren) ab, sodass Karies nicht so schnell entstehen kann. Viele Rillen sind zu tief und schmal für die Zahnbürste; eine Versiegelung macht die Oberfläche glatt und leichter zu reinigen.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b12a",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s12b",
+       "text": "Zahnpasten mit Hydroxylapatit.",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s12c",
+       "text": " Unter dem Mikroskop sind Zähne wie eine «Kraterlandschaft». Diese Krater werden nach Angabe der Praxis beim Putzen mit Zahnpasten mit künstlichem Zahnschmelz (Hydroxylapatit) aufgefüllt; die Kristalle vereinen sich mit der Zahnoberfläche und machen sie glatter und widerstandsfähiger, sodass weniger Bakterien anhaften.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "b12d",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s12e",
+       "text": "Wenn Sie diese vier Schritte anwenden, sinkt laut Praxis die Wahrscheinlichkeit, dass Sie je «Löcher» bekommen, drastisch.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "titel": "Dental News",
+   "bild": {
+    "bild": "karies-entstehung",
+    "alt": "Schemazeichnung: Entstehung von Karies"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bs134",
+   "titel": "Häufige Fragen zu Karies",
+   "fragen": [
+    {
+     "_key": "f12g",
+     "frage": "Was ist die Hauptursache für Karies?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b12h",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s12i",
+         "text": "Bakterien, die Zucker in Säuren umwandeln und den Zahnschmelz angreifen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f12j",
+     "frage": "Kann Karies von selbst heilen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b12k",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s12l",
+         "text": "Im Frühstadium (Initialkaries) ja – durch Remineralisation und gute Mundhygiene.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f12m",
+     "frage": "Wie erkenne ich Karies früh?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b12n",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s12o",
+         "text": "Durch weisse Flecken oder Verfärbungen auf den Zähnen – oft ohne Schmerzen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f12p",
+     "frage": "Ist Karies bei Kindern gefährlich?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b12q",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s12r",
+         "text": "Ja. Milchzähne sind wichtig für die Entwicklung und sollten unbedingt behandelt werden.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f12s",
+     "frage": "Wie oft sollte man zur Dentalhygiene?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b12t",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s12u",
+         "text": "1–2 Mal pro Jahr, bei erhöhtem Risiko häufiger.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f12v",
+     "frage": "Kann man Karies komplett verhindern?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b12w",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s12x",
+         "text": "Mit guter Mundhygiene, wenig Zucker und regelmässiger Kontrolle ist das Risiko stark reduzierbar.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f12y",
+     "frage": "Warum bekomme ich trotz Zähneputzen Karies?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b12z",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s130",
+         "text": "Häufig liegt es an fehlender Zahnzwischenraumreinigung, zu häufigem Zuckerkonsum oder falscher Putztechnik.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "f131",
+     "frage": "Wie helfen Zahnpasten mit Hydroxylapatit gegen Karies?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "b132",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "s133",
+         "text": "Hydroxylapatit (HAP) hilft nach Angabe der Praxis bei der Kariesprävention, indem es den Zahnschmelz remineralisiert und mikroskopisch kleine Defekte auffüllt, bevor sich daraus ein Kariesloch entwickeln kann. Studien zeigten laut Praxis eine ähnliche Schutzwirkung wie Fluorid.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bs135",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Erste Anzeichen von Karies oder Zahnschmerzen?",
+   "text": "Vereinbaren Sie Ihre Dentalhygiene in Zürich und schützen Sie Ihre Zähne langfristig. Bei Schmerzen ist zusätzlich eine zahnärztliche Abklärung nötig.",
+   "zweiterKnopf": {
+    "titel": "Dentalhygiene",
+    "ziel": "/dentalhygiene/"
+   }
+  }
+ ]
+}

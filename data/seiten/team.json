@@ -1,0 +1,92 @@
+{
+ "id": "seite-team",
+ "slug": "team",
+ "art": "seite",
+ "titel": "Team",
+ "teaser": "Ihr WHITE SMYLE Team: Tünde Obenauer, dipl. Dentalhygienikerin HF, und Andreas Obenauer, Praxisleitung.",
+ "einleitung": "Ihr WHITE SMYLE Team – lachen war noch nie einfacher.",
+ "seoTitel": "Team – WHITE SMYLE dental Zürich",
+ "seoBeschreibung": "Das Team von WHITE SMYLE dental: Tünde Obenauer, Dipl. Dentalhygienikerin HF, Bleaching-Spezialistin und Leitung Dentalhygiene; Andreas Obenauer, Praxisleitung.",
+ "alteUrls": [
+  "/team.html"
+ ],
+ "quelle": "whitesmyle.ch/team.html, /impressum.html",
+ "pruefstatus": "uebernommen",
+ "bausteine": [
+  {
+   "_type": "teamBaustein",
+   "_key": "bsol",
+   "titel": "Das Team"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bsos",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bom",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "son",
+       "text": "Über die Praxis",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "boo",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sop",
+       "text": "Die Dentalhygiene bei WHITE SMYLE wird ausschliesslich durch die dipl. Dentalhygienikerin HF durchgeführt – keine Prophylaxeassistentin. Tünde Obenauer verfügt laut Praxis über mehr als 30 Jahre Berufserfahrung und besitzt die Bewilligung der Gesundheitsdirektion Zürich zur selbständigen Berufsausübung für Dentalhygiene. Es gelten die Berufsordnung der Gesundheitsdirektion Zürich und das Hygienekonzept Swissmedic.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "boq",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sor",
+       "text": "Die bisherige Website erwähnt an einzelnen Stellen «Zahnarzt» und zahnärztliche Leistungen (z. B. Implantate, Kontrollen). Auf der Teamseite ist jedoch kein Zahnarzt aufgeführt; Karieskontrollen durch die Dentalhygienikerin ersetzen laut AGB nicht die jährliche Kontrolle durch den Zahnarzt. Diese Demo stellt WHITE SMYLE deshalb als Praxis für Dentalhygiene und Bleaching dar – die Praxis bestätigt das Leistungsspektrum.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "breite": "schmal"
+  },
+  {
+   "_type": "medienstimmenBaustein",
+   "_key": "bsot",
+   "titel": "WHITE SMYLE in den Medien"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsou",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Lernen Sie uns kennen",
+   "text": "Vereinbaren Sie Ihren Dentalhygiene- oder Bleaching-Termin.",
+   "zweiterKnopf": {
+    "titel": "Kundenmeinungen lesen",
+    "ziel": "/kundenmeinungen/"
+   }
+  }
+ ]
+}

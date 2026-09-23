@@ -1,0 +1,747 @@
+{
+ "id": "seite-ratgeber-dentalhygienikerin-oder-prophylaxeassistentin",
+ "art": "ratgeber",
+ "pruefstatus": "sprachlich-angepasst",
+ "slug": "ratgeber/dentalhygienikerin-oder-prophylaxeassistentin",
+ "titel": "Dentalhygienikerin oder Prophylaxeassistentin?",
+ "teaser": "Dentalhygiene ist nicht gleich Zahnreinigung: Ausbildung, Kompetenzen und Behandlungsumfang im Vergleich.",
+ "einleitung": "Stellen Sie sicher, dass Sie für Ihre Dentalhygiene auch eine dipl. Dentalhygienikerin als Behandlerin bekommen und keine Prophylaxeassistentin – ausser Sie wünschen das. Wenn Ihnen Ihre langfristige Zahngesundheit wichtig ist, fragen Sie vor der Behandlung, wer Sie behandeln wird.",
+ "seoTitel": "Dentalhygienikerin oder Prophylaxeassistentin – der Unterschied",
+ "seoBeschreibung": "DH oder PA? Ausbildung (3 Jahre HF vs. 20 Tage), Behandlungsumfang, Diagnostik und Verantwortung im Vergleich – und warum WHITE SMYLE auf die Dentalhygienikerin setzt.",
+ "bild": {
+  "bild": "you-love-it",
+  "alt": "Grafik: Dentalhygiene, super sauber, you love it"
+ },
+ "alteUrls": [
+  "/zahnreinigung-dh-oder-pa.html"
+ ],
+ "quelle": "whitesmyle.ch/zahnreinigung-dh-oder-pa.html",
+ "mitInhaltsverzeichnis": true,
+ "bausteine": [
+  {
+   "_type": "vergleichBaustein",
+   "_key": "bssn",
+   "anker": "vergleich",
+   "titel": "Dentalhygienikerin (DH) vs. Prophylaxeassistentin (PA)",
+   "spalten": [
+    {
+     "_key": "dh",
+     "titel": "Dentalhygienikerin (DH)",
+     "untertitel": "3 Jahre höhere Fachschule (HF)",
+     "hervorgehoben": true,
+     "punkte": [
+      "Ausbildung: 3 Jahre höhere Fachschule (HF), umfassende medizinische Ausbildung",
+      "Behandlungsumfang: auch tiefe Zahnreinigung (unter dem Zahnfleisch) und Parodontitis-Behandlung",
+      "Diagnostik: erkennt Krankheiten früh, erstellt Therapiepläne, arbeitet teils eigenständig",
+      "Einsatz bei Zahnfleischproblemen, Parodontitis, komplexen Fällen",
+      "Hohe Fachverantwortung, Teil der Therapieplanung"
+     ]
+    },
+    {
+     "_key": "pa",
+     "titel": "Prophylaxeassistentin (PA)",
+     "untertitel": "Weiterbildung nach Dentalassistentin",
+     "punkte": [
+      "Ausbildung: kurze Weiterbildung (ca. 20 Tage) nach der Dentalassistentin",
+      "Behandlungsumfang: oberflächliche Reinigung und Prophylaxe (z. B. Politur, Fluorid)",
+      "Keine eigenständige Diagnose, arbeitet unter Aufsicht des Zahnarztes",
+      "Einsatz bei gesunden Patientinnen und Patienten, einfache Routine-Prophylaxe",
+      "Unterstützende Rolle im Präventionsbereich"
+     ]
+    }
+   ],
+   "fazit": "Kurz zusammengefasst: Dentalhygienikerin = Spezialistin für umfassende und auch medizinische Zahnbehandlung. Prophylaxeassistentin = Fachkraft für einfache Vorsorge und Reinigung. WHITE SMYLE setzt auf das Ausbildungsniveau der Dentalhygienikerin, um den langfristigen Zahnerhalt besser zu fördern."
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bst4",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bso",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "ssp",
+       "text": "Dentalhygiene oder Zahnreinigung – was ist besser?",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bsq",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "ssr",
+       "text": "Viele fragen sich, ob eine Zahnreinigung ausreicht. Der wichtige Unterschied: Die ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "sss",
+       "text": "Zahnreinigung",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "sst",
+       "text": " reinigt die Zahnoberfläche, mit Fokus auf Ästhetik und kurzfristigem Effekt. Die ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "ssu",
+       "text": "Dentalhygiene",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "ssv",
+       "text": " reinigt tiefgehend auch unter dem Zahnfleisch, entfernt Bakterien in kritischen Bereichen, beugt Parodontitis vor und zielt auf langfristige Zahngesundheit. Eine Zahnreinigung allein reicht nicht aus, um Zahnerkrankungen vorzubeugen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bsw",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "ssx",
+       "text": "In der Praxis steht die Dentalhygiene-Behandlung als Vorsorge im Fokus: Die Behandlung durch die Dentalhygienikerin trägt wesentlich zur Mundgesundheit bei und unterscheidet sich deutlich vom Einsatzgebiet der Prophylaxeassistentin.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bsy",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "ssz",
+       "text": "Prophylaxeassistentin (PA):",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "st0",
+       "text": " Die PA unterstützt die regelmässige Zahnpflege bei stabiler Mundgesundheit. Sie entfernt oberflächliche Beläge und Verfärbungen und hilft, die tägliche Mundhygiene zu optimieren.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bt1",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "st2",
+       "text": "Dentalhygienikerin (DH):",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "st3",
+       "text": " Sie geht einen entscheidenden Schritt weiter – spezialisiert auf die gründliche Reinigung auch unter dem Zahnfleisch, erkennt frühzeitig Veränderungen und behandelt gezielt Zahnfleischerkrankungen wie Parodontitis. Viele Probleme im Mundraum entstehen unbemerkt unter dem Zahnfleisch. Genau hier setzt die Dentalhygienikerin an: Durch ihre vertiefte Ausbildung und den erweiterten Behandlungsumfang kann sie nicht nur reinigen, sondern aktiv dazu beitragen, Erkrankungen zu verhindern und Zähne langfristig zu erhalten. Die Prophylaxe ist eine gute Ergänzung – die Dentalhygiene ist der Schlüssel für langfristig gesunde Zähne und ein stabiles Zahnfleisch.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "unterschied",
+   "titel": "Der Unterschied",
+   "breite": "schmal"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bsu0",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bt5",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "st6",
+       "text": "Warum Sie den Unterschied kennen sollten",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bt7",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "st8",
+       "text": "Nicht jede angebotene Dentalhygiene wird auch durch eine dipl. Dentalhygienikerin durchgeführt. Der Unterschied hat direkte Auswirkungen auf Qualität, Tiefe und Art der zahnmedizinischen Prävention und Behandlung.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bt9",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sta",
+       "text": "1. Spezialisierung und Behandlungsumfang",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "btb",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "stc",
+       "text": "Dentalhygienikerinnen sind umfassender ausgebildet und befähigt, auch tiefergehende Behandlungen durchzuführen, wie die Entfernung von Zahnstein unterhalb des Zahnfleischrandes und die Behandlung von Parodontitis. Wer unter Zahnfleischbluten, Entzündungen oder parodontalen Erkrankungen leidet, sollte eine Dentalhygienikerin aufsuchen, da sie die erforderlichen Behandlungskenntnisse und diagnostischen Fähigkeiten besitzt, um die Krankheit frühzeitig zu erkennen und zu behandeln. Prophylaxeassistentinnen sind darauf spezialisiert, präventive Massnahmen zur Kariesvermeidung und Oberflächenreinigung durchzuführen. Für regelmässige, unkomplizierte Zahnreinigungen und Mundhygieneanleitungen kann das oft ausreichen – bei schwereren Erkrankungen fehlt jedoch die notwendige Behandlungsbefugnis.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "btd",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "ste",
+       "text": "2. Kosten und Effizienz",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "btf",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "stg",
+       "text": "Aus Kosten- und Effizienzgründen kann eine Prophylaxeassistentin für routinemässige Reinigungen die günstigere Wahl sein. Komplexere Fälle, bei denen eine Dentalhygienikerin benötigt wird (z. B. fortgeschrittene Parodontitis), verursachen höhere Kosten, da die Behandlung tiefer geht und spezialisierter ist. Ein Beispiel der Praxis: Wer raucht und im Frontbereich Verfärbungen und generell Zahnstein hat, könnte die Zähne zweimal pro Jahr abwechselnd von einer Prophylaxeassistentin und einer Dentalhygienikerin reinigen lassen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bth",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sti",
+       "text": "3. Frühzeitige Erkennung von Erkrankungen",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "btj",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "stk",
+       "text": "Dentalhygienikerinnen sind durch ihre Ausbildung besser darin geschult, Anzeichen ernsthafter Zahn- und Mundkrankheiten frühzeitig zu erkennen, wie Parodontitis oder sogar orale Krebsvorstufen. Regelmässige Besuche dienen nicht nur der Zahnreinigung, sondern auch der Früherkennung. Prophylaxeassistentinnen können ebenfalls Anzeichen feststellen, jedoch nicht in derselben Tiefe.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "btl",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "stm",
+       "text": "4. Langfristige Zahngesundheit",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "btn",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sto",
+       "text": "Eine Dentalhygienikerin kann individuellere Behandlungspläne erstellen, die langfristige Effekte auf die Zahngesundheit haben – besonders bei Risikofaktoren wie Rauchen, Diabetes oder genetischer Veranlagung für Parodontitis. Für gesunde Patientinnen und Patienten ohne grössere Probleme kann die Prophylaxeassistentin eine gute Wahl sein.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "btp",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "stq",
+       "text": "5. Risikobasierte Behandlung",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "btr",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sts",
+       "text": "Wer bestimmte Risiken hat – Vorerkrankungen, schlechte Mundhygiene, genetische Disposition –, ist unter Umständen regelmässig auf die umfangreicheren Leistungen einer Dentalhygienikerin angewiesen. Ohne spezielle Risikofaktoren kann man von der regelmässigen Pflege durch eine Prophylaxeassistentin profitieren und sich in schwierigen Fällen an eine Dentalhygienikerin wenden.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "btt",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "stu",
+       "text": "6. Individuelle Betreuung und Beratung",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "btv",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "stw",
+       "text": "Dentalhygienikerinnen geben umfassende, auf die individuellen Bedürfnisse zugeschnittene Mundhygieneanleitungen und Ernährungstipps, beurteilen den Zustand von Zahnfleisch und Zahnhalteapparat genauer und erstellen personalisierte Pflegepläne. Prophylaxeassistentinnen konzentrieren sich stärker auf allgemeine Prävention.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "btx",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sty",
+       "text": "Fazit:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "stz",
+       "text": " Den Unterschied zu kennen hilft, informierte Entscheidungen über die eigene Zahngesundheit zu treffen – je nach Gesundheitszustand, Behandlungsbedarf und finanziellen Überlegungen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "gruende",
+   "titel": "Sechs Gründe",
+   "breite": "schmal"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bsuq",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "bu1",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "su2",
+       "text": "Ausbildung und Kompetenzen in der Schweiz",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bu3",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "su4",
+       "text": "In der Schweiz gibt es klare Unterschiede in Ausbildung, Aufgabenbereichen und Kompetenzen. Beide Berufe spielen eine wichtige Rolle in der präventiven Zahnmedizin, jedoch mit unterschiedlichem Ausbildungsniveau und Verantwortungsumfang.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "tabelle",
+     "_key": "tu5",
+     "kopf": [
+      "",
+      "Dentalhygienikerin HF",
+      "Prophylaxeassistentin"
+     ],
+     "zeilen": [
+      {
+       "_key": "zu6",
+       "zellen": [
+        "Ausbildungsdauer",
+        "3 Jahre Vollzeit (höhere Fachschule) oder 4 Jahre berufsbegleitend; 5400 Lernstunden, 2/3 Theorie, 1/3 Abschlusspraktikum",
+        "20 Tage Theorie und Praxis, meist verteilt auf ein Jahr berufsbegleitend; 480 Lernstunden; 150 Behandlungen innerhalb von 6 Monaten"
+       ]
+      },
+      {
+       "_key": "zu7",
+       "zellen": [
+        "Voraussetzung",
+        "Abschluss Sekundarstufe II oder gleichwertig, bestandene Eignungsabklärung; einschlägig: EFZ Dentalassistentin",
+        "Grundbildung als Dentalassistentin EFZ oder zweijährige Lehre als zahnmedizinische Assistentin, bestandener Röntgenkurs, Eignungsabklärung"
+       ]
+      },
+      {
+       "_key": "zu8",
+       "zellen": [
+        "Abschluss",
+        "Diplom als Dentalhygienikerin HF",
+        "Zertifikat als Prophylaxeassistentin"
+       ]
+      },
+      {
+       "_key": "zu9",
+       "zellen": [
+        "Inhalte",
+        "Anatomie, Pathologie, Parodontologie, Radiologie, Mikrobiologie, zahnärztliche Therapieformen, Patientenschulung",
+        "Zahnreinigung, Kariesprophylaxe, Patienteninstruktion zur Mundhygiene, Unterstützung bei präventiven Behandlungen"
+       ]
+      },
+      {
+       "_key": "zua",
+       "zellen": [
+        "Arbeitsfeld",
+        "Praxen, Zahnkliniken, Spitäler, Heime, Industrie, öffentliche Dienste, Schulen, Gesundheitszentren; im Rahmen der gesetzlichen Bestimmungen auch eigene Praxis",
+        "Ergänzt das zahnmedizinische Team in enger Zusammenarbeit mit dipl. Dentalhygienikerin HF und Zahnarzt"
+       ]
+      },
+      {
+       "_key": "zub",
+       "zellen": [
+        "Empfohlen für",
+        "Menschen aller Altersgruppen; Patientinnen und Patienten mit Zahnfleischproblemen (Parodontitis), Kariesrisiko, medizinische Risikopatienten (Herz-Kreislauf, Diabetes, Organempfänger, Immunerkrankungen; in Dentalhygiene-Praxen nur mit Bestätigung des Hausarztes), Raucher, Schwangere, Implantate, über 30 Jahre",
+        "Vorzugsweise Kinder und Jugendliche, Patienten ohne parodontale Probleme und ohne Kariesprobleme, Spangenträger, unter 30 Jahre"
+       ]
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "buc",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sud",
+       "text": "Ausbildungsverlauf Dentalhygienikerin HF",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bue",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "suf",
+       "text": "Jahr: theoretisches Grundlagenwissen, psychologische und didaktische Kenntnisse für den Umgang mit Patientinnen und Patienten, Einüben der manuellen Fertigkeiten (am Modell, gegenseitig, am Patienten), Kurzpraktikum in Privatpraxen. 2. Jahr: Vertiefen und Verknüpfen der theoretischen Kenntnisse zur Umsetzung in die Praxis, praktische Arbeit am Patienten in der Klinik der Dentalhygiene-Schule, Sozialpraktikum in Institutionen. 3. Jahr: Praktikumsjahr in Zahnarztpraxen oder Institutionen während vier Tagen pro Woche.",
+       "marks": []
+      }
+     ],
+     "markDefs": [],
+     "listItem": "number",
+     "level": 1
+    },
+    {
+     "_type": "block",
+     "_key": "bug",
+     "style": "h3",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "suh",
+       "text": "Befähigung",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bui",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "suj",
+       "text": "Beide: Aufklärung über Karies und Kariesprophylaxe, Beziehungsgestaltung, Zusammenarbeit im Team, Motivierung zur Verhaltensänderung, Befundaufnahme, Instruktion der Mundhygiene inklusive Hilfsmittel, Röntgenaufnahmen und deren Interpretation, Erkennen von Veränderungen, Raucherintervention, Bleaching, Öffentlichkeitsarbeit, Entfernung von Ablagerungen oberhalb des Zahnfleisches mit Hand- und maschinellen Instrumenten.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "buk",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sul",
+       "text": "Nur Dentalhygienikerin: Entfernung von Ablagerungen unterhalb des Zahnfleisches, Erstellen eines individuellen dentalhygienischen Behandlungs- und Betreuungsplans, Durchführung der nichtchirurgischen, erhaltenden Parodontaltherapie, Entfernung von Füllungsüberschüssen und Politur von Füllungen, Erkennen der Zusammenhänge von Allgemeinerkrankungen und Parodontitis, Abstimmen der Therapie mit weiteren Fachpersonen, Qualitätssicherung, Mitarbeit bei Berufsentwicklung und Forschung, lebenslange Weiterbildung.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "bum",
+     "style": "quelle",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "sun",
+       "text": "Angaben der Praxis auf der bisherigen Website. Zeitungsartikel zum Thema: ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "sup",
+       "text": "Tages-Anzeiger, «Was, wenn die Dentalhygiene gar keine ist?»",
+       "marks": [
+        "luo"
+       ]
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "luo",
+       "href": "https://www.tagesanzeiger.ch/zuerich/region/Was-wenn-die-Dentalhygiene-gar-keine-ist/story/16566365",
+       "extern": true
+      }
+     ]
+    }
+   ],
+   "anker": "ausbildung",
+   "titel": "Ausbildung",
+   "breite": "schmal"
+  },
+  {
+   "_type": "faqBaustein",
+   "_key": "bsv9",
+   "titel": "Die wichtigsten Fragen und Antworten",
+   "fragen": [
+    {
+     "_key": "fur",
+     "frage": "Was ist der Unterschied zwischen Dentalhygiene und Zahnreinigung?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bus",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sut",
+         "text": "Dentalhygiene ist eine medizinische Behandlung, die auch unter dem Zahnfleisch reinigt und bakterielle Ursachen entfernt. Eine Zahnreinigung konzentriert sich auf sichtbare Beläge und Verfärbungen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fuu",
+     "frage": "Reicht eine normale Zahnreinigung nicht aus?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "buv",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "suw",
+         "text": "Für kurzfristige Sauberkeit: ja. Für langfristige Zahngesundheit: nein, da Bakterien unter dem Zahnfleisch unbehandelt bleiben können.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fux",
+     "frage": "Wie oft sollte man zur Dentalhygiene?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "buy",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "suz",
+         "text": "Empfohlen: 1–2 Mal pro Jahr, je nach Risiko auch häufiger.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fv0",
+     "frage": "Ist Dentalhygiene teurer – und lohnt sich das?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bv1",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sv2",
+         "text": "Ja, aber: Sie verhindert oft kostspielige Folgebehandlungen durch frühzeitige Intervention.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fv3",
+     "frage": "Warum sollte ich zu einer Dentalhygienikerin gehen?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bv4",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sv5",
+         "text": "Weil sie tiefgehende Reinigungen durchführen kann, Erkrankungen früh erkennt und individuelle Therapiepläne erstellt. Das schützt langfristig vor Zahnverlust und teuren Folgebehandlungen.",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    },
+    {
+     "_key": "fv6",
+     "frage": "Wann brauche ich eine Dentalhygienikerin?",
+     "antwort": [
+      {
+       "_type": "block",
+       "_key": "bv7",
+       "style": "normal",
+       "children": [
+        {
+         "_type": "span",
+         "_key": "sv8",
+         "text": "Besonders bei Zahnfleischbluten, empfindlichem Zahnfleisch, Parodontitis und Risikofaktoren (Rauchen, Diabetes, Alter).",
+         "marks": []
+        }
+       ],
+       "markDefs": []
+      }
+     ]
+    }
+   ],
+   "anker": "faq"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsva",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Dentalhygiene-Termin vereinbaren",
+   "text": "Bei WHITE SMYLE behandelt Sie ausschliesslich die dipl. Dentalhygienikerin HF.",
+   "zweiterKnopf": {
+    "titel": "Zur Dentalhygiene",
+    "ziel": "/dentalhygiene/"
+   }
+  }
+ ]
+}

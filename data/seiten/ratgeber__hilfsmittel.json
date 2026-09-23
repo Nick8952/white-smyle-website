@@ -1,0 +1,283 @@
+{
+ "id": "seite-ratgeber-hilfsmittel",
+ "art": "ratgeber",
+ "pruefstatus": "sprachlich-angepasst",
+ "slug": "ratgeber/hilfsmittel",
+ "titel": "Hilfsmittel für die tägliche Dentalhygiene",
+ "teaser": "Zahnbürsten, Zahnpasta, Mundspülung, Zahnseide und Sticks: welche Hilfsmittel die Praxis empfiehlt und warum.",
+ "einleitung": "Welche Hilfsmittel braucht man für eine gute Dentalhygiene, und was sollen sie bewirken? Möchten Sie dauerhaft gesunde Zähne, ist die konsequente Mundhygiene eine Grundvoraussetzung: mindestens 1 Mal pro Jahr Dentalhygiene in der Praxis und die tägliche Pflege zuhause.",
+ "seoTitel": "Dentalhygiene-Hilfsmittel für den täglichen Gebrauch",
+ "seoBeschreibung": "Schall- und Ultraschallzahnbürsten, natürliche Zahnpasten, Mundspülung, Zahnseide und Sticks: Empfehlungen der Praxis für die tägliche Dentalhygiene.",
+ "bild": {
+  "bild": "hilfsmittel-splat",
+  "alt": "Zahnpasta-Tube mit Minze und Orange"
+ },
+ "alteUrls": [
+  "/dentalhygiene-hilfsmittel.html"
+ ],
+ "quelle": "whitesmyle.ch/dentalhygiene-hilfsmittel.html",
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bs1d1",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1c6",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1c7",
+       "text": "Hierbei ist nicht nur die Anzahl des Zähneputzens von Bedeutung, sondern auch die Auswahl einer geeigneten Zahnbürste. Die Auswahl der richtigen Zahnpasta, Zahnseide sowie Mundspülung sind unentbehrlich für eine effektive Mundhygiene. Sie sollten mindestens am Morgen und Abend gründlich putzen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1c8",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1c9",
+       "text": "Zahnbürsten",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1ca",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1cb",
+       "text": "Die führenden Technologien sind die Schall- und die Ultraschalltechnologie. Nach Darstellung der Praxis hat eine Universitätsstudie gezeigt, dass Bakterienketten, aus denen Plaque besteht, unter Anwendung von Ultraschall aufbrechen und dadurch unschädlich werden. MEGASONEX ist laut Praxis der führende Hersteller; das Herzstück der Bürste ist der Megacrystal, der mit einer medizinischen Frequenz von 1,6 MHz (96 Millionen Pulse pro Minute) arbeitet – typische Schallzahnbürsten haben 15 000–40 000 Schwingungen pro Minute. Die Ultraschalltechnologie sei in den frühen 1990er-Jahren von der amerikanischen FDA für die Nutzung in Zahnbürsten zugelassen worden.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1cc",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1cd",
+       "text": "Sind Ultraschall-Zahnbürsten eine sinnvolle Investition?",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1ce",
+       "text": " Beim Putzen mit herkömmlichen Zahnbürsten – «Schrubben» wäre das passendere Wort – werden Zahnfleisch und Zahnschmelz häufig leicht verletzt; darunter leiden besonders Menschen mit empfindlichen Zähnen und Zahnfleisch. Der einzige Nachteil sind die Kosten, die sich laut Praxis durch die Langlebigkeit und im Vergleich zu Zahnersatz relativieren. Wer komfortabel putzen und gute Ergebnisse erzielen will, ist mit einer Schall- oder Ultraschall-Zahnbürste am besten bedient. Mehr im Ratgeber ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s1cg",
+       "text": "Ultraschallzahnbürste",
+       "marks": [
+        "l1cf"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1ch",
+       "text": ".",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l1cf",
+       "href": "/ratgeber/ultraschallzahnbuerste/",
+       "extern": false
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b1ci",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1cj",
+       "text": "Zahnpasta",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1ck",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1cl",
+       "text": "Bei der Auswahl unterscheidet man hauptsächlich zwischen natürlich und chemisch hergestellten Zahnpasten. Natürliche Zahnpasten mit pflanzlichen Wirkstoffen für Zahnfleisch und Zähne und aus der Natur gewonnenen remineralisierenden Wirkstoffen vereinen laut Praxis die neuesten Technologien. Die Erfahrung der Praxis: Wer diese natürlichen Zahnpasten einmal verwendet hat, bleibt gerne dabei. Im externen ",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s1cn",
+       "text": "Zahnpastashop",
+       "marks": [
+        "l1cm"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1co",
+       "text": " werden mehrere davon vorgestellt.",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l1cm",
+       "href": "https://www.zahnpastashop.ch/",
+       "extern": true
+      }
+     ]
+    },
+    {
+     "_type": "block",
+     "_key": "b1cp",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1cq",
+       "text": "Mundspülung",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1cr",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1cs",
+       "text": "Für eine optimale Mundgesundheit ist Zähneputzen wichtig, aber nicht immer ausreichend. Der Mundraum besteht zu ca. 25 % aus Zähnen, der Rest sind Weichteile: Zunge, Gaumen, Zahnfleisch, Zahnzwischenräume. Hier leben Bakterien – gute und schlechte. Die schlechten leben meist ohne Sauerstoff, verursachen Mundgeruch, Karies und Parodontose und sondern Schwefelverbindungen ab. Eine möglichst natürliche Mundspülung als Teil der täglichen Mundhygiene hilft, diese Bakterien im Gleichgewicht zu halten; zweimal am Tag verwendet, trägt sie zur Verhinderung und Reduktion von Zahnbelag bei. Die Praxis empfiehlt die natürliche Mundspülung von SPRY mit Xylitol (Birkenzucker), einem natürlichen Süssstoff mit remineralisierendem Effekt.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1ct",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1cu",
+       "text": "Zahnseide und Zahnsticks",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1cv",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1cw",
+       "text": "Die Effektivität der Zahnseide wurde laut Praxis durch Zahnärzte der New Yorker Universität nachgewiesen: Zahnseide befreit die Mundhöhle besser als Zahnpasta allein von gefährlichen Bakterien und senkt deren Zahl in kurzer Zeit deutlich (zweiwöchige Studie mit 51 Zwillingspaaren im Alter von 12 bis 21 Jahren, The Journal of Periodontology). Es wird empfohlen, Zahnseide jeden Abend zu verwenden.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1cx",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1cy",
+       "text": "Zahnseide wird auch mit Wirkstoffen versehen, zum Beispiel mit Chili-Extrakt: Aufgrund des Capsaicin-Gehalts soll die Durchblutung des Zahnfleisches verbessert werden; die Zahnseide ist hypoallergen mikrokristallin gewachst. Ätherisches Bergamotte-Öl erfrischt den Atem, ätherisches Kardamom-Öl hat laut Praxis entzündungshemmende und antiseptische Wirkung.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b1cz",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1d0",
+       "text": "Sehr gut geeignet für unterwegs oder abends sind metallfreie Einweg-Interdentalbürsten mit weichen Gummiborsten (z. B. GUM Soft-Picks). Sie gleiten leicht zwischen die Zähne, entfernen Plaque und Speisereste, massieren das Zahnfleisch sanft und sind ideal bei kieferorthopädischen Apparaturen, Brücken oder Implantaten. Eine gute Alternative, wenn Sie nicht gerne Zahnseide verwenden.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ]
+  },
+  {
+   "_type": "hinweisBaustein",
+   "_key": "bs1d4",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b1d2",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1d3",
+       "text": "Die Produkt- und Studienangaben in diesem Ratgeber stammen von der bisherigen Website der Praxis und wurden für diese Demo nicht überprüft. Die genannten Produkte sind im externen Zahnpastashop der Praxisbetreiber erhältlich; Preise und Bedingungen dort.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "art": "info"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bs1d5",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Persönliche Beratung zu Hilfsmitteln",
+   "text": "In der Dentalhygiene erhalten Sie eine individuelle Instruktion zu Putztechnik und Hilfsmitteln.",
+   "zweiterKnopf": {
+    "titel": "Zum Zahnpastashop (extern)",
+    "ziel": "https://www.zahnpastashop.ch/",
+    "extern": true
+   }
+  }
+ ]
+}

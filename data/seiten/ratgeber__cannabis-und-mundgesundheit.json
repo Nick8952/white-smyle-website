@@ -1,0 +1,630 @@
+{
+ "id": "seite-ratgeber-cannabis-und-mundgesundheit",
+ "art": "ratgeber",
+ "pruefstatus": "sprachlich-angepasst",
+ "slug": "ratgeber/cannabis-und-mundgesundheit",
+ "titel": "Cannabis und Mundgesundheit",
+ "teaser": "Warum Cannabis-Konsum Zähne und Zahnfleisch belasten kann – plus Wissenswertes zu Zahnschmelz, Hydroxylapatit und Zahnzwischenräumen.",
+ "einleitung": "Cannabis wird heute von vielen Menschen als entspannend, natürlich oder sogar medizinisch betrachtet. Was jedoch häufig unterschätzt wird: Regelmässiger Marihuana-Konsum kann sich deutlich auf Zähne, Zahnfleisch und die gesamte Mundgesundheit auswirken.",
+ "seoTitel": "Marihuana und Zahngesundheit – Cannabis, Zahnfleisch, Parodontitis",
+ "seoBeschreibung": "Wie Cannabis die Mundgesundheit beeinflusst: trockener Mund, Zahnfleischentzündungen, Parodontitis-Risiko, Folgekosten. Mit Studienverweisen und Tipps.",
+ "bild": {
+  "bild": "cannabis-hero",
+  "alt": "Mann bläst Rauch aus"
+ },
+ "alteUrls": [
+  "/mundgesundheit-canabis.html"
+ ],
+ "quelle": "whitesmyle.ch/mundgesundheit-canabis.html",
+ "mitInhaltsverzeichnis": true,
+ "bausteine": [
+  {
+   "_type": "textBaustein",
+   "_key": "bs18z",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b17v",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s17w",
+       "text": "Besonders das Rauchen von Cannabis belastet die Mundflora, trocknet die Schleimhäute aus und kann Entzündungen im Zahnfleisch fördern. Viele Schäden entwickeln sich schleichend – oft ohne Schmerzen – und werden erst spät bemerkt. Die Folge können aufwendige und kostspielige Zahnbehandlungen sein. Studien zeigen laut Praxis zunehmend Zusammenhänge zwischen Cannabis-Konsum, Parodontitis, Zahnfleischentzündungen, Mundtrockenheit und erhöhtem Risiko für Zahnverlust.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b17x",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s17y",
+       "text": "Warum Marihuana die Mundgesundheit beeinflusst",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b17z",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s180",
+       "text": "Beim Rauchen von Cannabis entstehen ähnliche Belastungen wie beim klassischen Rauchen: Hitzeeinwirkung auf Schleimhäute, verringerter Speichelfluss, bakterielle Veränderungen im Mund, erhöhte Entzündungsneigung, trockener Mund («Cotton Mouth»). Speichel spielt eine entscheidende Schutzfunktion: Er neutralisiert Säuren, reduziert Bakterien und schützt Zähne und Zahnfleisch. Fehlt dieser Schutz über längere Zeit, steigt das Risiko für Karies, Zahnfleischentzündungen, Mundgeruch, Zahnsteinbildung und Parodontitis.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b181",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s182",
+       "text": "Der trockene Mund – ein unterschätztes Problem",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b183",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s184",
+       "text": "Ein trockener Mund bedeutet weniger natürliche Reinigung, mehr bakterielle Beläge, erhöhte Säurebelastung, schnelleres Fortschreiten von Karies und empfindlicheres Zahnfleisch.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b185",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s186",
+       "text": "Cannabis und Parodontitis",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b187",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s188",
+       "text": "Besonders kritisch ist der mögliche Zusammenhang zwischen Cannabis und Parodontitis. Eine bekannte Langzeitstudie aus Neuseeland zeigte laut Praxis früh einen Zusammenhang zwischen regelmässigem Cannabis-Rauchen und erhöhtem Parodontitis-Risiko bei jungen Erwachsenen. Parodontitis entwickelt sich oft schleichend: Zahnfleischbluten, Mundgeruch, Zahnfleischrückgang, empfindliche Zahnhälse, lockere Zähne, Knochenabbau.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b189",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s18a",
+       "text": "Warum die Behandlung schnell teuer werden kann",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b18b",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s18c",
+       "text": "Mögliche Konsequenzen unbehandelter Entzündungen: häufigere Dentalhygiene, Parodontitis-Behandlungen, Kronen, Wurzelbehandlungen, Implantate, Knochenaufbau, Zahnverlust. Früherkennung und Prävention sind deutlich günstiger als spätere Reparaturen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b18d",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s18e",
+       "text": "Naturmedizinische Sichtweise",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b18f",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s18g",
+       "text": "Ganzheitliche Ansätze betrachten den Mund als Teil des gesamten Immunsystems. Diskutiert werden entzündungsfördernde Rauchstoffe, geschwächtes Immunsystem, gestörte Mundflora, erhöhte bakterielle Belastung und oxidative Belastung des Gewebes. Empfohlen werden häufig entzündungsarme Ernährung, ausreichende Flüssigkeitszufuhr, gute Mundhygiene, regelmässige professionelle Dentalhygiene, Reduktion des Rauchens, Unterstützung der Mundflora. Naturmedizin ersetzt keine professionelle zahnmedizinische Behandlung.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b18h",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s18i",
+       "text": "Was Cannabis-Konsumentinnen und -Konsumenten für ihre Zähne tun können",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b18j",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s18k",
+       "text": "Regelmässige Dentalhygiene, gründliche Reinigung der Zahnzwischenräume, ausreichend Wasser trinken, Zucker reduzieren, Speichelfluss fördern, regelmässige Kontrollen, professionelle Entfernung von Zahnstein, frühe Behandlung von Zahnfleischentzündungen. Gerade bei regelmässigem Rauchen – egal ob Tabak oder Cannabis – empfehlen viele Fachpersonen häufigere Kontrollen und Reinigungen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b18l",
+     "style": "quelle",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s18m",
+       "text": "Quellen laut Praxis: JAMA – Cannabis Smoking and Periodontal Disease Among Young Adults (",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s18o",
+       "text": "PMC",
+       "marks": [
+        "l18n"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s18p",
+       "text": "); Journal of Periodontal Research – Systematic Review Cannabis & Periodontitis (",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s18r",
+       "text": "cannabisandhealth.org",
+       "marks": [
+        "l18q"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s18s",
+       "text": "); BMC Oral Health – Drug Use and Oral Disease Meta-Analysis (",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s18u",
+       "text": "BMC",
+       "marks": [
+        "l18t"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s18v",
+       "text": "); California Dental Association – Cannabis and Periodontal Oral Health (",
+       "marks": []
+      },
+      {
+       "_type": "span",
+       "_key": "s18x",
+       "text": "Taylor & Francis",
+       "marks": [
+        "l18w"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s18y",
+       "text": "). Forschende weisen darauf hin, dass weitere Langzeitstudien notwendig bleiben.",
+       "marks": []
+      }
+     ],
+     "markDefs": [
+      {
+       "_type": "link",
+       "_key": "l18n",
+       "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2823391/",
+       "extern": true
+      },
+      {
+       "_type": "link",
+       "_key": "l18q",
+       "href": "https://www.cannabisandhealth.org/research/is-the-use-of-cannabis-associated-with-periodontitis-a-systematic-review-and-meta-analysis/",
+       "extern": true
+      },
+      {
+       "_type": "link",
+       "_key": "l18t",
+       "href": "https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-020-1010-3",
+       "extern": true
+      },
+      {
+       "_type": "link",
+       "_key": "l18w",
+       "href": "https://www.tandfonline.com/doi/abs/10.1080/19424396.2017.12222492",
+       "extern": true
+      }
+     ]
+    }
+   ],
+   "anker": "cannabis",
+   "titel": "Cannabis"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs19b",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b190",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s191",
+       "text": "Rauchen, Kaffee und Parodontitis",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b192",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s193",
+       "text": "Leider haben Raucherinnen und Raucher, je nachdem wie viel sie rauchen, laut Praxis eine bis zu fünfzehnmal so hohe Wahrscheinlichkeit, an Parodontitis zu erkranken, wie Nichtrauchende. Kaffee- und Teetrinkende «leiden» oft an Verfärbungen, Mundgeruch oder belegter Zunge. Rauchen fördert die Lockerung von Zähnen, und auf die Behandlung einer Parodontitis reagieren Rauchende deutlich schlechter.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b194",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s195",
+       "text": "Parodontalerkrankungen sind Entzündungen des Zahnhalteapparates (Zahnfleisch, Zahnhaltefasern und Zahnknochen). Am Zahnfleischrand oder in den Zahnzwischenräumen anhaftende Bakterienbeläge lösen zuerst eine entzündliche Abwehrreaktion aus. Erste Symptome wie Zahnfleischbluten treten bei Rauchenden durch die Verengung der Blutgefässe deutlich seltener auf. Zahnstein und Plaque sammeln sich zwischen Zahn und Zahnfleisch an; ohne Dentalhygiene entsteht eine Zahnfleischtasche, in der Bakterien eine Entzündung hervorrufen, das Zahnfleisch auflösen und in der Folge den Knochen angreifen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b196",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s197",
+       "text": "Durch Rauchen, Kaffee- und Teetrinken entstehen verschiedene Problembereiche: Verfärbungen an Zähnen, Lippen und Zunge, Karies, Mundgeruch, belegte Zunge, Parodontalerkrankungen, Implantatverlust, schlechte Wundheilung, Knochenabbau, Präkanzerosen (Vorstufen von Krebs) und Krebs (Mundraum, Lippen, Zunge, Speicheldrüsen).",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b198",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s199",
+       "text": "Tipps der Praxis:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s19a",
+       "text": " richtige tägliche Mundhygiene, regelmässige Röntgenkontrollen wegen Knochenabbau, regelmässige Dentalhygiene, Zahnpasten mit natürlichen und aufbauenden Inhaltsstoffen (Enzyme aus Ananas oder Papaya, Vitamin E, Baobab, Xylitol oder Aktivkohle), Frontpolish – die 30-minütige Dentalhygiene zur Entfernung von Verfärbungen, Zahnbelag und Zahnstein.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "rauchen",
+   "titel": "Rauchen und Kaffee",
+   "bild": {
+    "bild": "rauchen-paro",
+    "alt": "Schemazeichnung: gesundes Parodont und Parodontitis",
+    "bildunterschrift": "Darstellung: Deutsches Krebsforschungszentrum, Stabsstelle Krebsprävention, 2011"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs19p",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b19c",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s19d",
+       "text": "Zahnschmelz schützen und aufbauen: Hydroxylapatit",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b19e",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s19f",
+       "text": "Hydroxylapatit ist ein Mineral, das nach Angabe der Praxis den Zahnschmelz härtet, Schmerzempfindlichkeiten senkt und durch die glattere Oberfläche das Lachen weisser und glänzender erscheinen lässt. Unser Zahnschmelz ist der härteste Stoff im Körper; 95–98 % bestehen aus dem kristallinen Mineral Hydroxylapatit.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b19g",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s19h",
+       "text": "Unsere Ess- und Genussmittelgewohnheiten beeinflussen die Widerstandsfähigkeit des Zahnschmelzes. Kohlenhydrathaltige Nahrung wird zu Zucker abgebaut, Bakterien «fressen» diesen Zucker und bilden Säuren; auch Fruchtsäfte aus Konzentraten, Limonaden und Energy-Drinks sind stark säurehaltig. Diesen täglichen Säureattacken hält der Zahnschmelz nicht stand und wird langsam aufgelöst. Die Folge: Entmineralisierung, poröse Zähne, freiliegende Zahnhälse mit geöffneten Kanälen (Tubuli), schmerzempfindliche Zähne und eine dunklere Zahnfarbe durch die durchschimmernde Zahnwurzel.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b19i",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s19j",
+       "text": "Zwei Funktionen sind laut Praxis in Zahnpasta, Mundschaum oder Mundspülung heute wichtig: Neutralisierung mit Wirkstoffen wie Papaya-Enzymen und aktiver Zahnschmelzschutz mit naturidentischem Zahnschmelz (Hydroxylapatit, HAP). Zahnpasten mit HAP-Kristallen in passender Grösse können sich in den Zahnschmelz einbauen, die Oberfläche remineralisieren, mikrofeine Defekte reparieren, Sensitivitäten reduzieren und den Zahn glänzen lassen. Hersteller wie SPLAT, ROCS, Curaprox und Biorepair bieten solche Produkte an.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b19k",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s19l",
+       "text": "Was Sie täglich tun können:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s19m",
+       "text": " Softdrinks mit aggressiven Säuren und Fruchtsäfte aus Konzentrat vermeiden, kohlensäurehaltige Getränke reduzieren, nach säurehaltigem Essen eine halbe Stunde mit dem Putzen warten, frisch gepresste Säfte und Smoothies bevorzugen, täglich eine Zahnpasta mit Hydroxylapatit benutzen.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b19n",
+     "style": "quelle",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s19o",
+       "text": "Quelle laut Praxis: The Remineralizing Effect of Carbonate-Hydroxyapatite Nanocrystals on Dentine – L. Rimondini, B. Palazzo, M. Iafisco, L. Canegallo, F. Demarosi, M. Merlo, N. Roveri, Materials Science Forum 2007, Vols. 539–543: 602–605. Die Aussagen zu Hydroxylapatit geben die Sicht der Praxis wieder.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "zahnschmelz",
+   "titel": "Zahnschmelz",
+   "bild": {
+    "bild": "anti-zahnschmelz",
+    "alt": "Softdrink-Flaschen und -Dosen; Schriftzug «Anti Zahnschmelz»",
+    "bildunterschrift": "Starke Säurebildner wie Softdrinks greifen den Zahnschmelz am meisten an."
+   },
+   "bildPosition": "links"
+  },
+  {
+   "_type": "textBaustein",
+   "_key": "bs1a2",
+   "inhalt": [
+    {
+     "_type": "block",
+     "_key": "b19q",
+     "style": "h2",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s19r",
+       "text": "Reinigung der Zahnzwischenräume",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b19s",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s19t",
+       "text": "Welche Stelle ist mit der Zahnbürste am schlechtesten zu erreichen? An welchen Stellen muss der Zahnarzt am meisten Löcher reparieren? Wo entsteht am schnellsten Parodontose? Richtig: in den Zahnzwischenräumen. Deshalb weisen Dentalhygienikerin und Zahnarzt darauf hin, regelmässig Zahnseide zu benutzen. Für viele ist das zu umständlich – die Praxis versteht das.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b19u",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s19v",
+       "text": "Bakterieller Zahnbelag (Plaque) entsteht permanent neu, 365 Tage, 24 Stunden. Deshalb sind das tägliche gründliche Zähneputzen und der halbjährliche, maximal jährliche Besuch bei der Dentalhygienikerin wichtig. Die Zahnbürste allein reicht nicht aus. «Die Zwischenraumreinigung hat sich in den letzten Jahren als wichtiger als alle anderen Reinigungen herauskristallisiert», zitiert die Praxis Prof. Dr. med. dent. Ulrich Saxer. Durch die tägliche Reinigung der Zwischenräume werden auch Bakterien reduziert, die in die Blutbahn gelangen können.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b19w",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s19x",
+       "text": "Alternativen zur Zahnseide,",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s19y",
+       "text": " die laut Praxis ähnlich effektiv und praktischer sind: Zahnsticks aus Plastik oder Gummi und Zahnstocher für sehr enge Zwischenräume; Interdentalbürsten und Zahnseide mit Halter für nicht zu enge Zwischenräume – nutzbar zuhause vor dem Fernseher, beim Lesen und unterwegs.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    },
+    {
+     "_type": "block",
+     "_key": "b19z",
+     "style": "normal",
+     "children": [
+      {
+       "_type": "span",
+       "_key": "s1a0",
+       "text": "Weitere Hilfsmittel:",
+       "marks": [
+        "strong"
+       ]
+      },
+      {
+       "_type": "span",
+       "_key": "s1a1",
+       "text": " Die MEGASONEX-Ultraschallzahnbürste (nach Angabe der Praxis das «High End» der Zahnpflege; Ultraschall dringt bis 12 mm in Zahnzwischenräume und Zahnfleisch ein) sowie Mundspülungen und Mundschaum mit möglichst natürlichen Inhaltsstoffen (Xylitol/Birkenzucker, Papaya-Enzyme, Süssholzextrakt, Aloe-Vera-Gel, Granatapfelextrakt). Sie ersetzen keine Zahnseide, reduzieren aber Plaque und ergänzen die Mundhygiene.",
+       "marks": []
+      }
+     ],
+     "markDefs": []
+    }
+   ],
+   "anker": "zwischenraeume",
+   "titel": "Zahnzwischenräume",
+   "bild": {
+    "bild": "interdental",
+    "alt": "Frau reinigt ihre Zahnzwischenräume mit Zahnseide"
+   },
+   "bildPosition": "rechts"
+  },
+  {
+   "_type": "videoBaustein",
+   "_key": "bs1a3",
+   "anker": "video",
+   "titel": "Video: Zahnzwischenraum-Reinigung mit Ultraschall",
+   "youtubeId": "bs4Tqt-Zh54",
+   "videoTitel": "MEGASONEX Ultraschallzahnbürste (YouTube, extern)",
+   "text": "Von der Praxis eingebettetes Herstellervideo. Es wird erst nach Ihrer Zustimmung von YouTube geladen."
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bs1a4",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Dentalhygiene mit Parodontose-Kontrolle",
+   "text": "Vereinbaren Sie Ihren Termin – für Raucherinnen, Raucher und Kaffeetrinkende bietet die Praxis zusätzlich den Frontpolish an.",
+   "zweiterKnopf": {
+    "titel": "Zum Zahnpastashop (extern)",
+    "ziel": "https://www.zahnpastashop.ch/",
+    "extern": true
+   }
+  }
+ ]
+}

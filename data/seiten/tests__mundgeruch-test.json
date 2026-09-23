@@ -1,0 +1,39 @@
+{
+ "id": "seite-tests-mundgeruch-test",
+ "slug": "tests/mundgeruch-test",
+ "art": "fragebogen",
+ "titel": "Mundgeruch-Test",
+ "teaser": "Anzeichen von Mundgeruch erkennen – die Fragen der Praxis zu Situation und Gewohnheiten.",
+ "einleitung": "Diese Fragen stellt die Praxis im Fragebogen «Mundgeruch-Test». Hier nur zum Lesen – ohne Eingabe, Auswertung oder Speicherung.",
+ "seoTitel": "Mundgeruch-Test – Fragen zur Vorbereitung",
+ "seoBeschreibung": "Anzeichen von Mundgeruch erkennen – die Fragen der Praxis zu Situation und Gewohnheiten.",
+ "alteUrls": [
+  "/mundgeruch-test.html"
+ ],
+ "quelle": "whitesmyle.ch/mundgeruch-test.html",
+ "pruefstatus": "sprachlich-angepasst",
+ "bausteine": [
+  {
+   "_type": "fragebogenBaustein",
+   "_key": "bsq8",
+   "fragebogen": "fb-mundgeruch",
+   "titel": "Mundgeruch-Test"
+  },
+  {
+   "_type": "aufrufBaustein",
+   "_key": "bsq9",
+   "variante": "band",
+   "knopf": {
+    "titel": "Termin online buchen",
+    "ziel": "https://app.cituro.com/booking/2814276",
+    "extern": true
+   },
+   "titel": "Direkt besprechen",
+   "text": "Termin buchen oder anrufen: 043 931 78 74.",
+   "zweiterKnopf": {
+    "titel": "Alle Fragebögen",
+    "ziel": "/tests/"
+   }
+  }
+ ]
+}
