@@ -1,0 +1,116 @@
+import Link from "next/link";
+import { Phone } from "@phosphor-icons/react/dist/ssr";
+import type { Einstellungen, Hero as HeroTyp, Seite, Texte } from "@/lib/content/types";
+import { seitenPfad } from "@/lib/content/types";
+import { Bild } from "./Bild";
+import { Farbring } from "./Farbring";
+import { SmartLink } from "./SmartLink";
+
+/**
+ * Seitenkopf in drei Varianten:
+ * - «start»: zweispaltig, links Titel/Text/Knöpfe, rechts Foto in Farbring-Rahmen (Signatur), oranger Hintergrundstreifen
+ * - «seite»: kompakter Kopf mit Titel, Einleitung, optionalem Bild rechts
+ * - «artikel»: schmaler Lesekopf (Ratgeber) mit breitem Bild darunter
+ */
+export function Hero({ hero, einstellungen: e, texte: t, seite }: { hero: HeroTyp; einstellungen: Einstellungen; texte: Texte; seite: Seite }) {
+  const eltern = seite.slug.includes("/") ? seite.slug.split("/").slice(0, -1).join("/") : null;
+  const brotkrumen =
+    seite.slug !== "start" ? (
+      <nav aria-label="Pfad" className="klein mb-4 text-grau">
+        <ol className="flex flex-wrap items-center gap-x-2">
+          <li>
+            <Link href="/" className="hover:underline">{t.ui.startseite}</Link>
+          </li>
+          {eltern ? (
+            <li className="flex items-center gap-2">
+              <span aria-hidden="true">/</span>
+              <Link href={seitenPfad(eltern)} className="capitalize hover:underline">{eltern.split("/").pop()!.replaceAll("-", " ")}</Link>
+            </li>
+          ) : null}
+          <li className="flex items-center gap-2" aria-current="page">
+            <span aria-hidden="true">/</span>
+            <span className="text-tinte-2">{seite.titel}</span>
+          </li>
+        </ol>
+      </nav>
+    ) : null;
+
+  if (hero.variante === "start") {
+    return (
+      <section className="relative overflow-hidden">
+        <div className="absolute inset-y-0 right-0 hidden w-[42%] bg-apricot lg:block" aria-hidden="true" />
+        <div className="behaelter relative grid items-center gap-10 py-10 lg:grid-cols-[1.05fr_0.95fr] lg:py-20">
+          <div className="hero-auftritt max-w-2xl">
+            {hero.kurzzeile ? <p className="etikett">{hero.kurzzeile}</p> : null}
+            <h1 className="h-display mt-5">{hero.titel}</h1>
+            {hero.text ? <p className="vorspann mt-6 max-w-[34rem]">{hero.text}</p> : null}
+            <div className="mt-8 flex flex-wrap items-center gap-3">
+              {hero.knopf ? <SmartLink link={hero.knopf} externText={t.ui.externerLink} className="knopf knopf-orange" /> : null}
+              {hero.zweiterKnopf ? <SmartLink link={hero.zweiterKnopf} externText={t.ui.externerLink} className="knopf knopf-sekundaer" mitPfeil={false} /> : null}
+            </div>
+          </div>
+          <div className="relative">
+            <div className="relative overflow-hidden rounded-[var(--radius-gross)] bg-emaille shadow-weich lg:-mr-6" style={{ aspectRatio: hero.bild ? `${hero.bild.breite} / ${hero.bild.hoehe}` : "4 / 3" }}>
+              {hero.bild ? <Bild bild={hero.bild} sizes="(min-width: 1024px) 45vw, 100vw" prioritaet className="h-full w-full object-cover" /> : null}
+            </div>
+            <Farbring className="absolute -bottom-3 left-6 h-8 w-[60%] max-w-xs drop-shadow-sm lg:-left-8" />
+          </div>
+        </div>
+        <div className="border-y border-linie bg-papier">
+          <div className="behaelter flex flex-wrap items-center gap-x-8 gap-y-2 py-3 text-tinte-2">
+            <a href={`tel:${e.telefon.replace(/\s/g, "")}`} className="inline-flex min-h-11 items-center gap-2 hover:underline">
+              <Phone size={18} weight="bold" aria-hidden="true" className="text-rost" />
+              {e.telefon}
+            </a>
+            <span className="klein">{e.adresse.strasse}, {e.adresse.plz} {e.adresse.ort}</span>
+            <span className="klein">{e.oeffnungszeiten.map((z) => `${z.tage} ${z.zeiten}`).join(" · ")}</span>
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  if (hero.variante === "artikel") {
+    return (
+      <header className="pt-8 sm:pt-12">
+        <div className="behaelter-schmal">
+          {brotkrumen}
+          {hero.kurzzeile ? <p className="etikett">{hero.kurzzeile}</p> : <p className="etikett etikett-grau">{t.ui.ratgeber}</p>}
+          <h1 className="titel-1 mt-4">{hero.titel}</h1>
+          {hero.text ? <p className="vorspann mt-5">{hero.text}</p> : null}
+        </div>
+        {hero.bild ? (
+          <div className="behaelter mt-8">
+            <div className="bild-rahmen mx-auto max-h-[520px] max-w-4xl" style={{ aspectRatio: `${hero.bild.breite} / ${hero.bild.hoehe}` }}>
+              <Bild bild={hero.bild} sizes="(min-width: 1024px) 896px, 100vw" prioritaet />
+            </div>
+          </div>
+        ) : null}
+      </header>
+    );
+  }
+
+  return (
+    <header className="border-b border-linie bg-emaille">
+      <div className={`behaelter grid gap-8 py-10 sm:py-14 ${hero.bild ? "lg:grid-cols-[1.2fr_0.8fr] lg:items-center" : ""}`}>
+        <div className="hero-auftritt max-w-3xl">
+          {brotkrumen}
+          {hero.kurzzeile ? <p className="etikett">{hero.kurzzeile}</p> : null}
+          <h1 className="titel-1 titel-strich mt-3">{hero.titel}</h1>
+          {hero.text ? <p className="vorspann mt-5 max-w-[38rem]">{hero.text}</p> : null}
+          {hero.knopf || hero.zweiterKnopf ? (
+            <div className="mt-7 flex flex-wrap gap-3">
+              {hero.knopf ? <SmartLink link={hero.knopf} externText={t.ui.externerLink} className="knopf knopf-primaer" /> : null}
+              {hero.zweiterKnopf ? <SmartLink link={hero.zweiterKnopf} externText={t.ui.externerLink} className="knopf knopf-sekundaer" /> : null}
+            </div>
+          ) : null}
+        </div>
+        {hero.bild ? (
+          <div className="bild-rahmen" style={{ aspectRatio: `${hero.bild.breite} / ${hero.bild.hoehe}` }}>
+            <Bild bild={hero.bild} sizes="(min-width: 1024px) 40vw, 100vw" prioritaet />
+          </div>
+        ) : null}
+      </div>
+    </header>
+  );
+}

@@ -1,0 +1,191 @@
+@import "tailwindcss";
+
+/*
+ * Design «Farbring» – WHITE SMYLE dental
+ * Herkunft: Logo (Halbkreis Lime/Orange mit weisser Welle, Serifen-Wortmarke), die orangen Flächen der alten Website,
+ * der Zahnfarbring (Shade Guide) auf den Praxisfotos. Eine Akzentfarbe (Orange), Lime nur im Logo.
+ * Helles Thema fest (Marke «WHITE», Fotos auf Weiss freigestellt, Gesundheitskommunikation wie Print).
+ */
+@theme static {
+  --color-tinte: #1c1b1a;
+  --color-tinte-2: #4a4744;
+  --color-grau: #6b6762;
+  --color-linie: #e6e2dc;
+  --color-linie-2: #d6d0c8;
+  --color-papier: #ffffff;
+  --color-emaille: #f6f4f0;
+  --color-apricot: #fbe9d7;
+  --color-mandarine: #e9803b;
+  --color-mandarine-dunkel: #d06a26;
+  --color-rost: #b04a10;
+  --color-lime: #7ac943;
+  --color-fokus: #1d5fd1;
+  --color-hinweis: #fff7ed;
+
+  --font-display: "Gabarito Variable", "Gabarito", system-ui, sans-serif;
+  --font-text: "Figtree Variable", "Figtree", system-ui, sans-serif;
+
+  --radius-klein: 6px;
+  --radius-mittel: 14px;
+  --radius-gross: 22px;
+
+  --shadow-weich: 0 1px 2px rgb(28 27 26 / 0.04), 0 12px 32px -12px rgb(176 74 16 / 0.18);
+  --ease-aus: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+  :root {
+    color-scheme: light;
+    --messlinie: repeating-linear-gradient(90deg, var(--color-linie-2) 0 1px, transparent 1px 8px);
+  }
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5.5rem;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-papier text-tinte font-text antialiased;
+    font-size: 1.0625rem;
+    line-height: 1.6;
+    font-feature-settings: "kern", "liga";
+    overflow-x: clip;
+  }
+  h1, h2, h3, h4 {
+    @apply font-display;
+    text-wrap: balance;
+    letter-spacing: -0.015em;
+    line-height: 1.1;
+    font-weight: 700;
+  }
+  p { text-wrap: pretty; }
+  a { text-underline-offset: 0.15em; }
+  :focus-visible {
+    outline: 3px solid var(--color-fokus);
+    outline-offset: 3px;
+    border-radius: 3px;
+  }
+  ::selection { background: var(--color-apricot); }
+  button { font: inherit; }
+  img { display: block; max-width: 100%; height: auto; }
+  strong { font-weight: 650; }
+  dialog::backdrop { background: rgb(28 27 26 / 0.55); }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; }
+  }
+}
+
+@layer components {
+  .behaelter { @apply mx-auto w-full max-w-[1280px] px-4 sm:px-6 lg:px-10; }
+  .behaelter-schmal { @apply mx-auto w-full max-w-[44rem] px-4 sm:px-6; }
+  .abschnitt { @apply py-14 sm:py-20 lg:py-24; }
+  .abschnitt-eng { @apply py-10 sm:py-14; }
+
+  /* Titelzeilen: Orange-Strich links als Herkunftsmarker (statt Eyebrow-Inflation) */
+  .titel-strich { position: relative; padding-left: 1rem; }
+  .titel-strich::before { content: ""; position: absolute; left: 0; top: 0.2em; bottom: 0.2em; width: 4px; border-radius: 2px; background: var(--color-mandarine); }
+
+  .h-display { font-size: clamp(2.25rem, 1.4rem + 3.4vw, 4.25rem); line-height: 1.02; letter-spacing: -0.025em; font-weight: 800; }
+  .titel-1 { font-size: clamp(2rem, 1.3rem + 2.4vw, 3.25rem); }
+  .titel-2 { font-size: clamp(1.55rem, 1.2rem + 1.3vw, 2.25rem); }
+  .titel-3 { font-size: clamp(1.2rem, 1.05rem + 0.6vw, 1.5rem); line-height: 1.2; }
+  .vorspann { font-size: clamp(1.1rem, 1rem + 0.45vw, 1.3rem); line-height: 1.5; color: var(--color-tinte-2); }
+  .klein { font-size: 0.9375rem; line-height: 1.5; }
+  .winzig { font-size: 0.8125rem; line-height: 1.45; }
+  .preis { @apply font-display; font-variant-numeric: tabular-nums; letter-spacing: -0.02em; font-weight: 800; }
+
+  .knopf {
+    @apply inline-flex items-center justify-center gap-2 font-display font-semibold;
+    min-height: 3rem; padding: 0.75rem 1.35rem; border-radius: 999px; line-height: 1.15; font-size: 1rem;
+    border: 2px solid transparent; text-decoration: none; cursor: pointer;
+    transition: transform 220ms var(--ease-aus), background-color 220ms var(--ease-aus), color 220ms var(--ease-aus), border-color 220ms var(--ease-aus);
+  }
+  .knopf:active { transform: translateY(1px) scale(0.985); }
+  .knopf-primaer { background: var(--color-tinte); color: var(--color-papier); border-color: var(--color-tinte); }
+  .knopf-primaer:hover { background: #2f2c29; border-color: #2f2c29; }
+  .knopf-orange { background: var(--color-mandarine); color: var(--color-tinte); border-color: var(--color-mandarine); }
+  .knopf-orange:hover { background: var(--color-mandarine-dunkel); border-color: var(--color-mandarine-dunkel); }
+  .knopf-sekundaer { background: transparent; color: var(--color-tinte); border-color: var(--color-linie-2); }
+  .knopf-sekundaer:hover { border-color: var(--color-tinte); }
+  .knopf-hell { background: var(--color-papier); color: var(--color-tinte); border-color: var(--color-papier); }
+  .knopf-hell:hover { background: var(--color-emaille); border-color: var(--color-emaille); }
+  .knopf-klein { min-height: 2.75rem; padding: 0.5rem 1rem; font-size: 0.9375rem; }
+
+  .textlink { color: var(--color-rost); text-decoration: underline; text-decoration-thickness: 1.5px; font-weight: 600; }
+  .textlink:hover { color: var(--color-tinte); }
+
+  .karte { background: var(--color-papier); border: 1px solid var(--color-linie); border-radius: var(--radius-gross); }
+  .karte-orange { background: var(--color-apricot); border-radius: var(--radius-gross); }
+  .flaeche { background: var(--color-emaille); }
+
+  .etikett { @apply inline-flex items-center gap-1.5 font-display font-semibold; font-size: 0.8125rem; letter-spacing: 0.01em; padding: 0.3rem 0.7rem; border-radius: 999px; background: var(--color-apricot); color: var(--color-rost); }
+  .etikett-grau { background: var(--color-emaille); color: var(--color-tinte-2); }
+
+  /* Lesetext (Portable Text) */
+  .lesetext { color: var(--color-tinte); overflow-wrap: anywhere; hyphens: auto; }
+  .lesetext > * + * { margin-top: 1em; }
+  .lesetext h2 { font-size: clamp(1.55rem, 1.2rem + 1.3vw, 2.25rem); margin-top: 2.2em; }
+  .lesetext h3 { font-size: clamp(1.2rem, 1.05rem + 0.6vw, 1.5rem); line-height: 1.2; margin-top: 1.8em; }
+  .lesetext h4 { font-size: 1.05rem; margin-top: 1.5em; }
+  .lesetext ul, .lesetext ol { padding-left: 1.35rem; }
+  .lesetext ul { list-style: none; }
+  .lesetext ul > li { position: relative; padding-left: 0.2rem; }
+  .lesetext ul > li::before { content: ""; position: absolute; left: -1.15rem; top: 0.62em; width: 0.5rem; height: 0.5rem; border-radius: 50%; background: var(--color-mandarine); }
+  .lesetext ol { list-style: decimal; }
+  .lesetext li + li { margin-top: 0.4em; }
+  .lesetext a { color: var(--color-rost); text-decoration: underline; text-decoration-thickness: 1.5px; font-weight: 600; }
+  .lesetext a:hover { color: var(--color-tinte); }
+  .lesetext blockquote { border-left: 4px solid var(--color-mandarine); padding: 0.25rem 0 0.25rem 1.1rem; color: var(--color-tinte-2); font-style: italic; }
+  .lesetext table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+  .lesetext th, .lesetext td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var(--color-linie); vertical-align: top; }
+  .lesetext .quelle { font-size: 0.9375rem; line-height: 1.5; color: var(--color-grau); }
+
+  /* Auftauchen beim Scrollen: nur transform/opacity, abgeschaltet bei reduzierter Bewegung */
+  .auftauchen { animation: auftauchen 0.8s var(--ease-aus) both; animation-timeline: view(); animation-range: entry 0% entry 35%; }
+  @keyframes auftauchen { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .auftauchen { animation: none; } }
+  @supports not (animation-timeline: view()) { .auftauchen { animation: none; } }
+
+  .hero-auftritt > * { animation: auftauchen 0.9s var(--ease-aus) both; }
+  .hero-auftritt > *:nth-child(2) { animation-delay: 80ms; }
+  .hero-auftritt > *:nth-child(3) { animation-delay: 160ms; }
+  .hero-auftritt > *:nth-child(4) { animation-delay: 240ms; }
+  @media (prefers-reduced-motion: reduce) { .hero-auftritt > * { animation: none; } }
+
+  .bild-rahmen { overflow: hidden; border-radius: var(--radius-gross); background: var(--color-emaille); }
+  .bild-rahmen img { width: 100%; height: 100%; object-fit: cover; }
+
+  .nur-sr { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+
+  /* Navigation */
+  .nav-link { @apply font-display font-semibold; display: inline-flex; align-items: center; gap: 0.35rem; min-height: 2.75rem; padding: 0.4rem 0.8rem; border-radius: 999px; color: var(--color-tinte); text-decoration: none; }
+  .nav-link:hover, .nav-link[aria-expanded="true"] { background: var(--color-emaille); }
+  .nav-link[aria-current="page"] { box-shadow: inset 0 -3px 0 var(--color-mandarine); border-radius: 0.25rem; }
+  .nav-untermenue { position: absolute; top: calc(100% + 0.4rem); left: 0; min-width: 16rem; padding: 0.5rem; background: var(--color-papier); border: 1px solid var(--color-linie); border-radius: var(--radius-mittel); box-shadow: var(--shadow-weich); z-index: 40; }
+  .nav-untermenue a { display: block; padding: 0.6rem 0.8rem; border-radius: var(--radius-klein); color: var(--color-tinte); text-decoration: none; }
+  .nav-untermenue a:hover { background: var(--color-emaille); }
+  .nav-untermenue a[aria-current="page"] { color: var(--color-rost); font-weight: 600; }
+
+  /* Formular */
+  .feld { display: grid; gap: 0.4rem; }
+  .feld label { font-weight: 600; }
+  .feld input, .feld select, .feld textarea { width: 100%; min-height: 3rem; padding: 0.7rem 0.9rem; border: 1.5px solid var(--color-linie-2); border-radius: var(--radius-klein); background: var(--color-papier); color: var(--color-tinte); }
+  .feld input::placeholder, .feld textarea::placeholder { color: var(--color-grau); }
+  .feld input:focus-visible, .feld select:focus-visible, .feld textarea:focus-visible { outline-offset: 0; border-color: var(--color-fokus); }
+  .feld .fehler { color: #a3261e; font-weight: 600; }
+  .feld-hilfe { font-size: 0.9375rem; line-height: 1.5; color: var(--color-grau); }
+
+  /* Akkordeon */
+  .akkordeon { border-top: 1px solid var(--color-linie); }
+  .akkordeon summary { list-style: none; cursor: pointer; display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; padding: 1.1rem 0.25rem; @apply font-display font-semibold; font-size: 1.1rem; min-height: 3rem; }
+  .akkordeon summary::-webkit-details-marker { display: none; }
+  .akkordeon summary .plus { flex: none; width: 1.75rem; height: 1.75rem; border-radius: 50%; border: 1.5px solid var(--color-linie-2); display: grid; place-items: center; transition: transform 250ms var(--ease-aus), background-color 250ms; }
+  .akkordeon[open] summary .plus { transform: rotate(45deg); background: var(--color-apricot); border-color: var(--color-apricot); }
+  .akkordeon > div { padding: 0 0.25rem 1.3rem; }
+
+  .preiszeile { display: grid; grid-template-columns: 1fr auto; gap: 0.5rem 1.5rem; align-items: baseline; padding: 1rem 0; border-top: 1px solid var(--color-linie); }
+  .preiszeile .punkte { flex: 1; border-bottom: 2px dotted var(--color-linie-2); transform: translateY(-0.3em); }
+
+  .demo-hinweis { font-size: 0.8125rem; line-height: 1.45; background: var(--color-tinte); color: #d8d3cc; text-align: center; padding: 0.45rem 1rem; }
+}
