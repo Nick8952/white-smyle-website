@@ -94,7 +94,7 @@ const TEXTE_QUERY = defineQuery(`*[_type == "texte"][0] {
 const SEITE_QUERY = defineQuery(`*[_type == "seite" && slug.current == $slug][0] {
   "id": _id, "slug": slug.current, titel, art, teaser, einleitung, seoTitel, seoBeschreibung, alteUrls, mitInhaltsverzeichnis, quelle, pruefstatus, freigabedatum,
   bild ${BILD_PROJEKTION},
-  hero { kurzzeile, titel, text, variante, knopf ${LINK}, zweiterKnopf ${LINK}, bild ${BILD_PROJEKTION} },
+  hero { kurzzeile, titel, text, variante, knopf ${LINK}, zweiterKnopf ${LINK}, fakten, angebot { etikett, titel, preisText, hinweis, link ${LINK} }, bild ${BILD_PROJEKTION} },
   ${BAUSTEINE}
 }`);
 

@@ -132,7 +132,10 @@ for (const f of seitenDateien) {
   if (typeof s.seoBeschreibung === "string" && s.seoBeschreibung.length > 170) warnungen.push(`${ort}: SEO-Beschreibung ${s.seoBeschreibung.length} Zeichen`);
   bildPruefen(s.bild as never, `${ort} Titelbild`);
   const hero = s.hero as Roh | undefined;
-  if (hero) { bildPruefen(hero.bild as never, `${ort} hero`); for (const k of ["knopf", "zweiterKnopf"]) linkSammeln((hero[k] as { ziel?: string } | undefined)?.ziel, `${ort} hero`); textPruefen(hero.titel, `${ort} hero`); textPruefen(hero.text, `${ort} hero`); }
+  if (hero) { bildPruefen(hero.bild as never, `${ort} hero`); for (const k of ["knopf", "zweiterKnopf"]) linkSammeln((hero[k] as { ziel?: string } | undefined)?.ziel, `${ort} hero`); textPruefen(hero.titel, `${ort} hero`); textPruefen(hero.text, `${ort} hero`);
+    for (const f of (hero.fakten as string[] | undefined) ?? []) textPruefen(f, `${ort} hero.fakten`);
+    const angebot = hero.angebot as { titel?: string; preisText?: string; hinweis?: string; link?: { ziel?: string } } | undefined;
+    if (angebot) { textPruefen(angebot.titel, `${ort} hero.angebot`); textPruefen(angebot.hinweis, `${ort} hero.angebot`); linkSammeln(angebot.link?.ziel, `${ort} hero.angebot`); if (!/^(ab )?CHF \d+\.–$/.test(angebot.preisText ?? "")) fehler.push(`${ort} hero.angebot: preisText «${angebot.preisText}» muss wie «CHF 399.–» oder «ab CHF 399.–» aussehen`); } }
   if (!s.quelle && s.art !== "rechtliches") warnungen.push(`${ort}: keine Quellenangabe`);
   const keys = new Set<string>(); const anker = new Set<string>();
   for (const b of (s.bausteine as Roh[]) ?? []) {

@@ -150,3 +150,14 @@ Nick fand das Seitenende zu unruhig (Zahnfarbskala-Streifen im orangen Aufruf-Ba
 insgesamt einen cleaneren Auftritt, passend zu einer Zahnpraxis. Umgesetzt: Farbskala-Grafik («Farbring») an allen sechs Stellen entfernt
 (Hero, Aufruf-Band, Footer, Kombikarten, Preistafel, 404), Komponente gelöscht; Aufruf-Band von Orange auf helles Emaille mit orangem
 Primärknopf; Footer weiss mit einer Hairline statt Grau + Streifen. Audit und 36 Funktionsprüfungen danach erneut grün.
+
+### Nachtrag 24.09.2026: Startseiten-Hero neu (Interesse sofort wecken)
+Auf Wunsch von Nick soll der erste Bildschirm sofort Interesse wecken. Umgesetzt: Headline «Saubere Zähne. Sichtbar weisser. Beides in einer
+Sitzung.», vier belegte Vertrauensfakten mit Häkchen unter den Knöpfen (Krankenkassen anerkannt für Dentalhygiene, dipl. Dentalhygienikerin HF,
+ca. 800 Bleachings pro Jahr, über 30 Jahre Berufserfahrung) und eine Angebotskarte über dem Bild (Kombipaket Dentalhygiene & Power Bleaching
+CHF 399.–, Einzelpreise zusammen CHF 424.–, ca. 2 Stunden, Link zum Kombipaket). Neue optionale Hero-Felder `fakten` und `angebot` in Typen,
+beiden Adaptern, Sanity-Schema und `inhalt:pruefen` (Preisformat wird geprüft).
+Codex-Review (read-only): 1 hoch, 2 mittel, 1 niedrig, alle umgesetzt: Headline von «Gesunde Zähne … In einer Sitzung» auf «Saubere Zähne …
+In einer Sitzung» (kein Gesundheitsversprechen pro Sitzung; «Beides in einer Sitzung» brach auf vier Zeilen um), «Krankenkassen anerkannt» mit Kontext «für Dentalhygiene», «seit 2012»
+wegen des 2011/2012-Widerspruchs der Quelle aus dem Hero genommen, «Einzelpreise zusammen CHF 424.–» statt «Einzeln». Barrierefreiheit laut
+Codex ohne Befund (Reihenfolge, Touch-Ziele, Fokus). Audit 360/390/768/1440 und 36 Funktionsprüfungen grün.

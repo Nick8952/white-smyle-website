@@ -1,7 +1,8 @@
 import Link from "next/link";
-import { Phone } from "@phosphor-icons/react/dist/ssr";
+import { ArrowRight, CheckCircle, Phone } from "@phosphor-icons/react/dist/ssr";
 import type { Einstellungen, Hero as HeroTyp, Seite, Texte } from "@/lib/content/types";
 import { seitenPfad } from "@/lib/content/types";
+import { sichererLink } from "@/lib/assets";
 import { Bild } from "./Bild";
 import { SmartLink } from "./SmartLink";
 
@@ -47,11 +48,40 @@ export function Hero({ hero, einstellungen: e, texte: t, seite }: { hero: HeroTy
               {hero.knopf ? <SmartLink link={hero.knopf} externText={t.ui.externerLink} className="knopf knopf-orange" /> : null}
               {hero.zweiterKnopf ? <SmartLink link={hero.zweiterKnopf} externText={t.ui.externerLink} className="knopf knopf-sekundaer" mitPfeil={false} /> : null}
             </div>
+            {hero.fakten?.length ? (
+              <ul className="klein mt-7 flex flex-wrap gap-x-5 gap-y-2 text-tinte-2" aria-label="Auf einen Blick">
+                {hero.fakten.map((f) => (
+                  <li key={f} className="inline-flex items-center gap-1.5">
+                    <CheckCircle size={18} weight="fill" aria-hidden="true" className="shrink-0 text-mandarine" />
+                    {f}
+                  </li>
+                ))}
+              </ul>
+            ) : null}
           </div>
-          <div className="relative">
+          <div className="relative lg:pb-10">
             <div className="relative overflow-hidden rounded-[var(--radius-gross)] bg-emaille shadow-weich lg:-mr-6" style={{ aspectRatio: hero.bild ? `${hero.bild.breite} / ${hero.bild.hoehe}` : "4 / 3" }}>
               {hero.bild ? <Bild bild={hero.bild} sizes="(min-width: 1024px) 45vw, 100vw" prioritaet className="h-full w-full object-cover" /> : null}
             </div>
+            {hero.angebot ? (
+              <Link
+                href={sichererLink(hero.angebot.link.ziel)}
+                className="group mt-4 flex items-center gap-5 rounded-[var(--radius-mittel)] border border-linie bg-papier p-5 shadow-weich transition-colors hover:border-mandarine lg:absolute lg:-bottom-2 lg:left-0 lg:mt-0 lg:max-w-[26rem] lg:-translate-x-10"
+              >
+                <div className="min-w-0 flex-1">
+                  {hero.angebot.etikett ? <p className="klein font-semibold uppercase tracking-wide text-rost">{hero.angebot.etikett}</p> : null}
+                  <p className="font-display font-semibold leading-snug">{hero.angebot.titel}</p>
+                  {hero.angebot.hinweis ? <p className="klein mt-1 text-grau">{hero.angebot.hinweis}</p> : null}
+                </div>
+                <div className="shrink-0 text-right">
+                  <p className="preis text-2xl">{hero.angebot.preisText}</p>
+                  <p className="klein inline-flex items-center gap-1 text-rost group-hover:underline">
+                    {hero.angebot.link.titel}
+                    <ArrowRight size={14} weight="bold" aria-hidden="true" />
+                  </p>
+                </div>
+              </Link>
+            ) : null}
           </div>
         </div>
         <div className="border-y border-linie bg-papier">

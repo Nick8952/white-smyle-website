@@ -13,17 +13,33 @@
  "pruefstatus": "sprachlich-angepasst",
  "hero": {
   "variante": "start",
-  "kurzzeile": "Präventionsspezialist seit 2012",
-  "titel": "Gründlich gereinigt. Sichtbar weiss. Persönlich betreut.",
-  "text": "Dentalhygiene nur durch die dipl. Dentalhygienikerin HF und professionelles Bleaching – in einer Sitzung kombinierbar, zentral in Zürich Altstetten.",
+  "kurzzeile": "Dentalhygiene & Bleaching in Zürich Altstetten",
+  "titel": "Saubere Zähne. Sichtbar weisser. In einer Sitzung.",
+  "text": "Dentalhygiene ausschliesslich durch die dipl. Dentalhygienikerin HF, professionelles Bleaching direkt im Anschluss. Krankenkassen anerkannt, Termine online buchbar.",
   "knopf": {
    "titel": "Termin online buchen",
    "ziel": "https://app.cituro.com/booking/2814276",
    "extern": true
   },
   "zweiterKnopf": {
-   "titel": "Angebote vergleichen",
+   "titel": "Preise ansehen",
    "ziel": "/preise/"
+  },
+  "fakten": [
+   "Krankenkassen anerkannt für Dentalhygiene",
+   "dipl. Dentalhygienikerin HF",
+   "Ca. 800 Bleachings pro Jahr",
+   "Über 30 Jahre Berufserfahrung"
+  ],
+  "angebot": {
+   "etikett": "Kombipaket",
+   "titel": "Dentalhygiene & Power Bleaching in einer Sitzung",
+   "preisText": "CHF 399.–",
+   "hinweis": "Einzelpreise zusammen CHF 424.–, Dauer ca. 2 Stunden",
+   "link": {
+    "titel": "Zum Kombipaket",
+    "ziel": "/kombipaket/"
+   }
   },
   "bild": {
    "bild": "hero-farbring",

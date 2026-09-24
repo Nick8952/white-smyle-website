@@ -506,12 +506,24 @@ export const BAUSTEIN_TYPEN: Baustein["_type"][] = [
 
 export type SeitenArt = "seite" | "leistung" | "ratgeber" | "fragebogen" | "rechtliches";
 
+/** Angebotskarte im Startseiten-Hero: belegter Preis aus der Preisliste, kein Verkaufsdruck. */
+export interface HeroAngebot {
+  etikett?: string;
+  titel: string;
+  preisText: string;
+  hinweis?: string;
+  link: Link;
+}
+
 export interface Hero {
   kurzzeile?: string;
   titel: string;
   text?: string;
   knopf?: Link;
   zweiterKnopf?: Link;
+  /** Kurze, belegte Vertrauensfakten unter den Knöpfen (nur Startseite), z. B. «Krankenkassen anerkannt» */
+  fakten?: string[];
+  angebot?: HeroAngebot;
   bild?: Bild;
   /** Startseite: grosse zweispaltige Komposition; sonst kompakter Seitenkopf */
   variante: "start" | "seite" | "artikel";

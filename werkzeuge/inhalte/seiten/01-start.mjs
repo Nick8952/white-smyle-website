@@ -5,9 +5,13 @@ export default [{
   seoTitel: "Dentalhygiene & Bleaching Zürich – WHITE SMYLE dental",
   seoBeschreibung: "Dentalhygiene CHF 175.– durch dipl. Dentalhygienikerin HF, Kombipaket Dentalhygiene & Bleaching ab CHF 399.– – WHITE SMYLE dental in Zürich Altstetten. Online buchen.",
   alteUrls: ["/", "/index.html"], quelle: "whitesmyle.ch (Startseite)", pruefstatus: "sprachlich-angepasst",
-  hero: { variante: "start", kurzzeile: "Präventionsspezialist seit 2012", titel: "Gründlich gereinigt. Sichtbar weiss. Persönlich betreut.",
-    text: "Dentalhygiene nur durch die dipl. Dentalhygienikerin HF und professionelles Bleaching – in einer Sitzung kombinierbar, zentral in Zürich Altstetten.",
-    knopf: BUCHEN, zweiterKnopf: { titel: "Angebote vergleichen", ziel: "/preise/" },
+  hero: { variante: "start", kurzzeile: "Dentalhygiene & Bleaching in Zürich Altstetten", titel: "Saubere Zähne. Sichtbar weisser. In einer Sitzung.",
+    text: "Dentalhygiene ausschliesslich durch die dipl. Dentalhygienikerin HF, professionelles Bleaching direkt im Anschluss. Krankenkassen anerkannt, Termine online buchbar.",
+    knopf: BUCHEN, zweiterKnopf: { titel: "Preise ansehen", ziel: "/preise/" },
+    // Belegte Fakten: Krankenkassen anerkannt (dentalhygiene.html), Berufsbezeichnung (Impressum/Bewilligung), ca. 800 Bleachings pro Jahr (AGB 05/2025; «seit 2012» bewusst nicht im Hero, weil die Quelle auch 2011 nennt), über 30 Jahre Berufserfahrung (dentalhygiene.html)
+    fakten: ["Krankenkassen anerkannt für Dentalhygiene", "dipl. Dentalhygienikerin HF", "Ca. 800 Bleachings pro Jahr", "Über 30 Jahre Berufserfahrung"],
+    // Preis aus data/kombinationen.json (kombi-power: 399, Einzelpreise 175 + 249 = 424)
+    angebot: { etikett: "Kombipaket", titel: "Dentalhygiene & Power Bleaching in einer Sitzung", preisText: "CHF 399.–", hinweis: "Einzelpreise zusammen CHF 424.–, Dauer ca. 2 Stunden", link: { titel: "Zum Kombipaket", ziel: "/kombipaket/" } },
     bild: bild("hero-farbring", "Lachende Frau hält einen Zahnfarbring vor ihre Zähne") },
   bausteine: [
     b("linkkartenBaustein", { titel: "Drei Wege zu gesunden und weissen Zähnen", spalten: 3, karten: [
