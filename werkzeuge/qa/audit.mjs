@@ -39,7 +39,7 @@ for (const breite of breiten) {
       };
     });
     if (screenshots) await p.screenshot({ path: `pruefung/shots/${seite.replaceAll("/", "_") || "_"}-${breite}.png`, fullPage: true });
-    const z = { status: resp?.status(), seite, breite, ...audit, extern: [...new Set(extern)], konsole: konsole.filter((k) => !(/status of 404/.test(k) && /gibt-es-nicht/.test(seite))) };
+    const z = { status: resp?.status(), seite, breite, ...audit, extern: [...new Set(extern)], konsole: konsole.filter((k) => !(/status of 404/.test(k) && resp?.status() === 404)) };
     bericht.push(z);
     const probleme = [z.status !== 200 && !/gibt-es-nicht/.test(seite) ? `status=${z.status}` : "", z.overflow ? `ÜBERLAUF ${z.breit.join(",")}` : "", z.zuKlein.length ? `klein: ${z.zuKlein.slice(0, 3).join(" | ")}` : "", z.bilderOhneAlt ? `alt fehlt ${z.bilderOhneAlt}` : "", z.h1 !== 1 ? `h1=${z.h1}` : "", z.extern.length ? `EXTERN ${z.extern.join(",")}` : "", z.konsole.length ? `KONSOLE ${z.konsole[0]}` : "", z.storage.length ? `storage ${z.storage}` : "", z.cookies ? "COOKIES" : ""].filter(Boolean);
     console.log(`${z.status} ${breite} ${seite} ${probleme.length ? "→ " + probleme.join(" · ") : "ok"}`);

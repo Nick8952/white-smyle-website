@@ -1,7 +1,6 @@
 import { chf, type Einstellungen, type Leistung, type PreistafelBaustein, type Texte } from "@/lib/content/types";
 import { Abschnitt } from "./Abschnitt";
 import { BuchenLink } from "./BuchenLink";
-import { Farbring } from "./Farbring";
 import { Bild } from "./Bild";
 
 function preis(l: Leistung, t: Texte) {
@@ -24,10 +23,7 @@ export function Preistafel({ baustein: b, texte: t, einstellungen: e }: { bauste
       <div className="grid gap-8 lg:grid-cols-[1fr_1fr]">
         {gruppen.map((g) => (
           <div key={g.titel} className="auftauchen">
-            <div className="mb-2 flex items-end justify-between gap-4">
-              <h3 className="titel-3">{g.titel}</h3>
-              <Farbring className="h-4 w-28" anzahl={6} />
-            </div>
+            <h3 className="titel-3 mb-2">{g.titel}</h3>
             <ul>
               {g.leistungen.map((l) => {
                 const aktion = a && a.leistung?.id === l.id && a.status !== "abgelaufen" ? a : undefined;
@@ -54,10 +50,7 @@ export function Preistafel({ baustein: b, texte: t, einstellungen: e }: { bauste
           </div>
         ))}
         <div className="auftauchen lg:col-span-2">
-          <div className="mb-2 flex items-end justify-between gap-4">
-            <h3 className="titel-3">Kombipakete Dentalhygiene &amp; Bleaching</h3>
-            <Farbring className="h-4 w-28" anzahl={6} />
-          </div>
+          <h3 className="titel-3 mb-2">Kombipakete Dentalhygiene &amp; Bleaching</h3>
           <ul className="grid lg:grid-cols-2 lg:gap-x-10">
             {b.kombinationen.map((k) => (
               <li key={k.id} className="preiszeile">

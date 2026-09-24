@@ -3,7 +3,6 @@ import { chf, type Einstellungen, type KombinationenBaustein, type Texte } from 
 import { Abschnitt } from "./Abschnitt";
 import { Bild } from "./Bild";
 import { BuchenLink } from "./BuchenLink";
-import { Farbring } from "./Farbring";
 
 /**
  * Kombipakete als Vergleich: enthaltene Leistungen (Namen + Einzelpreise), Kombipreis, Differenz nur, wenn alle
@@ -21,7 +20,6 @@ export function Kombinationen({ baustein: b, texte: t, einstellungen: e }: { bau
               {k.bild ? (
                 <div className="relative aspect-[5/2] overflow-hidden bg-emaille">
                   <Bild bild={k.bild} sizes="(min-width: 1024px) 50vw, 100vw" className="h-full w-full object-cover" />
-                  <Farbring className="absolute bottom-2 left-4 h-6 w-40 drop-shadow-sm" />
                 </div>
               ) : null}
               <div className="flex flex-1 flex-col p-6 sm:p-7">

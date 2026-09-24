@@ -4,13 +4,15 @@ Eigenständiges Design für die White-Smyle-Demo. Kein Reskin früherer Demos; v
 Referenzarchitektur (Static Export, Sanity/Vercel-Kopiermuster) übernommen, kein CSS und kein Layout.
 
 ## Idee
-Die **Farbskala** («shade guide») aus der Zahnaufhellung ist das Signaturelement: ein Streifen aus Zahnfarb-Plättchen von warm bis
-kühlweiss (`components/Farbring.tsx`). Er taucht als Akzent unter dem Hero-Bild, in Preistafeln und Kombikarten auf. Die Marke bringt
-Lime und Orange aus dem Logo mit; Orange trägt die Handlungsaufforderungen, Lime bleibt dem Logo vorbehalten (zu wenig Kontrast auf Weiss).
-Ton: ruhig, hell, präzise; grosse Serifenlose Überschriften, viel Weissraum, Karten mit feinen Linien statt Schatten.
+Ruhig, hell, klinisch sauber: viel Weissraum, grosse serifenlose Überschriften, Karten mit feinen Linien statt Schatten. Die Marke bringt
+Lime und Orange aus dem Logo mit; Orange trägt die Handlungsaufforderungen und kleine Akzente (Icons, Etiketten), Lime bleibt dem Logo
+vorbehalten (zu wenig Kontrast auf Weiss). Der Name «Farbring» stammt von der ursprünglichen Zahnfarbskala-Grafik, die als Signatur unter
+dem Hero, in Preistafeln, Kombikarten, im Aufruf-Band und im Footer sass. **Auf Wunsch von Nick (24.09.2026) entfernt**, weil sie für eine
+Zahnpraxis zu unruhig wirkte; die Komponente `components/Farbring.tsx` wurde gelöscht. Signatur ist jetzt die Zurückhaltung selbst:
+ein einziger warmer Akzent (Apricot-Fläche im Hero), sonst Weiss, Hairlines und Typografie.
 
 ## Regler
-VARIANCE 5 (kontrollierte Asymmetrie: Farbstreifen, versetzte Bilder) · MOTION 3 (leise Scroll-Einblendungen, Hero-Auftritt) · DENSITY 4 (luftig, dennoch viel Inhalt pro Seite).
+VARIANCE 4 (leichte Asymmetrie: Apricot-Fläche im Hero, versetzte Bilder) · MOTION 3 (leise Scroll-Einblendungen, Hero-Auftritt) · DENSITY 4 (luftig, dennoch viel Inhalt pro Seite).
 
 ## Tokens (`app/globals.css`, `@theme static`)
 | Token | Wert | Verwendung |

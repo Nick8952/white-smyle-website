@@ -144,3 +144,9 @@ Behoben:
 - `docs/SANITY-VERCEL-EINRICHTUNG.md` und `docs/UMSTELLUNG-VERCEL.md` entsprechend präzisiert.
 
 Nach diesem Push löst der bestehende, bereits mit GitHub verbundene Vercel-Import automatisch ein neues Deployment aus; kein manuelles Eingreifen im Vercel-Dashboard nötig.
+
+### Nachtrag 24.09.2026: Design-Bereinigung auf Wunsch von Nick
+Nick fand das Seitenende zu unruhig (Zahnfarbskala-Streifen im orangen Aufruf-Band und als Trenner über dem Footer) und wünschte
+insgesamt einen cleaneren Auftritt, passend zu einer Zahnpraxis. Umgesetzt: Farbskala-Grafik («Farbring») an allen sechs Stellen entfernt
+(Hero, Aufruf-Band, Footer, Kombikarten, Preistafel, 404), Komponente gelöscht; Aufruf-Band von Orange auf helles Emaille mit orangem
+Primärknopf; Footer weiss mit einer Hairline statt Grau + Streifen. Audit und 36 Funktionsprüfungen danach erneut grün.

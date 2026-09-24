@@ -513,7 +513,7 @@ export interface Hero {
   knopf?: Link;
   zweiterKnopf?: Link;
   bild?: Bild;
-  /** Startseite: grosse Komposition mit Farbring; sonst kompakter Seitenkopf */
+  /** Startseite: grosse zweispaltige Komposition; sonst kompakter Seitenkopf */
   variante: "start" | "seite" | "artikel";
 }
 

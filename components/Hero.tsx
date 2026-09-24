@@ -3,12 +3,11 @@ import { Phone } from "@phosphor-icons/react/dist/ssr";
 import type { Einstellungen, Hero as HeroTyp, Seite, Texte } from "@/lib/content/types";
 import { seitenPfad } from "@/lib/content/types";
 import { Bild } from "./Bild";
-import { Farbring } from "./Farbring";
 import { SmartLink } from "./SmartLink";
 
 /**
  * Seitenkopf in drei Varianten:
- * - «start»: zweispaltig, links Titel/Text/Knöpfe, rechts Foto in Farbring-Rahmen (Signatur), oranger Hintergrundstreifen
+ * - «start»: zweispaltig, links Titel/Text/Knöpfe, rechts Foto, dezenter Apricot-Hintergrundstreifen
  * - «seite»: kompakter Kopf mit Titel, Einleitung, optionalem Bild rechts
  * - «artikel»: schmaler Lesekopf (Ratgeber) mit breitem Bild darunter
  */
@@ -53,7 +52,6 @@ export function Hero({ hero, einstellungen: e, texte: t, seite }: { hero: HeroTy
             <div className="relative overflow-hidden rounded-[var(--radius-gross)] bg-emaille shadow-weich lg:-mr-6" style={{ aspectRatio: hero.bild ? `${hero.bild.breite} / ${hero.bild.hoehe}` : "4 / 3" }}>
               {hero.bild ? <Bild bild={hero.bild} sizes="(min-width: 1024px) 45vw, 100vw" prioritaet className="h-full w-full object-cover" /> : null}
             </div>
-            <Farbring className="absolute -bottom-3 left-6 h-8 w-[60%] max-w-xs drop-shadow-sm lg:-left-8" />
           </div>
         </div>
         <div className="border-y border-linie bg-papier">

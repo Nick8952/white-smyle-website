@@ -86,8 +86,9 @@ plus einen Vercel-Probebuild und deployt `out/` nach GitHub Pages.
 - Externe Links immer mit `rel="noopener noreferrer"`; Ziel-Schemata über `lib/assets.ts` (`sichererLink`) begrenzt.
 - Demo bleibt `noindex,nofollow` (Ausnahme nur mit `INDEXIERUNG=1` beim Go-Live), `robots.txt` bleibt lesbar.
 
-### Design («Farbring»)
-- Eigenständiges Design, kein Reskin früherer Demos. Referenzarchitektur (Export/Sanity/Vercel-Kopiermuster) stammt aus früheren Projekten
+### Design («Farbring», seit 24.09.2026 ohne Farbskala-Grafik)
+- Eigenständiges Design, kein Reskin früherer Demos. **Clean-Vorgabe von Nick:** Zahnpraxis = ruhig und sauber; keine dekorativen Streifen,
+  Muster oder Farbflächen-Spielereien ergänzen. Aufruf-Band hell (emaille), Footer weiss mit Hairline. Referenzarchitektur (Export/Sanity/Vercel-Kopiermuster) stammt aus früheren Projekten
   des Workspaces, das Design nicht. Details, Tokens, Schriften, Bewegung: `docs/DESIGN.md`.
 - Schriften lokal (`@fontsource-variable/gabarito`, `@fontsource-variable/figtree`), keine externen Font- oder Icon-Quellen.
 - Heading-Grössen sind `.titel-1/.titel-2/.titel-3` (nicht `h-1…`, das sind Tailwind-Höhen). Touch-Ziele ≥ 44 px, Fokus sichtbar,

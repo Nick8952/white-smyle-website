@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { inhaltsquelle } from "@/lib/content";
-import { Farbring } from "@/components/Farbring";
 
 export default async function NichtGefunden() {
   const q = await inhaltsquelle();
@@ -8,7 +7,6 @@ export default async function NichtGefunden() {
   return (
     <section className="abschnitt">
       <div className="behaelter-schmal text-center">
-        <Farbring className="mx-auto mb-8 h-10 w-full max-w-md" />
         <p className="etikett">404</p>
         <h1 className="titel-1 mt-4">{t.ui.nichtGefundenTitel}</h1>
         <p className="vorspann mt-4">{t.ui.nichtGefundenText}</p>

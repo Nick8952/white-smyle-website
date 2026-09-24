@@ -1,8 +1,7 @@
 import type { AufrufBaustein, Texte } from "@/lib/content/types";
-import { Farbring } from "./Farbring";
 import { SmartLink } from "./SmartLink";
 
-/** Handlungsaufforderung: als oranges Band (Seitenende) oder als Karte im Fluss. Kein Verkaufsdruck, keine Countdowns. */
+/** Handlungsaufforderung: als ruhiges, helles Band (Seitenende) oder als Karte im Fluss. Kein Verkaufsdruck, keine Countdowns. */
 export function Aufruf({ baustein: b, texte: t }: { baustein: AufrufBaustein; texte: Texte }) {
   const inhalt = (
     <>
@@ -12,16 +11,15 @@ export function Aufruf({ baustein: b, texte: t }: { baustein: AufrufBaustein; te
         {b.text ? <p className="vorspann mt-3">{b.text}</p> : null}
       </div>
       <div className="flex flex-wrap gap-3 lg:justify-end">
-        <SmartLink link={b.knopf} externText={t.ui.externerLink} className={`knopf ${b.variante === "band" ? "knopf-primaer" : "knopf-orange"}`} />
-        {b.zweiterKnopf ? <SmartLink link={b.zweiterKnopf} externText={t.ui.externerLink} className={`knopf ${b.variante === "band" ? "knopf-hell" : "knopf-sekundaer"}`} mitPfeil={false} /> : null}
+        <SmartLink link={b.knopf} externText={t.ui.externerLink} className="knopf knopf-orange" />
+        {b.zweiterKnopf ? <SmartLink link={b.zweiterKnopf} externText={t.ui.externerLink} className="knopf knopf-sekundaer" mitPfeil={false} /> : null}
       </div>
     </>
   );
   if (b.variante === "band") {
     return (
-      <section id={b.anker} className="relative overflow-hidden bg-mandarine">
-        <Farbring className="absolute -top-1 right-0 h-10 w-64 opacity-70" richtung="ab" />
-        <div className="behaelter relative grid items-center gap-6 py-12 lg:grid-cols-[1.4fr_1fr] lg:py-16">{inhalt}</div>
+      <section id={b.anker} className="border-t border-linie bg-emaille">
+        <div className="behaelter grid items-center gap-8 py-16 lg:grid-cols-[1.4fr_1fr] lg:py-20">{inhalt}</div>
       </section>
     );
   }

@@ -3,13 +3,11 @@ import { ArrowUpRight, Clock, EnvelopeSimple, MapPin, Phone } from "@phosphor-ic
 import type { Einstellungen, Texte } from "@/lib/content/types";
 import { telefonInternational } from "@/lib/seo";
 import { Logo } from "./Logo";
-import { Farbring } from "./Farbring";
 import { SmartLink } from "./SmartLink";
 
 export function Fusszeile({ einstellungen: e, texte: t }: { einstellungen: Einstellungen; texte: Texte }) {
   return (
-    <footer className="mt-16 border-t border-linie bg-emaille">
-      <Farbring className="h-5 w-full" richtung="auf" />
+    <footer className="border-t border-linie bg-papier">
       <div className="behaelter grid gap-10 py-14 lg:grid-cols-[1.3fr_1fr_1fr_1fr]">
         <div>
           <Link href="/" className="inline-flex min-h-11 items-center rounded-md" aria-label={`${e.marke} – ${t.ui.startseite}`}>
@@ -79,7 +77,7 @@ export function Fusszeile({ einstellungen: e, texte: t }: { einstellungen: Einst
               </li>
             ))}
             <li>
-              <a href={e.shopUrl} target="_blank" rel="noopener noreferrer" className="klein inline-flex min-h-8 items-center gap-1 hover:underline">
+              <a href={e.shopUrl} target="_blank" rel="noopener noreferrer" className="klein inline-flex min-h-11 items-center gap-1 hover:underline">
                 {e.shopName}
                 <ArrowUpRight size={14} weight="bold" aria-hidden="true" />
                 <span className="nur-sr"> ({t.ui.externerLink})</span>
