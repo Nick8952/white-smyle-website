@@ -10,7 +10,7 @@ Voraussetzung: `docs/SANITY-VERCEL-EINRICHTUNG.md` Schritte 1 bis 5 erledigt.
 - [ ] Bildrechte/Einwilligungen für Team- und Patientenfotos schriftlich vorliegend
 
 ## Umschalten
-- [ ] Vercel-Env: `DEPLOY_TARGET=vercel`, `CONTENT_SOURCE=sanity`, `SITE_URL`, Sanity-Variablen, `SANITY_REVALIDATE_SECRET`
+- [ ] Vercel-Env (`DEPLOY_TARGET` und die Build-Konfiguration setzt bereits `vercel.json`): `CONTENT_SOURCE=sanity`, Sanity-Variablen, `SANITY_REVALIDATE_SECRET`, bei eigener Domain zusätzlich `SITE_URL`
 - [ ] `INDEXIERUNG=1` nur wenn die Seite wirklich live sein soll
 - [ ] Deploy prüfen: alle 46 Seiten (Liste in `docs/INHALTSINVENTUR.md`), 404-Seite, Downloads, Bilder (auf Vercel weiterhin aus `public/bilder/`, später optional Sanity-CDN)
 - [ ] Weiterleitungen testen: jede alte URL aus `data/weiterleitungen.json` → 308 auf neue URL (im Pages-Modus nicht aktiv)

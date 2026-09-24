@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { ArrowUpRight, Clock, EnvelopeSimple, MapPin, Phone } from "@phosphor-icons/react/dist/ssr";
-import type { Einstellungen, SeitenTeaser, Texte } from "@/lib/content/types";
+import type { Einstellungen, Texte } from "@/lib/content/types";
 import { telefonInternational } from "@/lib/seo";
 import { Logo } from "./Logo";
 import { Farbring } from "./Farbring";

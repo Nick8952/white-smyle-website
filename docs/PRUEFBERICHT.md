@@ -127,3 +127,20 @@ Gesundheitsdaten und keine Drittanfragen vor Einwilligung». 8 mittlere und 10 n
 
 Codex konnte nicht prüfen: frischen Build, Lint/Typecheck, `seed --probe` (tsx braucht im Read-only-Sandbox einen IPC-Socket), Darstellung bei 360 px,
 Screenreader, reales Sanity-Projekt, Git-Historie. Diese Punkte sind durch die Abschnitte 2 bis 6 dieses Berichts abgedeckt.
+
+### Nachtrag 24.09.2026: Vercel-Import durch Nick, Root-URL 404
+Nick hat das Repo eigenständig in Vercel importiert (`vercel.com/nick-3488/white-smyle-website`). Die Startseite lieferte 404, weil der
+Standard-Build (`npm run build`) den GitHub-Pages-Modus ausführt (Unterpfad `/white-smyle-website`), auf der Vercel-Domain aber die Wurzel
+erwartet wird. Zusätzlich hätte ein echter Server-Build ohne Sanity-Projekt gebrochen: `server-routes/app/api/vorschau/aktivieren/route.ts`
+baute den Sanity-Client beim Laden des Moduls statt erst beim Aufruf.
+
+Behoben:
+- `vercel.json` neu im Repo: setzt `buildCommand: npm run build:vercel` und `DEPLOY_TARGET=vercel` für Build und Laufzeit. Damit baut jeder
+  künftige Vercel-Import automatisch im richtigen Modus, ganz ohne Dashboard-Konfiguration; `SITE_URL` muss nicht gesetzt werden (Fallback
+  passt exakt zur `.vercel.app`-Domain).
+- Draft-Mode-Route macht den Sanity-Client jetzt lazy (baut ihn erst im Request-Handler). Ein `build:vercel` ohne jede Sanity-Umgebungsvariable
+  wurde lokal verifiziert (Build grün, Startseite 200, Preisseite 200, Download 200). `/studio` und `/api/vorschau/aktivieren` liefern ohne
+  echtes Sanity-Projekt weiterhin einen Fehler – das ist erwartet und betrifft nur diese zwei Routen, nicht die übrige Seite.
+- `docs/SANITY-VERCEL-EINRICHTUNG.md` und `docs/UMSTELLUNG-VERCEL.md` entsprechend präzisiert.
+
+Nach diesem Push löst der bestehende, bereits mit GitHub verbundene Vercel-Import automatisch ein neues Deployment aus; kein manuelles Eingreifen im Vercel-Dashboard nötig.

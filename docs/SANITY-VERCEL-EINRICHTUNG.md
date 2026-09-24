@@ -46,11 +46,15 @@ Alle Seiten müssen identisch aussehen wie mit lokalen Daten. Unterschiede deute
 Danach `CONTENT_SOURCE=sanity npm run build:vercel` als Build-Probe.
 
 ## 5. Vercel-Projekt
-1. Auf vercel.com «Import Git Repository» → `Nick8952/white-smyle-website`. Framework: Next.js. Build-Command: `npm run build:vercel`. Output: Standard.
-2. Umgebungsvariablen (Production + Preview):
-   `DEPLOY_TARGET=vercel`, `CONTENT_SOURCE=sanity`, `SITE_URL=https://<domain>`, `NEXT_PUBLIC_SANITY_PROJECT_ID`, `NEXT_PUBLIC_SANITY_DATASET`,
-   `NEXT_PUBLIC_SANITY_API_VERSION`, `SANITY_API_READ_TOKEN`, `SANITY_REVALIDATE_SECRET` (zufällige Zeichenkette), `INDEXIERUNG=1` erst beim Go-Live.
-3. Deploy auslösen. Prüfen: Startseite, tiefe URL direkt laden, `/studio`, `/api/vorschau/aktivieren` ohne gültigen Aufruf → Fehler (erwartet).
+1. Auf vercel.com «Import Git Repository» → `Nick8952/white-smyle-website`. `vercel.json` im Repo setzt Build-Command (`npm run build:vercel`)
+   und `DEPLOY_TARGET=vercel` (Build und Runtime) bereits automatisch — dashboardseitig ist nichts einzustellen, ein einfacher Import genügt.
+   `SITE_URL` muss ebenfalls nicht gesetzt werden: der Fallback in `lib/deploy-ziel.ts` ergibt exakt `https://<repo>.vercel.app`.
+2. Sanity-Umgebungsvariablen erst ergänzen, wenn ein echtes Projekt existiert (Production + Preview):
+   `CONTENT_SOURCE=sanity`, `NEXT_PUBLIC_SANITY_PROJECT_ID`, `NEXT_PUBLIC_SANITY_DATASET`, `NEXT_PUBLIC_SANITY_API_VERSION`,
+   `SANITY_API_READ_TOKEN`, `SANITY_REVALIDATE_SECRET` (zufällige Zeichenkette); eigene Domain zusätzlich `SITE_URL=https://<domain>`;
+   `INDEXIERUNG=1` erst beim Go-Live. Ohne diese Variablen läuft die Website mit den lokalen Daten weiter (Standard von `CONTENT_SOURCE`).
+3. Deploy auslösen. Prüfen: Startseite, tiefe URL direkt laden, Downloads. `/studio` und `/api/vorschau/aktivieren` liefern ohne echtes
+   Sanity-Projekt einen Fehler (erwartet und harmlos, betrifft nur diese beiden Routen, nicht die restliche Seite).
 4. Webhook in Sanity (API → Webhooks): URL `https://<domain>/api/revalidate` (ohne Query-Parameter), Trigger create/update/delete,
    Projection `{ "_type": _type, "slug": slug.current }`, **Feld «Secret» = derselbe Wert wie `SANITY_REVALIDATE_SECRET`** (die Route prüft die
    Sanity-Signatur im Header, kein Query-Secret; sonst 401). Danach eine Änderung im Studio speichern und prüfen, ob die Seite ohne Redeploy aktualisiert.
