@@ -13,7 +13,13 @@ export function Karte({ einstellungen: e, texte: t }: { einstellungen: Einstellu
   const zeigen = geladen && erlaubt("medien");
   return (
     <div className="grid gap-4">
-      <div className="relative overflow-hidden rounded-[var(--radius-gross)] border border-linie bg-emaille" style={{ aspectRatio: "16 / 9" }}>
+      {/* Mit iframe: feste 16:9-Box. Als Platzhalter: 16:9 nur als Mindesthöhe (Abstandhalter in derselben Rasterzelle), damit die Box
+          auf schmalen Bildschirmen oder bei grosser Schrift mitwächst, statt Text und «laden»-Knopf abzuschneiden. Kein aspect-ratio am
+          Platzhalter – sonst überträgt der Browser die Inhaltshöhe auf die Breite und die Seite scrollt seitlich. */}
+      <div
+        className={`relative rounded-[var(--radius-gross)] border border-linie bg-emaille ${zeigen ? "overflow-hidden" : "grid"}`}
+        style={zeigen ? { aspectRatio: "16 / 9" } : undefined}
+      >
         {zeigen ? (
           <iframe
             src={e.kartenEinbettung}
@@ -25,22 +31,25 @@ export function Karte({ einstellungen: e, texte: t }: { einstellungen: Einstellu
             sandbox="allow-scripts allow-same-origin allow-popups"
           />
         ) : (
-          <div className="absolute inset-0 grid place-items-center p-6 text-center">
-            <div className="max-w-md">
-              <MapPin size={40} weight="duotone" aria-hidden="true" className="mx-auto text-rost" />
-              <p className="mt-3 font-display text-lg font-bold">{t.kartePlatzhalter}</p>
-              <p className="klein mt-2 text-tinte-2">{t.medienText}</p>
-              <div className="mt-5 flex flex-wrap justify-center gap-3">
-                <button type="button" className="knopf knopf-primaer knopf-klein" onClick={() => setzen({ medien: true })}>
-                  {t.karteAnzeigen}
-                </button>
-                <a href={e.routenlink} target="_blank" rel="noopener noreferrer" className="knopf knopf-sekundaer knopf-klein">
-                  {t.externOeffnen}
-                  <ArrowUpRight size={16} weight="bold" aria-hidden="true" />
-                </a>
+          <>
+            <div aria-hidden="true" className="col-start-1 row-start-1 pt-[56.25%]" />
+            <div className="col-start-1 row-start-1 grid place-items-center p-6 text-center">
+              <div className="max-w-md">
+                <MapPin size={40} weight="duotone" aria-hidden="true" className="mx-auto text-rost" />
+                <p className="mt-3 font-display text-lg font-bold">{t.kartePlatzhalter}</p>
+                <p className="klein mt-2 text-tinte-2">{t.medienText}</p>
+                <div className="mt-5 flex flex-wrap justify-center gap-3">
+                  <button type="button" className="knopf knopf-primaer knopf-klein" onClick={() => setzen({ medien: true })}>
+                    {t.karteAnzeigen}
+                  </button>
+                  <a href={e.routenlink} target="_blank" rel="noopener noreferrer" className="knopf knopf-sekundaer knopf-klein">
+                    {t.externOeffnen}
+                    <ArrowUpRight size={16} weight="bold" aria-hidden="true" />
+                  </a>
+                </div>
               </div>
             </div>
-          </div>
+          </>
         )}
       </div>
       <p className="klein text-grau">{t.fussnote}</p>

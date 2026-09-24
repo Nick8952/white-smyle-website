@@ -10,7 +10,7 @@
       { "_key": "q7", "frage": "Haben Sie schlechte Erfahrungen bei einer Dentalhygiene-Behandlung gemacht?", "art": "jaNein", "optionen": ["Ja", "Nein"] },
       { "_key": "q8", "frage": "Wann waren Sie das letzte Mal bei der Dentalhygiene?", "art": "auswahl", "optionen": ["Vor weniger als ½ Jahr", "Zwischen ½ und 1 Jahr", "Zwischen 1 und 2 Jahren", "Vor mehr als 2 Jahren"] },
       { "_key": "q9", "frage": "Ihre persönliche Mitteilung", "art": "text" }
-    ], "originalUrl": "https://www.whitesmyle.ch/dentalhygiene-test.html", "quelle": "whitesmyle.ch/dentalhygiene-test.html", "reihenfolge": 1 },
+    ], "quelle": "whitesmyle.ch/dentalhygiene-test.html (am 24.09.2026 nicht mehr erreichbar, 404; Knopf auf tests.html führt nur noch zur Startseite)", "reihenfolge": 1 },
   { "id": "fb-bleaching", "titel": "Bleaching-Test", "slug": "bleaching-test", "einleitung": "Welches Bleaching passt zu Ihren Zähnen und Wünschen? Diese Fragen klärt die Praxis vor einer Empfehlung.", "versprechenOriginal": "Sie erhalten gratis von uns Ihren individuell ausgewerteten Bleaching Test.",
     "fragen": [
       { "_key": "q1", "frage": "Fühlen Sie Schmerzen, wenn Sie etwas Kaltes essen oder trinken?", "art": "jaNein", "optionen": ["Ja", "Nein"] },
@@ -42,7 +42,7 @@
       { "_key": "q11", "frage": "Ist das Öffnen des Mundes morgens eingeschränkt?", "art": "jaNein", "optionen": ["Ja", "Nein"] },
       { "_key": "q12", "frage": "Haben Sie schon einmal eine Knirschschiene getragen?", "art": "jaNein", "optionen": ["Ja", "Nein"] },
       { "_key": "q13", "frage": "Ihre persönliche Mitteilung", "art": "text" }
-    ], "originalUrl": "https://www.whitesmyle.ch/zahn-knirsch-test.html", "quelle": "whitesmyle.ch/zahn-knirsch-test.html", "reihenfolge": 3 },
+    ], "quelle": "whitesmyle.ch/zahn-knirsch-test.html (am 24.09.2026 nicht mehr erreichbar, 404; Knopf auf tests.html führt nur noch zur Startseite)", "reihenfolge": 3 },
   { "id": "fb-mundgeruch", "titel": "Mundgeruch-Test (Halitosis)", "slug": "mundgeruch-test", "einleitung": "Brauchen Sie eine Beratung gegen Mundgeruch? Der Fragebogen der Praxis vermittelt ein Bild der Situation und Lebensgewohnheiten, die Mundgeruch verursachen können.", "versprechenOriginal": "Sie erhalten von uns gratis Ihren individuell ausgewerteten Mundgeruchs Test.",
     "fragen": [
       { "_key": "q1", "frage": "Wissen Sie, ob Sie Mundgeruch haben?", "art": "jaNein", "optionen": ["Ja", "Nein"] },
@@ -57,7 +57,7 @@
       { "_key": "q10", "frage": "Leiden Sie an Mundtrockenheit?", "art": "jaNein", "optionen": ["Ja", "Nein"] },
       { "_key": "q11", "frage": "Machen Sie eine spezielle Diät?", "art": "jaNein", "optionen": ["Ja", "Nein"] },
       { "_key": "q12", "frage": "Ihre persönliche Mitteilung", "art": "text" }
-    ], "originalUrl": "https://www.whitesmyle.ch/mundgeruch-test.html", "quelle": "whitesmyle.ch/mundgeruch-test.html", "reihenfolge": 4 },
+    ], "quelle": "whitesmyle.ch/mundgeruch-test.html (am 24.09.2026 nicht mehr erreichbar, 404; Knopf auf tests.html führt nur noch zur Startseite)", "reihenfolge": 4 },
   { "id": "fb-zahnpasta", "titel": "Zahnpasta-Test", "slug": "zahnpasta-test", "einleitung": "Welche Zahnpasta passt zu Ihren Zähnen und Ihrem Geschmack? Diese Fragen stellt die Praxis für eine Produktempfehlung.", "versprechenOriginal": "Sie erhalten von uns eine Auswertung, welche natürliche Zahnpasta zu Ihnen passt!",
     "fragen": [
       { "_key": "q1", "frage": "Blutet Ihr Zahnfleisch schnell?", "art": "jaNein", "optionen": ["Ja", "Nein"] },
@@ -72,5 +72,5 @@
       { "_key": "q9", "frage": "Welche ist Ihre aktuelle Lieblingszahnpasta?", "art": "text" },
       { "_key": "q10", "frage": "Welche Geschmacksrichtung mögen Sie?", "art": "auswahl", "optionen": ["Minze", "Anderer Geschmack"] },
       { "_key": "q11", "frage": "Welche Geschmacksstärke bevorzugen Sie?", "art": "auswahl", "optionen": ["Stark", "Mittel", "Mild"] }
-    ], "originalUrl": "https://www.whitesmyle.ch/zahnpasta-test.html", "quelle": "whitesmyle.ch/zahnpasta-test.html", "reihenfolge": 5 }
+    ], "quelle": "whitesmyle.ch/zahnpasta-test.html (am 24.09.2026 nicht mehr erreichbar, 404; Knopf auf tests.html führt nur noch zur Startseite)", "reihenfolge": 5 }
 ]

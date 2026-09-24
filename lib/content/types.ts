@@ -247,7 +247,8 @@ export interface Fragebogen {
   /** Wörtliche Zusage der Quelle (z. B. «Sie erhalten von uns eine Auswertung») */
   versprechenOriginal: string;
   fragen: { _key: string; frage: string; art: FrageArt; optionen?: string[] }[];
-  originalUrl: string;
+  /** Nur gesetzt, solange die Originalseite erreichbar ist (vier Fragebogen-Seiten sind auf whitesmyle.ch seit spätestens 24.09.2026 weg) */
+  originalUrl?: string;
   quelle: string;
   reihenfolge: number;
 }

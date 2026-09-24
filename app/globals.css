@@ -50,7 +50,12 @@
     line-height: 1.6;
     font-feature-settings: "kern", "liga";
     overflow-x: clip;
+    /* Grosse Browserschrift (z. B. Chrome «sehr gross») auf dem Handy: lange Wörter und E-Mail-Adressen umbrechen, statt die Seite
+       zu verbreitern oder durch overflow-x: clip abzuschneiden. Wirkt nur, wenn ein Wort nicht in die Zeile passt (Test 24.09.2026). */
+    overflow-wrap: anywhere;
   }
+  /* Navigation: Einträge als Ganzes umbrechen, nie mitten im Wort */
+  header nav { overflow-wrap: normal; }
   h1, h2, h3, h4 {
     @apply font-display;
     text-wrap: balance;

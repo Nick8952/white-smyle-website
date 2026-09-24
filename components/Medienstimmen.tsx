@@ -8,7 +8,7 @@ import { Bild } from "./Bild";
 export function Medienstimmen({ baustein: b, texte: t }: { baustein: MedienstimmenBaustein; texte: Texte }) {
   return (
     <Abschnitt id={b.anker} titel={b.titel} kurzzeile={b.kurzzeile} einleitung={b.einleitung} kinder={
-      <ul className="grid gap-5 md:grid-cols-2">
+      <ul className="grid gap-5 md:grid-cols-2 md:items-start">
         {b.medienstimmen.map((m) => (
           <li key={m.id} className="karte auftauchen flex flex-col overflow-hidden">
             {m.bild ? (

@@ -265,7 +265,7 @@ export const fragebogenTyp = defineType({
     defineField({ name: "einleitung", title: "Einleitung", type: "text", rows: 3, validation: (r) => r.required() }),
     defineField({ name: "versprechenOriginal", title: "Zusage der Praxis (wörtlich aus der Quelle)", type: "string" }),
     defineField({ name: "fragen", title: "Fragen", type: "array", of: [defineArrayMember({ type: "object", name: "frage", fields: [defineField({ name: "frage", title: "Frage", type: "string", validation: (r) => r.required() }), defineField({ name: "art", title: "Antwortart", type: "string", options: { list: [{ title: "Ja / Nein", value: "jaNein" }, { title: "Auswahl", value: "auswahl" }, { title: "Freitext", value: "text" }], layout: "radio" }, validation: (r) => r.required() }), defineField({ name: "optionen", title: "Optionen", type: "array", of: [defineArrayMember({ type: "string" })] })], preview: { select: { title: "frage", subtitle: "art" } } })], validation: (r) => r.required().min(1) }),
-    defineField({ name: "originalUrl", title: "Originalfunktion (externer Link)", type: "url", validation: (r) => r.required() }),
+    defineField({ name: "originalUrl", title: "Originalfunktion (externer Link)", type: "url", description: "Nur ausfüllen, wenn der Fragebogen auf der Praxis-Website tatsächlich erreichbar ist – sonst leer lassen (dann erscheint kein Link)." }),
     defineField({ name: "quelle", title: "Quelle", type: "string", validation: (r) => r.required() }),
     reihenfolge,
   ],

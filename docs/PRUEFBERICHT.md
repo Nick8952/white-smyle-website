@@ -161,3 +161,15 @@ Codex-Review (read-only): 1 hoch, 2 mittel, 1 niedrig, alle umgesetzt: Headline 
 In einer Sitzung» (kein Gesundheitsversprechen pro Sitzung; «Beides in einer Sitzung» brach auf vier Zeilen um), «Krankenkassen anerkannt» mit Kontext «für Dentalhygiene», «seit 2012»
 wegen des 2011/2012-Widerspruchs der Quelle aus dem Hero genommen, «Einzelpreise zusammen CHF 424.–» statt «Einzeln». Barrierefreiheit laut
 Codex ohne Befund (Reihenfolge, Touch-Ziele, Fokus). Audit 360/390/768/1440 und 36 Funktionsprüfungen grün.
+
+### Nachtrag 24.09.2026 (abends): Öffnungszeiten im Hero, weitere Fehlerbehebungen (gemeinsam mit Codex)
+Nick meldete, dass die Öffnungszeiten auf der Startseite nicht lesbar waren. Ursache: Die Apricot-Fläche rechts im Hero war absolut über die
+gesamte Sektion gelegt und verdeckte auf breiten Bildschirmen den Infostreifen (Öffnungszeiten endeten sichtbar bei «· S»).
+Codex (Desktop-App, parallel im Repo) hat den Positionsrahmen der Fläche auf den oberen Teil begrenzt und ein neues Prüfskript
+`werkzeuge/qa/ueberdeckung.mjs` geschrieben, das verdeckten Text erkennt (Ergebnis: 0 verdeckte Textstellen auf allen Seiten in 5 Breiten).
+Claude hat darauf die Öffnungszeiten als Paare (Tag fett, Zeit normal) mit Uhr-Symbol statt als langen Satz gesetzt, Telefon und Adresse mit Symbolen.
+Weitere Korrekturen aus Codex' Durchgang: Umbruch langer Wörter bei grosser Browserschrift (`overflow-wrap: anywhere` am Body, Navigation
+ausgenommen), Karten-/Video-Platzhalter wachsen bei schmalen Bildschirmen mit statt abzuschneiden, Fragebogen-Links zu whitesmyle.ch nur noch,
+wenn die Originalseite erreichbar ist (vier der fünf Testseiten liefern dort seit dem 24.09.2026 404, live geprüft; Typ, Schema und Prüfung angepasst).
+Claude zusätzlich: Medienstimmen-Karten strecken sich nicht mehr auf gleiche Höhe (leere Fläche unter dem Tages-Anzeiger-Eintrag).
+Prüfung danach: Audit 188/188 ohne Befund, Überdeckung 0, 36 Funktionsprüfungen grün, Export grün, Sichtprüfung von 12 weiteren Seiten bei 1440 und 390 px.

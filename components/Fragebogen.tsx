@@ -41,11 +41,13 @@ export function FragebogenAnzeige({ baustein: b, texte: t, einstellungen: e }: {
             <div className="mt-4 grid gap-3">
               <BuchenLink einstellungen={e} texte={t} klein />
               <a href={`tel:${e.telefon.replace(/\s/g, "")}`} className="knopf knopf-sekundaer knopf-klein">{t.ui.anrufen}: {e.telefon}</a>
-              <a href={f.originalUrl} target="_blank" rel="noopener noreferrer" className="klein inline-flex min-h-11 items-center gap-1 text-rost underline">
-                {t.ui.fragebogenOriginal}
-                <ArrowUpRight size={14} weight="bold" aria-hidden="true" />
-                <span className="nur-sr"> ({t.ui.externerLink})</span>
-              </a>
+              {f.originalUrl ? (
+                <a href={f.originalUrl} target="_blank" rel="noopener noreferrer" className="klein inline-flex min-h-11 items-center gap-1 text-rost underline">
+                  {t.ui.fragebogenOriginal}
+                  <ArrowUpRight size={14} weight="bold" aria-hidden="true" />
+                  <span className="nur-sr"> ({t.ui.externerLink})</span>
+                </a>
+              ) : null}
             </div>
           </div>
         </aside>
